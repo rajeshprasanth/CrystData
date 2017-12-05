@@ -1,0 +1,104 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 14:49:47 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176465 $
+#$URL: svn://www.crystallography.net/cod/cif/9/00/00/9000031.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9000031
+loop_
+_publ_author_name
+'Ramsdell, L. S.'
+_publ_section_title
+;
+ The crystal structure of alpha-SiC, type V
+;
+_journal_name_full               'American Mineralogist'
+_journal_page_first              205
+_journal_page_last               205
+_journal_volume                  31
+_journal_year                    1946
+_chemical_formula_sum            'C17 Si17'
+_chemical_name_common            SiC-V
+_space_group_IT_number           160
+_symmetry_space_group_name_Hall  'R 3 -2"'
+_symmetry_space_group_name_H-M   'R 3 m :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   3.073
+_cell_length_b                   3.073
+_cell_length_c                   128.15
+_cell_volume                     1048.032
+_exptl_crystal_density_diffrn    3.240
+_cod_original_cell_volume        1048.031
+_cod_original_sg_symbol_H-M      'R 3 m'
+_cod_original_formula_sum        'Si17 C17'
+_cod_database_code               9000031
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+2/3+x,1/3+y,1/3+z
+1/3+x,2/3+y,2/3+z
+x,x-y,z
+2/3+x,1/3+x-y,1/3+z
+1/3+x,2/3+x-y,2/3+z
+-y,-x,z
+2/3-y,1/3-x,1/3+z
+1/3-y,2/3-x,2/3+z
+-x+y,y,z
+2/3-x+y,1/3+y,1/3+z
+1/3-x+y,2/3+y,2/3+z
+-y,x-y,z
+2/3-y,1/3+x-y,1/3+z
+1/3-y,2/3+x-y,2/3+z
+-x+y,-x,z
+2/3-x+y,1/3-x,1/3+z
+1/3-x+y,2/3-x,2/3+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si 0.00000 0.00000 0.00000
+Si 0.00000 0.00000 0.03900
+Si 0.00000 0.00000 0.11800
+Si 0.00000 0.00000 0.15700
+Si 0.00000 0.00000 0.23500
+Si 0.00000 0.00000 0.27500
+Si 0.00000 0.00000 0.35300
+Si 0.00000 0.00000 0.41200
+Si 0.00000 0.00000 0.47100
+Si 0.00000 0.00000 0.52900
+Si 0.00000 0.00000 0.58800
+Si 0.00000 0.00000 0.64700
+Si 0.00000 0.00000 0.72500
+Si 0.00000 0.00000 0.76500
+Si 0.00000 0.00000 0.84300
+Si 0.00000 0.00000 0.88200
+Si 0.00000 0.00000 0.96100
+C 0.00000 0.00000 0.01500
+C 0.00000 0.00000 0.05400
+C 0.00000 0.00000 0.13200
+C 0.00000 0.00000 0.17200
+C 0.00000 0.00000 0.25000
+C 0.00000 0.00000 0.28900
+C 0.00000 0.00000 0.36800
+C 0.00000 0.00000 0.42600
+C 0.00000 0.00000 0.48500
+C 0.00000 0.00000 0.54400
+C 0.00000 0.00000 0.60300
+C 0.00000 0.00000 0.66200
+C 0.00000 0.00000 0.74000
+C 0.00000 0.00000 0.77900
+C 0.00000 0.00000 0.85800
+C 0.00000 0.00000 0.89700
+C 0.00000 0.00000 0.97500

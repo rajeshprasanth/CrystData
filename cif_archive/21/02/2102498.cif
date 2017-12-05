@@ -1,0 +1,173 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-07-07 10:32:03 +0300 (Fri, 07 Jul 2017) $
+#$Revision: 198532 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/2/10/24/2102498.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2102498
+loop_
+_publ_author_name
+'Cern\'y, Radovan'
+'Renaudin, Guillaume'
+'Favre-Nicolin, Vincent'
+'Hlukhyy, Viktor'
+'P\"ottgen, Rainer'
+_publ_section_title
+;
+ Mg~1+<i>x~</i>Ir~1{-~<i>x</i>} (<i>x</i> = 0, 0.037 and 0.054), a
+ binary intermetallic compound with a new orthorhombic structure type
+ determined from powder and single-crystal X-ray diffraction
+;
+_journal_issue                   3
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              272
+_journal_page_last               281
+_journal_paper_doi               10.1107/S0108768104009346
+_journal_volume                  60
+_journal_year                    2004
+_chemical_formula_structural     'Mg Ir'
+_chemical_formula_sum            'Ir Mg'
+_chemical_formula_weight         216.51
+_chemical_name_systematic        'magnesium iridium'
+_space_group_crystal_system      orthorhombic
+_space_group_IT_number           64
+_space_group_name_Hall           '-C 2ac 2'
+_space_group_name_H-M_alt        'C m c e'
+_cell_angle_alpha                90.00000
+_cell_angle_beta                 90.00000
+_cell_angle_gamma                90.00000
+_cell_formula_units_Z            152
+_cell_length_a                   18.46948(6)
+_cell_length_b                   16.17450(5)
+_cell_length_c                   16.82131(5)
+_cell_measurement_reflns_used    3963
+_cell_measurement_temperature    293
+_cell_measurement_theta_max      41.890
+_cell_measurement_theta_min      2.215
+_cell_volume                     5025.11(3)
+_computing_cell_refinement       'FullProf.2k (Rodr\'iguez-Carvajal, 2002)'
+_computing_data_reduction        FullProf.2k
+_computing_publication_material
+;
+WinPLOTR, (Roisnel & Rodr\'iguez-Carvajal, 1998),
+Atoms, (Dowty, 1993)
+;
+_computing_structure_refinement  FullProf.2k
+_diffrn_ambient_temperature      293
+_diffrn_measurement_device_type  '2-axis goniometer'
+_diffrn_radiation_monochromator  'channel-cut Si 111'
+_diffrn_radiation_type           synchrotron
+_diffrn_radiation_wavelength     0.50012
+_exptl_absorpt_coefficient_mu    3.55
+_exptl_crystal_density_diffrn    10.95
+_exptl_crystal_density_method    'not measured'
+_refine_ls_extinction_method     none
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_matrix_type           fullcycle
+_refine_ls_number_parameters     70
+_refine_ls_number_reflns         3963
+_refine_ls_number_restraints     0
+_refine_ls_structure_factor_coef Inet
+_refine_ls_weighting_scheme      sigma
+_cod_data_source_file            av5006.cif
+_cod_data_source_block           MgIr
+_cod_depositor_comments
+;
+ Changing the Hall space group symbol from 'C m c a' to 'C m c e' in accordance
+ to the new notation as described in the International Tables of Crystallography
+ Volume A.
+
+ Antanas Vaitkus,
+ 2017-07-07
+
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to 'orthorhombic'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+
+The following automatic conversions were performed:
+
+'_symmetry_cell_setting' value 'Orthorhombic' changed to
+'orthorhombic' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+;
+_cod_original_sg_symbol_Hall     '-C 2bc 2'
+_cod_original_sg_symbol_H-M      'C M C A'
+_cod_database_code               2102498
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x+1/2,y,-z+1/2
+4 -x,-y+1/2,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x+1/2,-y,z+1/2
+8 x,y+1/2,-z+1/2
+9 x+1/2,y+1/2,z
+10 x,-y,-z
+11 -x,y+1/2,-z+1/2
+12 -x+1/2,-y,z+1/2
+13 -x+1/2,-y+1/2,-z
+14 -x,y,z
+15 x,-y+1/2,z+1/2
+16 x+1/2,y,-z+1/2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_type_symbol
+Ir1 0.06679(11) 0.11580(12) 0.41605(12) 0.01646(7) Uiso 1.00000 IR
+Ir2 0.06885(11) 0.39256(13) 0.41144(13) 0.01646(7) Uiso 1.00000 IR
+Ir3 0.07161(9) 0.19842(10) 0.16277(14) 0.01646(7) Uiso 1.00000 IR
+Ir4 0.13722(11) 0.15639(13) 0.04111(11) 0.01646(7) Uiso 1.00000 IR
+Ir5 0.13842(11) 0.15641(13) 0.28575(11) 0.01646(7) Uiso 1.00000 IR
+Ir6 0.36484(9) 0.25075(17) 0.08809(11) 0.01646(7) Uiso 1.00000 IR
+Ir7 0.00000 0.33637(16) 0.17102(18) 0.01646(7) Uiso 1.00000 IR
+Ir8 0.00000 0.43289(17) 0.28126(16) 0.01646(7) Uiso 1.00000 IR
+Ir9 0.25000 0.0786(2) 0.25000 0.01646(7) Uiso 1.00000 IR
+Ir10 0.25000 0.42625(18) 0.25000 0.01646(7) Uiso 1.00000 IR
+Ir11 0.13616(15) 0.00000 0.00000 0.01646(7) Uiso 1.00000 IR
+Ir12 0.37442(16) 0.00000 0.00000 0.01646(7) Uiso 1.00000 IR
+Ir13 0.25000 0.25000 0.00000 0.01646(7) Uiso 1.00000 IR
+Mg1 0.1228(8) 0.3301(9) 0.0621(8) 0.0075(9) Uiso 1.00000 MG
+Mg2 0.1375(8) 0.0278(7) 0.1609(10) 0.0075(9) Uiso 1.00000 MG
+Mg3 0.1352(7) 0.3375(9) 0.2721(8) 0.0075(9) Uiso 1.00000 MG
+Mg4 0.1235(7) 0.4779(8) 0.1736(9) 0.0075(9) Uiso 1.00000 MG
+Mg5 0.2230(6) 0.2243(7) 0.1678(8) 0.0075(9) Uiso 1.00000 MG
+Mg6 0.2750(8) 0.0874(10) 0.0738(8) 0.0075(9) Uiso 1.00000 MG
+Mg7 0.2658(7) 0.3949(9) 0.0980(8) 0.0075(9) Uiso 1.00000 MG
+Mg8 0.00000 0.0650(13) 0.0704(13) 0.0075(9) Uiso 1.00000 MG
+Mg9 0.00000 0.0863(13) 0.2650(13) 0.0075(9) Uiso 1.00000 MG
+Mg10 0.00000 0.2415(13) 1.0037(12) 0.0075(9) Uiso 1.00000 MG
+Mg11 0.00000 0.2526(14) 0.3277(12) 0.0075(9) Uiso 1.00000 MG
+Mg12 0.00000 0.4505(13) 0.0612(13) 0.0075(9) Uiso 1.00000 MG
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+ir -1.21600 5.42700
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+mg 0.02300 0.02200
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5

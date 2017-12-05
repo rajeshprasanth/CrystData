@@ -1,0 +1,638 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 02:53:41 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176768 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/37/2103727.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2103727
+loop_
+_publ_author_name
+'Koutentis, P. A.'
+'Haddon, R. C.'
+'Oakley, R. T.'
+'Cordes, A. W.'
+'Brock, C. P.'
+_publ_section_title
+;
+ Perchlorophenalenyl radical, C~13~Cl~9~: a modulated structure with
+ nine threefold-symmetric molecules in the asymmetric unit
+;
+_journal_issue                   5
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              680
+_journal_page_last               691
+_journal_paper_doi               10.1107/S0108768101011193
+_journal_volume                  57
+_journal_year                    2001
+_chemical_formula_moiety         'C13 Cl9'
+_chemical_formula_sum            'C13 Cl9'
+_chemical_formula_weight         475.18
+_chemical_melting_point
+;
+160_C(dec) in air;  248_C under Ar.
+;
+_chemical_name_systematic
+;
+perchlorophenalenyl radical
+;
+_space_group_IT_number           158
+_symmetry_cell_setting           trigonal
+_symmetry_space_group_name_Hall  'P 3 -2"c'
+_symmetry_space_group_name_H-M   'P 3 c 1'
+_audit_creation_method
+;
+SHELXL-97, macros written locally, and C. P. Brock
+;
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            18
+_cell_length_a                   18.704(3)
+_cell_length_b                   18.704(3)
+_cell_length_c                   22.675(4)
+_cell_measurement_reflns_used    63143
+_cell_measurement_temperature    299.0(10)
+_cell_measurement_theta_max      27.5
+_cell_measurement_theta_min      1.3
+_cell_volume                     6870(2)
+_computing_cell_refinement       'DENZO-SMN (Otwinowski & Minor, 1997)'
+_computing_data_collection       'COLLECT software (Nonius, 1998)'
+_computing_data_reduction        'SCALEPACK (Otwinowski & Minor, 1997)'
+_computing_molecular_graphics    'SHELXTL PC (Sheldrick, 1990)'
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution
+;
+SIR92 (Altomare, Cascarano, Giacovazzo, Guagliardi, Burla,
+Polidori & Camalli, 1994) in maXus (Mackay, Gilmore,
+Edwards, Tremayne, Stewart & Shankland, 1998)
+;
+_diffrn_ambient_temperature      299.0(10)
+_diffrn_detector_area_resol_mean 18
+_diffrn_measured_fraction_theta_full 1.000
+_diffrn_measured_fraction_theta_max 1.000
+_diffrn_measurement_device_type  'Nonius Kappa-CCD diffractometer'
+_diffrn_measurement_method       '\f and \w scans with 1.0\% steps'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     .71073
+_diffrn_reflns_av_R_equivalents  .033
+_diffrn_reflns_av_sigmaI/netI    .030
+_diffrn_reflns_limit_h_max       24
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       0
+_diffrn_reflns_limit_k_min       -21
+_diffrn_reflns_limit_l_max       29
+_diffrn_reflns_limit_l_min       -29
+_diffrn_reflns_number            40131
+_diffrn_reflns_theta_full        27.49
+_diffrn_reflns_theta_max         27.5
+_diffrn_reflns_theta_min         1.3
+_diffrn_standards_decay_%        <1.
+_exptl_absorpt_coefficient_mu    1.64
+_exptl_absorpt_correction_T_max  .85
+_exptl_absorpt_correction_T_min  .79
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'DENZO-SMN (Otwinowski & Minor, 1997)'
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    2.067
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description
+;
+Prisms.  The a prism axis is c. The six major faces belong
+to the form {1 1 -2 0}.
+;
+_exptl_crystal_F_000             4158
+_exptl_crystal_size_max          .40
+_exptl_crystal_size_mid          .10
+_exptl_crystal_size_min          .10
+_refine_diff_density_max         .55
+_refine_diff_density_min         -.44
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   .25(9)
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   2.15
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     448
+_refine_ls_number_reflns         10524
+_refine_ls_number_restraints     759
+_refine_ls_restrained_S_all      2.28
+_refine_ls_R_factor_all          .160
+_refine_ls_R_factor_gt           .094
+_refine_ls_shift/su_max          .001
+_refine_ls_shift/su_mean         .000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.030P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         .174
+_reflns_number_gt                6178
+_reflns_number_total             10524
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            bs0014.cif
+_cod_data_source_block           I
+_cod_original_sg_symbol_H-M      'P3 c 1'
+_cod_database_code               2103727
+_cod_database_fobs_code          2103727
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-y, x-y, z'
+'-x+y, -x, z'
+'-x+y, y, z+1/2'
+'x, x-y, z+1/2'
+'-y, -x, z+1/2'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+_atom_site_type_symbol
+Cl1A .08999(11) .56739(14) .25513(8) .0547(5) Uani d D 1 . . Cl
+Cl2A .10122(12) .41511(12) .28623(9) .0601(5) Uani d D 1 . . Cl
+Cl3A .26629(13) .42849(10) .31604(8) .0521(5) Uani d D 1 . . Cl
+C01A .1827(4) .5774(4) .2780(2) .0369(8) Uani d D 1 . . C
+C02A .1875(3) .5071(3) .2857(3) .0348(7) Uani d D 1 . . C
+C03A .2651(4) .5157(3) .2908(2) .0325(8) Uani d D 1 . . C
+C04A .3389(3) .5920(3) .2868(2) .0244(6) Uani d D 1 . . C
+C05A .3333 .6667 .2840(4) .0240(5) Uani d SD 1 . . C
+Cl1B .08682(15) .55009(16) .42405(11) .0519(7) Uani d PD .7613(9) A 1 Cl
+Cl2B .11564(15) .40905(13) .45190(11) .0531(7) Uani d PD .7613(9) A 1 Cl
+Cl3B .28448(16) .43259(14) .48028(11) .0513(7) Uani d PD .7613(9) A 1 Cl
+C01B .1854(5) .5752(5) .4466(3) .0369(8) Uani d PD .7613(9) . 1 C
+C02B .1987(4) .5056(4) .4542(3) .0348(7) Uani d PD .7613(9) A 1 C
+C03B .2725(5) .5134(4) .4566(3) .0325(8) Uani d PD .7613(9) A 1 C
+C04B .3464(4) .5964(4) .4518(3) .0244(6) Uani d PD .7613(9) A 1 C
+C05B .3333 .6667 .4546(5) .0240(5) Uani d SPD .7613(9) . 1 C
+Cl1C .41434(16) .90738(11) .58813(8) .0664(7) Uani d D 1 . . Cl
+Cl2C .57342(13) .91056(13) .62365(9) .0793(8) Uani d D 1 . . Cl
+Cl3C .57568(12) .75289(15) .64730(9) .0762(7) Uani d D 1 . . Cl
+C01C .4115(4) .8173(3) .6113(2) .0335(8) Uani d D 1 . . C
+C02C .4810(3) .8157(4) .6200(3) .0419(8) Uani d D 1 . . C
+C03C .4861(4) .7419(4) .6255(2) .0340(8) Uani d D 1 . . C
+C04C .4102(3) .6690(4) .6181(2) .0353(7) Uani d D 1 . . C
+C05C .3333 .6667 .6187(4) .0240(5) Uani d SD 1 . . C
+Cl1D .77214(14) .57785(11) .14435(8) .0608(6) Uani d D 1 . . Cl
+Cl2D .92106(12) .56070(13) .17416(8) .0592(6) Uani d D 1 . . Cl
+Cl3D .90290(11) .39338(14) .20401(8) .0559(5) Uani d D 1 . . Cl
+C01D .7529(4) .4844(3) .1677(3) .0335(8) Uani d D 1 . . C
+C02D .8240(4) .4743(4) .1746(3) .0419(8) Uani d D 1 . . C
+C03D .8189(4) .3990(4) .1818(2) .0340(8) Uani d D 1 . . C
+C04D .7399(4) .3244(4) .1757(2) .0353(7) Uani d D 1 . . C
+C05D .6667 .3333 .1771(3) .0240(5) Uani d SD 1 . . C
+Cl1F .42632(11) .24758(14) .47622(8) .0580(6) Uani d D 1 . . Cl
+Cl2F .42554(13) .08959(13) .51044(8) .0675(6) Uani d D 1 . . Cl
+Cl3F .58670(14) .09276(10) .53739(8) .0600(6) Uani d D 1 . . Cl
+C01F .5172(4) .2591(4) .4993(2) .0369(8) Uani d D 1 . . C
+C02F .5152(4) .1797(3) .5083(2) .0348(7) Uani d D 1 . . C
+C03F .5893(4) .1853(3) .5148(2) .0325(8) Uani d D 1 . . C
+C04F .6681(3) .2579(3) .5093(2) .0244(6) Uani d D 1 . . C
+C05F .6667 .3333 .5108(4) .0240(5) Uani d SD 1 . . C
+Cl1G .75564(10) -.11114(14) .03330(8) .0580(6) Uani d D 1 . . Cl
+Cl2G .77584(12) -.25933(12) .06381(9) .0628(6) Uani d D 1 . . Cl
+Cl3G .94543(14) -.23431(11) .09154(8) .0591(6) Uani d D 1 . . Cl
+C01G .8511(4) -.0938(4) .0554(3) .0369(8) Uani d D 1 . . C
+C02G .8607(3) -.1596(3) .0622(3) .0348(7) Uani d D 1 . . C
+C03G .9431(4) -.1478(3) .0714(2) .0325(8) Uani d D 1 . . C
+C04G 1.0108(3) -.0697(3) .0625(2) .0244(6) Uani d D 1 . . C
+C05G 1.0000 .0000 .0632(4) .0240(5) Uani d SD 1 . . C
+Cl1H 1.07458(18) .23985(15) .19962(13) .0639(9) Uani d PD .7613(9) A 1 Cl
+Cl2H 1.23650(16) .24843(15) .23517(11) .0669(9) Uani d PD .7613(9) A 1 Cl
+Cl3H 1.24226(15) .09024(19) .25870(11) .0680(9) Uani d PD .7613(9) A 1 Cl
+C01H 1.0717(5) .1522(4) .2207(3) .0335(8) Uani d PD .7613(9) A 1 C
+C02H 1.1491(4) .1557(4) .2298(3) .0419(8) Uani d PD .7613(9) A 1 C
+C03H 1.1520(5) .0864(5) .2392(3) .0340(8) Uani d PD .7613(9) A 1 C
+C04H 1.0790(4) .0023(5) .2307(3) .0353(7) Uani d PD .7613(9) . 1 C
+C05H 1.0000 .0000 .2304(5) .0240(5) Uani d SPD .7613(9) . 1 C
+Cl1J 1.09432(14) .24303(11) .36582(8) .0583(6) Uani d D 1 . . Cl
+Cl2J 1.24842(13) .23604(13) .39845(9) .0651(6) Uani d D 1 . . Cl
+Cl3J 1.23854(12) .07224(15) .42688(8) .0618(6) Uani d D 1 . . Cl
+C01J 1.0819(4) .1498(3) .3897(3) .0335(8) Uani d D 1 . . C
+C02J 1.1507(4) .1440(4) .3962(3) .0419(8) Uani d D 1 . . C
+C03J 1.1502(4) .0679(4) .4071(2) .0340(8) Uani d D 1 . . C
+C04J 1.0735(4) -.0043(4) .3949(2) .0353(7) Uani d D 1 . . C
+C05J 1.0000 .0000 .3943(4) .0240(5) Uani d SD 1 . . C
+Cl1E .7885(3) .5778(3) .3103(2) .0550(14) Uani d PD .50 B 1 Cl
+Cl2E .9309(2) .5513(2) .34349(17) .0520(10) Uani d PD .50 B 1 Cl
+Cl3E .8990(2) .3786(2) .36894(16) .0478(10) Uani d PD .50 B 1 Cl
+C05E .6667 .3333 .3322(7) .0240(5) Uani d SPGD .50 . 1 C
+C01E .7647(3) .48135(8) .3332(6) .0335(8) Uani d PGD .50 B 1 C
+C02E .8294(2) .4680(3) .3414(3) .0419(8) Uani d PGD .50 B 1 C
+C03E .81388(15) .3874(4) .3433(4) .0340(8) Uani d PGD .50 B 1 C
+C04E .7339(2) .3200(3) .3475(4) .0353(7) Uani d PGD .50 . 1 C
+Cl4E .4285(3) .2608(4) .3118(2) .0792(19) Uani d PD .50 C 2 Cl
+Cl5E .4165(3) .0985(3) .34562(18) .0839(16) Uani d PD .50 D 2 Cl
+Cl6E .5711(3) .0908(2) .37014(17) .0788(16) Uani d PD .50 D 2 Cl
+C10E .6667 .3333 .3402(7) .0240(5) Uani d SPGD .50 . 2 C
+C06E .51686(3) .2652(4) .3372(6) .0369(8) Uani d PGD .50 . 2 C
+C07E .5103(2) .1896(3) .3446(4) .0348(7) Uani d PGD .50 D 2 C
+C08E .5819(4) .18561(16) .3516(4) .0325(8) Uani d PGD .50 D 2 C
+C09E .6600(3) .25347(12) .3411(4) .0244(6) Uani d PGD .50 D 2 C
+C10B .3333 .6667 .4352(6) .0240(5) Uani d SPGD .24 . 2 C
+Cl4B .4089(4) .90709(10) .4216(3) .0664(7) Uani d PG .24 A 2 Cl
+Cl5B .5688(3) .9133(2) .4570(3) .0793(8) Uani d PG .24 A 2 Cl
+Cl6B .5747(2) .7563(4) .4809(4) .0762(7) Uani d PG .24 A 2 Cl
+C06B .4122(2) .81614(4) .4264(3) .0335(8) Uani d PG .24 A 2 C
+C07B .48075(17) .81952(15) .4507(2) .0419(8) Uani d PG .24 A 2 C
+C08B .47779(15) .7463(2) .4657(3) .0340(8) Uani d PG .24 A 2 C
+C09B .40391(16) .6709(2) .4666(5) .0353(7) Uani d PGD .24 . 2 C
+C10H 1.0000 .0000 .2281(7) .0240(5) Uani d SPGD .24 . 2 C
+Cl4H .75415(14) -.1267(3) .2015(4) .0580(6) Uani d PG .24 A 2 Cl
+Cl5H .7906(3) -.26427(13) .2296(3) .0628(6) Uani d PG .24 A 2 Cl
+Cl6H .9656(4) -.22773(19) .2542(3) .0591(6) Uani d PG .24 A 2 Cl
+C06H .85268(5) -.10221(15) .2236(4) .0369(8) Uani d PG .24 . 2 C
+C07H .87040(16) -.16466(8) .2275(2) .0348(7) Uani d PG .24 A 2 C
+C08H .95210(19) -.14457(5) .2334(3) .0325(8) Uani d PG .24 A 2 C
+C09H 1.01744(12) -.06421(8) .2253(6) .0244(6) Uani d PGD .24 A 2 C
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cl1A .0270(10) .0614(13) .0707(12) .0184(10) -.0046(9) -.0034(10)
+Cl2A .0441(12) .0352(11) .0754(13) .0005(9) .0033(10) .0010(10)
+Cl3A .0628(13) .0221(10) .0663(12) .0174(10) .0040(10) .0077(8)
+C01A .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C02A .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C03A .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C04A .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+C05A .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1B .0369(14) .0407(15) .0783(17) .0196(12) -.0099(12) .0086(13)
+Cl2B .0476(16) .0232(12) .0707(16) .0043(12) .0068(12) -.0076(11)
+Cl3B .0582(17) .0288(13) .0681(17) .0225(13) .0031(13) .0123(11)
+C01B .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C02B .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C03B .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C04B .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+C05B .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1C .115(2) .0264(10) .0569(12) .0350(12) .0038(12) .0052(9)
+Cl2C .0467(13) .0552(14) .0758(14) -.0198(10) .0054(10) -.0256(11)
+Cl3C .0394(13) .0942(18) .0879(15) .0280(13) -.0200(11) -.0003(13)
+C01C .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C02C .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C03C .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C04C .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+C05C .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1D .0781(15) .0340(11) .0670(13) .0255(11) .0052(11) .0162(9)
+Cl2D .0312(10) .0440(12) .0700(12) -.0056(9) .0058(9) .0016(10)
+Cl3D .0328(11) .0687(15) .0677(12) .0265(11) -.0082(9) -.0015(10)
+C01D .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C02D .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C03D .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C04D .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+C05D .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1F .0281(10) .0691(15) .0696(13) .0188(10) -.0079(9) -.0010(10)
+Cl2F .0456(13) .0490(13) .0728(14) -.0027(10) -.0068(10) .0096(10)
+Cl3F .0757(15) .0183(9) .0739(14) .0143(10) .0069(11) .0079(9)
+C01F .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C02F .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C03F .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C04F .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+C05F .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1G .0213(10) .0635(14) .0730(12) .0090(9) -.0071(9) -.0114(11)
+Cl2G .0474(12) .0401(12) .0741(13) .0017(10) .0033(10) -.0012(10)
+Cl3G .0813(16) .0348(11) .0662(12) .0326(11) -.0020(11) .0049(9)
+C01G .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C02G .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C03G .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C04G .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+C05G .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1H .088(2) .0317(14) .0591(16) .0201(14) -.0009(17) .0086(12)
+Cl2H .0563(18) .0352(15) .0645(16) -.0106(13) .0049(13) .0014(12)
+Cl3H .0272(14) .093(2) .0750(19) .0235(15) -.0064(13) -.0068(15)
+C01H .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C02H .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C03H .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C04H .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+C05H .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1J .0773(15) .0260(10) .0640(12) .0200(10) .0126(11) .0110(9)
+Cl2J .0397(12) .0472(13) .0676(12) -.0089(9) .0024(10) .0016(10)
+Cl3J .0469(12) .0814(16) .0628(12) .0365(12) -.0143(10) -.0016(11)
+C01J .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C02J .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C03J .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C04J .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+C05J .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl1E .060(4) .025(2) .073(3) .016(2) .009(3) .0145(18)
+Cl2E .0204(17) .030(2) .089(3) .0003(15) -.0002(17) -.0014(19)
+Cl3E .030(2) .045(2) .074(3) .0234(18) -.0015(17) .0074(18)
+C05E .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+C01E .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C02E .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C03E .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C04E .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+Cl4E .042(3) .137(6) .057(3) .044(4) -.008(2) -.006(4)
+Cl5E .067(3) .063(3) .061(3) -.014(3) .016(2) -.007(2)
+Cl6E .112(4) .021(2) .086(3) .021(2) .016(3) .0150(19)
+C10E .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+C06E .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C07E .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C08E .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C09E .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+C10B .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl4B .115(2) .0264(10) .0569(12) .0350(12) .0038(12) .0052(9)
+Cl5B .0467(13) .0552(14) .0758(14) -.0198(10) .0054(10) -.0256(11)
+Cl6B .0394(13) .0942(18) .0879(15) .0280(13) -.0200(11) -.0003(13)
+C06B .0408(19) .0157(15) .0413(19) .0123(14) .0080(14) -.0004(13)
+C07B .035(2) .035(2) .0359(17) .0026(15) .0028(15) -.0017(15)
+C08B .0333(19) .0354(19) .0297(18) .0145(16) -.0028(14) -.0033(14)
+C09B .0349(19) .0403(18) .0297(15) .0180(17) -.0001(15) -.0006(13)
+C10H .0269(7) .0269(7) .0183(11) .0134(4) .000 .000
+Cl4H .0213(10) .0635(14) .0730(12) .0090(9) -.0071(9) -.0114(11)
+Cl5H .0474(12) .0401(12) .0741(13) .0017(10) .0033(10) -.0012(10)
+Cl6H .0813(16) .0348(11) .0662(12) .0326(11) -.0020(11) .0049(9)
+C06H .0367(19) .043(2) .0277(17) .0175(16) -.0015(14) .0060(14)
+C07H .0320(18) .0245(16) .0356(17) .0050(14) .0026(14) -.0008(13)
+C08H .047(2) .0158(15) .0303(17) .0127(15) .0004(14) -.0046(12)
+C09H .0291(15) .0201(15) .0263(14) .0141(13) .0011(12) .0006(12)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C .0033 .0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Cl Cl .1484 .1585 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle
+_geom_angle_publ_flag
+C04A C01A C02A 3_565 123.3(5) no
+C04B C01B C02B 3_565 119.9(7) no
+C04C C01C C02C 2_665 120.0(5) no
+C04D C01D C02D 2_655 117.8(5) no
+C04E C01E C02E 2_655 118.8 no
+C04F C01F C02F 3_665 119.1(5) no
+C04G C01G C02G 3_765 121.5(5) no
+C04H C01H C02H 2_645 118.9(6) no
+C04J C01J C02J 2_645 118.7(5) no
+C09B C06B C07B 2_665 102.8 no
+C09E C06E C07E 3_665 122.4 no
+C09H C06H C07H 3_765 120.1 no
+C01A C02A C03A . 117.8(5) no
+C01B C02B C03B . 123.0(6) no
+C01C C02C C03C . 124.8(5) no
+C01D C02D C03D . 123.4(5) no
+C01E C02E C03E . 118.7 no
+C01F C02F C03F . 115.4(5) no
+C01G C02G C03G . 119.6(5) no
+C01H C02H C03H . 120.5(7) no
+C01J C02J C03J . 124.2(5) no
+C06B C07B C08B . 118.7 no
+C06E C07E C08E . 118.7 no
+C06H C07H C08H . 118.7 no
+C02A C03A C04A . 123.5(5) no
+C02B C03B C04B . 119.6(6) no
+C02C C03C C04C . 113.7(5) no
+C02D C03D C04D . 119.6(6) no
+C02E C03E C04E . 122.1 no
+C02F C03F C04F . 126.8(5) no
+C02G C03G C04G . 118.5(5) no
+C02H C03H C04H . 122.7(7) no
+C02J C03J C04J . 114.2(5) no
+C07B C08B C09B . 122.1 no
+C07E C08E C09E . 122.1 no
+C07H C08H C09H . 122.1 no
+C03A C04A C05A . 118.3(4) no
+C03B C04B C05B . 117.0(5) no
+C03C C04C C05C . 123.2(5) no
+C03D C04D C05D . 116.9(5) no
+C03E C04E C05E . 117.4 no
+C03F C04F C05F . 114.8(4) no
+C03G C04G C05G . 119.5(4) no
+C03H C04H C05H . 114.3(6) no
+C03J C04J C05J . 119.7(5) no
+C08B C09B C10B . 117.2 no
+C08E C09E C10E . 117.0 no
+C08H C09H C10H . 117.7 no
+C04A C05A C04A 3_565 119.8 no
+C04B C05B C04B 3_565 119.8 no
+C04C C05C C04C 2_665 120.0 no
+C04D C05D C04D 2_655 120.0 no
+C04E C05E C04E 2_655 114.4 no
+C04F C05F C04F 3_665 119.9 no
+C04G C05G C04G 3_765 120.0 no
+C04H C05H C04H 2_645 120.0 no
+C04J C05J C04J 2_645 120.0 no
+C09B C10B C09B 2_665 98.4 no
+C09E C10E C09E 3_665 120.0 no
+C09H C10H C09H 3_765 119.8 no
+C04A C01A Cl1A 3_565 118.1(4) no
+C04B C01B Cl1B 3_565 124.5(6) no
+C04C C01C Cl1C 2_665 119.2(4) no
+C04D C01D Cl1D 2_655 126.0(5) no
+C04E C01E Cl1E 2_655 124.6 no
+C04F C01F Cl1F 3_665 127.6(5) no
+C04G C01G Cl1G 3_765 120.9(4) no
+C04H C01H Cl1H 2_645 123.8(6) no
+C04J C01J Cl1J 2_645 123.2(5) no
+C09B C06B Cl4B 2_665 116.1 no
+C09E C06E Cl4E 3_665 122.9 no
+C09H C06H Cl4H 3_765 120.4 no
+C02A C01A Cl1A . 118.5(5) no
+C02B C01B Cl1B . 115.3(6) no
+C02C C01C Cl1C . 120.7(5) no
+C02D C01D Cl1D . 115.9(5) no
+C02E C01E Cl1E . 116.6 no
+C02F C01F Cl1F . 113.3(5) no
+C02G C01G Cl1G . 117.5(5) no
+C02H C01H Cl1H . 117.3(6) no
+C02J C01J Cl1J . 117.5(5) no
+C07B C06B Cl4B . 118.2 no
+C07E C06E Cl4E . 114.0 no
+C07H C06H Cl4H . 118.2 no
+C01A C02A Cl2A . 119.7(5) no
+C01B C02B Cl2B . 118.3(6) no
+C01C C02C Cl2C . 117.6(5) no
+C01D C02D Cl2D . 119.0(5) no
+C01E C02E Cl2E . 120.3 no
+C01F C02F Cl2F . 121.4(5) no
+C01G C02G Cl2G . 121.2(5) no
+C01H C02H Cl2H . 119.5(6) no
+C01J C02J Cl2J . 118.9(5) no
+C06B C07B Cl5B . 118.7 no
+C06E C07E Cl5E . 122.8 no
+C06H C07H Cl5H . 118.7 no
+C03A C02A Cl2A . 122.4(5) no
+C03B C02B Cl2B . 118.2(6) no
+C03C C02C Cl2C . 117.6(5) no
+C03D C02D Cl2D . 117.6(5) no
+C03E C02E Cl2E . 120.8 no
+C03F C02F Cl2F . 123.2(5) no
+C03G C02G Cl2G . 119.1(4) no
+C03H C02H Cl2H . 119.7(6) no
+C03J C02J Cl2J . 116.6(5) no
+C08B C07B Cl5B . 122.4 no
+C08E C07E Cl5E . 118.5 no
+C08H C07H Cl5H . 122.4 no
+C02A C03A Cl3A . 115.0(4) no
+C02B C03B Cl3B . 120.3(6) no
+C02C C03C Cl3C . 117.1(5) no
+C02D C03D Cl3D . 120.3(5) no
+C02E C03E Cl3E . 113.6 no
+C02F C03F Cl3F . 115.4(4) no
+C02G C03G Cl3G . 114.9(4) no
+C02H C03H Cl3H . 121.0(6) no
+C02J C03J Cl3J . 118.6(5) no
+C07B C08B Cl6B . 114.4 no
+C07E C08E Cl6E . 117.5 no
+C07H C08H Cl6H . 114.3 no
+C04A C03A Cl3A . 120.5(5) no
+C04B C03B Cl3B . 118.8(6) no
+C04C C03C Cl3C . 128.7(5) no
+C04D C03D Cl3D . 119.9(5) no
+C04E C03E Cl3E . 119.9 no
+C04F C03F Cl3F . 117.7(4) no
+C04G C03G Cl3G . 126.6(5) no
+C04H C03H Cl3H . 116.2(6) no
+C04J C03J Cl3J . 126.9(5) no
+C09B C08B Cl6B . 123.5 no
+C09E C08E Cl6E . 120.3 no
+C09H C08H Cl6H . 123.5 no
+C01A C04A C03A 2_665 126.9(5) no
+C01B C04B C03B 2_665 124.0(6) no
+C01C C04C C03C 3_565 121.1(5) no
+C01D C04D C03D 3_665 123.3(5) no
+C01E C04E C03E 3_665 120.8 no
+C01F C04F C03F 2_655 124.5(5) no
+C01G C04G C03G 2_645 122.9(5) no
+C01H C04H C03H 3_765 126.5(7) no
+C01J C04J C03J 3_765 120.9(5) no
+C06B C09B C08B 3_565 115.9 no
+C06E C09E C08E 2_655 125.9 no
+C06H C09H C08H 2_645 122.2 no
+C01A C04A C05A 2_665 114.4(4) no
+C01B C04B C05B 2_665 119.0(6) no
+C01C C04C C05C 3_565 115.6(5) no
+C01D C04D C05D 3_665 119.8(5) no
+C01E C04E C05E 3_665 112.9 no
+C01F C04F C05F 2_655 120.6(5) no
+C01G C04G C05G 2_645 117.5(4) no
+C01H C04H C05H 3_765 119.1(6) no
+C01J C04J C05J 3_765 119.0(5) no
+C06B C09B C10B 3_565 95.6 no
+C06H C09H C10H 2_645 119.3 no
+C06E C09E C10E 2_655 116.8 no
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C01A C02A . 1.372(7) no
+C01B C02B . 1.452(9) no
+C01C C02C . 1.331(8) no
+C01D C02D . 1.442(8) no
+C01E C02E . 1.367 no
+C01F C02F . 1.481(7) no
+C01G C02G . 1.339(7) no
+C01H C02H . 1.432(10) no
+C01J C02J . 1.354(8) no
+C06B C07B . 1.367 no
+C06E C07E . 1.367 no
+C06H C07H . 1.367 no
+C01A C04A 3_565 1.472(7) no
+C01B C04B 3_565 1.360(9) no
+C01C C04C 2_665 1.475(7) no
+C01D C04D 2_655 1.386(7) no
+C01E C04E 2_655 1.484 no
+C01F C04F 3_665 1.379(7) no
+C01G C04G 3_765 1.444(7) no
+C01H C04H 2_645 1.417(9) no
+C01J C04J 2_645 1.407(7) no
+C06B C09B 2_665 1.801 no
+C06E C09E 3_665 1.419 no
+C06H C09H 3_765 1.441 no
+C02A C03A . 1.384(7) no
+C02B C03B . 1.315(9) no
+C02C C03C . 1.435(8) no
+C02D C03D . 1.374(8) no
+C02E C03E . 1.386 no
+C02F C03F . 1.345(8) no
+C02G C03G . 1.460(8) no
+C02H C03H . 1.340(9) no
+C02J C03J . 1.439(8) no
+C07B C08B . 1.386 no
+C07E C08E . 1.386 no
+C07H C08H . 1.386 no
+C03A C04A . 1.408(7) no
+C03B C04B . 1.478(9) no
+C03C C04C . 1.402(7) no
+C03D C04D . 1.444(7) no
+C03E C04E . 1.396 no
+C03F C04F . 1.425(7) no
+C03G C04G . 1.388(7) no
+C03H C04H . 1.493(9) no
+C03J C04J . 1.422(7) no
+C08B C09B . 1.396 no
+C08E C09E . 1.396 no
+C08H C09H . 1.396 no
+C04A C05A . 1.452(5) no
+C04B C05B . 1.454(6) no
+C04C C05C . 1.416(5) no
+C04D C05D . 1.461(6) no
+C04E C05E . 1.442 no
+C04F C05F . 1.425(5) no
+C04G C05G . 1.416(5) no
+C04H C05H . 1.456(7) no
+C04J C05J . 1.416(6) no
+C09B C10B . 1.467 no
+C09E C10E . 1.436 no
+C09H C10H . 1.394 no
+Cl1A C01A . 1.728(6) no
+Cl1B C01B . 1.737(7) no
+Cl1C C01C . 1.740(6) no
+Cl1D C01D . 1.684(5) no
+Cl1E C01E . 1.709 no
+Cl1F C01F . 1.686(6) no
+Cl1G C01G . 1.722(6) no
+Cl1H C01H . 1.682(7) no
+Cl1J C01J . 1.727(5) no
+Cl4B C06B . 1.736 no
+Cl4E C06E . 1.712 no
+Cl4H C06H . 1.736 no
+Cl2A C02A . 1.669(6) no
+Cl2B C02B . 1.694(7) no
+Cl2C C02C . 1.754(6) no
+Cl2D C02D . 1.724(6) no
+Cl2E C02E . 1.753 no
+Cl2F C02F . 1.682(6) no
+Cl2G C02G . 1.743(6) no
+Cl2H C02H . 1.691(7) no
+Cl2J C02J . 1.778(6) no
+Cl5B C07B . 1.709 no
+Cl5E C07E . 1.730 no
+Cl5H C07H . 1.709 no
+Cl3A C03A . 1.739(6) no
+Cl3B C03B . 1.721(7) no
+Cl3C C03C . 1.658(6) no
+Cl3D C03D . 1.703(6) no
+Cl3E C03E . 1.777 no
+Cl3F C03F . 1.782(6) no
+Cl3G C03G . 1.702(5) no
+Cl3H C03H . 1.712(8) no
+Cl3J C03J . 1.674(6) no
+Cl6B C08B . 1.760 no
+Cl6E C08E . 1.733 no
+Cl6H C08H . 1.760 no

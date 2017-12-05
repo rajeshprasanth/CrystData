@@ -1,0 +1,276 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-23 03:06:48 +0200 (Wed, 23 Mar 2016) $
+#$Revision: 179231 $
+#$URL: svn://www.crystallography.net/cod/cif/4/31/51/4315150.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4315150
+loop_
+_publ_author_name
+'Stefan Hoffmann'
+'Deepa Kasinathan'
+'Thomas F. F\"assler'
+_publ_contact_author             'Thomas F. Faessler'
+_publ_contact_author_email       thomas.faessler@lrz.tum.de
+_publ_contact_author_fax         '++49-89 28913186'
+_publ_contact_author_phone       '++49-89 28913131'
+_publ_section_title
+;
+ Single Crystals of Rb4C60: Synthesis and Structure Determination
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              2577
+_journal_page_last               2579
+_journal_paper_doi               10.1021/ic902168u
+_journal_volume                  49
+_journal_year                    2010
+_chemical_formula_sum            'C120 Rb8'
+_chemical_formula_weight         2124.96
+_chemical_name_systematic
+;
+ ?
+;
+_space_group_IT_number           139
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_Hall  '-I 4 2'
+_symmetry_space_group_name_H-M   'I 4/m m m'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_date             2009-10-01T11:34:51-00:00
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   11.9783(17)
+_cell_length_b                   11.9783(17)
+_cell_length_c                   11.035(2)
+_cell_measurement_temperature    293(2)
+_cell_volume                     1583.3(4)
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_measured_fraction_theta_full 0.984
+_diffrn_measured_fraction_theta_max 0.984
+_diffrn_measurement_details
+;
+scan:
+    Number of images: 180
+         Image width: 1.0000
+            Exp time: 30.0000 min
+       Rotation axis: Phi
+
+;
+_diffrn_measurement_device       'STOE IPDS 1'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1088
+_diffrn_reflns_av_unetI/netI     0.0444
+_diffrn_reflns_limit_h_max       14
+_diffrn_reflns_limit_h_min       -14
+_diffrn_reflns_limit_k_max       14
+_diffrn_reflns_limit_k_min       -14
+_diffrn_reflns_limit_l_max       13
+_diffrn_reflns_limit_l_min       -13
+_diffrn_reflns_number            4073
+_diffrn_reflns_theta_full        24.99
+_diffrn_reflns_theta_max         24.99
+_diffrn_reflns_theta_min         2.4
+_diffrn_source_current           40.0000
+_diffrn_source_power             2.0000
+_diffrn_source_voltage           50.0000
+_exptl_absorpt_coefficient_mu    6.201
+_exptl_absorpt_correction_T_max  0.9766
+_exptl_absorpt_correction_T_min  0.6147
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details   'STOE X-RED 1.22'
+_exptl_crystal_colour            'metallic dark black'
+_exptl_crystal_density_diffrn    2.229
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       needle
+_exptl_crystal_F_000             1016
+_exptl_crystal_size_max          0.100
+_exptl_crystal_size_mid          0.010
+_exptl_crystal_size_min          0.010
+_refine_diff_density_max         0.434
+_refine_diff_density_min         -0.433
+_refine_diff_density_rms         0.092
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.026
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     39
+_refine_ls_number_reflns         428
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.026
+_refine_ls_R_factor_all          0.0544
+_refine_ls_R_factor_gt           0.0363
+_refine_ls_shift/su_max          0
+_refine_ls_shift/su_mean         0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0506P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.0905
+_reflns_number_gt                321
+_reflns_number_total             428
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            ic902168u_si_002.cif
+_cod_data_source_block           i4mmm
+_cod_database_code               4315150
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'-y, x, z'
+'y, -x, z'
+'-x, y, -z'
+'x, -y, -z'
+'y, x, -z'
+'-y, -x, -z'
+'x+1/2, y+1/2, z+1/2'
+'-x+1/2, -y+1/2, z+1/2'
+'-y+1/2, x+1/2, z+1/2'
+'y+1/2, -x+1/2, z+1/2'
+'-x+1/2, y+1/2, -z+1/2'
+'x+1/2, -y+1/2, -z+1/2'
+'y+1/2, x+1/2, -z+1/2'
+'-y+1/2, -x+1/2, -z+1/2'
+'-x, -y, -z'
+'x, y, -z'
+'y, -x, -z'
+'-y, x, -z'
+'x, -y, z'
+'-x, y, z'
+'-y, -x, z'
+'y, x, z'
+'-x+1/2, -y+1/2, -z+1/2'
+'x+1/2, y+1/2, -z+1/2'
+'y+1/2, -x+1/2, -z+1/2'
+'-y+1/2, x+1/2, -z+1/2'
+'x+1/2, -y+1/2, z+1/2'
+'-x+1/2, y+1/2, z+1/2'
+'-y+1/2, -x+1/2, z+1/2'
+'y+1/2, x+1/2, z+1/2'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+_atom_site_type_symbol
+C1 0 0.0596(10) 0.3156(11) 0.0364(18) Uani d SP 0.5 . . C
+C2 0.0575(13) 0.2904(11) 0 0.0364(18) Uani d SP 0.5 . . C
+C3 0.2920(12) 0 0.0628(11) 0.0364(18) Uani d SP 0.5 . . C
+C4 0.0967(8) 0.1206(8) 0.2754(6) 0.0305(11) Uani d P 0.5 . . C
+C5 0.1221(11) 0.2519(12) 0.1047(9) 0.0305(11) Uani d P 0.5 . . C
+C6 0.2542(11) 0.0966(9) 0.1302(11) 0.0305(11) Uani d P 0.5 . . C
+C7 0.0612(11) 0.2156(10) 0.2082(9) 0.0305(11) Uani d P 0.5 . . C
+C8 0.2184(7) 0.1920(8) 0.0649(6) 0.0305(11) Uani d P 0.5 . . C
+C9 0.1928(10) 0.0608(11) 0.2366(9) 0.0305(11) Uani d P 0.5 . . C
+Rb 0.21447(9) 0.5 0 0.0391(3) Uani d S 1 . . Rb
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 0.044(4) 0.032(4) 0.033(4) 0 0 -0.003(5)
+C2 0.044(4) 0.032(4) 0.033(4) 0 0 -0.003(5)
+C3 0.044(4) 0.032(4) 0.033(4) 0 0 -0.003(5)
+C4 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+C5 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+C6 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+C7 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+C8 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+C9 0.032(2) 0.030(2) 0.029(2) -0.0062(18) -0.0114(19) -0.0022(17)
+Rb 0.0514(7) 0.0336(6) 0.0323(5) 0 0 0
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Rb Rb -0.9393 2.9676 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C1 C1 C4 120.5(6) 2 22 ?
+C1 C4 C9 119.3(9) . . ?
+C4 C9 C9 120.2(6) . 21 ?
+C1 C4 C7 109.1(10) . . ?
+C4 C1 C4 107.2(4) . . ?
+C4 C7 C7 107.4(6) . 22 ?
+C2 C2 C5 121.9(7) 5 . ?
+C2 C5 C7 117.2(12) . . ?
+C5 C7 C7 120.9(7) . 22 ?
+C2 C5 C8 110.0(8) . . ?
+C5 C8 C8 107.9(6) . 18 ?
+C5 C2 C5 104.1(14) . 18 ?
+C3 C3 C6 120.9(6) 18 . ?
+C3 C6 C8 118.6(10) . . ?
+C6 C8 C8 120.6(6) . 18 ?
+C3 C6 C9 109.7(9) . . ?
+C6 C9 C9 107.2(8) . 21 ?
+C6 C3 C6 106.1(13) . 21 ?
+C4 C9 C6 120.3(12) . . ?
+C9 C6 C8 119.8(13) . . ?
+C6 C8 C5 119.5(7) . . ?
+C8 C5 C7 120.5(13) . . ?
+C5 C7 C4 120.6(13) . . ?
+C7 C4 C9 119.2(7) . . ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 C1 2 1.43(2) ?
+C1 C4 22 1.439(11) ?
+C1 C4 . 1.439(11) ?
+C1 Rb 27_455 3.386(12) ?
+C2 C2 5 1.38(3) ?
+C2 C5 . 1.466(17) ?
+C2 C5 18 1.466(17) ?
+C2 Rb . 3.137(15) ?
+C3 C3 18 1.39(3) ?
+C3 C6 . 1.449(16) ?
+C3 C6 21 1.449(16) ?
+C3 Rb 3_655 3.645(10) ?
+C3 Rb 19 3.645(10) ?
+C4 C9 . 1.422(16) ?
+C4 C7 . 1.424(13) ?
+C4 Rb 27_455 3.374(8) ?
+C4 Rb 25 3.653(9) ?
+C5 C7 . 1.422(14) ?
+C5 C8 . 1.427(17) ?
+C5 Rb . 3.375(13) ?
+C6 C8 . 1.417(13) ?
+C6 C9 . 1.450(15) ?
+C6 Rb 3_655 3.567(14) ?
+C7 C7 22 1.47(3) ?
+C7 Rb 27_455 3.407(12) ?
+C8 C8 18 1.432(14) ?
+C8 Rb 3_655 3.459(8) ?
+C9 C9 21 1.46(3) ?
+C9 Rb 25 3.196(11) ?

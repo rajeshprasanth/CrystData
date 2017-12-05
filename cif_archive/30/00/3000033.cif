@@ -1,0 +1,48 @@
+data_3000033
+loop_
+_publ_author_name
+'Pawel Zajdel'
+'Iza Kruk'
+_publ_section_title
+;
+
+ Single crystal growth and structural characterization of iron telluride
+
+ doped with chromium and zinc'
+
+;
+_journal_name_full
+'To be published in Journal of Crystal Growth'
+_diffrn_ambient_temperature      293(2)
+_cell_measurement_temperature    293(2)
+_chemical_name_systematic
+;
+
+ \b-iron telluride
+
+;
+_chemical_name_common            '\b-iron telluride'
+_chemical_formula_sum            'Fe2.12 Te2'
+_symmetry_space_group_name_hall  '-P 4a 2a'
+_symmetry_space_group_name_h-m   'P 4/n m m :2'
+_cell_length_a                   3.82320(10)
+_cell_length_b                   3.82320(10)
+_cell_length_c                   6.2846(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     91.861(4)
+_diffrn_radiation_wavelength     0.7107
+_diffrn_radiation_type           'Mo K\a'
+_refine_ls_r_factor_all          0.0224
+_refine_ls_r_factor_gt           0.0223
+_refine_ls_wr_factor_gt          0.0517
+_refine_ls_wr_factor_ref         0.0517
+_refine_ls_goodness_of_fit_ref   1.227
+_cod_hold_until_date             2014-05-18
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

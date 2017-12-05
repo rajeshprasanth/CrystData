@@ -1,0 +1,38 @@
+#------------------------------------------------------------------------------
+#$Date: 2012-02-28 14:14:52 +0200 (Tue, 28 Feb 2012) $
+#$Revision: 35911 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/07/1010727.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010727
+_chemical_name_systematic          'Titanium sulfide (1/3)'
+_chemical_formula_structural       'Ti S3'
+_chemical_formula_sum              'S3 Ti'
+_publ_section_title                'Ueber die Sulfide des Titans'
+loop_
+_publ_author_name
+  'Biltz, W'
+  'Ehrlich, P'
+  'Meisel, K'
+_journal_name_full
+;
+Zeitschrift fuer Anorganische und Allgemeine Chemie
+;
+_journal_coden_ASTM                ZAACAB
+_journal_volume                    234
+_journal_year                      1937
+_journal_page_first                96
+_journal_page_last                 116
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010727

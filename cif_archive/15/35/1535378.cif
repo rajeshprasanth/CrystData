@@ -1,0 +1,96 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-09 20:58:57 +0300 (Fri, 09 Oct 2015) $
+#$Revision: 162705 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/53/1535378.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1535378
+loop_
+_publ_author_name
+'Minkwitz, R.'
+'Nowicki, J.'
+_publ_section_title
+;
+ Kristallstruktur einer neuen Modifikation von Sb8F30
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first              109
+_journal_page_last               116
+_journal_volume                  605
+_journal_year                    1991
+_chemical_formula_sum            'F30 Sb8'
+_chemical_name_systematic        '(Sb2 F5) (Sb3 F7) (Sb F6)3'
+_space_group_IT_number           29
+_symmetry_space_group_name_Hall  'P 2c -2ac'
+_symmetry_space_group_name_H-M   'P c a 21'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   11.157
+_cell_length_b                   11.002
+_cell_length_c                   19.178
+_cell_volume                     2354.086
+_citation_journal_id_ASTM        ZAACAB
+_cod_data_source_file            Minkwitz_ZAACAB_1991_23.cif
+_cod_data_source_block           F30Sb8
+_cod_database_code               1535378
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z+1/2
+-x+1/2,y,z+1/2
+x+1/2,-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+F30 F-1 0.8647 0.2109 0.2396 1 0.0
+F9 F-1 0.7685 0.0623 1.0153 1 0.0
+Sb5 Sb+3 0.7479 0.7786 1.1892 1 0.0
+F5 F-1 1.0157 -0.0009 1.0516 1 0.0
+F22 F-1 0.7526 0.414 0.5492 1 0.0
+F27 F-1 0.9415 0.2677 0.3619 1 0.0
+F25 F-1 1.0671 0.3248 0.2517 1 0.0
+F4 F-1 1.0864 0.185 1.1327 1 0.0
+F1 F-1 0.7524 0.2602 0.9412 1 0.0
+F19 F-1 0.8641 0.4977 0.6601 1 0.0
+F10 F-1 0.7673 0.0578 0.8716 1 0.0
+F21 F-1 0.976 0.4967 0.5388 1 0.0
+F23 F-1 0.8266 0.2607 0.6486 1 0.0
+Sb3 Sb+3 0.9241 0.1101 0.7763 1 0.0
+F15 F-1 0.6514 0.8775 0.9478 1 0.0
+F6 F-1 1.0059 -0.0069 1.1912 1 0.0
+F13 F-1 0.7507 0.7265 1.0392 1 0.0
+F11 F-1 0.8165 0.9065 1.1309 1 0.0
+F24 F-1 0.9323 0.2652 0.5257 1 0.0
+F7 F-1 1.0742 0.1989 0.7523 1 0.0
+F29 F-1 0.754 0.3823 0.3147 1 0.0
+F26 F-1 0.8846 0.4351 0.1979 1 0.0
+Sb1 Sb+3 0.91 0.3569 0.9432 1 0.0
+F17 F-1 0.8868 0.8468 0.9456 1 0.0
+F14 F-1 0.7496 0.7461 0.8466 1 0.0
+F8 F-1 1.0139 0.0009 0.8319 1 0.0
+F12 F-1 0.7009 0.9124 1.2466 1 0.0
+Sb2 Sb+3 0.9266 0.0943 1.114 1 0.0
+Sb6 Sb+5 0.7578 0.7417 0.9424 1 0.0
+F16 F-1 0.6156 0.6425 0.9401 1 0.0
+F28 F-1 0.9691 0.4992 0.3247 1 0.0
+Sb7 Sb+5 0.8992 0.3813 0.5943 1 0.0
+F18 F-1 0.8517 0.6024 0.9382 1 0.0
+Sb8 Sb+5 0.9107 0.3615 0.2824 1 0.0
+F2 F-1 0.9514 0.2352 0.87 1 0.0
+F20 F-1 1.0472 0.3397 0.6344 1 0.0
+F3 F-1 0.9498 0.2451 1.0161 1 0.0
+Sb4 Sb+3 0.6518 0.0972 0.9431 1 0.0

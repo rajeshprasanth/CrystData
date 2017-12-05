@@ -1,0 +1,194 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-19 16:29:56 +0200 (Fri, 19 Feb 2016) $
+#$Revision: 176759 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/41/2004112.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2004112
+loop_
+_publ_author_name
+'Schaefer, W. P.'
+'Abul\=u, J.'
+_publ_section_title
+;
+ An Indanyl Precursor to a Chiral Spiro Compound
+;
+_journal_issue                   11
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              2364
+_journal_page_last               2366
+_journal_paper_doi               10.1107/S0108270195005609
+_journal_volume                  51
+_journal_year                    1995
+_chemical_formula_sum            'C18 H16'
+_chemical_formula_weight         232.32
+_space_group_IT_number           15
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_atom_type_scat_source           IntTabIV
+_cell_angle_alpha                90
+_cell_angle_beta                 93.00(3)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   13.758(5)
+_cell_length_b                   5.3910(10)
+_cell_length_c                   16.844(4)
+_cell_measurement_reflns_used    25
+_cell_measurement_temperature    296
+_cell_measurement_theta_max      13.4
+_cell_measurement_theta_min      11.4
+_cell_volume                     1247.6(6)
+_diffrn_measurement_device       'Enraf-Nonius CAD-4'
+_diffrn_measurement_method       '\w scans'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents
+'0.010 for 155 duplicates; GOF 1.01 for 1781 reflections'
+_diffrn_reflns_limit_h_max       19
+_diffrn_reflns_limit_h_min       -19
+_diffrn_reflns_limit_k_max       7
+_diffrn_reflns_limit_k_min       -7
+_diffrn_reflns_limit_l_max       20
+_diffrn_reflns_limit_l_min       -20
+_diffrn_reflns_number            7190
+_diffrn_reflns_theta_max         30
+_diffrn_standards_decay_%        'within statistical expectations'
+_diffrn_standards_interval_time  150
+_diffrn_standards_number         3
+_exptl_absorpt_coefficient_mu    0.065
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            'pale yellow'
+_exptl_crystal_density_diffrn    1.24
+_exptl_crystal_description       'triangular prism (irregular)'
+_exptl_crystal_size_max          0.52
+_exptl_crystal_size_mid          0.44
+_exptl_crystal_size_min          0.37
+_refine_diff_density_max         0.28
+_refine_diff_density_min         -0.16
+_refine_ls_extinction_coef       0.95E-6(22)
+_refine_ls_extinction_method     'Larson (1967)'
+_refine_ls_goodness_of_fit_obs   2.95
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_number_parameters     115
+_refine_ls_number_reflns         1781
+_refine_ls_R_factor_obs
+'0.050 for all F^2^ > 0, 0.044 for all F^2^ > 3\s(F^2^)'
+_refine_ls_shift/esd_max         <0.005
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_scheme      'sigma w = 1/\s^2^(F~o~^2^)'
+_refine_ls_wR_factor_obs         '0.011 for all 1781 data'
+_reflns_number_observed          1781
+_reflns_number_total             1781
+_reflns_observed_criterion
+'(all reflections used, F~o~^2^ positive and negative)'
+_cod_data_source_file            cr1180.cif
+_cod_data_source_block           cr1180a
+_cod_original_sg_symbol_H-M      'C 2/c'
+_cod_database_code               2004112
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,-y,1/2+z
+-x,-y,-z
+-x,y,1/2-z
+1/2+x,1/2+y,z
+1/2+x,1/2-y,1/2+z
+1/2-x,1/2-y,-z
+1/2-x,1/2+y,1/2-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C1 .76570(10) .6578(2) .02460(10) .0326(2)
+C2 .86820(10) .5483(2) .02870(10) .0382(2)
+C3 .86880(10) .3406(3) .09130(10) .0425(3)
+C4 .76720(10) .3367(2) .11960(10) .0373(2)
+C5 .72940(10) .1765(3) .17450(10) .0489(3)
+C6 .63320(10) .1989(3) .19320(10) .0521(3)
+C7 .57530(10) .3823(3) .15770(10) .0489(3)
+C8 .61230(10) .5428(2) .10270(10) .0436(3)
+C9 .70930(10) .5208(2) .08220(10) .0336(2)
+H2A .9189(10) .676(3) .0427(8) 4.0(3)
+H2B .8852(10) .485(3) -.0251(8) 3.8(3)
+H3A .9177(11) .374(3) .1362(9) 4.6(4)
+H3B .8853(11) .177(3) .0685(9) 4.8(4)
+H5 .7725(11) .050(3) .1986(9) 5.3(4)
+H6 .6052(12) .087(3) .2323(10) 5.6(4)
+H7 .5065(11) .403(3) .1723(9) 4.3(3)
+H8 .5700(11) .670(3) .0795(10) 5.0(4)
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle
+_geom_angle_publ_flag
+C9 C1 C2 . 107.10(10) yes
+C1 C1 C2 7_665 125.20(10) yes
+C1 C1 C9 7_665 127.60(10) yes
+C3 C2 C1 . 106.50(10) yes
+C4 C3 C2 . 104.90(10) yes
+C5 C4 C3 . 127.60(10) yes
+C9 C4 C3 . 111.30(10) yes
+C9 C4 C5 . 121.10(10) yes
+C6 C5 C4 . 119.70(10) yes
+C7 C6 C5 . 119.90(10) yes
+C8 C7 C6 . 120.80(10) yes
+C9 C8 C7 . 120.00(10) yes
+C4 C9 C1 . 110.10(10) yes
+C8 C9 C1 . 131.40(10) yes
+C8 C9 C4 . 118.40(10) yes
+H2A C2 C1 . 112.0(8) yes
+H2B C2 C1 . 110.3(8) yes
+H2A C2 C3 . 111.2(8) yes
+H2B C2 C3 . 112.2(8) yes
+H2B C2 H2A . 104.7(11) yes
+H3A C3 C2 . 111.5(9) yes
+H3B C3 C2 . 112.1(9) yes
+H3A C3 C4 . 111.2(9) yes
+H3B C3 C4 . 110.3(9) yes
+H3B C3 H3A . 107.0(12) yes
+H5 C5 C4 . 118.1(9) yes
+H5 C5 C6 . 122.2(9) yes
+H6 C6 C5 . 120.7(10) yes
+H6 C6 C7 . 119.3(10) yes
+H7 C7 C6 . 120.3(8) yes
+H7 C7 C8 . 118.8(8) yes
+H8 C8 C7 . 118.5(9) yes
+H8 C8 C9 . 121.5(9) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 C2 . 1.527(2) yes
+C1 C9 . 1.4730(10) yes
+C1 C1 7_665 1.3510(10) yes
+C2 C3 . 1.538(2) yes
+C3 C4 . 1.501(2) yes
+C4 C5 . 1.385(2) yes
+C4 C9 . 1.402(2) yes
+C5 C6 . 1.382(2) yes
+C6 C7 . 1.385(2) yes
+C7 C8 . 1.384(2) yes
+C8 C9 . 1.400(2) yes
+C2 H2A . 0.999(14) yes
+C2 H2B . 1.007(14) yes
+C3 H3A . 1.002(15) yes
+C3 H3B . 0.993(15) yes
+C5 H5 . .977(16) yes
+C6 H6 . .987(17) yes
+C7 H7 . .997(15) yes
+C8 H8 . .968(16) yes

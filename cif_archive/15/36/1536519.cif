@@ -1,0 +1,107 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-10 04:26:57 +0300 (Sat, 10 Oct 2015) $
+#$Revision: 164256 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/65/1536519.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1536519
+loop_
+_publ_author_name
+'Pay Gomez, C.'
+'Lidin, S.'
+_publ_section_title
+;
+ Structure of Dy13 Zn57 a binary quasicrystal approximant
+;
+_journal_name_full               'Solid State Sciences'
+_journal_page_first              901
+_journal_page_last               906
+_journal_volume                  4
+_journal_year                    2002
+_chemical_formula_sum            'Dy13 Zn57'
+_chemical_name_systematic        'Dy13 Zn57'
+_space_group_IT_number           62
+_symmetry_space_group_name_Hall  '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   14.06
+_cell_length_b                   14.26
+_cell_length_c                   24.7
+_cell_volume                     4952.241
+_citation_journal_id_ASTM        SSSCFJ
+_cod_data_source_file            PayGomez_SSSCFJ_2002_191.cif
+_cod_data_source_block           Dy13Zn57
+_cod_original_cell_volume        4952.242
+_cod_database_code               1536519
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y,z+1/2
+x+1/2,-y+1/2,-z+1/2
+-x,y+1/2,-z
+-x,-y,-z
+x-1/2,y,-z-1/2
+-x-1/2,y-1/2,z-1/2
+x,-y-1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn16 Zn 0.1002 0.9511 0.0842 1 0.0
+Zn27 Zn 0.1667 -0.1055 0.3048 1 0.0
+Zn11 Zn 0.0958 0.25 0.4173 1 0.0
+Zn25 Zn 0.1584 0.25 -0.0116 1 0.0
+Dy5 Dy 0.0507 -0.25 0.0457 1 0.0
+Zn2 Zn 0.0124 -0.25 -0.2549 1 0.0
+Zn1 Zn 0 0 0 1 0.0
+Dy1 Dy 0.0058 0.75 0.2559 1 0.0
+Dy4 Dy 0.055 0.25 -0.4532 1 0.0
+Zn14 Zn 0.1052 -0.0784 -0.2679 1 0.0
+Zn18 Zn 0.1437 -0.4051 -0.0317 1 0.0
+Zn34 Zn 0.2482 1.1534 -0.6134 1 0.0
+Zn6 Zn 0.0506 0.3477 0.05 1 0.0
+Zn10 Zn 0.096 -0.25 -0.0843 1 0.0
+Zn32 Zn 0.2565 0.75 -0.7497 1 0.0
+Zn9 Zn 0.0466 0.25 0.1548 1 0.0
+Zn33 Zn 0.2468 1.25 1.0824 1 0.0
+Zn30 Zn 0.2473 0.0753 -0.7075 1 0.0
+Zn19 Zn 0.1385 0.4067 0.4701 1 0.0
+Zn17 Zn 0.0964 0.4597 0.5734 1 0.0
+Dy9 Dy 0.2451 0.4355 0.02 1 0.0
+Zn5 Zn 0.0565 0.3893 0.6618 1 0.0
+Zn23 Zn 0.1597 -0.1006 -0.3684 1 0.0
+Zn24 Zn 0.1571 -0.25 0.4789 1 0.0
+Zn29 Zn 0.1495 -0.25 0.1558 1 0.0
+Zn4 Zn 0.0253 -0.0492 0.2437 1 0.0
+Dy2 Dy 0.0528 -0.059 -0.1474 1 0.0
+Zn21 Zn 0.1448 -0.25 -0.1855 1 0.0
+Zn3 Zn 0.0034 0.1532 -0.152 1 0.0
+Zn36 Zn 0.2497 0.9721 0.3929 1 0.0
+Zn8 Zn 0.0542 -0.25 -0.3573 1 0.0
+Dy7 Dy 0.234 0.5569 0.1867 1 0.0
+Zn31 Zn 0.2498 0.8494 -0.9317 1 0.0
+Dy3 Dy 0.0532 0.0628 0.3527 1 0.0
+Zn22 Zn 0.1572 0.1068 0.1304 1 0.0
+Zn20 Zn 0.143 0.25 0.312 1 0.0
+Zn35 Zn 0.25 0.75 0.9812 1 0.0
+Zn28 Zn 0.1655 0.25 -0.3442 1 0.0
+Zn26 Zn 0.1493 0.3998 -0.2138 1 0.0
+Zn13 Zn 0.098 -0.398 0.4315 1 0.0
+Zn12 Zn 0.0974 0.1005 -0.067 1 0.0
+Dy8 Dy 0.2421 -0.25 -0.2934 1 0.0
+Dy6 Dy 0.2111 0.25 -0.127 1 0.0
+Zn15 Zn 0.0994 0.111 0.2323 1 0.0
+Zn7 Zn 0.0533 -0.3499 -0.4526 1 0.0

@@ -1,0 +1,79 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-01 15:07:29 +0300 (Thu, 01 Oct 2015) $
+#$Revision: 159218 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/31/1533116.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1533116
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Roessler, U.'
+_publ_section_title
+;
+ Ein Erdalkalimetallphosphid ungewoehnlicher Zusammensetzung: die
+ Kristallstruktur von Ba5 P9
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first              459
+_journal_page_last               462
+_journal_volume                  629
+_journal_year                    2003
+_chemical_formula_sum            'Ba5 P9'
+_chemical_name_systematic        'Ba5 P9'
+_space_group_IT_number           43
+_symmetry_space_group_name_Hall  'F 2 -2d'
+_symmetry_space_group_name_H-M   'F d d 2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   15.626
+_cell_length_b                   18.968
+_cell_length_c                   10.272
+_cell_volume                     3044.559
+_citation_journal_id_ASTM        ZAACAB
+_cod_data_source_file            Eisenmann_ZAACAB_2003_1100.cif
+_cod_data_source_block           Ba5P9
+_cod_database_code               1533116
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-x+1/4,y+1/4,z+1/4
+x+3/4,-y+3/4,z+1/4
+x,y+1/2,z+1/2
+-x,-y+1/2,z+1/2
+-x+1/4,y+3/4,z+3/4
+x+3/4,-y+5/4,z+3/4
+x+1/2,y,z+1/2
+-x+1/2,-y,z+1/2
+-x+3/4,y+1/4,z+3/4
+x+5/4,-y+3/4,z+3/4
+x+1/2,y+1/2,z
+-x+1/2,-y+1/2,z
+-x+3/4,y+3/4,z+1/4
+x+5/4,-y+5/4,z+1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba3 Ba 0 0 0.41194 1 0.0
+P1 P 0 0 0.0258 1 0.0
+P4 P 0.039 0.3248 0 1 0.0
+P3 P 0.0992 0.1764 0.4716 1 0.0
+P2 P 0.1145 0.029 0.1404 1 0.0
+Ba1 Ba 0.01312 0.18329 0.17855 1 0.0
+Ba2 Ba 0.2656 0.14137 0.02523 1 0.0
+P5 P 0.3561 0.0105 0.1526 1 0.0

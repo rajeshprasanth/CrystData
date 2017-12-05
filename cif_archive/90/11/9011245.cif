@@ -1,0 +1,81 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-11-13 22:44:40 +0200 (Sun, 13 Nov 2016) $
+#$Revision: 188415 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/12/9011245.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9011245
+loop_
+_publ_author_name
+'Marsh, R. E.'
+'Herbstein, F. H.'
+_publ_section_title
+;
+ More space group changes
+ Sample: T = 153 K
+;
+_journal_issue                   3
+_journal_name_full               'Acta Crystallographica, Section B'
+_journal_page_first              77
+_journal_page_last               88
+_journal_paper_doi               10.1107/S0108768194011857
+_journal_volume                  44
+_journal_year                    1988
+_chemical_formula_structural     C12H14N4
+_chemical_formula_sum            'C3 N'
+_space_group_IT_number           43
+_symmetry_space_group_name_Hall  'F 2 -2d'
+_symmetry_space_group_name_H-M   'F d d 2'
+_cell_angle_alpha                89.87
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   13.635
+_cell_length_b                   26.353
+_cell_length_c                   6.089
+_cell_volume                     2187.913
+_diffrn_ambient_temperature      153
+_exptl_crystal_density_diffrn    1.215
+_cod_original_sg_symbol_H-M      'F d d 2 1 1'
+_cod_original_formula_sum        'N C3'
+_cod_database_code               9011245
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,y,1/2+z
+1/2+x,1/2+y,z
+1/4+x,1/4-y,1/4+z
+1/4+x,3/4-y,3/4+z
+3/4+x,1/4-y,3/4+z
+3/4+x,3/4-y,1/4+z
+1/4-x,1/4+y,1/4+z
+1/4-x,3/4+y,3/4+z
+3/4-x,1/4+y,3/4+z
+3/4-x,3/4+y,1/4+z
+-x,1/2-y,1/2+z
+-x,-y,+z
+1/2-x,1/2-y,+z
+1/2-x,-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_attached_hydrogens
+N14 0.29090 -0.11270 0.05230 2
+N23 -0.00860 -0.06250 -0.31050 2
+C17 0.04690 -0.01570 0.00430 0
+C28 0.06280 -0.05400 -0.15000 0
+C39 0.14650 -0.08520 -0.13520 1
+C410 0.21230 -0.07710 0.03220 0
+C511 0.19950 -0.03820 0.18180 1
+C612 0.11680 -0.00820 0.16920 1

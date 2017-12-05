@@ -1,0 +1,97 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-10 15:33:58 +0300 (Fri, 10 Jul 2015) $
+#$Revision: 142397 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/21/1522177.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1522177
+loop_
+_publ_author_name
+'Kotur, B.Ya.'
+'Bodak, O.I.'
+'Andrusyak, R.I.'
+'Zavodnik, V.E.'
+'Bel'skii, V.K.'
+_publ_section_title
+;
+ The crystal structure of Sc29 Fe6
+;
+_journal_name_full
+;
+Dopovidi Akademii Nauk Ukrains'koi RSR, Seriya B: Geologichni, Khimichni ta 
+Biologichni Nauki
+;
+_journal_page_first              29
+_journal_page_last               32
+_journal_volume                  1986
+_journal_year                    1986
+_chemical_formula_sum            'Fe6 Sc29'
+_chemical_name_systematic        'Fe6 Sc29'
+_space_group_IT_number           200
+_symmetry_space_group_name_Hall  '-P 2 2 3'
+_symmetry_space_group_name_H-M   'P m -3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   14.361
+_cell_length_b                   14.361
+_cell_length_c                   14.361
+_cell_volume                     2961.789
+_citation_journal_id_ASTM        DANND6
+_cod_data_source_file            Kotur_DANND6_1986_53.cif
+_cod_data_source_block           Fe6Sc29
+_cod_database_code               1522177
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+x,-y,-z
+-x,y,-z
+z,x,y
+-z,-x,y
+z,-x,-y
+-z,x,-y
+y,z,x
+y,-z,-x
+-y,z,-x
+-y,-z,x
+-x,-y,-z
+x,y,-z
+-x,y,z
+x,-y,z
+-z,-x,-y
+z,x,-y
+-z,x,y
+z,-x,y
+-y,-z,-x
+-y,z,x
+y,-z,x
+y,z,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe2 Fe 0.5 0.3 0.1659 1 0.0
+Sc11 Sc 0.2017 0.3121 0.3842 1 0.0
+Sc8 Sc 0.5 0.3895 0.3204 1 0.0
+Sc6 Sc 0 0.1113 0.1809 1 0.0
+Sc3 Sc 0.3651 0 0 1 0.0
+Sc9 Sc 0.5 0.129 0.113 1 0.0
+Sc7 Sc 0 0.3989 0.3232 1 0.0
+Sc5 Sc 0.1274 0.5 0.5 1 0.0
+Sc1 Sc 0 0 0 1 0.0
+Sc4 Sc 0.2768 0.5 0 1 0.0
+Sc2 Sc 0.5 0.5 0.5 1 0.0
+Sc10 Sc 0.2925 0.1816 0.1138 1 0.0
+Fe1 Fe 0 0.2054 0.3352 1 0.0

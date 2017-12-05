@@ -1,0 +1,105 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-08-05 07:31:18 +0300 (Sat, 05 Aug 2017) $
+#$Revision: 199552 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/2/10/23/2102323.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2102323
+loop_
+_publ_author_name
+'Marsh, Richard E.'
+_publ_section_title
+;
+ Space group <i>Cc</i>: an update
+;
+_journal_issue                   2
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              252
+_journal_page_last               253
+_journal_paper_doi               10.1107/S0108768104003878
+_journal_volume                  60
+_journal_year                    2004
+_chemical_formula_moiety         'C24 H48'
+_chemical_formula_sum            'C24 H48'
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           15
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_audit_creation_method           CRYM
+_cell_angle_alpha                90
+_cell_angle_beta                 99.42
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   27.6450
+_cell_length_b                   8.0300
+_cell_length_c                   10.1670
+_cell_volume                     2226.531
+_cod_data_source_file            bk0142.cif
+_cod_data_source_block           CTETEC
+_cod_depositor_comments
+;
+ Adding the _cell_formula_units_Z data item.
+
+ Antanas Vaitkus,
+ 2017-08-05
+
+  Added moiety chemical formula from Marsh (2004) paper.
+  The summary chemical formula is calculated from moiety formula using
+  AdHocParser
+  (svn://www.crystallography.net/cod-tools/trunk/Formulae/AdHocParser.yp,
+  revision 1441.)
+
+  Andrius Merkys
+  2013-11-11
+;
+_cod_original_sg_symbol_H-M      C2/c
+_cod_database_code               2102323
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.19115 0.10315 0.40935
+C2 C -0.15740 0.07730 0.30335
+C3 C -0.10260 0.09780 0.35840
+C4 C -0.06985 0.08010 0.24965
+C5 C -0.01560 0.08975 0.30595
+C11 C 0.18730 0.28090 0.03235
+C12 C 0.20695 0.41970 0.13190
+C13 C 0.19130 0.59345 0.08640
+C14 C 0.13580 0.62290 0.05850
+C15 C 0.11005 0.60010 0.18100
+C16 C 0.05445 0.61045 0.14590
+C17 C 0.02780 0.59795 0.26715
+H1 H -0.22500 0.08250 0.36450
+H1a H -0.18150 0.02200 0.48200
+H2 H -0.16600 0.16200 0.23250
+H3 H -0.16300 -0.03550 0.26650
+H4 H -0.09350 0.00850 0.42450
+H5 H -0.09750 0.20750 0.39950
+H6 H -0.07900 0.17150 0.18450
+H7 H -0.07800 -0.02850 0.20300
+H8 H -0.00800 -0.01050 0.36350
+H9 H -0.00950 0.19050 0.35850
+H20 H 0.15200 0.30350 -0.00100
+H21 H 0.20650 0.28150 -0.04150
+H22 H 0.24400 0.41800 0.14700
+H23 H 0.19550 0.39950 0.21950
+H24 H 0.20400 0.62100 0.00300
+H25 H 0.20500 0.67750 0.15700
+H26 H 0.12150 0.53950 -0.01150
+H27 H 0.12850 0.73650 0.02600
+H28 H 0.12100 0.68200 0.24800
+H29 H 0.11800 0.48250 0.21850
+H30 H 0.04350 0.51100 0.08500
+H31 H 0.04650 0.71350 0.09750
+H32 H 0.03700 0.69950 0.32400
+H33 H 0.03650 0.49600 0.31850

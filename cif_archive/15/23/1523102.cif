@@ -1,0 +1,86 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-11 00:25:12 +0300 (Sat, 11 Jul 2015) $
+#$Revision: 143526 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/31/1523102.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1523102
+loop_
+_publ_author_name
+'Yarmolyuk, Ya.P.'
+'Mel'nik, E.V.'
+'Kripyakevich, P.I.'
+_publ_section_title
+;
+ Crystal structure of the compound Mg4 Zn7
+;
+_journal_name_full               Kristallografiya
+_journal_page_first              538
+_journal_page_last               542
+_journal_volume                  20
+_journal_year                    1975
+_chemical_formula_sum            'Mg4 Zn7'
+_chemical_name_systematic        'Mg4 Zn7'
+_space_group_IT_number           12
+_symmetry_space_group_name_Hall  '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 102.5
+_cell_angle_gamma                90
+_cell_formula_units_Z            10
+_cell_length_a                   25.96
+_cell_length_b                   5.24
+_cell_length_c                   14.28
+_cell_volume                     1896.469
+_citation_journal_id_ASTM        KRISAJ
+_cod_data_source_file            Yarmolyuk_KRISAJ_1975_1110.cif
+_cod_data_source_block           Mg4Zn7
+_cod_database_code               1523102
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z
+-x,-y,-z
+x,-y,z
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn8 Zn 0.349 0 0.787 1 0.0
+Zn3 Zn 0.079 0 0.409 1 0.0
+Zn12 Zn 0.232 0.25 0.173 1 0.0
+Zn4 Zn 0.168 0 0.533 1 0.0
+Zn6 Zn 0.313 0 0.138 1 0.0
+Zn11 Zn 0.07 0.25 0.248 1 0.0
+Mg8 Mg 0.445 0 0.957 1 0.0
+Zn13 Zn 0.108 0.25 0.898 1 0.0
+Zn9 Zn 0.33 0 0.966 1 0.0
+Mg3 Mg 0.166 0 0.747 1 0.0
+Zn14 Zn 0.086 0.25 0.569 1 0.0
+Zn1 Zn 0 0 0.5 1 0.0
+Zn10 Zn 0.479 0 0.178 1 0.0
+Mg2 Mg 0.177 0 0.321 1 0.0
+Zn5 Zn 0.256 0 0.657 1 0.0
+Mg7 Mg 0.479 0 0.602 1 0.0
+Mg9 Mg 0.008 0 0.903 1 0.0
+Mg1 Mg 0.307 0 0.351 1 0.0
+Mg5 Mg 0.129 0 0.108 1 0.0
+Mg6 Mg 0.033 0 0.726 1 0.0
+Zn2 Zn 0.25 0.25 0.5 1 0.0
+Zn7 Zn 0.4 0 0.266 1 0.0
+Mg10 Mg 0.213 0 0.977 1 0.0
+Mg4 Mg 0.361 0 0.57 1 0.0

@@ -1,0 +1,149 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-01-27 21:58:39 +0200 (Tue, 27 Jan 2015) $
+#$Revision: 130149 $
+#$URL: svn://www.crystallography.net/cod/cif/4/02/01/4020180.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4020180
+loop_
+_publ_author_name
+'Man-kit Leung'
+'M. Balaji Viswanath'
+'Pi-Tai Chou'
+'Shih-Chieh Pu'
+'Hsin-Chieh Lin'
+'Bih-Yaw Jin'
+_journal_name_full               'Journal of Organic Chemistry'
+_journal_page_first              3560
+_journal_page_last               3568
+_journal_paper_doi               10.1021/jo047802n
+_journal_volume                  70
+_journal_year                    2005
+_chemical_formula_sum            'C28 H20'
+_chemical_formula_weight         356.44
+_space_group_IT_number           61
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   14.2335(3)
+_cell_length_b                   7.2938(7)
+_cell_length_c                   18.4191(9)
+_cell_measurement_temperature    295(2)
+_cell_volume                     1912.2(2)
+_diffrn_ambient_temperature      295(2)
+_exptl_crystal_density_diffrn    1.238
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to 'orthorhombic'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_database_code               4020180
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, -y, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x-1/2, y, -z-1/2'
+'x, -y-1/2, z-1/2'
+'-x-1/2, y-1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+C1 C -0.16155(16) 1.1504(3) 0.42149(15) 0.0891(8) Uani 1 1 d . . .
+H1A H -0.2266 1.1441 0.4369 0.107 Uiso 1 1 calc R . .
+H1B H -0.1610 1.1695 0.3694 0.107 Uiso 1 1 calc R . .
+C2 C 0.11458(17) 0.6843(3) 0.54151(14) 0.0819(7) Uani 1 1 d . . .
+H2A H 0.1597 0.6272 0.5092 0.098 Uiso 1 1 calc R . .
+H2B H 0.0980 0.5951 0.5784 0.098 Uiso 1 1 calc R . .
+C3 C -0.11440(14) 0.9693(3) 0.43818(14) 0.0707(6) Uani 1 1 d . . .
+C4 C -0.12619(15) 0.8783(3) 0.50576(14) 0.0764(7) Uani 1 1 d . . .
+H4A H -0.1815 0.8967 0.5316 0.092 Uiso 1 1 calc R . .
+C5 C -0.05889(17) 0.7640(3) 0.53442(13) 0.0736(6) Uani 1 1 d . . .
+H5A H -0.0707 0.7062 0.5785 0.088 Uiso 1 1 calc R . .
+C6 C 0.02802(15) 0.7313(3) 0.49886(13) 0.0663(6) Uani 1 1 d . . .
+C7 C 0.02857(14) 0.7825(3) 0.42812(12) 0.0644(6) Uani 1 1 d . . .
+C8 C 0.09093(16) 0.8229(3) 0.36422(13) 0.0706(6) Uani 1 1 d . . .
+C9 C 0.17698(18) 0.8026(4) 0.33214(15) 0.0875(8) Uani 1 1 d . . .
+H9A H 0.2234 0.7283 0.3521 0.105 Uiso 1 1 calc R . .
+C10 C 0.1911(2) 0.9003(4) 0.26744(16) 0.1012(9) Uani 1 1 d . . .
+H10A H 0.2480 0.8880 0.2431 0.121 Uiso 1 1 calc R . .
+C11 C 0.1239(2) 1.0129(4) 0.23916(15) 0.1023(9) Uani 1 1 d . . .
+H11A H 0.1366 1.0755 0.1963 0.123 Uiso 1 1 calc R . .
+C12 C 0.0359(2) 1.0372(3) 0.27287(14) 0.0904(8) Uani 1 1 d . . .
+H12A H -0.0095 1.1157 0.2541 0.108 Uiso 1 1 calc R . .
+C13 C 0.02164(16) 0.9388(3) 0.33449(12) 0.0722(6) Uani 1 1 d . . .
+C14 C -0.04218(15) 0.9001(3) 0.39797(12) 0.0667(6) Uani 1 1 d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+C1 0.0680(14) 0.0809(16) 0.119(2) -0.0133(15) -0.0210(14) 0.0137(13)
+C2 0.0888(17) 0.0659(14) 0.0908(17) 0.0040(12) -0.0172(13) 0.0043(12)
+C3 0.0545(12) 0.0656(13) 0.0920(17) -0.0150(12) -0.0169(11) -0.0032(11)
+C4 0.0592(13) 0.0742(14) 0.0958(19) -0.0145(14) -0.0017(12) -0.0179(12)
+C5 0.0800(15) 0.0598(12) 0.0810(15) -0.0025(11) -0.0051(13) -0.0196(12)
+C6 0.0733(15) 0.0460(10) 0.0796(15) -0.0040(10) -0.0099(12) -0.0040(10)
+C7 0.0687(13) 0.0496(11) 0.0748(15) -0.0077(10) -0.0107(12) 0.0013(10)
+C8 0.0779(15) 0.0637(13) 0.0700(14) -0.0138(11) -0.0036(12) 0.0027(11)
+C9 0.0884(18) 0.0899(18) 0.0842(18) -0.0150(15) -0.0010(14) 0.0080(14)
+C10 0.108(2) 0.106(2) 0.090(2) -0.0199(17) 0.0144(17) -0.0073(18)
+C11 0.138(3) 0.0926(19) 0.0763(19) -0.0075(15) 0.0060(19) -0.0144(19)
+C12 0.117(2) 0.0768(16) 0.0771(17) -0.0006(14) -0.0167(16) 0.0031(15)
+C13 0.0857(16) 0.0613(12) 0.0696(14) -0.0085(11) -0.0136(13) 0.0051(11)
+C14 0.0687(13) 0.0570(12) 0.0745(14) -0.0078(10) -0.0165(12) -0.0039(11)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+C1 C3 1.513(3) . ?
+C1 C2 1.538(3) 5_576 ?
+C2 C6 1.501(3) . ?
+C2 C1 1.538(3) 5_576 ?
+C3 C14 1.364(3) . ?
+C3 C4 1.421(3) . ?
+C4 C5 1.375(3) . ?
+C5 C6 1.420(3) . ?
+C6 C7 1.355(3) . ?
+C7 C14 1.435(3) . ?
+C7 C8 1.503(3) . ?
+C8 C9 1.368(3) . ?
+C8 C13 1.409(3) . ?
+C9 C10 1.403(4) . ?
+C10 C11 1.363(4) . ?
+C11 C12 1.410(3) . ?
+C12 C13 1.358(3) . ?
+C13 C14 1.507(3) . ?

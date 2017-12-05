@@ -1,0 +1,162 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 02:53:41 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176768 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/41/2104136.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2104136
+loop_
+_publ_author_name
+'Christensen, Jeppe'
+'Lidin, Sven'
+'Malaman, Bernard'
+'Venturini, Gerard'
+_publ_section_title
+;
+ Vacancy-ordering effects in AlB~2~-type ErGe~2 {-~ <i>x</i>} (0.4 <
+ <i>x</i> {\/leq} 0.5)
+;
+_journal_coeditor_code           CK5030
+_journal_issue                   3
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              272
+_journal_page_last               280
+_journal_paper_doi               10.1107/S0108768108005119
+_journal_volume                  64
+_journal_year                    2008
+_chemical_formula_sum            'Er2 Ge3.182'
+_chemical_formula_weight         565.50
+_chemical_name_systematic        ' ?'
+_space_group_ssg_name            X2/m(\a0\g)0s
+_symmetry_cell_setting           monoclinic
+_cell_angle_alpha                90
+_cell_angle_beta                 89.813(4)
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   3.9198(2)
+_cell_length_b                   6.7518(4)
+_cell_length_c                   4.0941(2)
+_cell_measurement_temperature    295
+_cell_modulation_dimension       1
+_cell_volume                     108.353(10)
+_computing_cell_refinement       '(Jana2000; Petricek and Dusek, 2000)'
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      295
+_diffrn_measurement_device_type  'PANalytical X'pert PRO'
+_diffrn_radiation_monochromator  none
+_diffrn_radiation_type           'Cu K\a'
+_diffrn_radiation_wavelength     1.54178
+_exptl_absorpt_coefficient_mu    91.792
+_exptl_absorpt_correction_type   empirical
+_exptl_absorpt_process_details
+'(Jana2000; Petricek, Dusek & Palatinus, 2000)'
+_exptl_crystal_density_diffrn    8.6636
+_exptl_crystal_F_000             476
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_all   4.01
+_refine_ls_number_constraints    1
+_refine_ls_number_parameters     51
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0625
+_refine_ls_R_factor_gt           0.0612
+_refine_ls_shift/su_max          0.4157
+_refine_ls_shift/su_mean         0.0320
+_refine_ls_structure_factor_coef F^2^
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0362
+_refine_ls_wR_factor_ref         0.0362
+_cod_data_source_file            ck5030.cif
+_cod_data_source_block           IV
+_cod_original_cell_volume        108.354(13)
+_cod_database_code               2104136
+loop_
+_space_group_symop_ssg_id
+_space_group_symop_ssg_operation_algebraic
+1 x1,x2,x3,x4
+2 -x1,x2,-x3,1/2-x4
+3 -x1,-x2,-x3,-x4
+4 x1,-x2,x3,1/2+x4
+5 1/2+x1,1/2+x2,x3,1/2+x4
+6 1/2-x1,1/2+x2,-x3,-x4
+7 1/2-x1,1/2-x2,-x3,1/2-x4
+8 1/2+x1,1/2-x2,x3,x4
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_occupancy
+Ge Ge 0.5 0.182(3) 0.5 0.015(2) Uiso d 1
+Er Er 0 0 0 0.0094(13) Uiso d 1
+loop_
+_atom_site_displace_Fourier_atom_site_label
+_atom_site_displace_Fourier_axis
+_atom_site_displace_Fourier_wave_vector_seq_id
+_atom_site_displace_Fourier_param_cos
+_atom_site_displace_Fourier_param_sin
+Ge x 1 -0.085(3) 0
+Ge y 1 0 -0.053(6)
+Ge z 1 -0.010(4) 0
+Ge x 2 0 0.053(5)
+Ge y 2 0.010(5) 0
+Ge z 2 0 -0.011(6)
+Er x 1 0 0
+Er y 1 0 0.0217(11)
+Er z 1 0 0
+Er x 2 0 -0.012(3)
+Er y 2 0 0
+Er z 2 0 0.016(3)
+loop_
+_atom_site_Fourier_wave_vector_seq_id
+_atom_site_Fourier_wave_vector_x
+_atom_site_Fourier_wave_vector_z
+1 0.40890 0.22142
+2 0.81780 0.44285
+loop_
+_atom_site_occ_special_func_atom_site_label
+_atom_site_occ_special_func_crenel_c
+_atom_site_occ_special_func_crenel_w
+Ge 0.25 0.7955
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Er -9.437 3.938 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+Ge -1.089 0.886 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+loop_
+_cell_wave_vector_seq_id
+_cell_wave_vector_x
+_cell_wave_vector_y
+_cell_wave_vector_z
+1 0.40890(17) 0.00000 0.2214(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+_geom_bond_distance_max
+_geom_bond_distance_min
+_geom_bond_distance_av
+Ge Ge 3_656 yes 2.69(5) 2.45(4) 2.60(4)
+Ge Ge 7_556 yes 2.65(3) 2.32(3) 2.55(4)
+Ge Ge 7_656 yes 2.65(3) 2.32(3) 2.56(4)
+Ge Er . yes 3.45(3) 2.93(2) 3.08(2)
+Ge Er 1_556 yes 3.54(3) 2.88(3) 3.06(2)
+Ge Er 1_655 yes 3.54(3) 2.88(3) 3.06(2)
+Ge Er 1_656 yes 3.45(3) 2.93(2) 3.08(2)
+Ge Er 5_555 yes 3.16(5) 2.80(3) 3.03(3)
+Ge Er 5_556 yes 3.16(5) 2.80(3) 3.03(3)

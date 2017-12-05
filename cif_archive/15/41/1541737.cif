@@ -1,0 +1,86 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/1/54/17/1541737.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1541737
+loop_
+_publ_author_name
+'Dickerson, R.E.'
+'Wheatley, P.J.'
+'Howell, P.A.'
+'Lipscomb, W.N.'
+_publ_section_title
+;
+ Crystal and molecular structure of B9 H15
+;
+_journal_name_full               'Journal of Chemical Physics'
+_journal_page_first              200
+_journal_page_last               209
+_journal_volume                  27
+_journal_year                    1957
+_chemical_formula_sum            'B9 H15'
+_chemical_name_systematic        'B9 H15'
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 109.15
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   11.8
+_cell_length_b                   6.94
+_cell_length_c                   11.25
+_cell_volume                     870.304
+_citation_journal_id_ASTM        JCPSA6
+_cod_data_source_file            Dickerson_JCPSA6_1957_113.cif
+_cod_data_source_block           H15B9
+_cod_original_cell_volume        870.3039
+_cod_original_sg_symbol_Hall     '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum        'H15 B9'
+_cod_database_code               1541737
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,y+1/2,-z+1/2
+-x,-y,-z
+x-1/2,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+H1 H-1 0.693 0.002 0.321 1 0.0
+B8 B+1 0.555 0.481 0.222 1 0.0
+H7 H-1 0.558 0.34 0.187 1 0.0
+H3 H-1 0.435 0.102 0.338 1 0.0
+H4 H-1 0.752 0.595 0.396 1 0.0
+H9 H-1 0.446 0.499 0.229 1 0.0
+H12 H-1 0.47 0.87 0.407 1 0.0
+H6 H-1 0.25 0.866 0.145 1 0.0
+H11 H-1 0.634 0.75 0.392 1 0.0
+B2 B+1 0.337 0.79 0.213 1 0.0
+B9 B+1 0.659 0.627 0.337 1 0.0
+B5 B+1 0.43 0.633 0.134 1 0.0
+H8 H-1 0.375 0.584 0.049 1 0.0
+B3 B+1 0.446 0.946 0.319 1 0.0
+B1 B+1 0.37 0.755 0.384 1 0.0
+H13 H-1 0.283 0.636 0.279 1 0.0
+H2 H-1 0.465 0.991 0.097 1 0.0
+B4 B+1 0.469 0.872 0.182 1 0.0
+H14 H-1 0.304 0.859 0.434 1 0.0
+B7 B+1 0.586 0.714 0.18 1 0.0
+H10 H-1 0.568 0.483 0.344 1 0.0
+H15 H-1 0.411 0.64 0.416 1 0.0
+B6 B+1 0.603 0.88 0.308 1 0.0
+H5 H-1 0.619 0.752 0.094 1 0.0

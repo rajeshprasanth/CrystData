@@ -1,0 +1,89 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/72/1537266.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1537266
+loop_
+_publ_author_name
+'von Schnering, H.G.'
+'Thiele, G.'
+'Freiberg, M.'
+'Chang Jenhui'
+'Peters, E.M.'
+'Ormeci, A.'
+'Peters, K.'
+'Roehr, C.'
+'Schroeder, L.'
+_publ_section_title
+;
+ Structure and bonding of the mixed-valent platinum trihalides, Pt Cl3 and
+ Pt Br3
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first              109
+_journal_page_last               116
+_journal_volume                  630
+_journal_year                    2004
+_chemical_formula_sum            'Cl3 Pt'
+_chemical_name_systematic        'Pt Cl3'
+_space_group_IT_number           148
+_symmetry_space_group_name_Hall  '-R 3'
+_symmetry_space_group_name_H-M   'R -3 :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            36
+_cell_length_a                   21.213
+_cell_length_b                   21.213
+_cell_length_c                   8.6
+_cell_volume                     3351.454
+_citation_journal_id_ASTM        ZAACAB
+_cod_data_source_file            vonSchnering_ZAACAB_2004_1215.cif
+_cod_data_source_block           Cl3Pt1
+_cod_original_formula_sum        'Cl3 Pt1'
+_cod_database_code               1537266
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cl5 Cl-1 0.1158 0.2976 0.658 1 0.0
+Cl6 Cl-1 0.0202 0.2061 0.3604 1 0.0
+Cl1 Cl-1 0.0975 0.1776 -0.0004 1 0.0
+Cl2 Cl-1 0.0916 0.0857 0.3118 1 0.0
+Pt2 Pt+4 0.02752 0.29989 0.50979 1 0.0
+Pt1 Pt+2 0.00606 0.09352 0.15895 1 0.0
+Cl4 Cl-1 0.0313 0.393 0.6781 1 0.0
+Cl3 Cl-1 0.1153 0.3854 0.3428 1 0.0

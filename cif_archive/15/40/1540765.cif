@@ -1,0 +1,105 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-01-01 12:23:09 +0200 (Fri, 01 Jan 2016) $
+#$Revision: 171894 $
+#$URL: svn://www.crystallography.net/cod/cif/1/54/07/1540765.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1540765
+loop_
+_publ_author_name
+'Zhou, O.'
+'Cox, D.E.'
+_publ_section_title
+;
+ Structures of C60 intercalation compounds
+;
+_journal_name_full               'Journal of Physics and Chemistry of Solids'
+_journal_page_first              1373
+_journal_page_last               1390
+_journal_volume                  53
+_journal_year                    1992
+_chemical_formula_sum            'C60 K6'
+_chemical_name_systematic        'K6 C60'
+_space_group_IT_number           204
+_symmetry_space_group_name_Hall  '-I 2 2 3'
+_symmetry_space_group_name_H-M   'I m -3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   11.39
+_cell_length_b                   11.39
+_cell_length_c                   11.39
+_cell_volume                     1477.649
+_citation_journal_id_ASTM        JPCSAW
+_cod_data_source_file            Zhou_JPCSAW_1992_1779.cif
+_cod_data_source_block           C60K6
+_cod_database_code               1540765
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+x,-y,-z
+-x,y,-z
+z,x,y
+-z,-x,y
+z,-x,-y
+-z,x,-y
+y,z,x
+y,-z,-x
+-y,z,-x
+-y,-z,x
+-x,-y,-z
+x,y,-z
+-x,y,z
+x,-y,z
+-z,-x,-y
+z,x,-y
+-z,x,y
+z,-x,y
+-y,-z,-x
+-y,z,x
+y,-z,x
+y,z,-x
+x+1/2,y+1/2,z+1/2
+-x+1/2,-y+1/2,z+1/2
+x+1/2,-y+1/2,-z+1/2
+-x+1/2,y+1/2,-z+1/2
+z+1/2,x+1/2,y+1/2
+-z+1/2,-x+1/2,y+1/2
+z+1/2,-x+1/2,-y+1/2
+-z+1/2,x+1/2,-y+1/2
+y+1/2,z+1/2,x+1/2
+y+1/2,-z+1/2,-x+1/2
+-y+1/2,z+1/2,-x+1/2
+-y+1/2,-z+1/2,x+1/2
+-x+1/2,-y+1/2,-z+1/2
+x+1/2,y+1/2,-z+1/2
+-x+1/2,y+1/2,z+1/2
+x+1/2,-y+1/2,z+1/2
+-z+1/2,-x+1/2,-y+1/2
+z+1/2,x+1/2,-y+1/2
+-z+1/2,x+1/2,y+1/2
+z+1/2,-x+1/2,y+1/2
+-y+1/2,-z+1/2,-x+1/2
+-y+1/2,z+1/2,x+1/2
+y+1/2,-z+1/2,x+1/2
+y+1/2,z+1/2,-x+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+C2 C 0.1266 0.1025 0.2683 1 0.0
+K1 K 0 0.5 0.2804 1 0.0
+C3 C 0.0633 0.2049 0.2292 1 0.0
+C1 C 0.0633 0 0.3075 1 0.0

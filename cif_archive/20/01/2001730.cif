@@ -1,0 +1,189 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-19 16:29:56 +0200 (Fri, 19 Feb 2016) $
+#$Revision: 176759 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/17/2001730.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2001730
+loop_
+_publ_author_name
+'Zhang, D.'
+'Xu, Y.'
+'Koh, L. L.'
+'Lam, Y. L.'
+'Huang, H. H.'
+_publ_section_title
+;
+ Structures of 1,1'-diphenyl-1,1'-bicyclopentyl,
+ 1,1'-diphenyl-1,1'-bicyclohexyl and 1,1'-diphenyl-1,1'-bicycloheptyl
+;
+_journal_issue                   5
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              1002
+_journal_page_last               1007
+_journal_paper_doi               10.1107/S0108270192011314
+_journal_volume                  49
+_journal_year                    1993
+_chemical_formula_sum            'C22 H26'
+_chemical_formula_weight         290.4
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_Hall  '-I 4ad'
+_symmetry_space_group_name_H-M   'I 4 1/a (origin  at -1)'
+_atom_type_scat_source           IntTabIV
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   10.2050(10)
+_cell_length_b                   10.2050(10)
+_cell_length_c                   32.229(10)
+_cell_measurement_reflns_used    25
+_cell_measurement_temperature    297
+_cell_measurement_theta_max      14.8
+_cell_measurement_theta_min      4.865
+_cell_volume                     3356.4(11)
+_diffrn_measurement_device       'Siemens R3m/V'
+_diffrn_measurement_method       \w
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0336
+_diffrn_reflns_limit_h_max       12
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       12
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       37
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            1666
+_diffrn_reflns_theta_max         25.0
+_diffrn_standards_decay_%        +-1.5
+_diffrn_standards_interval_count 98
+_diffrn_standards_number         2
+_exptl_absorpt_coefficient_mu    0.060
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    1.149
+_exptl_crystal_description       prism
+_exptl_crystal_size_max          0.4
+_exptl_crystal_size_mid          0.25
+_exptl_crystal_size_min          0.25
+_refine_diff_density_max         0.16
+_refine_diff_density_min         -0.17
+_refine_ls_goodness_of_fit_obs   1.53
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_number_parameters     101
+_refine_ls_number_reflns         645
+_refine_ls_R_factor_obs          0.599
+_refine_ls_shift/esd_max         0.003
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     'w = 1/[\s^2^(F)+0.0001F^2^]'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_obs         0.485
+_reflns_number_observed          645
+_reflns_number_total             1489
+_reflns_observed_criterion       I>2\s(I)
+_cod_data_source_file            ab1030.cif
+_cod_data_source_block           ab1030_structure_1_of_3
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_refine_ls_weighting_scheme' value '1/[\s^2^(F)+0.0001F^2^]' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was
+created. The value of the new tag was set to 'w =
+1/[\s^2^(F)+0.0001F^2^]'.
+
+Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas 
+;
+_cod_original_cell_volume        3356.6(11)
+_cod_database_code               2001730
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C(1) .4317(3) .7859(3) .34010(10) .0500(10)
+C(2) .4101(4) .8782(4) .30250(10) .068(2)
+C(3) .2624(4) .8993(4) .30020(10) .085(2)
+C(4) .2006(4) .7810(4) .32160(10) .079(2)
+C(5) .3156(4) .6922(4) .33310(10) .067(2)
+C(11) .4168(4) .8637(4) .38070(10) .054(2)
+C(12) .4780(4) .9837(4) .38640(10) .070(2)
+C(13) .4694(5) 1.0496(5) .4235(2) .094(2)
+C(14) .4012(6) 1.0004(7) .4561(2) .105(3)
+C(15) .3408(5) .8823(6) .4513(2) .094(2)
+C(16) .3484(4) .8141(4) .41440(10) .071(2)
+H(2A) .4423 .8393 .2774 .080
+H(2B) .4553 .9594 .3072 .080
+H(3A) .2340 .9043 .2718 .080
+H(3B) .2384 .9791 .3140 .080
+H(4A) .1402 .7375 .3034 .080
+H(4B) .1545 .8081 .3461 .080
+H(5A) .2971 .6441 .3580 .080
+H(5B) .3334 .6315 .3111 .080
+H(12A) .5257 1.0206 .3636 .080
+H(13A) .5156 1.1308 .4268 .080
+H(14A) .3933 1.0488 .4815 .080
+H(15A) .2940 .8463 .4745 .080
+H(16A) .3033 .7319 .4118 .080
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+C(2) C(1) C(5) 98.9(3) yes
+C(5) C(1) C(11) 111.7(3) yes
+C(5) C(1) C(1A) 113.1(4) yes
+C(1) C(2) C(3) 105.4(3) yes
+C(3) C(4) C(5) 105.2(3) yes
+C(1) C(11) C(12) 121.6(3) yes
+C(12) C(11) C(16) 116.4(4) yes
+C(12) C(13) C(14) 121.7(5) yes
+C(14) C(15) C(16) 121.2(5) yes
+C(2) C(1) C(11) 109.7(3) yes
+C(2) C(1) C(1A) 114.1(2) yes
+C(11) C(1) C(1A) 109.1(2) yes
+C(2) C(3) C(4) 105.9(3) yes
+C(1) C(5) C(4) 105.0(3) yes
+C(1) C(11) C(16) 121.8(4) yes
+C(11) C(12) C(13) 121.2(4) yes
+C(13) C(14) C(15) 118.2(5) yes
+C(11) C(16) C(15) 121.3(4) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C(1) C(2) 1.550(5) yes
+C(1) C(11) 1.538(5) yes
+C(2) C(3) 1.525(6) yes
+C(4) C(5) 1.529(6) yes
+C(11) C(16) 1.387(6) yes
+C(13) C(14) 1.354(6) yes
+C(15) C(16) 1.380(7) yes
+C(1) C(5) 1.538(5) yes
+C(1) C(1A) 1.575(7) yes
+C(3) C(4) 1.526(6) yes
+C(11) C(12) 1.387(6) yes
+C(12) C(13) 1.375(7) yes
+C(14) C(15) 1.363(9) yes
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+C(11) C(1) C(1A) C(11A) 51.7(4)
+C(2) C(1) C(1A) C(2A) -62.3(4)
+C(2) C(1) C(1A) C(5A) 49.7(4)
+C(2) C(1) C(1A) C(11A) 174.7(4)

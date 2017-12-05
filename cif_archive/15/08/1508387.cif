@@ -1,0 +1,1111 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/50/83/1508387.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1508387
+loop_
+_publ_author_name
+'Zimmermann, Sina'
+'Pantenburg, Ingo'
+'Meyer, Gerd'
+_publ_section_title
+;
+ Ru11Lu20, a New Intermetallic Compound with Eight- to Ten-Coordinate
+ Ruthenium Atoms
+;
+_journal_issue                   2
+_journal_name_full               Crystals
+_journal_page_first              704
+_journal_page_last               709
+_journal_paper_doi               10.3390/cryst2020704
+_journal_volume                  2
+_journal_year                    2012
+_chemical_formula_sum            'Lu20 Ru11'
+_chemical_formula_weight         4611.17
+_chemical_name_systematic
+;
+ ?
+;
+_space_group_IT_number           148
+_symmetry_cell_setting           trigonal
+_symmetry_space_group_name_Hall  '-R 3'
+_symmetry_space_group_name_H-M   'R -3 :H'
+_atom_sites_solution_hydrogens   noref
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                120.00
+_cell_formula_units_Z            6
+_cell_length_a                   12.5514(10)
+_cell_length_b                   12.5514(10)
+_cell_length_c                   29.730(4)
+_cell_measurement_reflns_used    11885
+_cell_measurement_temperature    293(2)
+_cell_measurement_theta_max      27.22
+_cell_measurement_theta_min      1.99
+_cell_volume                     4056.1(7)
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_detector_area_resol_mean 'not measured'
+_diffrn_measured_fraction_theta_full 0.994
+_diffrn_measured_fraction_theta_max 0.994
+_diffrn_measurement_device_type  'IPDS II (Stoe & Cie)'
+_diffrn_measurement_method       '\w and \f scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1018
+_diffrn_reflns_av_sigmaI/netI    0.0660
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       -16
+_diffrn_reflns_limit_k_max       15
+_diffrn_reflns_limit_k_min       -16
+_diffrn_reflns_limit_l_max       38
+_diffrn_reflns_limit_l_min       -38
+_diffrn_reflns_number            10990
+_diffrn_reflns_theta_full        27.22
+_diffrn_reflns_theta_max         27.22
+_diffrn_reflns_theta_min         1.99
+_diffrn_standards_decay_%        'not measured'
+_diffrn_standards_interval_count 'not measured'
+_diffrn_standards_interval_time  'not measured'
+_diffrn_standards_number         'not measured'
+_exptl_absorpt_coefficient_mu    78.110
+_exptl_absorpt_correction_T_max  0.0164
+_exptl_absorpt_correction_T_min  0.0024
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details
+;
+The absorption correction (X-RED; Stoe & Cie, 2001) 
+was performed after optimizing the crystal shape 
+using X-SHAPE (Stoe & Cie, 1999).
+;
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    11.327
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             10424
+_exptl_crystal_size_max          0.2
+_exptl_crystal_size_mid          0.2
+_exptl_crystal_size_min          0.1
+_refine_diff_density_max         2.777
+_refine_diff_density_min         -2.482
+_refine_diff_density_rms         0.554
+_refine_ls_extinction_coef       0.0000136(17)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_ref   0.884
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     96
+_refine_ls_number_reflns         2012
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      0.884
+_refine_ls_R_factor_all          0.0630
+_refine_ls_R_factor_gt           0.0364
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0342P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0786
+_refine_ls_wR_factor_ref         0.0855
+_reflns_number_gt                1356
+_reflns_number_total             2012
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            Lu20Ru11_R-3_crystals-02-00704-s001_DC131.cif
+_cod_data_source_block           ru11lu20_chateigner_1508387
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_exptl_crystal_density_meas' value 'not measured' was changed to '?'
+- the value is perceived as not measured.
+
+Automatic conversion script
+Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas 
+;
+_cod_original_sg_symbol_H-M      'R -3'
+_cod_database_code               1508387
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-y, x-y, z'
+'-x+y, -x, z'
+'x+2/3, y+1/3, z+1/3'
+'-y+2/3, x-y+1/3, z+1/3'
+'-x+y+2/3, -x+1/3, z+1/3'
+'x+1/3, y+2/3, z+2/3'
+'-y+1/3, x-y+2/3, z+2/3'
+'-x+y+1/3, -x+2/3, z+2/3'
+'-x, -y, -z'
+'y, -x+y, -z'
+'x-y, x, -z'
+'-x+2/3, -y+1/3, -z+1/3'
+'y+2/3, -x+y+1/3, -z+1/3'
+'x-y+2/3, x+1/3, -z+1/3'
+'-x+1/3, -y+2/3, -z+2/3'
+'y+1/3, -x+y+2/3, -z+2/3'
+'x-y+1/3, x+2/3, -z+2/3'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Lu1 Lu 0.0000 0.0000 0.0000 0.0259(4) Uani 1 6 d S
+Lu2 Lu 0.06064(8) 0.22972(8) 0.06317(3) 0.0274(2) Uani 1 1 d .
+Lu3 Lu 0.41156(8) 0.11017(8) 0.00254(3) 0.0267(2) Uani 1 1 d .
+Lu4 Lu 0.24378(8) 0.17289(8) 0.12849(3) 0.0270(2) Uani 1 1 d .
+Lu5 Lu 0.49083(8) 0.35250(8) 0.06328(3) 0.0285(2) Uani 1 1 d .
+Lu6 Lu 0.15628(8) 0.52057(8) 0.06778(3) 0.0281(2) Uani 1 1 d .
+Lu7 Lu 0.12430(8) 0.33887(8) 0.16722(3) 0.0286(2) Uani 1 1 d .
+Lu8 Lu 0.0000 0.0000 0.19224(5) 0.0296(3) Uani 1 3 d S
+Lu9 Lu 0.3333 0.6667 0.1667 0.0334(5) Uani 1 6 d S
+Ru1 Ru 0.24503(14) 0.18096(14) 0.03230(5) 0.0251(3) Uani 1 1 d .
+Ru2 Ru 0.0000 0.0000 0.09905(10) 0.0259(6) Uani 1 3 d S
+Ru3 Ru 0.29452(15) 0.41366(15) 0.09679(6) 0.0268(3) Uani 1 1 d .
+Ru4 Ru 0.42502(16) 0.10935(16) 0.10427(6) 0.0296(4) Uani 1 1 d .
+Ru5 Ru 0.3333 0.6667 -0.00412(12) 0.0336(7) Uani 1 3 d S
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Lu1 0.0256(6) 0.0256(6) 0.0266(10) 0.000 0.000 0.0128(3)
+Lu2 0.0265(4) 0.0260(4) 0.0293(4) 0.0007(3) -0.0003(3) 0.0128(3)
+Lu3 0.0253(4) 0.0271(4) 0.0275(4) 0.0000(3) 0.0005(3) 0.0129(3)
+Lu4 0.0265(4) 0.0261(4) 0.0289(4) -0.0010(3) -0.0012(3) 0.0134(3)
+Lu5 0.0266(4) 0.0272(4) 0.0303(4) -0.0018(4) -0.0003(4) 0.0124(4)
+Lu6 0.0288(4) 0.0258(4) 0.0313(4) 0.0006(3) 0.0001(4) 0.0148(4)
+Lu7 0.0284(4) 0.0273(4) 0.0300(4) 0.0002(4) 0.0026(3) 0.0140(4)
+Lu8 0.0293(5) 0.0293(5) 0.0302(8) 0.000 0.000 0.0146(2)
+Lu9 0.0318(7) 0.0318(7) 0.0367(12) 0.000 0.000 0.0159(3)
+Ru1 0.0241(7) 0.0246(7) 0.0265(8) 0.0002(6) 0.0000(6) 0.0120(6)
+Ru2 0.0252(8) 0.0252(8) 0.0272(14) 0.000 0.000 0.0126(4)
+Ru3 0.0238(7) 0.0267(8) 0.0278(8) 0.0011(7) -0.0007(6) 0.0110(6)
+Ru4 0.0289(8) 0.0320(8) 0.0304(9) -0.0016(7) -0.0015(7) 0.0171(7)
+Ru5 0.0301(9) 0.0301(9) 0.0405(17) 0.000 0.000 0.0151(4)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Lu Lu -0.4720 5.8584 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Ru Ru -1.2594 0.8363 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+Ru1 Lu1 Ru1 180.00(8) 10 .
+Ru1 Lu1 Ru1 70.23(3) 10 3
+Ru1 Lu1 Ru1 109.77(3) . 3
+Ru1 Lu1 Ru1 109.77(3) 10 12
+Ru1 Lu1 Ru1 70.23(3) . 12
+Ru1 Lu1 Ru1 180.00(6) 3 12
+Ru1 Lu1 Ru1 109.77(3) 10 11
+Ru1 Lu1 Ru1 70.23(3) . 11
+Ru1 Lu1 Ru1 70.23(3) 3 11
+Ru1 Lu1 Ru1 109.77(3) 12 11
+Ru1 Lu1 Ru1 70.23(3) 10 2
+Ru1 Lu1 Ru1 109.77(3) . 2
+Ru1 Lu1 Ru1 109.77(3) 3 2
+Ru1 Lu1 Ru1 70.23(3) 12 2
+Ru1 Lu1 Ru1 180.00(7) 11 2
+Ru1 Lu1 Ru2 70.83(3) 10 10
+Ru1 Lu1 Ru2 109.17(3) . 10
+Ru1 Lu1 Ru2 109.17(3) 3 10
+Ru1 Lu1 Ru2 70.83(3) 12 10
+Ru1 Lu1 Ru2 70.83(3) 11 10
+Ru1 Lu1 Ru2 109.17(3) 2 10
+Ru1 Lu1 Ru2 109.17(3) 10 .
+Ru1 Lu1 Ru2 70.83(3) . .
+Ru1 Lu1 Ru2 70.83(3) 3 .
+Ru1 Lu1 Ru2 109.17(3) 12 .
+Ru1 Lu1 Ru2 109.17(3) 11 .
+Ru1 Lu1 Ru2 70.83(3) 2 .
+Ru2 Lu1 Ru2 180.0 10 .
+Ru1 Lu1 Lu2 54.77(4) 10 10
+Ru1 Lu1 Lu2 125.23(4) . 10
+Ru1 Lu1 Lu2 55.14(4) 3 10
+Ru1 Lu1 Lu2 124.86(4) 12 10
+Ru1 Lu1 Lu2 55.02(3) 11 10
+Ru1 Lu1 Lu2 124.98(3) 2 10
+Ru2 Lu1 Lu2 54.033(16) 10 10
+Ru2 Lu1 Lu2 125.967(16) . 10
+Ru1 Lu1 Lu2 124.86(4) 10 11
+Ru1 Lu1 Lu2 55.14(4) . 11
+Ru1 Lu1 Lu2 124.98(3) 3 11
+Ru1 Lu1 Lu2 55.02(3) 12 11
+Ru1 Lu1 Lu2 54.77(4) 11 11
+Ru1 Lu1 Lu2 125.23(4) 2 11
+Ru2 Lu1 Lu2 54.033(16) 10 11
+Ru2 Lu1 Lu2 125.967(16) . 11
+Lu2 Lu1 Lu2 89.00(2) 10 11
+Ru1 Lu1 Lu2 125.23(4) 10 .
+Ru1 Lu1 Lu2 54.77(4) . .
+Ru1 Lu1 Lu2 124.86(4) 3 .
+Ru1 Lu1 Lu2 55.14(4) 12 .
+Ru1 Lu1 Lu2 124.98(3) 11 .
+Ru1 Lu1 Lu2 55.02(3) 2 .
+Ru2 Lu1 Lu2 125.967(16) 10 .
+Ru2 Lu1 Lu2 54.033(16) . .
+Lu2 Lu1 Lu2 180.00(4) 10 .
+Lu2 Lu1 Lu2 91.00(2) 11 .
+Ru1 Lu1 Lu2 55.02(3) 10 12
+Ru1 Lu1 Lu2 124.98(3) . 12
+Ru1 Lu1 Lu2 125.23(4) 3 12
+Ru1 Lu1 Lu2 54.77(4) 12 12
+Ru1 Lu1 Lu2 124.86(4) 11 12
+Ru1 Lu1 Lu2 55.14(4) 2 12
+Ru2 Lu1 Lu2 54.033(16) 10 12
+Ru2 Lu1 Lu2 125.967(16) . 12
+Lu2 Lu1 Lu2 89.00(2) 10 12
+Lu2 Lu1 Lu2 89.00(2) 11 12
+Lu2 Lu1 Lu2 91.00(2) . 12
+Ru2 Lu2 Ru1 74.40(5) . .
+Ru2 Lu2 Ru1 74.22(5) . 2
+Ru1 Lu2 Ru1 115.27(7) . 2
+Ru2 Lu2 Ru1 115.92(7) . 12
+Ru1 Lu2 Ru1 72.79(4) . 12
+Ru1 Lu2 Ru1 72.62(4) 2 12
+Ru2 Lu2 Ru3 109.83(5) . .
+Ru1 Lu2 Ru3 70.55(5) . .
+Ru1 Lu2 Ru3 173.94(6) 2 .
+Ru1 Lu2 Ru3 108.64(5) 12 .
+Ru2 Lu2 Ru4 109.27(5) . 2
+Ru1 Lu2 Ru4 171.48(6) . 2
+Ru1 Lu2 Ru4 73.24(5) 2 2
+Ru1 Lu2 Ru4 111.20(5) 12 2
+Ru3 Lu2 Ru4 100.94(5) . 2
+Ru2 Lu2 Lu1 58.37(6) . .
+Ru1 Lu2 Lu1 57.69(3) . .
+Ru1 Lu2 Lu1 57.60(3) 2 .
+Ru1 Lu2 Lu1 57.55(3) 12 .
+Ru3 Lu2 Lu1 128.24(4) . .
+Ru4 Lu2 Lu1 130.82(4) 2 .
+Ru2 Lu2 Lu6 154.85(6) . .
+Ru1 Lu2 Lu6 112.16(4) . .
+Ru1 Lu2 Lu6 119.96(4) 2 .
+Ru1 Lu2 Lu6 88.93(4) 12 .
+Ru3 Lu2 Lu6 54.57(4) . .
+Ru4 Lu2 Lu6 61.21(4) 2 .
+Lu1 Lu2 Lu6 146.25(4) . .
+Ru2 Lu2 Lu4 56.04(4) . 2
+Ru1 Lu2 Lu4 130.41(5) . 2
+Ru1 Lu2 Lu4 55.70(4) 2 2
+Ru1 Lu2 Lu4 128.20(5) 12 2
+Ru3 Lu2 Lu4 122.37(5) . 2
+Ru4 Lu2 Lu4 53.58(4) 2 2
+Lu1 Lu2 Lu4 93.61(3) . 2
+Lu6 Lu2 Lu4 112.41(3) . 2
+Ru2 Lu2 Lu3 128.21(4) . 2
+Ru1 Lu2 Lu3 127.16(5) . 2
+Ru1 Lu2 Lu3 54.05(4) 2 2
+Ru1 Lu2 Lu3 54.41(4) 12 2
+Ru3 Lu2 Lu3 121.54(5) . 2
+Ru4 Lu2 Lu3 57.04(4) 2 2
+Lu1 Lu2 Lu3 91.79(3) . 2
+Lu6 Lu2 Lu3 68.55(3) . 2
+Lu4 Lu2 Lu3 89.07(3) 2 2
+Ru2 Lu2 Lu7 87.44(6) . .
+Ru1 Lu2 Lu7 109.77(4) . .
+Ru1 Lu2 Lu7 123.57(5) 2 .
+Ru1 Lu2 Lu7 155.65(5) 12 .
+Ru3 Lu2 Lu7 53.27(4) . .
+Ru4 Lu2 Lu7 63.37(4) 2 .
+Lu1 Lu2 Lu7 145.10(3) . .
+Lu6 Lu2 Lu7 67.44(3) . .
+Lu4 Lu2 Lu7 69.63(3) 2 .
+Lu3 Lu2 Lu7 117.31(3) 2 .
+Ru2 Lu2 Lu4 54.65(3) . .
+Ru1 Lu2 Lu4 54.43(4) . .
+Ru1 Lu2 Lu4 128.87(5) 2 .
+Ru1 Lu2 Lu4 127.21(4) 12 .
+Ru3 Lu2 Lu4 55.38(4) . .
+Ru4 Lu2 Lu4 120.91(5) 2 .
+Lu1 Lu2 Lu4 91.59(3) . .
+Lu6 Lu2 Lu4 108.06(3) . .
+Lu4 Lu2 Lu4 91.58(4) 2 .
+Lu3 Lu2 Lu4 176.51(4) 2 .
+Lu7 Lu2 Lu4 59.83(3) . .
+Ru1 Lu3 Ru1 73.80(6) . 11
+Ru1 Lu3 Ru3 107.36(5) . 11
+Ru1 Lu3 Ru3 69.36(5) 11 11
+Ru1 Lu3 Ru5 108.36(5) . 10_665
+Ru1 Lu3 Ru5 158.20(8) 11 10_665
+Ru3 Lu3 Ru5 89.72(8) 11 10_665
+Ru1 Lu3 Ru4 74.73(5) . .
+Ru1 Lu3 Ru4 113.74(5) 11 .
+Ru3 Lu3 Ru4 176.79(6) 11 .
+Ru5 Lu3 Ru4 87.28(8) 10_665 .
+Ru1 Lu3 Lu5 56.74(4) . .
+Ru1 Lu3 Lu5 130.52(5) 11 .
+Ru3 Lu3 Lu5 121.95(5) 11 .
+Ru5 Lu3 Lu5 55.59(5) 10_665 .
+Ru4 Lu3 Lu5 56.95(4) . .
+Ru1 Lu3 Lu2 55.37(4) . 3
+Ru1 Lu3 Lu2 55.35(4) 11 3
+Ru3 Lu3 Lu2 124.50(4) 11 3
+Ru5 Lu3 Lu2 144.17(7) 10_665 3
+Ru4 Lu3 Lu2 58.66(4) . 3
+Lu5 Lu3 Lu2 93.26(3) . 3
+Ru1 Lu3 Lu6 148.11(5) . 12_655
+Ru1 Lu3 Lu6 110.93(5) 11 12_655
+Ru3 Lu3 Lu6 51.14(4) 11 12_655
+Ru5 Lu3 Lu6 55.57(5) 10_665 12_655
+Ru4 Lu3 Lu6 125.89(4) . 12_655
+Lu5 Lu3 Lu6 110.64(3) . 12_655
+Lu2 Lu3 Lu6 153.77(4) 3 12_655
+Ru1 Lu3 Lu5 124.14(5) . 2_655
+Ru1 Lu3 Lu5 142.82(5) 11 2_655
+Ru3 Lu3 Lu5 123.16(4) 11 2_655
+Ru5 Lu3 Lu5 54.53(5) 10_665 2_655
+Ru4 Lu3 Lu5 53.94(4) . 2_655
+Lu5 Lu3 Lu5 76.03(4) . 2_655
+Lu2 Lu3 Lu5 104.98(3) 3 2_655
+Lu6 Lu3 Lu5 72.04(3) 12_655 2_655
+Ru1 Lu3 Lu2 54.17(4) . 11
+Ru1 Lu3 Lu2 53.69(4) 11 11
+Ru3 Lu3 Lu2 53.41(4) 11 11
+Ru5 Lu3 Lu2 109.09(5) 10_665 11
+Ru4 Lu3 Lu2 128.84(4) . 11
+Lu5 Lu3 Lu2 92.36(3) . 11
+Lu2 Lu3 Lu2 87.28(4) 3 11
+Lu6 Lu3 Lu2 101.88(3) 12_655 11
+Lu5 Lu3 Lu2 163.38(4) 2_655 11
+Ru1 Lu3 Lu5 127.84(5) . 11
+Ru1 Lu3 Lu5 54.04(4) 11 11
+Ru3 Lu3 Lu5 57.24(4) 11 11
+Ru5 Lu3 Lu5 119.88(5) 10_665 11
+Ru4 Lu3 Lu5 123.56(5) . 11
+Lu5 Lu3 Lu5 175.33(4) . 11
+Lu2 Lu3 Lu5 90.64(3) 3 11
+Lu6 Lu3 Lu5 65.06(3) 12_655 11
+Lu5 Lu3 Lu5 100.48(3) 2_655 11
+Lu2 Lu3 Lu5 90.38(3) 11 11
+Ru1 Lu3 Lu6 84.97(4) . 11
+Ru1 Lu3 Lu6 105.81(4) 11 11
+Ru3 Lu3 Lu6 51.05(4) 11 11
+Ru5 Lu3 Lu6 53.81(5) 10_665 11
+Ru4 Lu3 Lu6 127.39(5) . 11
+Lu5 Lu3 Lu6 71.21(3) . 11
+Lu2 Lu3 Lu6 138.44(4) 3 11
+Lu6 Lu3 Lu6 63.24(3) 12_655 11
+Lu5 Lu3 Lu6 107.92(3) 2_655 11
+Lu2 Lu3 Lu6 56.36(2) 11 11
+Lu5 Lu3 Lu6 107.36(3) 11 11
+Ru4 Lu4 Ru1 76.50(5) . .
+Ru4 Lu4 Ru2 114.21(5) . .
+Ru1 Lu4 Ru2 72.91(7) . .
+Ru4 Lu4 Ru3 114.61(6) . .
+Ru1 Lu4 Ru3 69.25(5) . .
+Ru2 Lu4 Ru3 106.47(5) . .
+Ru4 Lu4 Ru4 113.38(4) . 13
+Ru1 Lu4 Ru4 165.77(5) . 13
+Ru2 Lu4 Ru4 109.84(7) . 13
+Ru3 Lu4 Ru4 96.83(5) . 13
+Ru4 Lu4 Lu2 60.42(4) . 3
+Ru1 Lu4 Lu2 55.03(4) . 3
+Ru2 Lu4 Lu2 54.18(4) . 3
+Ru3 Lu4 Lu2 123.94(5) . 3
+Ru4 Lu4 Lu2 138.27(5) 13 3
+Ru4 Lu4 Lu4 59.74(4) . 13
+Ru1 Lu4 Lu4 135.03(5) . 13
+Ru2 Lu4 Lu4 132.79(6) . 13
+Ru3 Lu4 Lu4 118.51(5) . 13
+Ru4 Lu4 Lu4 53.64(4) 13 13
+Lu2 Lu4 Lu4 105.62(4) 3 13
+Ru4 Lu4 Lu8 124.36(4) . .
+Ru1 Lu4 Lu8 125.49(5) . .
+Ru2 Lu4 Lu8 52.61(6) . .
+Ru3 Lu4 Lu8 120.95(4) . .
+Ru4 Lu4 Lu8 58.51(4) 13 .
+Lu2 Lu4 Lu8 89.75(3) 3 .
+Lu4 Lu4 Lu8 90.20(4) 13 .
+Ru4 Lu4 Lu7 159.31(5) . .
+Ru1 Lu4 Lu7 108.68(4) . .
+Ru2 Lu4 Lu7 86.26(3) . .
+Ru3 Lu4 Lu7 52.79(4) . .
+Ru4 Lu4 Lu7 58.41(4) 13 .
+Lu2 Lu4 Lu7 139.28(4) 3 .
+Lu4 Lu4 Lu7 109.13(4) 13 .
+Lu8 Lu4 Lu7 69.79(2) . .
+Ru4 Lu4 Lu2 129.90(5) . .
+Ru1 Lu4 Lu2 53.47(4) . .
+Ru2 Lu4 Lu2 52.89(4) . .
+Ru3 Lu4 Lu2 53.77(4) . .
+Ru4 Lu4 Lu2 116.31(4) 13 .
+Lu2 Lu4 Lu2 85.76(4) 3 .
+Lu4 Lu4 Lu2 168.46(5) 13 .
+Lu8 Lu4 Lu2 87.92(3) . .
+Lu7 Lu4 Lu2 59.61(3) . .
+Ru4 Lu4 Lu5 56.56(4) . .
+Ru1 Lu4 Lu5 54.35(4) . .
+Ru2 Lu4 Lu5 127.26(6) . .
+Ru3 Lu4 Lu5 58.14(4) . .
+Ru4 Lu4 Lu5 121.39(5) 13 .
+Lu2 Lu4 Lu5 90.78(3) 3 .
+Lu4 Lu4 Lu5 90.38(4) 13 .
+Lu8 Lu4 Lu5 179.08(3) . .
+Lu7 Lu4 Lu5 109.34(3) . .
+Lu2 Lu4 Lu5 91.36(3) . .
+Ru4 Lu4 Lu7 94.33(4) . 15
+Ru1 Lu4 Lu7 107.72(4) . 15
+Ru2 Lu4 Lu7 150.18(3) . 15
+Ru3 Lu4 Lu7 50.28(4) . 15
+Ru4 Lu4 Lu7 62.63(4) 13 15
+Lu2 Lu4 Lu7 150.76(4) 3 15
+Lu4 Lu4 Lu7 68.50(3) 13 15
+Lu8 Lu4 Lu7 118.24(4) . 15
+Lu7 Lu4 Lu7 64.98(3) . 15
+Lu2 Lu4 Lu7 102.49(3) . 15
+Lu5 Lu4 Lu7 61.36(3) . 15
+Ru1 Lu5 Ru4 156.86(6) . 3_665
+Ru1 Lu5 Ru5 108.38(6) . 10_665
+Ru4 Lu5 Ru5 91.65(5) 3_665 10_665
+Ru1 Lu5 Ru4 73.90(5) . .
+Ru4 Lu5 Ru4 118.84(7) 3_665 .
+Ru5 Lu5 Ru4 89.76(5) 10_665 .
+Ru1 Lu5 Ru3 66.49(5) . .
+Ru4 Lu5 Ru3 90.76(5) 3_665 .
+Ru5 Lu5 Ru3 160.52(7) 10_665 .
+Ru4 Lu5 Ru3 105.92(5) . .
+Ru1 Lu5 Lu3 53.86(4) . .
+Ru4 Lu5 Lu3 148.85(5) 3_665 .
+Ru5 Lu5 Lu3 58.48(3) 10_665 .
+Ru4 Lu5 Lu3 58.03(4) . .
+Ru3 Lu5 Lu3 120.32(4) . .
+Ru1 Lu5 Lu8 132.45(4) . 13
+Ru4 Lu5 Lu8 60.32(4) 3_665 13
+Ru5 Lu5 Lu8 81.69(6) 10_665 13
+Ru4 Lu5 Lu8 59.48(4) . 13
+Ru3 Lu5 Lu8 116.05(4) . 13
+Lu3 Lu5 Lu8 103.07(3) . 13
+Ru1 Lu5 Lu3 123.95(5) . 3_665
+Ru4 Lu5 Lu3 57.68(4) 3_665 3_665
+Ru5 Lu5 Lu3 57.30(3) 10_665 3_665
+Ru4 Lu5 Lu3 145.17(5) . 3_665
+Ru3 Lu5 Lu3 108.72(4) . 3_665
+Lu3 Lu5 Lu3 105.60(4) . 3_665
+Lu8 Lu5 Lu3 100.99(3) 13 3_665
+Ru1 Lu5 Lu4 53.53(4) . .
+Ru4 Lu5 Lu4 116.62(5) 3_665 .
+Ru5 Lu5 Lu4 140.09(4) 10_665 .
+Ru4 Lu5 Lu4 52.71(4) . .
+Ru3 Lu5 Lu4 53.29(4) . .
+Lu3 Lu5 Lu4 86.84(3) . .
+Lu8 Lu5 Lu4 88.46(3) 13 .
+Lu3 Lu5 Lu4 161.99(4) 3_665 .
+Ru1 Lu5 Lu3 51.91(4) . 12
+Ru4 Lu5 Lu3 111.63(5) 3_665 12
+Ru5 Lu5 Lu3 107.91(6) 10_665 12
+Ru4 Lu5 Lu3 125.74(5) . 12
+Ru3 Lu5 Lu3 53.54(4) . 12
+Lu3 Lu5 Lu3 87.95(3) . 12
+Lu8 Lu5 Lu3 168.27(4) 13 12
+Lu3 Lu5 Lu3 79.52(3) 3_665 12
+Lu4 Lu5 Lu3 88.14(3) . 12
+Ru1 Lu5 Lu7 105.33(4) . 15
+Ru4 Lu5 Lu7 58.04(4) 3_665 15
+Ru5 Lu5 Lu7 144.95(6) 10_665 15
+Ru4 Lu5 Lu7 90.54(4) . 15
+Ru3 Lu5 Lu7 48.59(4) . 15
+Lu3 Lu5 Lu7 144.67(4) . 15
+Lu8 Lu5 Lu7 68.50(3) 13 15
+Lu3 Lu5 Lu7 109.68(3) 3_665 15
+Lu4 Lu5 Lu7 59.43(3) . 15
+Lu3 Lu5 Lu7 100.17(3) 12 15
+Ru1 Lu5 Lu6 101.01(4) . 2_665
+Ru4 Lu5 Lu6 57.69(4) 3_665 2_665
+Ru5 Lu5 Lu6 120.23(4) 10_665 2_665
+Ru4 Lu5 Lu6 149.02(5) . 2_665
+Ru3 Lu5 Lu6 47.01(4) . 2_665
+Lu3 Lu5 Lu6 142.79(3) . 2_665
+Lu8 Lu5 Lu6 113.71(3) 13 2_665
+Lu3 Lu5 Lu6 63.03(3) 3_665 2_665
+Lu4 Lu5 Lu6 99.18(3) . 2_665
+Lu3 Lu5 Lu6 55.89(2) 12 2_665
+Lu7 Lu5 Lu6 60.80(2) 15 2_665
+Ru3 Lu6 Ru3 136.00(8) 3_565 .
+Ru3 Lu6 Ru5 95.50(5) 3_565 .
+Ru3 Lu6 Ru5 93.77(5) . .
+Ru3 Lu6 Ru4 91.37(5) 3_565 2
+Ru3 Lu6 Ru4 98.95(5) . 2
+Ru5 Lu6 Ru4 153.48(7) . 2
+Ru3 Lu6 Lu2 148.41(5) 3_565 .
+Ru3 Lu6 Lu2 56.04(4) . .
+Ru5 Lu6 Lu2 114.14(4) . .
+Ru4 Lu6 Lu2 57.22(4) 2 .
+Ru3 Lu6 Lu3 57.57(4) 3_565 11_565
+Ru3 Lu6 Lu3 150.89(5) . 11_565
+Ru5 Lu6 Lu3 57.19(3) . 11_565
+Ru4 Lu6 Lu3 106.94(4) 2 11_565
+Lu2 Lu6 Lu3 130.13(4) . 11_565
+Ru3 Lu6 Lu3 150.80(5) 3_565 12
+Ru3 Lu6 Lu3 54.92(4) . 12
+Ru5 Lu6 Lu3 55.32(3) . 12
+Ru4 Lu6 Lu3 115.25(4) 2 12
+Lu2 Lu6 Lu3 60.01(3) . 12
+Lu3 Lu6 Lu3 100.88(4) 11_565 12
+Ru3 Lu6 Lu6 50.97(4) 3_565 3_565
+Ru3 Lu6 Lu6 105.55(4) . 3_565
+Ru5 Lu6 Lu6 53.11(4) . 3_565
+Ru4 Lu6 Lu6 141.98(5) 2 3_565
+Lu2 Lu6 Lu6 159.26(4) . 3_565
+Lu3 Lu6 Lu6 60.52(3) 11_565 3_565
+Lu3 Lu6 Lu6 102.63(2) 12 3_565
+Ru3 Lu6 Lu6 107.43(4) 3_565 2_665
+Ru3 Lu6 Lu6 48.95(4) . 2_665
+Ru5 Lu6 Lu6 53.11(4) . 2_665
+Ru4 Lu6 Lu6 147.15(4) 2 2_665
+Lu2 Lu6 Lu6 99.39(4) . 2_665
+Lu3 Lu6 Lu6 105.89(2) 11_565 2_665
+Lu3 Lu6 Lu6 56.24(3) 12 2_665
+Lu6 Lu6 Lu6 60.0 3_565 2_665
+Ru3 Lu6 Lu9 68.37(4) 3_565 .
+Ru3 Lu6 Lu9 67.64(4) . .
+Ru5 Lu6 Lu9 101.16(5) . .
+Ru4 Lu6 Lu9 105.19(4) 2 .
+Lu2 Lu6 Lu9 113.46(3) . .
+Lu3 Lu6 Lu9 116.39(3) 11_565 .
+Lu3 Lu6 Lu9 112.45(3) 12 .
+Lu6 Lu6 Lu9 60.247(12) 3_565 .
+Lu6 Lu6 Lu9 60.247(12) 2_665 .
+Ru3 Lu6 Lu7 48.58(4) 3_565 14_455
+Ru3 Lu6 Lu7 106.06(5) . 14_455
+Ru5 Lu6 Lu7 142.70(4) . 14_455
+Ru4 Lu6 Lu7 54.29(4) 2 14_455
+Lu2 Lu6 Lu7 103.12(3) . 14_455
+Lu3 Lu6 Lu7 99.85(3) 11_565 14_455
+Lu3 Lu6 Lu7 158.95(3) 12 14_455
+Lu6 Lu6 Lu7 90.71(3) 3_565 14_455
+Lu6 Lu6 Lu7 120.59(2) 2_665 14_455
+Lu9 Lu6 Lu7 60.35(2) . 14_455
+Ru3 Lu6 Lu5 56.00(4) 3_565 3_565
+Ru3 Lu6 Lu5 148.54(5) . 3_565
+Ru5 Lu6 Lu5 115.56(4) . 3_565
+Ru4 Lu6 Lu5 49.64(4) 2 3_565
+Lu2 Lu6 Lu5 99.12(3) . 3_565
+Lu3 Lu6 Lu5 59.06(2) 11_565 3_565
+Lu3 Lu6 Lu5 133.40(3) 12 3_565
+Lu6 Lu6 Lu5 101.37(4) 3_565 3_565
+Lu6 Lu6 Lu5 161.26(4) 2_665 3_565
+Lu9 Lu6 Lu5 114.12(3) . 3_565
+Lu7 Lu6 Lu5 57.24(2) 14_455 3_565
+Ru3 Lu7 Ru3 135.53(7) 14_455 .
+Ru3 Lu7 Ru4 93.56(5) 14_455 13
+Ru3 Lu7 Ru4 97.95(5) . 13
+Ru3 Lu7 Lu2 148.76(5) 14_455 .
+Ru3 Lu7 Lu2 54.97(4) . .
+Ru4 Lu7 Lu2 115.50(4) 13 .
+Ru3 Lu7 Lu4 150.03(5) 14_455 .
+Ru3 Lu7 Lu4 56.12(4) . .
+Ru4 Lu7 Lu4 56.60(4) 13 .
+Lu2 Lu7 Lu4 60.57(3) . .
+Ru3 Lu7 Ru4 94.04(5) 14_455 2
+Ru3 Lu7 Ru4 95.68(5) . 2
+Ru4 Lu7 Ru4 151.51(5) 13 2
+Lu2 Lu7 Ru4 54.97(4) . 2
+Lu4 Lu7 Ru4 113.57(4) . 2
+Ru3 Lu7 Lu4 55.69(4) 14_455 14_455
+Ru3 Lu7 Lu4 149.46(5) . 14_455
+Ru4 Lu7 Lu4 110.40(5) 13 14_455
+Lu2 Lu7 Lu4 100.87(3) . 14_455
+Lu4 Lu7 Lu4 132.74(3) . 14_455
+Ru4 Lu7 Lu4 53.85(4) 2 14_455
+Ru3 Lu7 Lu5 58.57(4) 14_455 14_455
+Ru3 Lu7 Lu5 149.86(5) . 14_455
+Ru4 Lu7 Lu5 51.94(4) 13 14_455
+Lu2 Lu7 Lu5 131.21(3) . 14_455
+Lu4 Lu7 Lu5 98.80(3) . 14_455
+Ru4 Lu7 Lu5 110.96(4) 2 14_455
+Lu4 Lu7 Lu5 59.22(3) 14_455 14_455
+Ru3 Lu7 Lu6 48.83(4) 14_455 15
+Ru3 Lu7 Lu6 105.24(4) . 15
+Ru4 Lu7 Lu6 56.70(4) 13 15
+Lu2 Lu7 Lu6 159.29(4) . 15
+Lu4 Lu7 Lu6 104.79(3) . 15
+Ru4 Lu7 Lu6 141.63(4) 2 15
+Lu4 Lu7 Lu6 99.83(3) 14_455 15
+Lu5 Lu7 Lu6 61.96(3) 14_455 15
+Ru3 Lu7 Lu9 68.13(4) 14_455 .
+Ru3 Lu7 Lu9 67.42(4) . .
+Ru4 Lu7 Lu9 106.69(4) 13 .
+Lu2 Lu7 Lu9 110.77(3) . .
+Lu4 Lu7 Lu9 114.49(3) . .
+Ru4 Lu7 Lu9 101.62(4) 2 .
+Lu4 Lu7 Lu9 112.73(3) 14_455 .
+Lu5 Lu7 Lu9 118.00(3) 14_455 .
+Lu6 Lu7 Lu9 59.78(2) 15 .
+Ru3 Lu7 Lu7 106.21(5) 14_455 15
+Ru3 Lu7 Lu7 48.14(4) . 15
+Ru4 Lu7 Lu7 59.50(4) 13 15
+Lu2 Lu7 Lu7 98.72(4) . 15
+Lu4 Lu7 Lu7 58.46(3) . 15
+Ru4 Lu7 Lu7 142.63(5) 2 15
+Lu4 Lu7 Lu7 160.39(5) 14_455 15
+Lu5 Lu7 Lu7 106.40(4) 14_455 15
+Lu6 Lu7 Lu7 60.59(3) 15 15
+Lu9 Lu7 Lu7 60.0 . 15
+Ru3 Lu7 Lu7 50.11(4) 14_455 14_455
+Ru3 Lu7 Lu7 105.85(5) . 14_455
+Ru4 Lu7 Lu7 143.40(5) 13 14_455
+Lu2 Lu7 Lu7 100.96(4) . 14_455
+Lu4 Lu7 Lu7 158.90(5) . 14_455
+Ru4 Lu7 Lu7 53.06(4) 2 14_455
+Lu4 Lu7 Lu7 56.56(3) 14_455 14_455
+Lu5 Lu7 Lu7 101.49(4) 14_455 14_455
+Lu6 Lu7 Lu7 89.94(3) 15 14_455
+Lu9 Lu7 Lu7 60.0 . 14_455
+Lu7 Lu7 Lu7 119.991(1) 15 14_455
+Ru2 Lu8 Ru4 110.50(4) . 15_445
+Ru2 Lu8 Ru4 110.50(4) . 13
+Ru4 Lu8 Ru4 108.42(4) 15_445 13
+Ru2 Lu8 Ru4 110.50(4) . 14_455
+Ru4 Lu8 Ru4 108.42(4) 15_445 14_455
+Ru4 Lu8 Ru4 108.42(4) 13 14_455
+Ru2 Lu8 Lu5 134.72(3) . 13
+Ru4 Lu8 Lu5 53.65(4) 15_445 13
+Ru4 Lu8 Lu5 55.56(4) 13 13
+Ru4 Lu8 Lu5 114.77(6) 14_455 13
+Ru2 Lu8 Lu5 134.72(3) . 15_445
+Ru4 Lu8 Lu5 55.56(4) 15_445 15_445
+Ru4 Lu8 Lu5 114.77(6) 13 15_445
+Ru4 Lu8 Lu5 53.65(4) 14_455 15_445
+Lu5 Lu8 Lu5 75.96(4) 13 15_445
+Ru2 Lu8 Lu5 134.72(3) . 14_455
+Ru4 Lu8 Lu5 114.77(6) 15_445 14_455
+Ru4 Lu8 Lu5 53.65(4) 13 14_455
+Ru4 Lu8 Lu5 55.56(4) 14_455 14_455
+Lu5 Lu8 Lu5 75.96(4) 13 14_455
+Lu5 Lu8 Lu5 75.96(4) 15_445 14_455
+Ru2 Lu8 Lu4 55.20(3) . 3
+Ru4 Lu8 Lu4 56.60(4) 15_445 3
+Ru4 Lu8 Lu4 136.15(4) 13 3
+Ru4 Lu8 Lu4 115.41(4) 14_455 3
+Lu5 Lu8 Lu4 102.39(2) 13 3
+Lu5 Lu8 Lu4 90.94(2) 15_445 3
+Lu5 Lu8 Lu4 166.84(4) 14_455 3
+Ru2 Lu8 Lu4 55.20(3) . 2
+Ru4 Lu8 Lu4 136.15(4) 15_445 2
+Ru4 Lu8 Lu4 115.41(4) 13 2
+Ru4 Lu8 Lu4 56.60(4) 14_455 2
+Lu5 Lu8 Lu4 166.84(4) 13 2
+Lu5 Lu8 Lu4 102.39(2) 15_445 2
+Lu5 Lu8 Lu4 90.94(2) 14_455 2
+Lu4 Lu8 Lu4 90.65(4) 3 2
+Ru2 Lu8 Lu4 55.20(3) . .
+Ru4 Lu8 Lu4 115.41(4) 15_445 .
+Ru4 Lu8 Lu4 56.60(4) 13 .
+Ru4 Lu8 Lu4 136.14(4) 14_455 .
+Lu5 Lu8 Lu4 90.94(2) 13 .
+Lu5 Lu8 Lu4 166.84(4) 15_445 .
+Lu5 Lu8 Lu4 102.39(2) 14_455 .
+Lu4 Lu8 Lu4 90.65(4) 3 .
+Lu4 Lu8 Lu4 90.65(4) 2 .
+Ru2 Lu8 Lu7 78.71(3) . 2
+Ru4 Lu8 Lu7 82.51(3) 15_445 2
+Ru4 Lu8 Lu7 160.84(4) 13 2
+Ru4 Lu8 Lu7 52.51(3) 14_455 2
+Lu5 Lu8 Lu7 129.80(3) 13 2
+Lu5 Lu8 Lu7 57.88(2) 15_445 2
+Lu5 Lu8 Lu7 107.73(3) 14_455 2
+Lu4 Lu8 Lu7 62.99(2) 3 2
+Lu4 Lu8 Lu7 55.13(2) 2 2
+Lu4 Lu8 Lu7 133.68(5) . 2
+Ru2 Lu8 Lu7 78.71(3) . .
+Ru4 Lu8 Lu7 160.84(4) 15_445 .
+Ru4 Lu8 Lu7 52.51(3) 13 .
+Ru4 Lu8 Lu7 82.51(3) 14_455 .
+Lu5 Lu8 Lu7 107.73(3) 13 .
+Lu5 Lu8 Lu7 129.80(3) 15_445 .
+Lu5 Lu8 Lu7 57.88(2) 14_455 .
+Lu4 Lu8 Lu7 133.68(5) 3 .
+Lu4 Lu8 Lu7 62.99(2) 2 .
+Lu4 Lu8 Lu7 55.13(2) . .
+Lu7 Lu8 Lu7 116.267(18) 2 .
+Lu6 Lu9 Lu6 59.51(2) . 3_565
+Lu6 Lu9 Lu6 59.51(2) . 2_665
+Lu6 Lu9 Lu6 59.51(2) 3_565 2_665
+Lu6 Lu9 Lu6 120.49(2) . 15
+Lu6 Lu9 Lu6 180.0 3_565 15
+Lu6 Lu9 Lu6 120.50(2) 2_665 15
+Lu6 Lu9 Lu6 180.0 . 13_565
+Lu6 Lu9 Lu6 120.49(2) 3_565 13_565
+Lu6 Lu9 Lu6 120.50(2) 2_665 13_565
+Lu6 Lu9 Lu6 59.51(2) 15 13_565
+Lu6 Lu9 Lu6 120.49(2) . 14_455
+Lu6 Lu9 Lu6 120.49(2) 3_565 14_455
+Lu6 Lu9 Lu6 180.0 2_665 14_455
+Lu6 Lu9 Lu6 59.50(2) 15 14_455
+Lu6 Lu9 Lu6 59.50(2) 13_565 14_455
+Lu6 Lu9 Lu7 90.01(2) . 15
+Lu6 Lu9 Lu7 119.38(2) 3_565 15
+Lu6 Lu9 Lu7 59.87(2) 2_665 15
+Lu6 Lu9 Lu7 60.62(2) 15 15
+Lu6 Lu9 Lu7 89.99(2) 13_565 15
+Lu6 Lu9 Lu7 120.13(2) 14_455 15
+Lu6 Lu9 Lu7 89.99(2) . 3_565
+Lu6 Lu9 Lu7 60.62(2) 3_565 3_565
+Lu6 Lu9 Lu7 120.13(2) 2_665 3_565
+Lu6 Lu9 Lu7 119.38(2) 15 3_565
+Lu6 Lu9 Lu7 90.01(2) 13_565 3_565
+Lu6 Lu9 Lu7 59.87(2) 14_455 3_565
+Lu7 Lu9 Lu7 180.0 15 3_565
+Lu6 Lu9 Lu7 60.62(2) . .
+Lu6 Lu9 Lu7 120.13(2) 3_565 .
+Lu6 Lu9 Lu7 89.99(2) 2_665 .
+Lu6 Lu9 Lu7 59.87(2) 15 .
+Lu6 Lu9 Lu7 119.38(2) 13_565 .
+Lu6 Lu9 Lu7 90.01(2) 14_455 .
+Lu7 Lu9 Lu7 60.0 15 .
+Lu7 Lu9 Lu7 120.0 3_565 .
+Lu6 Lu9 Lu7 120.13(2) . 2_665
+Lu6 Lu9 Lu7 89.99(2) 3_565 2_665
+Lu6 Lu9 Lu7 60.62(2) 2_665 2_665
+Lu6 Lu9 Lu7 90.01(2) 15 2_665
+Lu6 Lu9 Lu7 59.87(2) 13_565 2_665
+Lu6 Lu9 Lu7 119.38(2) 14_455 2_665
+Lu7 Lu9 Lu7 60.0 15 2_665
+Lu7 Lu9 Lu7 120.0 3_565 2_665
+Lu7 Lu9 Lu7 120.0 . 2_665
+Lu6 Lu9 Lu7 119.38(2) . 13_565
+Lu6 Lu9 Lu7 59.87(2) 3_565 13_565
+Lu6 Lu9 Lu7 90.01(2) 2_665 13_565
+Lu6 Lu9 Lu7 120.13(2) 15 13_565
+Lu6 Lu9 Lu7 60.62(2) 13_565 13_565
+Lu6 Lu9 Lu7 89.99(2) 14_455 13_565
+Lu7 Lu9 Lu7 120.0 15 13_565
+Lu7 Lu9 Lu7 60.0 3_565 13_565
+Lu7 Lu9 Lu7 180.0 . 13_565
+Lu7 Lu9 Lu7 60.0 2_665 13_565
+Lu6 Lu9 Lu7 59.87(2) . 14_455
+Lu6 Lu9 Lu7 90.01(2) 3_565 14_455
+Lu6 Lu9 Lu7 119.38(2) 2_665 14_455
+Lu6 Lu9 Lu7 89.99(2) 15 14_455
+Lu6 Lu9 Lu7 120.12(2) 13_565 14_455
+Lu6 Lu9 Lu7 60.62(2) 14_455 14_455
+Lu7 Lu9 Lu7 120.0 15 14_455
+Lu7 Lu9 Lu7 60.0 3_565 14_455
+Lu7 Lu9 Lu7 60.0 . 14_455
+Lu7 Lu9 Lu7 180.0 2_665 14_455
+Lu7 Lu9 Lu7 120.0 13_565 14_455
+Lu3 Ru1 Lu3 111.58(5) . 12
+Lu3 Ru1 Lu2 174.82(7) . .
+Lu3 Ru1 Lu2 73.05(4) 12 .
+Lu3 Ru1 Lu2 70.58(4) . 3
+Lu3 Ru1 Lu2 175.08(7) 12 3
+Lu2 Ru1 Lu2 104.62(6) . 3
+Lu3 Ru1 Lu2 73.07(5) . 11
+Lu3 Ru1 Lu2 70.24(4) 12 11
+Lu2 Ru1 Lu2 107.11(6) . 11
+Lu2 Ru1 Lu2 106.80(6) 3 11
+Lu3 Ru1 Lu4 107.29(6) . .
+Lu3 Ru1 Lu4 113.50(6) 12 .
+Lu2 Ru1 Lu4 72.09(4) . .
+Lu2 Ru1 Lu4 69.27(4) 3 .
+Lu2 Ru1 Lu4 175.33(7) 11 .
+Lu3 Ru1 Lu5 69.40(4) . .
+Lu3 Ru1 Lu5 74.05(4) 12 .
+Lu2 Ru1 Lu5 114.81(6) . .
+Lu2 Ru1 Lu5 110.85(6) 3 .
+Lu2 Ru1 Lu5 112.08(6) 11 .
+Lu4 Ru1 Lu5 72.11(4) . .
+Lu3 Ru1 Lu1 108.22(5) . .
+Lu3 Ru1 Lu1 107.71(5) 12 .
+Lu2 Ru1 Lu1 67.53(4) . .
+Lu2 Ru1 Lu1 67.38(4) 3 .
+Lu2 Ru1 Lu1 67.31(4) 11 .
+Lu4 Ru1 Lu1 108.40(5) . .
+Lu5 Ru1 Lu1 177.54(6) . .
+Lu8 Ru2 Lu2 112.40(6) . 2
+Lu8 Ru2 Lu2 112.40(6) . 3
+Lu2 Ru2 Lu2 106.39(6) 2 3
+Lu8 Ru2 Lu2 112.40(6) . .
+Lu2 Ru2 Lu2 106.39(6) 2 .
+Lu2 Ru2 Lu2 106.39(6) 3 .
+Lu8 Ru2 Lu4 72.20(6) . .
+Lu2 Ru2 Lu4 175.14(11) 2 .
+Lu2 Ru2 Lu4 69.78(3) 3 .
+Lu2 Ru2 Lu4 72.46(2) . .
+Lu8 Ru2 Lu4 72.20(6) . 3
+Lu2 Ru2 Lu4 69.78(3) 2 3
+Lu2 Ru2 Lu4 72.46(2) 3 3
+Lu2 Ru2 Lu4 175.14(11) . 3
+Lu4 Ru2 Lu4 111.09(5) . 3
+Lu8 Ru2 Lu4 72.20(6) . 2
+Lu2 Ru2 Lu4 72.46(2) 2 2
+Lu2 Ru2 Lu4 175.14(11) 3 2
+Lu2 Ru2 Lu4 69.78(3) . 2
+Lu4 Ru2 Lu4 111.09(5) . 2
+Lu4 Ru2 Lu4 111.09(5) 3 2
+Lu8 Ru2 Lu1 180.0 . .
+Lu2 Ru2 Lu1 67.60(6) 2 .
+Lu2 Ru2 Lu1 67.60(6) 3 .
+Lu2 Ru2 Lu1 67.60(6) . .
+Lu4 Ru2 Lu1 107.80(6) . .
+Lu4 Ru2 Lu1 107.80(6) 3 .
+Lu4 Ru2 Lu1 107.80(6) 2 .
+Lu7 Ru3 Lu6 82.59(5) 15 2_665
+Lu7 Ru3 Lu7 81.75(5) 15 .
+Lu6 Ru3 Lu7 134.19(7) 2_665 .
+Lu7 Ru3 Lu6 134.22(7) 15 .
+Lu6 Ru3 Lu6 80.09(6) 2_665 .
+Lu7 Ru3 Lu6 80.76(5) . .
+Lu7 Ru3 Lu2 141.18(7) 15 .
+Lu6 Ru3 Lu2 136.12(7) 2_665 .
+Lu7 Ru3 Lu2 71.76(5) . .
+Lu6 Ru3 Lu2 69.39(4) . .
+Lu7 Ru3 Lu4 74.02(5) 15 .
+Lu6 Ru3 Lu4 142.66(7) 2_665 .
+Lu7 Ru3 Lu4 71.08(4) . .
+Lu6 Ru3 Lu4 136.69(6) . .
+Lu2 Ru3 Lu4 70.85(4) . .
+Lu7 Ru3 Lu3 137.64(7) 15 12
+Lu6 Ru3 Lu3 71.28(5) 2_665 12
+Lu7 Ru3 Lu3 139.99(6) . 12
+Lu6 Ru3 Lu3 74.04(5) . 12
+Lu2 Ru3 Lu3 70.49(4) . 12
+Lu4 Ru3 Lu3 107.82(6) . 12
+Lu7 Ru3 Lu5 72.84(5) 15 .
+Lu6 Ru3 Lu5 76.99(5) 2_665 .
+Lu7 Ru3 Lu5 136.74(6) . .
+Lu6 Ru3 Lu5 141.26(7) . .
+Lu2 Ru3 Lu5 108.13(6) . .
+Lu4 Ru3 Lu5 68.58(4) . .
+Lu3 Ru3 Lu5 69.21(4) 12 .
+Lu4 Ru4 Lu5 157.47(7) . 2_655
+Lu4 Ru4 Lu5 70.73(4) . .
+Lu5 Ru4 Lu5 86.76(6) 2_655 .
+Lu4 Ru4 Lu3 101.39(6) . .
+Lu5 Ru4 Lu3 68.39(4) 2_655 .
+Lu5 Ru4 Lu3 65.01(4) . .
+Lu4 Ru4 Lu4 66.62(4) . 13
+Lu5 Ru4 Lu4 119.55(6) 2_655 13
+Lu5 Ru4 Lu4 102.17(6) . 13
+Lu3 Ru4 Lu4 165.50(7) . 13
+Lu4 Ru4 Lu2 66.00(4) . 3
+Lu5 Ru4 Lu2 121.69(6) 2_655 3
+Lu5 Ru4 Lu2 101.84(6) . 3
+Lu3 Ru4 Lu2 64.30(4) . 3
+Lu4 Ru4 Lu2 114.63(6) 13 3
+Lu4 Ru4 Lu7 127.32(7) . 13
+Lu5 Ru4 Lu7 70.02(4) 2_655 13
+Lu5 Ru4 Lu7 139.20(7) . 13
+Lu3 Ru4 Lu7 129.00(6) . 13
+Lu4 Ru4 Lu7 64.99(4) 13 13
+Lu2 Ru4 Lu7 118.84(6) 3 13
+Lu4 Ru4 Lu8 102.17(5) . 13
+Lu5 Ru4 Lu8 66.03(4) 2_655 13
+Lu5 Ru4 Lu8 64.95(4) . 13
+Lu3 Ru4 Lu8 112.16(6) . 13
+Lu4 Ru4 Lu8 64.89(5) 13 13
+Lu2 Ru4 Lu8 165.34(6) 3 13
+Lu7 Ru4 Lu8 74.90(4) 13 13
+Lu4 Ru4 Lu6 124.49(6) . 3
+Lu5 Ru4 Lu6 72.68(4) 2_655 3
+Lu5 Ru4 Lu6 136.18(7) . 3
+Lu3 Ru4 Lu6 71.45(4) . 3
+Lu4 Ru4 Lu6 121.65(6) 13 3
+Lu2 Ru4 Lu6 61.57(4) 3 3
+Lu7 Ru4 Lu6 69.01(4) 13 3
+Lu8 Ru4 Lu6 132.16(6) 13 3
+Lu4 Ru4 Lu7 73.46(4) . 3
+Lu5 Ru4 Lu7 129.06(6) 2_655 3
+Lu5 Ru4 Lu7 144.17(6) . 3
+Lu3 Ru4 Lu7 122.49(6) . 3
+Lu4 Ru4 Lu7 63.53(4) 13 3
+Lu2 Ru4 Lu7 61.67(4) 3 3
+Lu7 Ru4 Lu7 67.43(4) 13 3
+Lu8 Ru4 Lu7 125.06(6) 13 3
+Lu6 Ru4 Lu7 66.94(4) 3 3
+Lu5 Ru5 Lu5 87.56(8) 11_565 12
+Lu5 Ru5 Lu5 87.56(8) 11_565 10_665
+Lu5 Ru5 Lu5 87.56(8) 12 10_665
+Lu5 Ru5 Lu6 83.18(3) 11_565 3_565
+Lu5 Ru5 Lu6 138.21(3) 12 3_565
+Lu5 Ru5 Lu6 132.34(3) 10_665 3_565
+Lu5 Ru5 Lu6 132.34(3) 11_565 .
+Lu5 Ru5 Lu6 83.18(3) 12 .
+Lu5 Ru5 Lu6 138.21(3) 10_665 .
+Lu6 Ru5 Lu6 73.78(8) 3_565 .
+Lu5 Ru5 Lu6 138.21(3) 11_565 2_665
+Lu5 Ru5 Lu6 132.34(3) 12 2_665
+Lu5 Ru5 Lu6 83.18(3) 10_665 2_665
+Lu6 Ru5 Lu6 73.78(8) 3_565 2_665
+Lu6 Ru5 Lu6 73.78(8) . 2_665
+Lu5 Ru5 Lu3 65.93(3) 11_565 11_565
+Lu5 Ru5 Lu3 68.16(3) 12 11_565
+Lu5 Ru5 Lu3 143.90(12) 10_665 11_565
+Lu6 Ru5 Lu3 70.86(4) 3_565 11_565
+Lu6 Ru5 Lu3 67.23(4) . 11_565
+Lu6 Ru5 Lu3 132.92(11) 2_665 11_565
+Lu5 Ru5 Lu3 68.16(3) 11_565 10_665
+Lu5 Ru5 Lu3 143.90(12) 12 10_665
+Lu5 Ru5 Lu3 65.93(3) 10_665 10_665
+Lu6 Ru5 Lu3 67.24(4) 3_565 10_665
+Lu6 Ru5 Lu3 132.92(11) . 10_665
+Lu6 Ru5 Lu3 70.86(4) 2_665 10_665
+Lu3 Ru5 Lu3 119.976(4) 11_565 10_665
+Lu5 Ru5 Lu3 143.90(12) 11_565 12
+Lu5 Ru5 Lu3 65.93(3) 12 12
+Lu5 Ru5 Lu3 68.16(3) 10_665 12
+Lu6 Ru5 Lu3 132.92(11) 3_565 12
+Lu6 Ru5 Lu3 70.86(4) . 12
+Lu6 Ru5 Lu3 67.24(4) 2_665 12
+Lu3 Ru5 Lu3 119.976(4) 11_565 12
+Lu3 Ru5 Lu3 119.976(4) 10_665 12
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu1 Ru1 2.9247(15) 10
+Lu1 Ru1 2.9247(15) .
+Lu1 Ru1 2.9247(15) 3
+Lu1 Ru1 2.9247(15) 12
+Lu1 Ru1 2.9247(15) 11
+Lu1 Ru1 2.9247(15) 2
+Lu1 Ru2 2.945(3) 10
+Lu1 Ru2 2.945(3) .
+Lu1 Lu2 3.1978(9) 10
+Lu1 Lu2 3.1978(9) 11
+Lu1 Lu2 3.1978(9) .
+Lu1 Lu2 3.1978(9) 12
+Lu2 Ru2 2.7993(14) .
+Lu2 Ru1 2.8266(18) .
+Lu2 Ru1 2.8383(18) 2
+Lu2 Ru1 2.8438(19) 12
+Lu2 Ru3 2.8581(19) .
+Lu2 Ru4 3.0839(19) 2
+Lu2 Lu6 3.2255(13) .
+Lu2 Lu4 3.2394(12) 2
+Lu2 Lu3 3.2534(13) 2
+Lu2 Lu7 3.3150(14) .
+Lu2 Lu4 3.3472(12) .
+Lu3 Ru1 2.7926(18) .
+Lu3 Ru1 2.8113(18) 11
+Lu3 Ru3 2.9546(19) 11
+Lu3 Ru5 3.0218(9) 10_665
+Lu3 Ru4 3.030(2) .
+Lu3 Lu5 3.2367(12) .
+Lu3 Lu2 3.2534(13) 3
+Lu3 Lu6 3.3153(12) 12_655
+Lu3 Lu5 3.3331(12) 2_655
+Lu3 Lu2 3.3555(13) 11
+Lu3 Lu5 3.4344(12) 11
+Lu3 Lu6 3.4714(12) 11
+Lu4 Ru4 2.8537(19) .
+Lu4 Ru1 2.8614(19) .
+Lu4 Ru2 2.8632(12) .
+Lu4 Ru3 2.9159(19) .
+Lu4 Ru4 3.061(2) 13
+Lu4 Lu2 3.2394(12) 3
+Lu4 Lu4 3.2527(17) 13
+Lu4 Lu8 3.3201(13) .
+Lu4 Lu7 3.3225(12) .
+Lu4 Lu5 3.3861(13) .
+Lu4 Lu7 3.3935(12) 15
+Lu5 Ru1 2.8913(18) .
+Lu5 Ru4 2.8981(19) 3_665
+Lu5 Ru5 2.924(2) 10_665
+Lu5 Ru4 2.993(2) .
+Lu5 Ru3 3.0894(19) .
+Lu5 Lu8 3.2881(14) 13
+Lu5 Lu3 3.3331(12) 3_665
+Lu5 Lu3 3.4344(12) 12
+Lu5 Lu7 3.4592(13) 15
+Lu5 Lu6 3.6308(13) 2_665
+Lu6 Ru3 2.7257(19) 3_565
+Lu6 Ru3 2.8078(19) .
+Lu6 Ru5 2.966(3) .
+Lu6 Ru4 3.2144(19) 2
+Lu6 Lu3 3.3153(12) 11_565
+Lu6 Lu3 3.4714(12) 12
+Lu6 Lu6 3.5606(15) 3_565
+Lu6 Lu6 3.5606(15) 2_665
+Lu6 Lu9 3.5875(9) .
+Lu6 Lu7 3.5909(13) 14_455
+Lu6 Lu5 3.6308(13) 3_565
+Lu7 Ru3 2.7153(18) 14_455
+Lu7 Ru3 2.7973(19) .
+Lu7 Ru4 3.123(2) 13
+Lu7 Ru4 3.367(2) 2
+Lu7 Lu4 3.3935(12) 14_455
+Lu7 Lu5 3.4592(13) 14_455
+Lu7 Lu6 3.5909(13) 15
+Lu7 Lu9 3.6079(9) .
+Lu7 Lu7 3.6080(9) 15
+Lu7 Lu7 3.6081(9) 14_455
+Lu8 Ru2 2.770(3) .
+Lu8 Ru4 3.1265(18) 15_445
+Lu8 Ru4 3.1265(19) 13
+Lu8 Ru4 3.1266(18) 14_455
+Lu8 Lu5 3.2881(14) 13
+Lu8 Lu5 3.2881(14) 15_445
+Lu8 Lu5 3.2881(14) 14_455
+Lu8 Lu4 3.3201(13) 3
+Lu8 Lu4 3.3201(13) 2
+Lu8 Lu7 3.8002(10) 2
+Lu9 Lu6 3.5875(9) 3_565
+Lu9 Lu6 3.5875(9) 2_665
+Lu9 Lu6 3.5875(9) 15
+Lu9 Lu6 3.5875(10) 13_565
+Lu9 Lu6 3.5876(9) 14_455
+Lu9 Lu7 3.6078(9) 15
+Lu9 Lu7 3.6079(9) 3_565
+Lu9 Lu7 3.6079(9) 2_665
+Lu9 Lu7 3.6079(9) 13_565
+Lu9 Lu7 3.6079(9) 14_455
+Ru1 Lu3 2.8113(18) 12
+Ru1 Lu2 2.8383(18) 3
+Ru1 Lu2 2.8438(19) 11
+Ru2 Lu2 2.7993(14) 2
+Ru2 Lu2 2.7993(14) 3
+Ru2 Lu4 2.8632(12) 3
+Ru2 Lu4 2.8632(12) 2
+Ru3 Lu7 2.7153(18) 15
+Ru3 Lu6 2.7257(19) 2_665
+Ru3 Lu3 2.9546(19) 12
+Ru4 Lu5 2.8981(19) 2_655
+Ru4 Lu4 3.061(2) 13
+Ru4 Lu2 3.0839(19) 3
+Ru4 Lu7 3.123(2) 13
+Ru4 Lu8 3.1265(18) 13
+Ru4 Lu6 3.2144(19) 3
+Ru4 Lu7 3.367(2) 3
+Ru5 Lu5 2.924(2) 11_565
+Ru5 Lu5 2.924(2) 12
+Ru5 Lu5 2.924(2) 10_665
+Ru5 Lu6 2.966(3) 3_565
+Ru5 Lu6 2.966(3) 2_665
+Ru5 Lu3 3.0218(9) 11_565
+Ru5 Lu3 3.0218(9) 10_665
+Ru5 Lu3 3.0218(9) 12

@@ -1,0 +1,51 @@
+#------------------------------------------------------------------------------
+#$Date: 2012-02-28 14:14:52 +0200 (Tue, 28 Feb 2012) $
+#$Revision: 35911 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/07/1010797.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010797
+_chemical_name_systematic          'Praseodymium nitride'
+_chemical_formula_structural       'Pr N'
+_chemical_formula_sum              'N Pr'
+_publ_section_title
+;
+Sulla struttura cristallina dei composti delle terre rare con i
+metalloidi del V gruppo. - Azoturi di Lantanio, Cerio e
+Praseodimio.
+;
+loop_
+_publ_author_name
+  'Iandelli, A'
+  'Botti, E'
+_journal_name_full
+;
+Atti della Accademia Nazionale dei Lincei, Classe di Scienze Fisiche,
+Matematiche e Naturali, Rendiconti, Serie 7 (1, 1925-1945)
+;
+_journal_coden_ASTM                AANL7U
+_journal_volume                    25
+_journal_year                      1937
+_journal_page_first                129
+_journal_page_last                 132
+_cell_length_a                     5.155
+_cell_length_b                     5.155
+_cell_length_c                     5.155
+_cell_angle_alpha                  90
+_cell_angle_beta                   90
+_cell_angle_gamma                  90
+_cell_volume                       137.0
+_cell_formula_units_Z              0
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010797

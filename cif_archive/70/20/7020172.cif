@@ -1,0 +1,731 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-25 14:54:30 +0200 (Fri, 25 Mar 2016) $
+#$Revision: 179905 $
+#$URL: svn://www.crystallography.net/cod/cif/7/02/01/7020172.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7020172
+loop_
+_publ_author_name
+'Huang, Shiliang'
+'Inge, A. Ken'
+'Yang, Sihai'
+'Christensen, Kirsten E.'
+'Zou, Xiaodong'
+'Sun, Junliang'
+_publ_section_title
+;
+ SU-75: a disordered Ge10 germanate with pcu topology.
+;
+_journal_issue                   40
+_journal_name_full
+'Dalton transactions (Cambridge, England : 2003)'
+_journal_page_first              12358
+_journal_page_last               12364
+_journal_paper_doi               10.1039/c2dt30767g
+_journal_volume                  41
+_journal_year                    2012
+_chemical_formula_sum            'Ge9.75 O22.75'
+_chemical_formula_weight         1071.75
+_chemical_name_systematic
+;
+?
+;
+_space_group_IT_number           122
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_Hall  'I -4 2bw'
+_symmetry_space_group_name_H-M   'I -4 2 d'
+_atom_sites_solution_hydrogens   none
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            16
+_cell_length_a                   18.145(3)
+_cell_length_b                   18.145(3)
+_cell_length_c                   41.701(9)
+_cell_measurement_reflns_used    21402
+_cell_measurement_temperature    120(2)
+_cell_measurement_theta_max      31.7
+_cell_measurement_theta_min      1.2
+_cell_volume                     13730(4)
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature      120(2)
+_diffrn_detector                 CCD
+_diffrn_detector_area_resol_mean 28.5714
+_diffrn_measured_fraction_theta_full 0.997
+_diffrn_measured_fraction_theta_max 0.997
+_diffrn_measurement_device
+;
+CrystalLogic Kappa (3 circle)
+;
+_diffrn_measurement_device_type
+;
+Rigaku Saturn724+ (2x2 bin mode)
+;
+_diffrn_measurement_method       'profile data from \w-scans'
+_diffrn_measurement_specimen_support Loop
+_diffrn_radiation_monochromator  Synchrotron
+_diffrn_radiation_type           Synchrotron
+_diffrn_radiation_wavelength     0.68890
+_diffrn_reflns_av_R_equivalents  0.0694
+_diffrn_reflns_av_sigmaI/netI    0.0334
+_diffrn_reflns_limit_h_max       22
+_diffrn_reflns_limit_h_min       -22
+_diffrn_reflns_limit_k_max       19
+_diffrn_reflns_limit_k_min       -22
+_diffrn_reflns_limit_l_max       52
+_diffrn_reflns_limit_l_min       -52
+_diffrn_reflns_number            61756
+_diffrn_reflns_theta_full        25.50
+_diffrn_reflns_theta_max         25.50
+_diffrn_reflns_theta_min         1.19
+_diffrn_source                   Synchrotron
+_diffrn_source_current           40.0
+_diffrn_source_power             2.0
+_diffrn_source_voltage           50.0
+_exptl_absorpt_coefficient_mu    8.471
+_exptl_absorpt_correction_T_max  1.000
+_exptl_absorpt_correction_T_min  0.826
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Oxford Diffraction Ltd.,
+Version 1.171.34.44 (release 25-10-2010 CrysAlis171 .NET)
+(compiled Oct 25 2010,18:11:34)
+Empirical absorption correction using spherical harmonics,
+implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_colour            colorless
+_exptl_crystal_density_diffrn    2.074
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             7904
+_exptl_crystal_size_max          0.06
+_exptl_crystal_size_mid          0.06
+_exptl_crystal_size_min          0.01
+_platon_squeeze_details
+;
+;
+_refine_diff_density_max         1.663
+_refine_diff_density_min         -1.120
+_refine_diff_density_rms         0.173
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   0.0(19)
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.043
+_refine_ls_hydrogen_treatment    none
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     281
+_refine_ls_number_reflns         7022
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.043
+_refine_ls_R_factor_all          0.0563
+_refine_ls_R_factor_gt           0.0544
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.1227P)^2^+45.3855P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1643
+_refine_ls_wR_factor_ref         0.1664
+_reflns_number_gt                6803
+_reflns_number_total             7022
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            c2dt30767g.txt
+_cod_data_source_block           SU-75
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_exptl_absorpt_correction_type' value 'Multi-scan' changed to
+'multi-scan' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 from 2011-04-26.
+
+Automatic conversion script
+Id: cif_fix_values 1891 2012-01-12 08:04:46Z andrius 
+;
+_cod_original_sg_symbol_H-M      I-42d
+_cod_database_code               7020172
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'y, -x, -z'
+'-y, x, -z'
+'-x+1/2, y, -z+3/4'
+'x+1/2, -y, -z+3/4'
+'-y+1/2, -x, z+3/4'
+'y+1/2, x, z+3/4'
+'x+1/2, y+1/2, z+1/2'
+'-x+1/2, -y+1/2, z+1/2'
+'y+1/2, -x+1/2, -z+1/2'
+'-y+1/2, x+1/2, -z+1/2'
+'-x+1, y+1/2, -z+5/4'
+'x+1, -y+1/2, -z+5/4'
+'-y+1, -x+1/2, z+5/4'
+'y+1, x+1/2, z+5/4'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_group
+Ge1A Ge 0.23427(7) 0.27189(10) 0.22341(4) 0.0173(3) Uani 0.6608(9) 1 d P 1
+Ge2A Ge 0.33814(14) 0.25937(15) 0.27877(6) 0.0121(3) Uani 0.6608(9) 1 d P 1
+Ge3A Ge 0.34906(10) 0.15458(8) 0.22415(3) 0.0113(2) Uani 0.6608(9) 1 d P 1
+Ge4A Ge 0.22168(7) 0.14494(6) 0.26920(3) 0.0114(2) Uani 0.6608(9) 1 d P 1
+Ge5A Ge 0.4973(6) 0.2083(6) 0.2553(2) 0.0118(8) Uani 0.6608(9) 1 d P 1
+Ge6A Ge 0.08370(8) 0.23326(9) 0.25178(4) 0.0285(3) Uani 0.6608(9) 1 d P 1
+Ge7A Ge 0.26066(9) 0.40616(8) 0.26620(4) 0.0304(3) Uani 0.6608(9) 1 d P 1
+Ge8A Ge 0.28841(8) 0.21029(9) 0.15852(3) 0.0275(3) Uani 0.6608(9) 1 d P 1
+Ge9A Ge 0.24119(8) 0.21477(7) 0.33595(3) 0.0199(2) Uani 0.6608(9) 1 d P 1
+Ge0A Ge 0.13008(11) 0.33926(11) 0.31022(5) 0.0322(5) Uani 0.521(4) 1 d P 1
+O01A O 0.2243(8) 0.2732(6) 0.2752(3) 0.020 Uiso 0.6608(9) 1 d P 1
+O02A O 0.3621(7) 0.2814(7) 0.2314(3) 0.020 Uiso 0.6608(9) 1 d P 1
+O03A O 0.3291(5) 0.1532(6) 0.2699(2) 0.020 Uiso 0.6608(9) 1 d P 1
+O04A O 0.2406(12) 0.1681(9) 0.2224(5) 0.020 Uiso 0.6608(9) 1 d P 1
+O05A O 0.4356(5) 0.2521(5) 0.2833(2) 0.0221(16) Uiso 0.6608(9) 1 d P 1
+O06A O 0.4500(5) 0.1556(5) 0.2292(2) 0.0209(15) Uiso 0.6608(9) 1 d P 1
+O07A O 0.3455(5) 0.0539(5) 0.2207(2) 0.0212(15) Uiso 0.6608(9) 1 d P 1
+O08A O 0.2231(4) 0.0474(4) 0.26365(17) 0.0138(13) Uiso 0.6608(9) 1 d P 1
+O09A O 0.3378(5) 0.3587(5) 0.2818(2) 0.0288(18) Uiso 0.6608(9) 1 d P 1
+O10A O 0.2369(6) 0.3741(5) 0.2284(3) 0.0333(19) Uiso 0.6608(9) 1 d P 1
+O11A O 0.1334(4) 0.2723(4) 0.21981(19) 0.0194(15) Uiso 0.6608(9) 1 d P 1
+O12A O 0.3560(5) 0.1672(5) 0.1800(2) 0.0214(13) Uiso 0.6608(9) 1 d P 1
+O13A O 0.3240(4) 0.2487(5) 0.32275(19) 0.0173(14) Uiso 0.6608(9) 1 d P 1
+O14A O 0.2487(5) 0.2797(5) 0.1792(2) 0.0247(14) Uiso 0.6608(9) 1 d P 1
+O15A O 0.2122(5) 0.1406(5) 0.3131(2) 0.0207(15) Uiso 0.6608(9) 1 d P 1
+O16A O 0.0721(6) 0.2990(6) 0.2836(3) 0.041(2) Uiso 0.6608(9) 1 d P 1
+O17A O 0.1731(6) 0.2839(6) 0.3385(2) 0.0337(16) Uiso 0.6608(9) 1 d P 1
+O18A O 0.1873(5) 0.4084(5) 0.2936(2) 0.0302(18) Uiso 0.6608(9) 1 d P 1
+O19A O 0.0727(9) 0.3898(9) 0.3354(4) 0.053(3) Uiso 0.521(4) 1 d P 1
+O20A O 0.2970(5) 0.4997(8) 0.2622(2) 0.0349(18) Uiso 0.6608(9) 1 d P 1
+O21A O 0.2500 0.1835(11) 0.3750 0.026(3) Uiso 0.6608(9) 2 d SP 1
+O22A O 0.3312(12) 0.2500 0.1250 0.036(3) Uiso 0.6608(9) 2 d SP 1
+O23A O 0.1212(4) 0.1527(5) 0.26370(19) 0.0178(14) Uiso 0.6608(9) 1 d P 1
+O24A O 0.2247(8) 0.1439(8) 0.1434(3) 0.063(3) Uiso 0.6608(9) 1 d P 1
+Ge1B Ge 0.2287(2) 0.25966(15) 0.27544(9) 0.0173(3) Uani 0.3392(9) 1 d P 2
+Ge2B Ge 0.34890(15) 0.27214(16) 0.23133(8) 0.0121(3) Uani 0.3392(9) 1 d P 2
+Ge3B Ge 0.34437(13) 0.15079(15) 0.27572(6) 0.0113(2) Uani 0.3392(9) 1 d P 2
+Ge4B Ge 0.2408(3) 0.1601(2) 0.22133(12) 0.0114(2) Uani 0.3392(9) 1 d P 2
+Ge5B Ge 0.5018(13) 0.2137(13) 0.2590(5) 0.0118(8) Uani 0.3392(9) 1 d P 2
+Ge6B Ge 0.09283(16) 0.23774(18) 0.23332(8) 0.0285(3) Uani 0.3392(9) 1 d P 2
+Ge7B Ge 0.26601(18) 0.41493(15) 0.24795(9) 0.0304(3) Uani 0.3392(9) 1 d P 2
+Ge8B Ge 0.29045(18) 0.21099(17) 0.34130(6) 0.0275(3) Uani 0.3392(9) 1 d P 2
+Ge9B Ge 0.28413(15) 0.25966(16) 0.16460(6) 0.0199(2) Uani 0.3392(9) 1 d P 2
+Ge0B Ge 0.1586(2) 0.3690(2) 0.18993(9) 0.0322(5) Uani 0.272(3) 1 d P 2
+O01B O 0.2528(13) 0.2731(16) 0.2271(6) 0.020 Uiso 0.3392(9) 1 d P 2
+O02B O 0.346(2) 0.255(2) 0.2816(9) 0.020 Uiso 0.3392(9) 1 d P 2
+O03B O 0.3468(17) 0.1687(14) 0.2295(6) 0.020 Uiso 0.3392(9) 1 d P 2
+O04B O 0.2465(11) 0.1613(11) 0.2687(4) 0.020 Uiso 0.3392(9) 1 d P 2
+O05B O 0.4586(9) 0.2790(9) 0.2345(4) 0.0221(16) Uiso 0.3392(9) 1 d P 2
+O06B O 0.4447(9) 0.1512(9) 0.2801(4) 0.0209(15) Uiso 0.3392(9) 1 d P 2
+O07B O 0.3487(9) 0.0505(9) 0.2690(4) 0.0212(15) Uiso 0.3392(9) 1 d P 2
+O08B O 0.2411(8) 0.0585(8) 0.2165(3) 0.0138(13) Uiso 0.3392(9) 1 d P 2
+O09B O 0.3571(10) 0.3794(10) 0.2364(4) 0.0288(18) Uiso 0.3392(9) 1 d P 2
+O10B O 0.2273(11) 0.3617(11) 0.2802(5) 0.0333(19) Uiso 0.3392(9) 1 d P 2
+O11B O 0.1265(9) 0.2637(9) 0.2722(4) 0.0194(15) Uiso 0.3392(9) 1 d P 2
+O12B O 0.3290(9) 0.1362(9) 0.3192(4) 0.0214(13) Uiso 0.3392(9) 1 d P 2
+O13B O 0.3624(9) 0.2824(9) 0.1868(4) 0.0173(14) Uiso 0.3392(9) 1 d P 2
+O14B O 0.2190(10) 0.2590(10) 0.3196(4) 0.0247(14) Uiso 0.3392(9) 1 d P 2
+O15B O 0.2507(10) 0.1740(9) 0.1773(4) 0.0207(15) Uiso 0.3392(9) 1 d P 2
+O16B O 0.0910(12) 0.3223(12) 0.2093(5) 0.041(2) Uiso 0.3392(9) 1 d P 2
+O17B O 0.2130(11) 0.3219(11) 0.1626(5) 0.0337(16) Uiso 0.3392(9) 1 d P 2
+O18B O 0.2177(10) 0.4308(10) 0.2173(4) 0.0302(18) Uiso 0.3392(9) 1 d P 2
+O19B O 0.1209(17) 0.4383(17) 0.1677(8) 0.053(3) Uiso 0.272(3) 1 d P 2
+O20B O 0.2713(10) 0.5001(16) 0.2652(4) 0.0349(18) Uiso 0.3392(9) 1 d P 2
+O21B O 0.2500 0.171(2) 0.3750 0.026(3) Uiso 0.3392(9) 2 d SP 2
+O22B O 0.317(2) 0.2500 0.1250 0.036(3) Uiso 0.3392(9) 2 d SP 2
+O23B O 0.1376(9) 0.1635(9) 0.2194(4) 0.0178(14) Uiso 0.3392(9) 1 d P 2
+O24B O 0.3563(16) 0.2794(16) 0.3554(7) 0.063(3) Uiso 0.3392(9) 1 d P 2
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Ge1A 0.0130(7) 0.0161(5) 0.0227(5) 0.0066(5) -0.0017(5) 0.0022(5)
+Ge2A 0.0099(8) 0.0122(6) 0.0142(6) 0.0000(5) 0.0005(5) 0.0013(5)
+Ge3A 0.0125(5) 0.0122(6) 0.0093(5) 0.0018(4) 0.0004(4) -0.0022(4)
+Ge4A 0.0101(5) 0.0098(5) 0.0144(4) 0.0000(4) 0.0021(4) -0.0008(4)
+Ge5A 0.0081(14) 0.0163(16) 0.011(2) -0.0019(12) -0.0028(14) -0.0015(11)
+Ge6A 0.0159(5) 0.0390(7) 0.0306(7) -0.0044(7) -0.0003(6) 0.0069(5)
+Ge7A 0.0395(7) 0.0117(5) 0.0399(9) 0.0028(6) 0.0029(7) 0.0039(5)
+Ge8A 0.0279(7) 0.0395(8) 0.0152(5) 0.0041(5) -0.0041(4) -0.0043(5)
+Ge9A 0.0260(7) 0.0186(6) 0.0151(4) -0.0016(4) 0.0044(4) 0.0000(4)
+Ge0A 0.0291(10) 0.0326(10) 0.0349(8) -0.0020(7) 0.0021(7) 0.0057(6)
+Ge1B 0.0130(7) 0.0161(5) 0.0227(5) 0.0066(5) -0.0017(5) 0.0022(5)
+Ge2B 0.0099(8) 0.0122(6) 0.0142(6) 0.0000(5) 0.0005(5) 0.0013(5)
+Ge3B 0.0125(5) 0.0122(6) 0.0093(5) 0.0018(4) 0.0004(4) -0.0022(4)
+Ge4B 0.0101(5) 0.0098(5) 0.0144(4) 0.0000(4) 0.0021(4) -0.0008(4)
+Ge5B 0.0081(14) 0.0163(16) 0.011(2) -0.0019(12) -0.0028(14) -0.0015(11)
+Ge6B 0.0159(5) 0.0390(7) 0.0306(7) -0.0044(7) -0.0003(6) 0.0069(5)
+Ge7B 0.0395(7) 0.0117(5) 0.0399(9) 0.0028(6) 0.0029(7) 0.0039(5)
+Ge8B 0.0279(7) 0.0395(8) 0.0152(5) 0.0041(5) -0.0041(4) -0.0043(5)
+Ge9B 0.0260(7) 0.0186(6) 0.0151(4) -0.0016(4) 0.0044(4) 0.0000(4)
+Ge0B 0.0291(10) 0.0326(10) 0.0349(8) -0.0020(7) 0.0021(7) 0.0057(6)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+O O 0.0106 0.0060 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Ge Ge 0.1547 1.8001 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+O11A Ge1A O10A 91.8(4) . .
+O11A Ge1A O14A 93.4(4) . .
+O10A Ge1A O14A 91.8(4) . .
+O11A Ge1A O04A 93.6(7) . .
+O10A Ge1A O04A 172.9(7) . .
+O14A Ge1A O04A 92.5(7) . .
+O11A Ge1A O01A 89.9(5) . .
+O10A Ge1A O01A 83.1(4) . .
+O14A Ge1A O01A 174.0(4) . .
+O04A Ge1A O01A 92.3(7) . .
+O11A Ge1A O02A 174.3(4) . .
+O10A Ge1A O02A 83.4(4) . .
+O14A Ge1A O02A 89.8(4) . .
+O04A Ge1A O02A 91.0(7) . .
+O01A Ge1A O02A 86.6(5) . .
+O05A Ge2A O09A 94.0(4) . .
+O05A Ge2A O13A 91.4(4) . .
+O09A Ge2A O13A 91.9(4) . .
+O05A Ge2A O03A 91.8(4) . .
+O09A Ge2A O03A 171.5(4) . .
+O13A Ge2A O03A 94.2(4) . .
+O05A Ge2A O02A 84.7(5) . .
+O09A Ge2A O02A 82.8(4) . .
+O13A Ge2A O02A 173.2(4) . .
+O03A Ge2A O02A 91.5(5) . .
+O05A Ge2A O01A 176.6(5) . .
+O09A Ge2A O01A 83.2(4) . .
+O13A Ge2A O01A 86.9(5) . .
+O03A Ge2A O01A 91.2(4) . .
+O02A Ge2A O01A 96.8(5) . .
+O07A Ge3A O06A 93.1(4) . .
+O07A Ge3A O12A 92.7(4) . .
+O06A Ge3A O12A 92.6(4) . .
+O07A Ge3A O03A 93.3(4) . .
+O06A Ge3A O03A 94.2(4) . .
+O12A Ge3A O03A 170.7(4) . .
+O07A Ge3A O04A 94.9(5) . .
+O06A Ge3A O04A 171.2(5) . .
+O12A Ge3A O04A 90.9(7) . .
+O03A Ge3A O04A 81.6(7) . .
+O07A Ge3A O02A 175.2(4) . .
+O06A Ge3A O02A 82.8(4) . .
+O12A Ge3A O02A 90.0(4) . .
+O03A Ge3A O02A 84.5(5) . .
+O04A Ge3A O02A 89.1(5) . .
+O08A Ge4A O15A 95.0(4) . .
+O08A Ge4A O23A 94.3(4) . .
+O15A Ge4A O23A 92.0(4) . .
+O08A Ge4A O03A 93.6(4) . .
+O15A Ge4A O03A 94.8(4) . .
+O23A Ge4A O03A 169.1(4) . .
+O08A Ge4A O04A 94.5(5) . .
+O15A Ge4A O04A 169.5(5) . .
+O23A Ge4A O04A 91.8(7) . .
+O03A Ge4A O04A 80.1(7) . .
+O08A Ge4A O01A 177.6(4) . .
+O15A Ge4A O01A 86.4(4) . .
+O23A Ge4A O01A 87.5(4) . .
+O03A Ge4A O01A 84.4(5) . .
+O04A Ge4A O01A 84.0(5) . .
+O06A Ge5A O08A 112.3(7) . 11
+O06A Ge5A O07A 110.8(7) . 11
+O08A Ge5A O07A 110.9(7) 11 11
+O06A Ge5A O05A 110.7(7) . .
+O08A Ge5A O05A 107.7(7) 11 .
+O07A Ge5A O05A 104.1(6) 11 .
+O23A Ge6A O20A 100.4(4) . 11_455
+O23A Ge6A O11A 111.4(4) . .
+O20A Ge6A O11A 109.0(4) 11_455 .
+O23A Ge6A O16A 113.9(4) . .
+O20A Ge6A O16A 111.0(5) 11_455 .
+O11A Ge6A O16A 110.6(4) . .
+O10A Ge7A O18A 114.3(5) . .
+O10A Ge7A O09A 111.6(5) . .
+O18A Ge7A O09A 111.8(4) . .
+O10A Ge7A O20A 108.6(5) . .
+O18A Ge7A O20A 108.1(4) . .
+O09A Ge7A O20A 101.5(4) . .
+O14A Ge8A O12A 112.3(4) . .
+O14A Ge8A O22A 106.9(4) . .
+O12A Ge8A O22A 106.8(7) . .
+O14A Ge8A O24A 114.0(6) . .
+O12A Ge8A O24A 110.0(6) . .
+O22A Ge8A O24A 106.4(6) . .
+O13A Ge9A O15A 111.7(4) . .
+O13A Ge9A O21A 109.8(3) . .
+O15A Ge9A O21A 106.9(7) . .
+O13A Ge9A O17A 112.1(5) . .
+O15A Ge9A O17A 111.9(4) . .
+O21A Ge9A O17A 104.0(6) . .
+O16A Ge0A O17A 118.4(5) . .
+O16A Ge0A O19A 104.6(7) . .
+O17A Ge0A O19A 99.4(6) . .
+O16A Ge0A O18A 114.4(5) . .
+O17A Ge0A O18A 114.3(5) . .
+O19A Ge0A O18A 102.3(6) . .
+Ge2A O01A Ge1A 89.2(5) . .
+Ge2A O01A Ge4A 84.7(4) . .
+Ge1A O01A Ge4A 83.3(4) . .
+Ge2A O02A Ge3A 84.9(4) . .
+Ge2A O02A Ge1A 85.1(4) . .
+Ge3A O02A Ge1A 79.0(3) . .
+Ge3A O03A Ge4A 100.0(4) . .
+Ge3A O03A Ge2A 99.1(5) . .
+Ge4A O03A Ge2A 99.3(5) . .
+Ge1A O04A Ge3A 100.5(9) . .
+Ge1A O04A Ge4A 100.0(8) . .
+Ge3A O04A Ge4A 96.1(9) . .
+Ge2A O05A Ge5A 125.4(6) . .
+Ge5A O06A Ge3A 125.9(6) . .
+Ge5A O07A Ge3A 124.4(6) 12_545 .
+Ge5A O08A Ge4A 126.2(6) 12_545 .
+Ge7A O09A Ge2A 117.6(5) . .
+Ge7A O10A Ge1A 116.2(6) . .
+Ge6A O11A Ge1A 116.6(4) . .
+Ge8A O12A Ge3A 121.8(5) . .
+Ge9A O13A Ge2A 118.3(5) . .
+Ge8A O14A Ge1A 120.5(5) . .
+Ge9A O15A Ge4A 119.0(5) . .
+Ge0A O16A Ge6A 134.2(7) . .
+Ge0A O17A Ge9A 133.4(6) . .
+Ge7A O18A Ge0A 133.1(6) . .
+Ge6A O20A Ge7A 137.5(5) 12 .
+Ge9A O21A Ge9A 141.7(13) 5 .
+Ge8A O22A Ge8A 127.4(12) 14_454 .
+Ge6A O23A Ge4A 120.1(5) . .
+O04B Ge1B O14B 99.3(8) . .
+O04B Ge1B O10B 170.2(9) . .
+O14B Ge1B O10B 84.2(8) . .
+O04B Ge1B O11B 101.7(8) . .
+O14B Ge1B O11B 88.8(7) . .
+O10B Ge1B O11B 87.5(8) . .
+O04B Ge1B O01B 86.0(10) . .
+O14B Ge1B O01B 170.7(9) . .
+O10B Ge1B O01B 89.4(10) . .
+O11B Ge1B O01B 97.7(8) . .
+O04B Ge1B O02B 78.6(14) . .
+O14B Ge1B O02B 88.6(12) . .
+O10B Ge1B O02B 92.5(14) . .
+O11B Ge1B O02B 177.3(12) . .
+O01B Ge1B O02B 84.9(12) . .
+O04B Ge1B Ge2B 81.1(6) . .
+O14B Ge1B Ge2B 135.4(6) . .
+O10B Ge1B Ge2B 90.0(6) . .
+O11B Ge1B Ge2B 135.2(5) . .
+O14B Ge1B Ge3B 93.5(6) . .
+O10B Ge1B Ge3B 133.7(6) . .
+O11B Ge1B Ge3B 138.8(5) . .
+O01B Ge1B Ge3B 86.1(7) . .
+O14B Ge1B Ge4B 141.1(6) . .
+O10B Ge1B Ge4B 134.7(7) . .
+O11B Ge1B Ge4B 92.5(5) . .
+O02B Ge1B Ge4B 89.5(12) . .
+Ge2B Ge1B Ge4B 59.42(14) . .
+Ge3B Ge1B Ge4B 61.37(13) . .
+O01B Ge2B O03B 89.2(14) . .
+O01B Ge2B O13B 91.7(10) . .
+O03B Ge2B O13B 93.5(9) . .
+O01B Ge2B O09B 94.4(11) . .
+O03B Ge2B O09B 175.0(11) . .
+O13B Ge2B O09B 89.9(7) . .
+O01B Ge2B O05B 175.4(11) . .
+O03B Ge2B O05B 94.9(11) . .
+O13B Ge2B O05B 86.0(7) . .
+O09B Ge2B O05B 81.7(7) . .
+O01B Ge2B O02B 94.4(14) . .
+O03B Ge2B O02B 83.7(15) . .
+O13B Ge2B O02B 173.3(12) . .
+O09B Ge2B O02B 92.5(14) . .
+O05B Ge2B O02B 88.2(13) . .
+O13B Ge2B Ge4B 90.9(5) . .
+O09B Ge2B Ge4B 140.7(6) . .
+O05B Ge2B Ge4B 137.6(5) . .
+O02B Ge2B Ge4B 91.2(13) . .
+O03B Ge2B Ge1B 86.1(9) . .
+O13B Ge2B Ge1B 137.8(5) . .
+O09B Ge2B Ge1B 93.9(6) . .
+O05B Ge2B Ge1B 136.2(5) . .
+Ge4B Ge2B Ge1B 60.92(13) . .
+O01B Ge2B Ge3B 92.5(9) . .
+O13B Ge2B Ge3B 135.6(5) . .
+O09B Ge2B Ge3B 133.8(6) . .
+O05B Ge2B Ge3B 91.9(5) . .
+Ge4B Ge2B Ge3B 61.94(13) . .
+Ge1B Ge2B Ge3B 60.28(10) . .
+O04B Ge3B O06B 172.8(8) . .
+O04B Ge3B O07B 97.0(8) . .
+O06B Ge3B O07B 88.7(8) . .
+O04B Ge3B O12B 91.4(8) . .
+O06B Ge3B O12B 93.1(7) . .
+O07B Ge3B O12B 90.8(7) . .
+O04B Ge3B O02B 86.1(14) . .
+O06B Ge3B O02B 88.1(14) . .
+O07B Ge3B O02B 176.4(15) . .
+O12B Ge3B O02B 91.0(13) . .
+O04B Ge3B O03B 81.2(11) . .
+O06B Ge3B O03B 94.3(11) . .
+O07B Ge3B O03B 90.8(9) . .
+O12B Ge3B O03B 172.5(11) . .
+O02B Ge3B O03B 87.8(14) . .
+O04B Ge3B Ge2B 81.0(6) . .
+O06B Ge3B Ge2B 91.8(5) . .
+O07B Ge3B Ge2B 131.0(5) . .
+O12B Ge3B Ge2B 138.0(5) . .
+O06B Ge3B Ge1B 136.2(5) . .
+O07B Ge3B Ge1B 135.0(5) . .
+O12B Ge3B Ge1B 89.5(5) . .
+O02B Ge3B Ge1B 48.1(13) . .
+O03B Ge3B Ge1B 84.2(8) . .
+Ge2B Ge3B Ge1B 59.59(11) . .
+O08B Ge4B O15B 91.5(7) . .
+O08B Ge4B O23B 91.8(7) . .
+O15B Ge4B O23B 92.9(7) . .
+O08B Ge4B O03B 95.4(9) . .
+O15B Ge4B O03B 93.7(10) . .
+O23B Ge4B O03B 170.1(9) . .
+O08B Ge4B O04B 96.9(8) . .
+O15B Ge4B O04B 168.0(8) . .
+O23B Ge4B O04B 95.4(7) . .
+O03B Ge4B O04B 77.0(10) . .
+O08B Ge4B O01B 173.8(9) . .
+O15B Ge4B O01B 88.3(9) . .
+O23B Ge4B O01B 94.4(8) . .
+O03B Ge4B O01B 78.4(10) . .
+O04B Ge4B O01B 82.4(9) . .
+O08B Ge4B Ge2B 136.2(5) . .
+O15B Ge4B Ge2B 88.9(5) . .
+O23B Ge4B Ge2B 132.0(5) . .
+O04B Ge4B Ge2B 79.1(6) . .
+O08B Ge4B Ge1B 134.8(5) . .
+O15B Ge4B Ge1B 133.7(5) . .
+O23B Ge4B Ge1B 86.4(5) . .
+O03B Ge4B Ge1B 83.7(7) . .
+Ge2B Ge4B Ge1B 59.66(12) . .
+O08B Ge5B O05B 107.6(15) 11 .
+O08B Ge5B O06B 111.9(14) 11 .
+O05B Ge5B O06B 117.4(15) . .
+O08B Ge5B O07B 113.2(15) 11 11
+O05B Ge5B O07B 105.0(13) . 11
+O06B Ge5B O07B 101.6(14) . 11
+O23B Ge6B O20B 114.7(9) . 11_455
+O23B Ge6B O11B 111.0(8) . .
+O20B Ge6B O11B 109.4(8) 11_455 .
+O23B Ge6B O16B 119.5(9) . .
+O20B Ge6B O16B 94.7(9) 11_455 .
+O11B Ge6B O16B 106.3(9) . .
+O18B Ge7B O20B 102.0(10) . .
+O18B Ge7B O10B 119.2(9) . .
+O20B Ge7B O10B 101.1(9) . .
+O18B Ge7B O09B 110.5(9) . .
+O20B Ge7B O09B 112.2(9) . .
+O10B Ge7B O09B 111.0(9) . .
+O21B Ge8B O12B 105.6(14) . .
+O21B Ge8B O14B 107.5(8) . .
+O12B Ge8B O14B 112.9(8) . .
+O21B Ge8B O24B 107.2(12) . .
+O12B Ge8B O24B 115.4(11) . .
+O14B Ge8B O24B 107.7(11) . .
+O17B Ge9B O13B 118.8(8) . .
+O17B Ge9B O15B 109.8(9) . .
+O13B Ge9B O15B 109.4(8) . .
+O17B Ge9B O22B 106.0(12) . .
+O13B Ge9B O22B 104.1(14) . .
+O15B Ge9B O22B 108.2(7) . .
+O16B Ge0B O19B 109.7(13) . .
+O16B Ge0B O17B 118.6(10) . .
+O19B Ge0B O17B 103.6(13) . .
+O16B Ge0B O18B 114.3(9) . .
+O19B Ge0B O18B 96.7(12) . .
+O17B Ge0B O18B 111.1(9) . .
+Ge2B O01B Ge4B 96.1(13) . .
+Ge2B O01B Ge1B 96.4(11) . .
+Ge4B O01B Ge1B 88.6(11) . .
+Ge3B O02B Ge2B 91.3(18) . .
+Ge3B O02B Ge1B 91(2) . .
+Ge2B O02B Ge1B 84.3(13) . .
+Ge2B O03B Ge3B 97.2(10) . .
+Ge2B O03B Ge4B 96.1(13) . .
+Ge3B O03B Ge4B 97.8(13) . .
+Ge3B O04B Ge1B 104.5(10) . .
+Ge3B O04B Ge4B 102.1(9) . .
+Ge1B O04B Ge4B 98.8(9) . .
+Ge5B O05B Ge2B 116.3(12) . .
+Ge5B O06B Ge3B 122.5(12) . .
+Ge3B O07B Ge5B 122.7(12) . 12_545
+Ge5B O08B Ge4B 123.2(12) 12_545 .
+Ge7B O09B Ge2B 107.9(9) . .
+Ge7B O10B Ge1B 116.7(11) . .
+Ge6B O11B Ge1B 113.3(8) . .
+Ge8B O12B Ge3B 117.2(9) . .
+Ge9B O13B Ge2B 113.2(8) . .
+Ge8B O14B Ge1B 115.7(9) . .
+Ge9B O15B Ge4B 116.9(9) . .
+Ge0B O16B Ge6B 131.8(13) . .
+Ge9B O17B Ge0B 136.1(12) . .
+Ge7B O18B Ge0B 133.1(11) . .
+Ge6B O20B Ge7B 155.5(12) 12 .
+Ge8B O21B Ge8B 131(3) . 5
+Ge9B O22B Ge9B 140(3) 14_454 .
+Ge6B O23B Ge4B 119.7(9) . .
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge1A O11A 1.836(8) .
+Ge1A O10A 1.866(10) .
+Ge1A O14A 1.866(9) .
+Ge1A O04A 1.888(15) .
+Ge1A O01A 2.169(13) .
+Ge1A O02A 2.350(12) .
+Ge2A O05A 1.784(9) .
+Ge2A O09A 1.807(10) .
+Ge2A O13A 1.862(8) .
+Ge2A O03A 1.969(12) .
+Ge2A O02A 2.061(13) .
+Ge2A O01A 2.087(15) .
+Ge3A O07A 1.833(8) .
+Ge3A O06A 1.844(9) .
+Ge3A O12A 1.858(8) .
+Ge3A O03A 1.940(11) .
+Ge3A O04A 1.99(2) .
+Ge3A O02A 2.334(12) .
+Ge4A O08A 1.785(7) .
+Ge4A O15A 1.840(8) .
+Ge4A O23A 1.843(8) .
+Ge4A O03A 1.955(10) .
+Ge4A O04A 2.03(2) .
+Ge4A O01A 2.341(11) .
+Ge5A O06A 1.684(11) .
+Ge5A O08A 1.734(15) 11
+Ge5A O07A 1.735(14) 11
+Ge5A O05A 1.802(13) .
+Ge6A O23A 1.687(8) .
+Ge6A O20A 1.722(14) 11_455
+Ge6A O11A 1.759(8) .
+Ge6A O16A 1.796(11) .
+Ge7A O10A 1.734(10) .
+Ge7A O18A 1.755(10) .
+Ge7A O09A 1.768(10) .
+Ge7A O20A 1.829(14) .
+Ge8A O14A 1.689(9) .
+Ge8A O12A 1.709(9) .
+Ge8A O22A 1.754(9) .
+Ge8A O24A 1.785(15) .
+Ge9A O13A 1.714(8) .
+Ge9A O15A 1.732(9) .
+Ge9A O21A 1.732(7) .
+Ge9A O17A 1.764(10) .
+Ge0A O16A 1.695(11) .
+Ge0A O17A 1.734(10) .
+Ge0A O19A 1.742(16) .
+Ge0A O18A 1.769(10) .
+O07A Ge5A 1.735(14) 12_545
+O08A Ge5A 1.734(15) 12_545
+O20A Ge6A 1.722(14) 12
+O21A Ge9A 1.732(7) 5
+O22A Ge8A 1.754(9) 14_454
+Ge1B O04B 1.84(2) .
+Ge1B O14B 1.850(17) .
+Ge1B O10B 1.86(2) .
+Ge1B O11B 1.860(16) .
+Ge1B O01B 2.08(3) .
+Ge1B O02B 2.15(4) .
+Ge1B Ge2B 2.862(5) .
+Ge1B Ge3B 2.883(4) .
+Ge1B Ge4B 2.899(6) .
+Ge2B O01B 1.75(2) .
+Ge2B O03B 1.88(3) .
+Ge2B O13B 1.882(15) .
+Ge2B O09B 1.963(18) .
+Ge2B O05B 1.998(17) .
+Ge2B O02B 2.12(4) .
+Ge2B Ge4B 2.856(5) .
+Ge2B Ge3B 2.878(4) .
+Ge3B O04B 1.810(19) .
+Ge3B O06B 1.829(16) .
+Ge3B O07B 1.843(17) .
+Ge3B O12B 1.853(16) .
+Ge3B O02B 1.90(5) .
+Ge3B O03B 1.96(3) .
+Ge4B O08B 1.855(15) .
+Ge4B O15B 1.862(17) .
+Ge4B O23B 1.874(17) .
+Ge4B O03B 1.96(3) .
+Ge4B O04B 1.980(19) .
+Ge4B O01B 2.08(3) .
+Ge5B O08B 1.67(2) 11
+Ge5B O05B 1.75(3) .
+Ge5B O06B 1.77(3) .
+Ge5B O07B 1.85(3) 11
+Ge6B O23B 1.677(16) .
+Ge6B O20B 1.69(3) 11_455
+Ge6B O11B 1.795(16) .
+Ge6B O16B 1.83(2) .
+Ge7B O18B 1.577(19) .
+Ge7B O20B 1.71(3) .
+Ge7B O10B 1.80(2) .
+Ge7B O09B 1.839(19) .
+Ge8B O21B 1.740(18) .
+Ge8B O12B 1.783(17) .
+Ge8B O14B 1.804(18) .
+Ge8B O24B 1.82(3) .
+Ge9B O17B 1.72(2) .
+Ge9B O13B 1.744(16) .
+Ge9B O15B 1.751(16) .
+Ge9B O22B 1.765(15) .
+Ge0B O16B 1.70(2) .
+Ge0B O19B 1.70(3) .
+Ge0B O17B 1.73(2) .
+Ge0B O18B 1.925(19) .
+O07B Ge5B 1.85(3) 12_545
+O08B Ge5B 1.67(2) 12_545
+O20B Ge6B 1.69(3) 12
+O21B Ge8B 1.740(18) 5
+O22B Ge9B 1.765(15) 14_454
+loop_
+_platon_squeeze_void_nr
+_platon_squeeze_void_average_x
+_platon_squeeze_void_average_y
+_platon_squeeze_void_average_z
+_platon_squeeze_void_volume
+_platon_squeeze_void_count_electrons
+_platon_squeeze_void_content
+1 0.000 0.000 0.000 93 9 ' '
+2 -0.124 0.371 -0.008 5110 634 ' '
+3 0.000 0.500 0.250 93 15 ' '
+4 0.500 0.500 0.500 93 9 ' '
+5 0.500 0.000 0.750 93 15 ' '

@@ -1,0 +1,183 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 22:30:59 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176467 $
+#$URL: svn://www.crystallography.net/cod/cif/4/02/01/4020103.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4020103
+loop_
+_publ_author_name
+' Ichiro Hisaki '
+' Takeshi Eda'
+' Motohiro Sonoda'
+' Hiroyuki Niino'
+' Tadatake Sato'
+'Tomonari Wakabayashi'
+' Yoshito Tobe'
+_journal_name_full               'Journal of Organic Chemistry'
+_journal_page_first              1853
+_journal_page_last               1864
+_journal_paper_doi               10.1021/jo047857p
+_journal_volume                  70
+_journal_year                    2005
+_chemical_formula_moiety         'C31 H18 '
+_chemical_formula_sum            'C31 H18'
+_chemical_formula_weight         390.48
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 95.578(2)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   12.9713(9)
+_cell_length_b                   9.9393(7)
+_cell_length_c                   16.472(1)
+_cell_measurement_reflns_used    38988
+_cell_measurement_temperature    173.2
+_cell_measurement_theta_max      27.4
+_cell_measurement_theta_min      3.1
+_cell_volume                     2113.7(2)
+_diffrn_detector_area_resol_mean 10.00
+_diffrn_measured_fraction_theta_full 0.9923
+_diffrn_measured_fraction_theta_max 0.9923
+_diffrn_measurement_device_type  'Rigaku RAXIS-RAPID Imaging Plate'
+_diffrn_measurement_method       \w
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.7107
+_diffrn_reflns_av_R_equivalents  0.039
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       -16
+_diffrn_reflns_limit_k_max       12
+_diffrn_reflns_limit_k_min       -12
+_diffrn_reflns_limit_l_max       21
+_diffrn_reflns_limit_l_min       -20
+_diffrn_reflns_number            28617
+_diffrn_reflns_theta_full        27.42
+_diffrn_reflns_theta_max         27.42
+_exptl_absorpt_coefficient_mu    0.069
+_exptl_absorpt_correction_T_max  0.977
+_exptl_absorpt_correction_T_min  0.696
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   '(Higashi, 1995)'
+_exptl_crystal_colour            'pale yellow'
+_exptl_crystal_density_diffrn    1.227
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       prism
+_exptl_crystal_size_max          0.340
+_exptl_crystal_size_mid          0.330
+_exptl_crystal_size_min          0.330
+_exptl_crystal_size_rad          ?
+_refine_diff_density_max         0.55
+_refine_diff_density_min         -0.16
+_refine_ls_abs_structure_details ?
+_refine_ls_abs_structure_Flack   ?
+_refine_ls_extinction_coef       ?
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.577
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_number_parameters     280
+_refine_ls_number_reflns         4781
+_refine_ls_R_factor_gt           0.0553
+_refine_ls_shift/su_max          0.0003
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w = 1/[\s^2^(Fo^2^) + (0.05000(Max(Fo^2^,0) + 2Fc^2^)/3)^2^]'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.1407
+_reflns_number_gt                3162
+_reflns_number_total             4781
+_reflns_threshold_expression     F^2^>2.0\s(F^2^)
+_cod_original_sg_symbol_H-M      'P 21/n'
+_cod_original_formula_sum        'C31 H18 '
+_cod_database_code               4020103
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2-x,1/2+y,1/2-z
+-x,-y,-z
+1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+C(1) C 0.6004(1) 0.2416(2) 0.5509(1) 0.0413(5) Uani 1.00 d . . .
+C(2) C 0.5682(1) 0.1547(2) 0.5925(1) 0.0428(5) Uani 1.00 d . . .
+C(3) C 0.5217(1) 0.0574(2) 0.6356(1) 0.0442(5) Uani 1.00 d . . .
+C(4) C 0.4737(1) -0.0259(2) 0.6692(1) 0.0430(5) Uani 1.00 d . . .
+C(5) C 0.4034(1) -0.1183(2) 0.69871(10) 0.0397(5) Uani 1.00 d . . .
+C(6) C 0.4294(2) -0.2013(2) 0.7666(1) 0.0462(5) Uani 1.00 d . . .
+C(7) C 0.3580(2) -0.2889(2) 0.7934(1) 0.0498(6) Uani 1.00 d . . .
+C(8) C 0.2600(2) -0.2974(2) 0.7535(1) 0.0484(6) Uani 1.00 d . . .
+C(9) C 0.2317(2) -0.2177(2) 0.6865(1) 0.0447(5) Uani 1.00 d . . .
+C(10) C 0.3024(1) -0.1263(2) 0.65805(9) 0.0373(5) Uani 1.00 d . . .
+C(11) C 0.2738(1) -0.0420(2) 0.58932(10) 0.0391(5) Uani 1.00 d . . .
+C(12) C 0.2540(1) 0.0318(2) 0.53247(10) 0.0374(5) Uani 1.00 d . . .
+C(13) C 0.2243(1) 0.1122(2) 0.46372(9) 0.0355(5) Uani 1.00 d . . .
+C(14) C 0.1209(1) 0.1188(2) 0.41066(9) 0.0377(5) Uani 1.00 d . . .
+C(15) C 0.0344(1) 0.1732(2) 0.4539(1) 0.0462(6) Uani 1.00 d . . .
+C(16) C 0.0047(2) 0.3019(2) 0.4460(1) 0.0515(6) Uani 1.00 d . . .
+C(17) C 0.0503(2) 0.3949(2) 0.3926(1) 0.0551(6) Uani 1.00 d . . .
+C(18) C 0.1285(2) 0.3604(2) 0.3514(1) 0.0500(6) Uani 1.00 d . . .
+C(19) C 0.1756(1) 0.2231(2) 0.35668(9) 0.0376(5) Uani 1.00 d . . .
+C(20) C 0.0973(1) -0.0058(2) 0.3571(1) 0.0469(5) Uani 1.00 d . . .
+C(21) C 0.1752(2) 0.0021(2) 0.2939(1) 0.0535(6) Uani 1.00 d . . .
+C(22) C 0.1848(2) 0.1532(2) 0.2749(1) 0.0500(6) Uani 1.00 d . . .
+C(23) C 0.2703(1) 0.2054(2) 0.41875(9) 0.0358(4) Uani 1.00 d . . .
+C(24) C 0.3689(1) 0.2664(2) 0.42318(10) 0.0372(5) Uani 1.00 d . . .
+C(25) C 0.4511(1) 0.3222(2) 0.42627(10) 0.0385(5) Uani 1.00 d . . .
+C(26) C 0.5502(1) 0.3856(2) 0.4341(1) 0.0381(5) Uani 1.00 d . . .
+C(27) C 0.5739(2) 0.4884(2) 0.3819(1) 0.0477(6) Uani 1.00 d . . .
+C(28) C 0.6699(2) 0.5493(2) 0.3905(1) 0.0531(6) Uani 1.00 d . . .
+C(29) C 0.7440(2) 0.5089(2) 0.4515(1) 0.0521(6) Uani 1.00 d . . .
+C(30) C 0.7226(1) 0.4083(2) 0.5042(1) 0.0461(5) Uani 1.00 d . . .
+C(31) C 0.6259(1) 0.3447(2) 0.4968(1) 0.0388(5) Uani 1.00 d . . .
+H(1) H 0.4972 -0.1968 0.7943 0.0556 Uiso 1.00 calc . . .
+H(2) H 0.3765 -0.3439 0.8398 0.0598 Uiso 1.00 calc . . .
+H(3) H 0.2113 -0.3590 0.7723 0.0583 Uiso 1.00 calc . . .
+H(4) H 0.1637 -0.2246 0.6593 0.0538 Uiso 1.00 calc . . .
+H(5) H -0.0007 0.1151 0.4880 0.0555 Uiso 1.00 calc . . .
+H(6) H -0.0487 0.3333 0.4769 0.0619 Uiso 1.00 calc . . .
+H(7) H 0.0231 0.4837 0.3869 0.0661 Uiso 1.00 calc . . .
+H(8) H 0.1559 0.4255 0.3170 0.0602 Uiso 1.00 calc . . .
+H(9) H 0.1071 -0.0891 0.3897 0.0566 Uiso 1.00 calc . . .
+H(10) H 0.0255 -0.0025 0.3305 0.0566 Uiso 1.00 calc . . .
+H(11) H 0.2430 -0.0348 0.3163 0.0645 Uiso 1.00 calc . . .
+H(12) H 0.1498 -0.0482 0.2441 0.0645 Uiso 1.00 calc . . .
+H(13) H 0.1285 0.1823 0.2337 0.0602 Uiso 1.00 calc . . .
+H(14) H 0.2527 0.1730 0.2547 0.0602 Uiso 1.00 calc . . .
+H(15) H 0.5234 0.5171 0.3397 0.0574 Uiso 1.00 calc . . .
+H(16) H 0.6851 0.6196 0.3543 0.0639 Uiso 1.00 calc . . .
+H(17) H 0.8102 0.5510 0.4569 0.0625 Uiso 1.00 calc . . .
+H(18) H 0.7741 0.3814 0.5462 0.0554 Uiso 1.00 calc . . .
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.003 0.002
+;International Tables for Crystallography
+(1992, Vol. C, Tables 4.2.6.8 and 6.1.1.1)
+;
+H H 0.000 0.000
+;International Tables for Crystallography
+(1992, Vol. C, Table 6.1.1.2)
+;

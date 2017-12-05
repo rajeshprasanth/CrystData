@@ -1,0 +1,136 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 02:53:41 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176768 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/11/2101123.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2101123
+loop_
+_publ_author_name
+'Gerson, A. R.'
+'Nyburg, S. C.'
+_publ_section_title
+;
+ Structures of two binary <i>n</i>-alkane solid solutions
+;
+_journal_issue                   2
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              252
+_journal_page_last               256
+_journal_paper_doi               10.1107/S0108768193009504
+_journal_volume                  50
+_journal_year                    1994
+_chemical_formula_moiety         'C50 H104'
+_chemical_formula_sum            'C50 H104'
+_chemical_formula_weight         345.39
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_cell_angle_alpha                90.02(2)
+_cell_angle_beta                 90.000(10)
+_cell_angle_gamma                89.95(3)
+_cell_formula_units_Z            4
+_cell_length_a                   4.9920(10)
+_cell_length_b                   7.503(3)
+_cell_length_c                   67.448(8)
+_cell_volume                     2526.3(12)
+_diffrn_radiation_type           Cu
+_diffrn_radiation_wavelength     1.54184
+_cod_data_source_file            li0147.cif
+_cod_data_source_block           li0147a
+_cod_original_cell_volume        2526.3
+_cod_database_code               2101123
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C(1) .82(3) .20(2) .245(2)
+C(2) .72(2) .302(9) .2260(9)
+C(3) .820(10) .166(7) .2082(6)
+C(4) .692(6) .239(5) .1875(4)
+C(5) .816(6) .150(5) .1705(4)
+C(6) .704(6) .223(5) .1517(4)
+C(7) .811(6) .134(5) .1319(4)
+C(8) .693(6) .221(5) .1128(4)
+C(9) .818(6) .141(5) .0940(4)
+C(10) .695(6) .222(5) .0763(4)
+C(11) .813(6) .133(5) .0572(4)
+C(12) .705(6) .225(5) .0372(4)
+C(13) .819(6) .132(4) .0189(4)
+C(14) .688(7) .213 .0000
+H(1A) .722 .053 .246
+H(1B) 1.008 .191 .247
+H(1C) .719 .230 .255
+H(2A) .527 .278 .226
+H(2B) .758 .440 .228
+H(2C) .811 .238 .237
+H(3A) .827 .036 .210
+H(3B) 1.010 .210 .208
+H(3C) .701 .238 .217
+H(4A) .783 .354 .183
+H(4B) .494 .243 .188
+H(4C) .768 .190 .201
+H(5A) .734 .027 .172
+H(5B) .997 .093 .169
+H(6A) .510 .185 .151
+H(6B) .722 .355 .154
+H(7A) .772 .007 .131
+H(7B) 1.006 .168 .133
+H(8A) .790 .338 .111
+H(8B) .499 .244 .112
+H(9A) .747 .017 .095
+H(9B) 1.006 .093 .093
+H(10A) .495 .207 .075
+H(10B) .735 .351 .078
+H(11A) .990 .194 .057
+H(11B) .806 -.001 .057
+H(12A) .766 .350 .035
+H(12B) .509 .207 .037
+H(13A) .754 .007 .020
+H(13B) 1.015 .109 .019
+H(14A) .734 .344 .000
+H(14B) .495 .204 .000
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+C(1) C(2) C(3) 99(7)
+C(2) C(3) C(4) 107(4)
+C(3) C(4) C(5) 110(3)
+C(4) C(5) C(6) 109(3)
+C(5) C(6) C(7) 115(3)
+C(6) C(7) C(8) 112(3)
+C(7) C(8) C(9) 111(3)
+C(8) C(9) C(10) 109(3)
+C(9) C(10) C(11) 109(3)
+C(10) C(11) C(12) 112(2)
+C(11) C(12) C(13) 111(2)
+C(12) C(13) C(14) 110(2)
+C(13) C(14) C(13)' 112(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+C(1) C(2) 1.5(2)
+C(2) C(3) 1.62(5)
+C(3) C(4) 1.66(8)
+C(4) C(5) 1.46(4)
+C(5) C(6) 1.49(4)
+C(6) C(7) 1.59(4)
+C(7) C(8) 1.56(4)
+C(8) C(9) 1.54(4)
+C(9) C(10) 1.47(4)
+C(10) C(11) 1.57(4)
+C(11) C(12) 1.61(4)
+C(12) C(13) 1.53(4)
+C(13) C(14) 1.53(3)

@@ -1,0 +1,44 @@
+#------------------------------------------------------------------------------
+#$Date: 2012-02-28 14:14:52 +0200 (Tue, 28 Feb 2012) $
+#$Revision: 35911 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/08/1010841.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010841
+_chemical_name_systematic          'Radium fluoride'
+_chemical_formula_structural       'Ra F2'
+_chemical_formula_sum              'F2 Ra'
+_publ_section_title                'Die Kristallstruktur von Radiumfluorid.'
+loop_
+_publ_author_name                  'Schulze, G E R'
+_journal_name_full
+;
+Zeitschrift fuer Physikalische Chemie, Abteilung B: Chemie der
+Elementarprozesse, Aufbau der Materie
+;
+_journal_coden_ASTM                ZPCBAL
+_journal_volume                    32
+_journal_year                      1936
+_journal_page_first                430
+_journal_page_last                 432
+_cell_length_a                     6.368(3)
+_cell_length_b                     6.368(3)
+_cell_length_c                     6.368(3)
+_cell_angle_alpha                  90
+_cell_angle_beta                   90
+_cell_angle_gamma                  90
+_cell_volume                       258.2
+_cell_formula_units_Z              4
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010841

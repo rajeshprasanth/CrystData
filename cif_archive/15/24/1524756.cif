@@ -1,0 +1,95 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 14:50:18 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176428 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/47/1524756.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1524756
+loop_
+_publ_author_name
+'Kripyakevich, P.I.'
+'Kuz'ma, Yu.B.'
+'Ugrin, N.S.'
+_publ_section_title
+;
+ Crystal structures of the compounds Ce3 Zn22, La3 Zn22, and Pr3 Zn22
+;
+_journal_name_full               'Journal of the Less-Common Metals'
+_journal_page_first              189
+_journal_page_last               197
+_journal_volume                  127
+_journal_year                    1987
+_chemical_formula_sum            'Ce3 Zn22'
+_chemical_name_systematic        'Ce3 Zn22'
+_space_group_IT_number           141
+_symmetry_space_group_name_Hall  'I 4bw 2bw -1bw'
+_symmetry_space_group_name_H-M   'I 41/a m d :1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   8.94
+_cell_length_b                   8.94
+_cell_length_c                   21.33
+_cell_volume                     1704.770
+_citation_journal_id_ASTM        JCOMAH
+_cod_data_source_file            Kripyakevich_JCOMAH_1987_904.cif
+_cod_data_source_block           Ce3Zn22
+_cod_original_cell_volume        1704.77
+_cod_original_sg_symbol_Hall     '-I 4bd 2 (x+1/2,y+1/4,z+1/8)'
+_cod_database_code               1524756
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x+1/2,z+1/4
+-x+1/2,-y+1/2,z+1/2
+y+1/2,-x,z+3/4
+x,-y+1/2,-z+1/4
+y+1/2,x+1/2,-z+1/2
+-x+1/2,y,-z+3/4
+-y,-x,-z
+-x,-y+1/2,-z+1/4
+y,-x,-z
+x-1/2,y,-z-1/4
+-y-1/2,x+1/2,-z-1/2
+-x,y,z
+-y-1/2,-x,z-1/4
+x-1/2,-y+1/2,z-1/2
+y,x+1/2,z+1/4
+x+1/2,y+1/2,z+1/2
+-y+1/2,x+1,z+3/4
+-x+1,-y+1,z+1
+y+1,-x+1/2,z+5/4
+x+1/2,-y+1,-z+3/4
+y+1,x+1,-z+1
+-x+1,y+1/2,-z+5/4
+-y+1/2,-x+1/2,-z+1/2
+-x+1/2,-y+1,-z+3/4
+y+1/2,-x+1/2,-z+1/2
+x,y+1/2,-z+1/4
+-y,x+1,-z
+-x+1/2,y+1/2,z+1/2
+-y,-x+1/2,z+1/4
+x,-y+1,z
+y+1/2,x+1,z+3/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn3 Zn 0 0.35 0 1 0.0
+Zn5 Zn 0.25 0.25 0.063 1 0.0
+Zn4 Zn 0 0.78 0.5 1 0.0
+Ce2 Ce 0 0 0.616 1 0.0
+Ce1 Ce 0 0 0.5 1 0.0
+Zn1 Zn 0 0.25 0.625 1 0.0
+Zn2 Zn 0 0.18 0.875 1 0.0

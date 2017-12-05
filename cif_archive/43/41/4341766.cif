@@ -1,0 +1,412 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-23 23:59:59 +0200 (Wed, 23 Mar 2016) $
+#$Revision: 179520 $
+#$URL: svn://www.crystallography.net/cod/cif/4/34/17/4341766.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4341766
+loop_
+_publ_author_name
+'Akselrud, Lev'
+'Wosylus, Aron'
+'Castillo, Rodrigo'
+'Aydemir, Umut'
+'Prots, Yurii'
+'Schnelle, Walter'
+'Grin, Yuri'
+'Schwarz, Ulrich'
+_publ_section_title
+;
+ BaGe6 and BaGe6-x: Incommensurately Ordered Vacancies as Electron Traps.
+;
+_journal_name_full               'Inorganic chemistry'
+_journal_page_first              141126111906003
+_journal_paper_doi               10.1021/ic5021065
+_journal_year                    2014
+_chemical_formula_sum            'Ba14 Ge78'
+_chemical_formula_weight         7584.64
+_space_group_IT_number           36
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_audit_creation_method           'WinCSD program'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   29.5729(8)
+_cell_length_b                   11.2228(3)
+_cell_length_c                   12.7992(3)
+_cell_measurement_reflns_used    4322
+_cell_measurement_temperature    295.0
+_cell_measurement_theta_max      33.5
+_cell_measurement_theta_min      1.9
+_cell_volume                     4247.94(19)
+_computing_cell_refinement       WinCSD
+_computing_data_reduction        WinCSD
+_computing_publication_material  'WinCSD (Akselrud et al, 1993)'
+_computing_structure_refinement  WinCSD
+_computing_structure_solution    WinCSD
+_diffrn_ambient_temperature      295.0
+_diffrn_detector_area_resol_mean 28.5714
+_diffrn_measured_fraction_theta_full 1.0
+_diffrn_measured_fraction_theta_max 1.0
+_diffrn_measurement_details
+;
+scan:
+    Number of images: 300
+               Slice: 60.0000 - 240.0000
+         Image width: 0.6000
+            Exp time: 75.0000
+       Rotation axis: Phi
+               Omega: -15.0000
+               Kappa: -30.0000
+                 Phi: 0.0000
+                 XTD: 48.2900
+              2theta: -28.0000
+scan:
+    Number of images: 300
+               Slice: -120.0000 - 60.0000
+         Image width: 0.6000
+            Exp time: 75.0000
+       Rotation axis: Phi
+               Omega: -30.0000
+               Kappa: -60.0000
+                 Phi: 0.0000
+                 XTD: 48.2900
+              2theta: -28.0000
+scan:
+    Number of images: 250
+               Slice: 210.0000 - 360.0000
+         Image width: 0.6000
+            Exp time: 75.0000
+       Rotation axis: Phi
+               Omega: -30.0000
+               Kappa: -40.0000
+                 Phi: 0.0000
+                 XTD: 48.2900
+              2theta: -28.0000
+;
+_diffrn_measurement_device
+;
+Mercury70 (2x2 bin mode)
+;
+_diffrn_measurement_device_details
+;
+AFC7: Eulerian 3-circle
+;
+_diffrn_measurement_method       dtprofit.ref
+_diffrn_orient_matrix_type       d*Trek
+_diffrn_radiation_detector       CCD
+_diffrn_radiation_monochromator  'Graphite Monochromator'
+_diffrn_radiation_source         'Sealed Tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.710730
+_diffrn_reflns_av_R_equivalents  0.0549
+_diffrn_reflns_av_sigmaI/netI    0.0550
+_diffrn_reflns_limit_h_max       45
+_diffrn_reflns_limit_h_min       -42
+_diffrn_reflns_limit_k_max       14
+_diffrn_reflns_limit_k_min       -17
+_diffrn_reflns_limit_l_max       19
+_diffrn_reflns_limit_l_min       -8
+_diffrn_reflns_number            12063
+_diffrn_reflns_reduction_process 'Lp corrections applied'
+_diffrn_reflns_theta_full        33.5
+_diffrn_reflns_theta_max         33.9
+_diffrn_source_current           38.0
+_diffrn_source_power             1.9
+_diffrn_source_voltage           50.0
+_exptl_absorpt_coefficient_mu    33.463
+_exptl_absorpt_correction_T_max  1.000
+_exptl_absorpt_correction_T_min  0.461
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+'Blessing, R. H. (1995) Acta Cryst. A51, 33-38'
+_exptl_crystal_colour            Grey
+_exptl_crystal_density_diffrn    5.9293
+_exptl_crystal_description       Block
+_exptl_crystal_F_000             6560
+_exptl_crystal_size_max          0.2
+_exptl_crystal_size_mid          0.2
+_exptl_crystal_size_min          0.2
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.01
+_refine_ls_matrix_type           fullcycle
+_refine_ls_number_parameters     217
+_refine_ls_number_reflns         4416
+_refine_ls_R_factor_gt           0.0386
+_refine_ls_structure_factor_coef Inet
+_refine_ls_weighting_details     0.0593Log(F~o~)^4^
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.0410
+_reflns_number_gt                4416
+_reflns_number_total             4416
+_reflns_threshold_expression     'F~o~ > 5.9\s(F~o~)'
+_cod_data_source_file            ic5021065_si_003.cif
+_cod_data_source_block           BaGe55com
+_cod_original_cell_volume        4247.9(4)
+_cod_database_code               4341766
+loop_
+_symmetry_equiv_pos_as_xyz
+' x, y, z'
+'-x, y, z'
+' x, -y, 1/2+z'
+'-x, -y, 1/2+z'
+' 1/2+x, 1/2+y, z'
+' 1/2-x, 1/2+y, z'
+' 1/2+x, 1/2-y, 1/2+z'
+' 1/2-x, 1/2-y, 1/2+z'
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ba1 0.8(2) 1.1(2) 1.2(2) 0 0 -0.1(2)
+Ba2 0.9(2) 1.06(11) 1.31(11) 0.12(13) -0.15(12) -0.18(14)
+Ba3 0.81(11) 0.86(12) 0.85(11) 0.1(2) 0.27(15) -0.01(8)
+Ba4 0.8(2) 0.92(12) 0.81(12) -0.11(11) 0.09(12) 0.09(11)
+Ge1 0.5(4) 0.4(3) 0.6(3) 0 0 0.0(2)
+Ge2 0.8(4) 1.2(4) 1.5(4) 0 0 -0.0(3)
+Ge3 1.3(5) 0.3(3) 0.5(3) 0 0 0.1(3)
+Ge4 0.2(3) 1.3(4) 0.8(3) 0 0 0.2(3)
+Ge5 1.5(4) 0.9(4) 1.2(4) 0 0 0.3(3)
+Ge6 1.1(3) 0.7(3) 0.8(3) 0.3(2) -0.0(2) -0.0(2)
+Ge7 0.4(3) 1.1(2) 0.9(2) 0.5(2) 0.1(2) 0.1(2)
+Ge8 1.3(2) 0.5(2) 0.7(2) 0.0(2) 0.04(11) -0.0(2)
+Ge9 1.3(3) 2.2(3) 1.3(3) -0.2(3) 0.2(2) 0.1(2)
+Ge10 1.4(3) 1.5(3) 1.2(3) 0.2(3) 0.1(2) -0.0(2)
+Ge11 0.8(3) 0.6(3) 0.9(2) -0.3(2) -0.3(2) -0.2(2)
+Ge12 0.7(2) 1.3(2) 1.0(2) -0.0(3) -0.0(3) -0.07(13)
+Ge13 0.8(3) 0.9(2) 0.7(2) 0.3(2) -0.2(2) -0.1(2)
+Ge14 0.9(3) 1.3(3) 0.9(2) -0.2(3) -0.2(3) 0.1(2)
+Ge15 0.8(3) 0.2(3) 0.4(2) -0.1(2) 0.0(2) -0.1(2)
+Ge16 0.6(2) 0.6(2) 0.5(2) 0.2(2) 0.4(2) 0.16(15)
+Ge17 0.4(4) 1.9(4) 1.1(3) -0.4(2) -0.3(2) 0.0(3)
+Ge18 0.5(3) 0.6(3) 0.6(2) 0.1(2) -0.1(2) 0.0(2)
+Ge19 1.9(3) 1.2(3) 1.1(2) 0.1(3) -0.5(2) 0.1(2)
+Ge20 1.8(2) 1.1(2) 1.3(2) -0.1(2) -0.5(2) 0.0(2)
+Ge21 2.4(2) 0.8(2) 0.74(15) 0.1(2) 0.69(14) 0.08(13)
+Ge22 1.6(2) 0.9(3) 1.2(2) 0.1(2) -0.1(2) -0.1(2)
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_thermal_displace_type
+_atom_site_B_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+Ba1 Ba 0 0.2858(4) 0.25000 Bani 1.05(13) 4 1.0
+Ba2 Ba 0.4295(1) 0.2852(2) 0.2589(5) Bani 1.11(8) 8 1.0
+Ba3 Ba 0.1416(1) 0.2915(3) 0.2689(4) Bani 0.84(7) 8 1.0
+Ba4 Ba 0.28665(8) 0.2943(3) 0.2550(6) Bani 0.85(9) 8 1.0
+Ge1 Ge 0 0.5638(7) 0.3565(7) Bani 0.5(2) 4 1.0
+Ge2 Ge 0 0.0348(9) 0.9145(8) Bani 1.1(3) 4 1.0
+Ge3 Ge 0 0.5815(8) 0.1536(8) Bani 0.7(3) 4 1.0
+Ge4 Ge 0 0.2452(8) 0.9739(7) Bani 0.8(2) 4 1.0
+Ge5 Ge 0 0.0490(8) 0.6033(8) Bani 1.2(3) 4 1.0
+Ge6 Ge 0.0723(2) 0.0672(5) 0.3590(6) Bani 0.9(2) 8 1.0
+Ge7 Ge 0.3551(2) 0.0820(5) 0.3618(6) Bani 0.83(14) 8 1.0
+Ge8 Ge 0.3548(1) 0.2508(4) 0.0415(5) Bani 0.86(11) 8 1.0
+Ge9 Ge 0.4283(3) 0.0324(8) 0.9135(7) Bani 1.6(2) 8 1.0
+Ge10 Ge 0.2135(3) 0.0768(5) 0.3553(6) Bani 1.4(2) 8 1.0
+Ge11 Ge 0.0714(3) 0.0743(6) 0.1556(6) Bani 0.8(2) 8 1.0
+Ge12 Ge 0.1434(3) 0.0273(5) 0.6001(6) Bani 1.00(13) 8 1.0
+Ge13 Ge 0.4275(2) 0.0396(5) 0.6005(6) Bani 0.78(15) 8 1.0
+Ge14 Ge 0.1428(4) 0.0434(6) 0.9160(6) Bani 1.03(14) 8 1.0
+Ge15 Ge 0.2859(2) 0.0296(6) 0.9207(6) Bani 0.5(2) 8 1.0
+Ge16 Ge 0.3568(3) 0.0681(5) 0.1622(5) Bani 0.54(13) 8 1.0
+Ge17 Ge 0.2147(2) 0.0732(7) 0.1581(7) Bani 1.1(2) 8 1.0
+Ge18 Ge 0.2859(2) 0.0331(5) 0.6024(6) Bani 0.57(15) 8 1.0
+Ge19 Ge 0.2772(2) 0.2576(5) 0.9776(6) Bani 1.4(2) 8 1.0
+Ge20 Ge 0.0865(2) 0.2569(4) 0.0384(6) Bani 1.38(13) 8 1.0
+Ge21 Ge 0.1902(1) 0.2454(4) 0.0264(5) Bani 1.30(11) 8 1.0
+Ge22 Ge 0.4435(2) 0.2516(6) 0.9809(6) Bani 1.24(14) 8 1.0
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_number_in_cell
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Ba Ba 28.00 -.324 2.282 International_Tables_Vol_IV_Table_2.3.1
+Ge Ge 156.00 .155 1.812 International_Tables_Vol_IV_Table_2.3.1
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+Ge1 Ba1 Ge22 76.49 7_454 yes
+Ge1 Ba1 Ge22 76.49 8_554 yes
+Ge1 Ba1 Ge13 72.78 7_454 yes
+Ge1 Ba1 Ge13 72.78 8_554 yes
+Ge1 Ba1 Ge3 44.0(2) . yes
+Ge1 Ba1 Ge6 118.50(15) . yes
+Ge1 Ba1 Ge6 118.49 2_555 yes
+Ge1 Ba1 Ge4 120.95 1_554 yes
+Ge1 Ba1 Ge9 41.41 7_454 yes
+Ge1 Ba1 Ge9 41.41 8_554 yes
+Ge1 Ba1 Ge20 111.68(15) . yes
+Ge1 Ba1 Ge20 111.68 2_555 yes
+Ge1 Ba1 Ge2 126.05 3_554 yes
+Ge1 Ba1 Ba3 87.87(7) . yes
+Ge1 Ba1 Ba3 87.87 2_555 yes
+Ge1 Ba1 Ge5 177.07 3_554 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Ba1 Ge11 3.399(8) . yes
+Ba1 Ge1 3.405(9) . yes
+Ba1 Ge22 3.421(7) 7_454 yes
+Ba1 Ge13 3.478(7) 7_454 yes
+Ba1 Ge3 3.541(10) . yes
+Ba1 Ge6 3.541(7) . yes
+Ba1 Ge4 3.563(1) 1_554 yes
+Ba1 Ge9 3.611(9) 7_454 yes
+Ba1 Ge20 3.740(7) . yes
+Ba1 Ge2 4.169(11) 3_554 yes
+Ba1 Ba3 4.198(1) . yes
+Ba1 Ge5 4.200(10) 3_554 yes
+Ba2 Ge3 3.375(8) 5_545 yes
+Ba2 Ge6 3.414(7) 6_555 yes
+Ba2 Ge5 3.431(9) 7_554 yes
+Ba2 Ge7 3.432(7) . yes
+Ba2 Ge4 3.469(9) 7_554 yes
+Ba2 Ge16 3.476(7) . yes
+Ba2 Ge1 3.476(7) 5_545 yes
+Ba2 Ge11 3.503(7) 6_555 yes
+Ba2 Ge14 3.509(9) 8_554 yes
+Ba2 Ge2 3.520(9) 7_554 yes
+Ba2 Ge8 3.573(8) . yes
+Ba2 Ge22 3.602(10) 1_554 yes
+Ba2 Ge12 3.634(9) 8_554 yes
+Ba2 Ge20 3.640(10) 8_555 yes
+Ba2 Ge9 4.078(9) 3_554 yes
+Ba2 Ba2 4.169(5) 2_655 yes
+Ba2 Ge13 4.172(7) 3_554 yes
+Ba2 Ba4 4.226(4) . yes
+Ba3 Ge16 3.392(6) 6_555 yes
+Ba3 Ge20 3.394(8) . yes
+Ba3 Ge10 3.398(7) . yes
+Ba3 Ge9 3.408(9) 8_554 yes
+Ba3 Ge6 3.445(7) . yes
+Ba3 Ge21 3.459(7) . yes
+Ba3 Ge7 3.471(6) 6_555 yes
+Ba3 Ge11 3.517(8) . yes
+Ba3 Ge15 3.517(7) 8_554 yes
+Ba3 Ge8 3.523(7) 8_555 yes
+Ba3 Ge13 3.526(7) 8_554 yes
+Ba3 Ge17 3.562(8) . yes
+Ba3 Ge18 3.604(7) 8_554 yes
+Ba3 Ge19 3.632(7) 8_554 yes
+Ba3 Ge22 3.736(7) 8_554 yes
+Ba3 Ge12 4.181(7) 3_554 yes
+Ba3 Ge14 4.205(7) 3_554 yes
+Ba3 Ba4 4.291(4) . yes
+Ba4 Ge17 3.367(8) 6_555 yes
+Ba4 Ge7 3.413(7) . yes
+Ba4 Ge10 3.421(7) 6_555 yes
+Ba4 Ge8 3.430(8) . yes
+Ba4 Ge14 3.451(9) 8_554 yes
+Ba4 Ge19 3.468(9) 8_554 yes
+Ba4 Ge16 3.488(7) . yes
+Ba4 Ge18 3.489(8) 8_554 yes
+Ba4 Ge12 3.493(9) 8_554 yes
+Ba4 Ge17 3.495(8) . yes
+Ba4 Ge10 3.504(7) . yes
+Ba4 Ge21 3.569(9) 8_555 yes
+Ba4 Ge19 3.584(10) 1_554 yes
+Ba4 Ge15 3.607(8) 8_554 yes
+Ba4 Ge21 4.122(7) . yes
+Ba4 Ge18 4.162(7) 3_554 yes
+Ba4 Ge15 4.210(8) 3_554 yes
+Ge1 Ge9 2.487(10) 7_454 yes
+Ge1 Ge3 2.605(13) . yes
+Ge1 Ge4 2.617(12) 3_564 yes
+Ge2 Ge4 2.480(13) . yes
+Ge2 Ge6 2.529(8) 3_555 yes
+Ge2 Ge5 2.593(14) 3_555 yes
+Ge2 Ge22 3.689(11) 5_445 yes
+Ge2 Ge11 3.765(11) 1_556 yes
+Ge3 Ge13 2.627(8) 7_454 yes
+Ge3 Ge22 3.363(10) 5_454 yes
+Ge3 Ge9 3.773(12) 5_454 yes
+Ge4 Ge20 2.693(6) 1_556 yes
+Ge4 Ge13 3.612(9) 7_455 yes
+Ge4 Ge11 3.681(10) 1_556 yes
+Ge4 Ge5 3.695(13) 3_555 yes
+Ge5 Ge11 2.613(9) 3_555 yes
+Ge5 Ge22 3.199(10) 7_454 yes
+Ge6 Ge14 2.534(11) 3_554 yes
+Ge6 Ge11 2.604(11) . yes
+Ge6 Ge22 2.606(9) 8_554 yes
+Ge6 Ge12 3.761(11) . yes
+Ge6 Ge8 3.777(8) 8_555 yes
+Ge7 Ge15 2.514(8) 3_554 yes
+Ge7 Ge16 2.560(10) . yes
+Ge7 Ge9 2.604(10) 3_554 yes
+Ge7 Ge21 3.159(8) 8_555 yes
+Ge7 Ge20 3.368(9) 8_555 yes
+Ge7 Ge18 3.737(9) . yes
+Ge7 Ge13 3.762(10) . yes
+Ge8 Ge19 2.438(6) 1_554 yes
+Ge8 Ge16 2.568(8) . yes
+Ge8 Ge12 2.599(7) 8_554 yes
+Ge8 Ge22 2.737(6) 1_554 yes
+Ge8 Ge15 3.564(8) 1_554 yes
+Ge8 Ge14 3.656(8) 6_554 yes
+Ge8 Ge9 3.664(10) 1_554 yes
+Ge8 Ge10 3.675(9) 8_554 yes
+Ge9 Ge13 2.527(11) 3_555 yes
+Ge9 Ge22 2.646(11) . yes
+Ge9 Ge20 3.509(10) 6_546 yes
+Ge10 Ge19 2.444(9) 8_554 yes
+Ge10 Ge17 2.525(12) . yes
+Ge10 Ge15 2.591(9) 3_554 yes
+Ge10 Ge14 2.608(11) 3_554 yes
+Ge11 Ge12 2.519(11) 3_554 yes
+Ge11 Ge20 2.579(9) . yes
+Ge11 Ge14 3.741(11) 1_554 yes
+Ge12 Ge14 2.487(10) 3_554 yes
+Ge12 Ge17 2.506(11) 3_555 yes
+Ge12 Ge21 3.491(8) 3_555 yes
+Ge12 Ge20 3.692(8) 3_555 yes
+Ge12 Ge19 3.713(9) 8_554 yes
+Ge13 Ge20 2.454(8) 8_555 yes
+Ge13 Ge16 2.541(10) 3_555 yes
+Ge13 Ge22 3.640(9) 3_554 yes
+Ge14 Ge21 3.017(9) 1_556 yes
+Ge14 Ge20 3.311(9) 1_556 yes
+Ge14 Ge17 3.774(11) 1_556 yes
+Ge15 Ge18 2.431(10) 3_555 yes
+Ge15 Ge19 2.673(8) . yes
+Ge15 Ge21 3.536(8) 6_546 yes
+Ge15 Ge19 3.653(8) 6_545 yes
+Ge15 Ge17 3.729(10) 1_556 yes
+Ge15 Ge16 3.761(10) 1_556 yes
+Ge16 Ge18 2.505(9) 3_554 yes
+Ge17 Ge18 2.523(9) 3_554 yes
+Ge17 Ge21 2.665(9) . yes
+Ge17 Ge19 3.609(10) 1_554 yes
+Ge18 Ge21 2.760(7) 8_555 yes
+Ge18 Ge19 3.399(8) 8_554 yes
+Ge18 Ge19 3.642(8) 3_554 yes
+Ge19 Ge21 2.650(6) 1_556 yes
+Ge20 Ge21 3.072(6) . yes
+Ge22 Ge22 3.337(7) 2_655 yes

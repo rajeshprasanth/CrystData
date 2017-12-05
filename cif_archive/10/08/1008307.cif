@@ -1,0 +1,39 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-05 09:57:37 +0200 (Fri, 05 Feb 2016) $
+#$Revision: 176229 $
+#$URL: svn://www.crystallography.net/cod/cif/1/00/83/1008307.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1008307
+loop_
+_publ_author_name
+'Pa\/losz, B.'
+'Gierlotka, S.'
+'L\'evy, F.'
+_publ_section_title
+;
+ Polytypism of Sn Se~2~ Crystals Grown by Chemical Transport: Structures
+ of Six Large-Period Polytypes of Sn Se~2~
+;
+_journal_name_full               'Acta Cryst C'
+_journal_page_first              1404
+_journal_page_last               1406
+_journal_paper_doi               10.1107/s0108270185007958
+_journal_volume                  41
+_journal_year                    1985
+_chemical_formula_structural     'Sn Se2'
+_chemical_formula_sum            'Se2 Sn'
+_chemical_name_systematic        'Tin diselenide'
+_cod_database_code               1008307
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

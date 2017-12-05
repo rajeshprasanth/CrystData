@@ -1,0 +1,602 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/2/23/11/2231129.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2231129
+loop_
+_publ_author_name
+'Oshchapovsky, Igor'
+'Pavlyuk, Volodymyr'
+'Dmytriv, Grygoriy'
+'White, Fraser'
+_publ_section_title
+;
+ LaZn~12.37(1)~, a zinc-deficient variant of the NaZn~13~ structure
+ type
+;
+_journal_issue                   8
+_journal_name_full               'Acta Crystallographica Section E'
+_journal_page_first              i43
+_journal_paper_doi               10.1107/S1600536811028893
+_journal_volume                  67
+_journal_year                    2011
+_chemical_formula_moiety         'La Zn12.37'
+_chemical_formula_sum            'La Zn12.36'
+_chemical_formula_weight         947.0023
+_chemical_name_systematic        'lanthanum dodecazinc'
+_space_group_IT_number           226
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_Hall  '-F 4a 2 3'
+_symmetry_space_group_name_H-M   'F m -3 c'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            8
+_cell_length_a                   12.0940(9)
+_cell_length_b                   12.0940(9)
+_cell_length_c                   12.0940(9)
+_cell_measurement_reflns_used    811
+_cell_measurement_temperature    293(2)
+_cell_measurement_theta_max      28.9229
+_cell_measurement_theta_min      3.3623
+_cell_volume                     1768.9(2)
+_computing_cell_refinement       'CrysAlis Pro (Agilent, 2011)'
+_computing_data_collection       'CrysAlis Pro (Agilent, 2011)'
+_computing_data_reduction        'CrysAlis Pro (Agilent, 2011)'
+_computing_molecular_graphics
+'DIAMOND (Brandenburg, 2006)and VESTA (Momma & Izumi, 2008)'
+_computing_publication_material  'publCIF (Westrip, 2010)'
+_computing_structure_refinement  'SHELXL97 (Sheldrick, 2008)'
+_computing_structure_solution    'SHELXS97 (Sheldrick, 2008)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_measured_fraction_theta_full 0.982
+_diffrn_measured_fraction_theta_max 0.982
+_diffrn_measurement_device_type
+'Agilent Gemini Ultra diffractometer with Eos CCD detector'
+_diffrn_measurement_method       '\w scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'Enhance (Mo) X-ray Source'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1216
+_diffrn_reflns_av_sigmaI/netI    0.0500
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       -14
+_diffrn_reflns_limit_k_max       16
+_diffrn_reflns_limit_k_min       -16
+_diffrn_reflns_limit_l_max       16
+_diffrn_reflns_limit_l_min       -9
+_diffrn_reflns_number            1543
+_diffrn_reflns_theta_full        28.28
+_diffrn_reflns_theta_max         28.28
+_diffrn_reflns_theta_min         3.37
+_diffrn_standards_decay_%        0
+_diffrn_standards_interval_count 0
+_diffrn_standards_number         0
+_exptl_absorpt_coefficient_mu    37.492
+_exptl_absorpt_correction_T_max  1.0
+_exptl_absorpt_correction_T_min  0.368
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'CrysAlis Pro (Agilent, 2011)'
+_exptl_crystal_colour            grey
+_exptl_crystal_density_diffrn    7.113
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       'irregular platelet'
+_exptl_crystal_F_000             3426.0
+_exptl_crystal_size_max          0.05
+_exptl_crystal_size_mid          0.03
+_exptl_crystal_size_min          0.01
+_refine_diff_density_max         0.812
+_refine_diff_density_min         -1.078
+_refine_ls_extinction_coef       0.00058(8)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     'SHELXL97 (Sheldrick, 2008)'
+_refine_ls_goodness_of_fit_ref   1.216
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     12
+_refine_ls_number_reflns         110
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.216
+_refine_ls_R_factor_all          0.0252
+_refine_ls_R_factor_gt           0.0243
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0097P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0510
+_refine_ls_wR_factor_ref         0.0520
+_reflns_number_gt                108
+_reflns_number_total             110
+_reflns_threshold_expression     I>2\s(I)
+_cod_data_source_file            hb5947.cif
+_cod_data_source_block           I
+_cod_original_sg_symbol_Hall     '-F 4c 2 3'
+_cod_database_code               2231129
+_cod_database_fobs_code          2231129
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'-x, y, -z'
+'x, -y, -z'
+'z, x, y'
+'z, -x, -y'
+'-z, -x, y'
+'-z, x, -y'
+'y, z, x'
+'-y, z, -x'
+'y, -z, -x'
+'-y, -z, x'
+'y+1/2, x+1/2, -z+1/2'
+'-y+1/2, -x+1/2, -z+1/2'
+'y+1/2, -x+1/2, z+1/2'
+'-y+1/2, x+1/2, z+1/2'
+'x+1/2, z+1/2, -y+1/2'
+'-x+1/2, z+1/2, y+1/2'
+'-x+1/2, -z+1/2, -y+1/2'
+'x+1/2, -z+1/2, y+1/2'
+'z+1/2, y+1/2, -x+1/2'
+'z+1/2, -y+1/2, x+1/2'
+'-z+1/2, y+1/2, x+1/2'
+'-z+1/2, -y+1/2, -x+1/2'
+'x, y+1/2, z+1/2'
+'-x, -y+1/2, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x, -y+1/2, -z+1/2'
+'z, x+1/2, y+1/2'
+'z, -x+1/2, -y+1/2'
+'-z, -x+1/2, y+1/2'
+'-z, x+1/2, -y+1/2'
+'y, z+1/2, x+1/2'
+'-y, z+1/2, -x+1/2'
+'y, -z+1/2, -x+1/2'
+'-y, -z+1/2, x+1/2'
+'y+1/2, x+1, -z+1'
+'-y+1/2, -x+1, -z+1'
+'y+1/2, -x+1, z+1'
+'-y+1/2, x+1, z+1'
+'x+1/2, z+1, -y+1'
+'-x+1/2, z+1, y+1'
+'-x+1/2, -z+1, -y+1'
+'x+1/2, -z+1, y+1'
+'z+1/2, y+1, -x+1'
+'z+1/2, -y+1, x+1'
+'-z+1/2, y+1, x+1'
+'-z+1/2, -y+1, -x+1'
+'x+1/2, y, z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, y, -z+1/2'
+'x+1/2, -y, -z+1/2'
+'z+1/2, x, y+1/2'
+'z+1/2, -x, -y+1/2'
+'-z+1/2, -x, y+1/2'
+'-z+1/2, x, -y+1/2'
+'y+1/2, z, x+1/2'
+'-y+1/2, z, -x+1/2'
+'y+1/2, -z, -x+1/2'
+'-y+1/2, -z, x+1/2'
+'y+1, x+1/2, -z+1'
+'-y+1, -x+1/2, -z+1'
+'y+1, -x+1/2, z+1'
+'-y+1, x+1/2, z+1'
+'x+1, z+1/2, -y+1'
+'-x+1, z+1/2, y+1'
+'-x+1, -z+1/2, -y+1'
+'x+1, -z+1/2, y+1'
+'z+1, y+1/2, -x+1'
+'z+1, -y+1/2, x+1'
+'-z+1, y+1/2, x+1'
+'-z+1, -y+1/2, -x+1'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y+1/2, z'
+'-x+1/2, y+1/2, -z'
+'x+1/2, -y+1/2, -z'
+'z+1/2, x+1/2, y'
+'z+1/2, -x+1/2, -y'
+'-z+1/2, -x+1/2, y'
+'-z+1/2, x+1/2, -y'
+'y+1/2, z+1/2, x'
+'-y+1/2, z+1/2, -x'
+'y+1/2, -z+1/2, -x'
+'-y+1/2, -z+1/2, x'
+'y+1, x+1, -z+1/2'
+'-y+1, -x+1, -z+1/2'
+'y+1, -x+1, z+1/2'
+'-y+1, x+1, z+1/2'
+'x+1, z+1, -y+1/2'
+'-x+1, z+1, y+1/2'
+'-x+1, -z+1, -y+1/2'
+'x+1, -z+1, y+1/2'
+'z+1, y+1, -x+1/2'
+'z+1, -y+1, x+1/2'
+'-z+1, y+1, x+1/2'
+'-z+1, -y+1, -x+1/2'
+'-x, -y, -z'
+'x, y, -z'
+'x, -y, z'
+'-x, y, z'
+'-z, -x, -y'
+'-z, x, y'
+'z, x, -y'
+'z, -x, y'
+'-y, -z, -x'
+'y, -z, x'
+'-y, z, x'
+'y, z, -x'
+'-y-1/2, -x-1/2, z-1/2'
+'y-1/2, x-1/2, z-1/2'
+'-y-1/2, x-1/2, -z-1/2'
+'y-1/2, -x-1/2, -z-1/2'
+'-x-1/2, -z-1/2, y-1/2'
+'x-1/2, -z-1/2, -y-1/2'
+'x-1/2, z-1/2, y-1/2'
+'-x-1/2, z-1/2, -y-1/2'
+'-z-1/2, -y-1/2, x-1/2'
+'-z-1/2, y-1/2, -x-1/2'
+'z-1/2, -y-1/2, -x-1/2'
+'z-1/2, y-1/2, x-1/2'
+'-x, -y+1/2, -z+1/2'
+'x, y+1/2, -z+1/2'
+'x, -y+1/2, z+1/2'
+'-x, y+1/2, z+1/2'
+'-z, -x+1/2, -y+1/2'
+'-z, x+1/2, y+1/2'
+'z, x+1/2, -y+1/2'
+'z, -x+1/2, y+1/2'
+'-y, -z+1/2, -x+1/2'
+'y, -z+1/2, x+1/2'
+'-y, z+1/2, x+1/2'
+'y, z+1/2, -x+1/2'
+'-y-1/2, -x, z'
+'y-1/2, x, z'
+'-y-1/2, x, -z'
+'y-1/2, -x, -z'
+'-x-1/2, -z, y'
+'x-1/2, -z, -y'
+'x-1/2, z, y'
+'-x-1/2, z, -y'
+'-z-1/2, -y, x'
+'-z-1/2, y, -x'
+'z-1/2, -y, -x'
+'z-1/2, y, x'
+'-x+1/2, -y, -z+1/2'
+'x+1/2, y, -z+1/2'
+'x+1/2, -y, z+1/2'
+'-x+1/2, y, z+1/2'
+'-z+1/2, -x, -y+1/2'
+'-z+1/2, x, y+1/2'
+'z+1/2, x, -y+1/2'
+'z+1/2, -x, y+1/2'
+'-y+1/2, -z, -x+1/2'
+'y+1/2, -z, x+1/2'
+'-y+1/2, z, x+1/2'
+'y+1/2, z, -x+1/2'
+'-y, -x-1/2, z'
+'y, x-1/2, z'
+'-y, x-1/2, -z'
+'y, -x-1/2, -z'
+'-x, -z-1/2, y'
+'x, -z-1/2, -y'
+'x, z-1/2, y'
+'-x, z-1/2, -y'
+'-z, -y-1/2, x'
+'-z, y-1/2, -x'
+'z, -y-1/2, -x'
+'z, y-1/2, x'
+'-x+1/2, -y+1/2, -z'
+'x+1/2, y+1/2, -z'
+'x+1/2, -y+1/2, z'
+'-x+1/2, y+1/2, z'
+'-z+1/2, -x+1/2, -y'
+'-z+1/2, x+1/2, y'
+'z+1/2, x+1/2, -y'
+'z+1/2, -x+1/2, y'
+'-y+1/2, -z+1/2, -x'
+'y+1/2, -z+1/2, x'
+'-y+1/2, z+1/2, x'
+'y+1/2, z+1/2, -x'
+'-y, -x, z-1/2'
+'y, x, z-1/2'
+'-y, x, -z-1/2'
+'y, -x, -z-1/2'
+'-x, -z, y-1/2'
+'x, -z, -y-1/2'
+'x, z, y-1/2'
+'-x, z, -y-1/2'
+'-z, -y, x-1/2'
+'-z, y, -x-1/2'
+'z, -y, -x-1/2'
+'z, y, x-1/2'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+La La1 0.2500 0.2500 0.2500 0.0081(5) Uani d S 1
+Zn Zn2 0.0000 0.17786(6) 0.11938(6) 0.0113(4) Uani d S 1
+Zn Zn3 0.0000 0.0000 0.0000 0.006(2) Uani d SP 0.372(11)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 0.0081(5) 0.0081(5) 0.0081(5) 0.000 0.000 0.000
+Zn2 0.0120(5) 0.0097(5) 0.0123(5) 0.000 0.000 0.0031(3)
+Zn3 0.006(2) 0.006(2) 0.006(2) 0.000 0.000 0.000
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Zn Zn 0.2839 1.4301 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Sn Sn -0.6537 1.4246 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+La La -0.2871 2.4523 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle
+Zn2 La1 Zn2 9 5 44.832(17)
+Zn2 La1 Zn2 9 . 44.832(17)
+Zn2 La1 Zn2 5 . 44.832(17)
+Zn2 La1 Zn2 9 117_666 163.67(2)
+Zn2 La1 Zn2 5 117_666 128.82(2)
+Zn2 La1 Zn2 . 117_666 146.29(2)
+Zn2 La1 Zn2 9 114_666 128.82(2)
+Zn2 La1 Zn2 5 114_666 146.29(2)
+Zn2 La1 Zn2 . 114_666 163.67(2)
+Zn2 La1 Zn2 117_666 114_666 44.832(17)
+Zn2 La1 Zn2 9 14 146.29(2)
+Zn2 La1 Zn2 5 14 163.67(2)
+Zn2 La1 Zn2 . 14 128.82(2)
+Zn2 La1 Zn2 117_666 14 44.832(17)
+Zn2 La1 Zn2 114_666 14 44.832(17)
+Zn2 La1 Zn2 9 146 119.133(3)
+Zn2 La1 Zn2 5 146 106.477(13)
+Zn2 La1 Zn2 . 146 151.31(2)
+Zn2 La1 Zn2 117_666 146 44.84(2)
+Zn2 La1 Zn2 114_666 146 42.496(13)
+Zn2 La1 Zn2 14 146 78.388(9)
+Zn2 La1 Zn2 9 130 151.31(2)
+Zn2 La1 Zn2 5 130 119.133(3)
+Zn2 La1 Zn2 . 130 106.477(13)
+Zn2 La1 Zn2 117_666 130 42.496(13)
+Zn2 La1 Zn2 114_666 130 78.388(9)
+Zn2 La1 Zn2 14 130 44.84(2)
+Zn2 La1 Zn2 146 130 86.486(17)
+Zn2 La1 Zn2 9 174 106.477(13)
+Zn2 La1 Zn2 5 174 151.31(2)
+Zn2 La1 Zn2 . 174 119.133(3)
+Zn2 La1 Zn2 117_666 174 78.388(9)
+Zn2 La1 Zn2 114_666 174 44.84(2)
+Zn2 La1 Zn2 14 174 42.496(13)
+Zn2 La1 Zn2 146 174 86.486(17)
+Zn2 La1 Zn2 130 174 86.486(17)
+Zn2 La1 Zn2 9 70_454 42.496(13)
+Zn2 La1 Zn2 5 70_454 78.388(9)
+Zn2 La1 Zn2 . 70_454 44.84(2)
+Zn2 La1 Zn2 117_666 70_454 151.31(2)
+Zn2 La1 Zn2 114_666 70_454 119.133(3)
+Zn2 La1 Zn2 14 70_454 106.477(13)
+Zn2 La1 Zn2 146 70_454 146.29(2)
+Zn2 La1 Zn2 130 70_454 121.00(2)
+Zn2 La1 Zn2 174 70_454 77.04(2)
+Zn2 La1 Zn2 9 89_445 78.388(9)
+Zn2 La1 Zn2 5 89_445 44.84(2)
+Zn2 La1 Zn2 . 89_445 42.496(13)
+Zn2 La1 Zn2 117_666 89_445 106.477(13)
+Zn2 La1 Zn2 114_666 89_445 151.31(2)
+Zn2 La1 Zn2 14 89_445 119.133(3)
+Zn2 La1 Zn2 146 89_445 121.00(2)
+Zn2 La1 Zn2 130 89_445 77.04(2)
+Zn2 La1 Zn2 174 89_445 146.29(2)
+Zn2 La1 Zn2 70_454 89_445 86.486(17)
+Zn2 La1 Zn2 9 133_655 44.84(2)
+Zn2 La1 Zn2 5 133_655 42.496(13)
+Zn2 La1 Zn2 . 133_655 78.388(9)
+Zn2 La1 Zn2 117_666 133_655 119.133(3)
+Zn2 La1 Zn2 114_666 133_655 106.477(13)
+Zn2 La1 Zn2 14 133_655 151.31(2)
+Zn2 La1 Zn2 146 133_655 77.04(2)
+Zn2 La1 Zn2 130 133_655 146.29(2)
+Zn2 La1 Zn2 174 133_655 121.00(2)
+Zn2 La1 Zn2 70_454 133_655 86.486(17)
+Zn2 La1 Zn2 89_445 133_655 86.486(17)
+Zn2 Zn2 Zn2 161_565 89_445 90.0
+Zn2 Zn2 Zn3 161_565 . 162.22(4)
+Zn2 Zn2 Zn3 89_445 . 107.78(4)
+Zn2 Zn2 Zn2 161_565 10 113.70(3)
+Zn2 Zn2 Zn2 89_445 10 116.33(3)
+Zn3 Zn2 Zn2 . 10 58.782(3)
+Zn2 Zn2 Zn2 161_565 102 134.159(17)
+Zn2 Zn2 Zn2 89_445 102 61.64(4)
+Zn3 Zn2 Zn2 . 102 58.782(3)
+Zn2 Zn2 Zn2 10 102 60.0
+Zn2 Zn2 Zn2 161_565 5 134.159(17)
+Zn2 Zn2 Zn2 89_445 5 61.64(4)
+Zn3 Zn2 Zn2 . 5 58.782(3)
+Zn2 Zn2 Zn2 10 5 111.18(2)
+Zn2 Zn2 Zn2 102 5 65.05(4)
+Zn2 Zn2 Zn2 161_565 9 113.70(3)
+Zn2 Zn2 Zn2 89_445 9 116.33(3)
+Zn3 Zn2 Zn2 . 9 58.782(3)
+Zn2 Zn2 Zn2 10 9 106.450(14)
+Zn2 Zn2 Zn2 102 9 111.18(2)
+Zn2 Zn2 Zn2 5 9 60.0
+Zn2 Zn2 Zn2 161_565 70_454 61.62(4)
+Zn2 Zn2 Zn2 89_445 70_454 134.15(2)
+Zn3 Zn2 Zn2 . 70_454 103.88(3)
+Zn2 Zn2 Zn2 10 70_454 108.22(3)
+Zn2 Zn2 Zn2 102 70_454 161.98(3)
+Zn2 Zn2 Zn2 5 70_454 111.90(3)
+Zn2 Zn2 Zn2 9 70_454 56.74(3)
+Zn2 Zn2 Zn2 161_565 165_565 61.62(4)
+Zn2 Zn2 Zn2 89_445 165_565 134.15(2)
+Zn3 Zn2 Zn2 . 165_565 103.88(3)
+Zn2 Zn2 Zn2 10 165_565 56.74(3)
+Zn2 Zn2 Zn2 102 165_565 111.90(3)
+Zn2 Zn2 Zn2 5 165_565 161.98(3)
+Zn2 Zn2 Zn2 9 165_565 108.22(3)
+Zn2 Zn2 Zn2 70_454 165_565 65.03(3)
+Zn2 Zn2 Zn2 161_565 98 106.09(2)
+Zn2 Zn2 Zn2 89_445 98 163.91(2)
+Zn3 Zn2 Zn2 . 98 56.130(16)
+Zn2 Zn2 Zn2 10 98 57.477(19)
+Zn2 Zn2 Zn2 102 98 105.27(2)
+Zn2 Zn2 Zn2 5 98 105.27(2)
+Zn2 Zn2 Zn2 9 98 57.477(19)
+Zn2 Zn2 Zn2 70_454 98 57.484(14)
+Zn2 Zn2 Zn2 165_565 98 57.484(14)
+Zn2 Zn2 La1 161_565 . 68.752(6)
+Zn2 Zn2 La1 89_445 . 68.752(6)
+Zn3 Zn2 La1 . . 117.115(12)
+Zn2 Zn2 La1 10 . 173.86(2)
+Zn2 Zn2 La1 102 . 122.82(4)
+Zn2 Zn2 La1 5 . 67.584(9)
+Zn2 Zn2 La1 9 . 67.584(9)
+Zn2 Zn2 La1 70_454 . 67.580(12)
+Zn2 Zn2 La1 165_565 . 122.80(3)
+Zn2 Zn2 La1 98 . 116.657(11)
+Zn2 Zn2 La1 161_565 121 68.752(6)
+Zn2 Zn2 La1 89_445 121 68.752(6)
+Zn3 Zn2 La1 . 121 117.115(12)
+Zn2 Zn2 La1 10 121 67.584(9)
+Zn2 Zn2 La1 102 121 67.584(9)
+Zn2 Zn2 La1 5 121 122.82(4)
+Zn2 Zn2 La1 9 121 173.86(2)
+Zn2 Zn2 La1 70_454 121 122.80(3)
+Zn2 Zn2 La1 165_565 121 67.580(12)
+Zn2 Zn2 La1 98 121 116.657(11)
+La1 Zn2 La1 . 121 118.34(2)
+Zn2 Zn3 Zn2 105 101 62.436(7)
+Zn2 Zn3 Zn2 105 97 62.436(7)
+Zn2 Zn3 Zn2 101 97 62.436(7)
+Zn2 Zn3 Zn2 105 . 117.564(7)
+Zn2 Zn3 Zn2 101 . 117.564(7)
+Zn2 Zn3 Zn2 97 . 180.00(3)
+Zn2 Zn3 Zn2 105 9 180.00(3)
+Zn2 Zn3 Zn2 101 9 117.564(7)
+Zn2 Zn3 Zn2 97 9 117.564(7)
+Zn2 Zn3 Zn2 . 9 62.436(7)
+Zn2 Zn3 Zn2 105 5 117.564(7)
+Zn2 Zn3 Zn2 101 5 180.00(3)
+Zn2 Zn3 Zn2 97 5 117.564(7)
+Zn2 Zn3 Zn2 . 5 62.436(7)
+Zn2 Zn3 Zn2 9 5 62.436(7)
+Zn2 Zn3 Zn2 105 10 67.74(3)
+Zn2 Zn3 Zn2 101 10 62.436(7)
+Zn2 Zn3 Zn2 97 10 117.564(7)
+Zn2 Zn3 Zn2 . 10 62.436(7)
+Zn2 Zn3 Zn2 9 10 112.26(3)
+Zn2 Zn3 Zn2 5 10 117.564(7)
+Zn2 Zn3 Zn2 105 6 117.564(7)
+Zn2 Zn3 Zn2 101 6 67.74(3)
+Zn2 Zn3 Zn2 97 6 62.436(7)
+Zn2 Zn3 Zn2 . 6 117.564(7)
+Zn2 Zn3 Zn2 9 6 62.436(7)
+Zn2 Zn3 Zn2 5 6 112.26(3)
+Zn2 Zn3 Zn2 10 6 117.564(7)
+Zn2 Zn3 Zn2 105 2 62.436(7)
+Zn2 Zn3 Zn2 101 2 117.564(7)
+Zn2 Zn3 Zn2 97 2 67.74(3)
+Zn2 Zn3 Zn2 . 2 112.26(3)
+Zn2 Zn3 Zn2 9 2 117.564(7)
+Zn2 Zn3 Zn2 5 2 62.436(7)
+Zn2 Zn3 Zn2 10 2 117.564(7)
+Zn2 Zn3 Zn2 6 2 117.564(7)
+Zn2 Zn3 Zn2 105 106 112.26(3)
+Zn2 Zn3 Zn2 101 106 117.564(7)
+Zn2 Zn3 Zn2 97 106 62.436(7)
+Zn2 Zn3 Zn2 . 106 117.564(7)
+Zn2 Zn3 Zn2 9 106 67.74(3)
+Zn2 Zn3 Zn2 5 106 62.436(7)
+Zn2 Zn3 Zn2 10 106 180.0
+Zn2 Zn3 Zn2 6 106 62.436(7)
+Zn2 Zn3 Zn2 2 106 62.436(7)
+Zn2 Zn3 Zn2 105 98 117.564(7)
+Zn2 Zn3 Zn2 101 98 62.436(7)
+Zn2 Zn3 Zn2 97 98 112.26(3)
+Zn2 Zn3 Zn2 . 98 67.74(3)
+Zn2 Zn3 Zn2 9 98 62.436(7)
+Zn2 Zn3 Zn2 5 98 117.564(7)
+Zn2 Zn3 Zn2 10 98 62.436(7)
+Zn2 Zn3 Zn2 6 98 62.436(7)
+Zn2 Zn3 Zn2 2 98 180.0
+Zn2 Zn3 Zn2 106 98 117.564(7)
+Zn2 Zn3 Zn2 105 102 62.436(7)
+Zn2 Zn3 Zn2 101 102 112.26(3)
+Zn2 Zn3 Zn2 97 102 117.564(7)
+Zn2 Zn3 Zn2 . 102 62.436(7)
+Zn2 Zn3 Zn2 9 102 117.564(7)
+Zn2 Zn3 Zn2 5 102 67.74(3)
+Zn2 Zn3 Zn2 10 102 62.436(7)
+Zn2 Zn3 Zn2 6 102 180.00(3)
+Zn2 Zn3 Zn2 2 102 62.436(7)
+Zn2 Zn3 Zn2 106 102 117.564(7)
+Zn2 Zn3 Zn2 98 102 117.564(7)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+La1 Zn2 9 3.5211(4)
+La1 Zn2 5 3.5211(4)
+La1 Zn2 . 3.5211(4)
+La1 Zn2 117_666 3.5211(4)
+La1 Zn2 114_666 3.5211(4)
+La1 Zn2 14 3.5211(4)
+La1 Zn2 146 3.5211(4)
+La1 Zn2 130 3.5211(4)
+La1 Zn2 174 3.5211(4)
+La1 Zn2 70_454 3.5211(4)
+La1 Zn2 89_445 3.5211(4)
+La1 Zn2 133_655 3.5211(4)
+Zn2 Zn2 161_565 2.5522(10)
+Zn2 Zn2 89_445 2.5522(10)
+Zn2 Zn3 . 2.5906(7)
+Zn2 Zn2 10 2.6854(8)
+Zn2 Zn2 102 2.6854(8)
+Zn2 Zn2 5 2.6854(8)
+Zn2 Zn2 9 2.6854(8)
+Zn2 Zn2 70_454 2.6859(12)
+Zn2 Zn2 165_565 2.6859(12)
+Zn2 Zn2 98 2.8875(15)
+Zn2 La1 121 3.5211(4)
+Zn3 Zn2 105 2.5906(7)
+Zn3 Zn2 101 2.5906(7)
+Zn3 Zn2 97 2.5906(7)
+Zn3 Zn2 9 2.5906(7)
+Zn3 Zn2 5 2.5906(7)
+Zn3 Zn2 10 2.5906(7)
+Zn3 Zn2 6 2.5906(7)
+Zn3 Zn2 2 2.5906(7)
+Zn3 Zn2 106 2.5906(7)
+Zn3 Zn2 98 2.5906(7)
+Zn3 Zn2 102 2.5906(7)

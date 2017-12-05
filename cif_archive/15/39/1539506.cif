@@ -1,0 +1,109 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-14 14:14:56 +0300 (Wed, 14 Oct 2015) $
+#$Revision: 168438 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/95/1539506.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1539506
+loop_
+_publ_author_name
+'Vlasse, M.'
+'Viala, J.C.'
+_publ_section_title
+;
+ The boron-silicon solid solution: a structural study of the Si B36
+ composition
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              181
+_journal_page_last               188
+_journal_volume                  37
+_journal_year                    1981
+_chemical_formula_sum            'B305.51 Si8.443'
+_chemical_name_systematic        'B305.51 Si8.443'
+_space_group_IT_number           166
+_symmetry_space_group_name_Hall  '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            1
+_cell_length_a                   11.01
+_cell_length_b                   11.01
+_cell_length_c                   23.9
+_cell_volume                     2509.014
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            Vlasse_JSSCBI_1981_1329.cif
+_cod_data_source_block           B305.51Si8.443
+_cod_original_cell_volume        2509.015
+_cod_database_code               1539506
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+y,x,-z
+-x,-x+y,-z
+x-y,-y,-z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-y,-x,z
+x,x-y,z
+-x+y,y,z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+y+2/3,x+1/3,-z+1/3
+-x+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,-y+1/3,-z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+-y+2/3,-x+1/3,z+1/3
+x+2/3,x-y+1/3,z+1/3
+-x+y+2/3,y+1/3,z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+y+1/3,x+2/3,-z+2/3
+-x+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,-y+2/3,-z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+-y+1/3,-x+2/3,z+2/3
+x+1/3,x-y+2/3,z+2/3
+-x+y+1/3,y+2/3,z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B5 B 0.0544 0.1088 0.9441 1 0.0
+B13 B 0.0585 0.117 0.5538 0.739 0.0
+B4 B 0.2354 0.2514 0.3469 1 0.0
+B12 B 0.0896 0.1792 0.3986 1 0.0
+B10 B 0.1023 0.2046 0.6981 1 0.0
+B3 B 0.2611 0.2171 0.4196 1 0.0
+Si2 Si 0.1091 0.2182 0.1001 0.0484 0.0
+B8 B 0.1697 0.3394 0.0279 1 0.0
+B9 B 0.1299 0.2598 0.7658 1 0.0
+B11 B 0.0567 0.1134 0.3269 1 0.0
+Si1 Si 0 0 0.133 0.464 0.0
+B2 B 0.3182 0.2954 0.1286 1 0.0
+B1 B 0.1709 0.1757 0.1771 0.867 0.0
+B14 B 0 0 0.3857 1 0.0
+B7 B 0.1106 0.2212 0.8875 1 0.0
+Si3 Si 0.1709 0.1757 0.1771 0.133 0.0
+B15 B 0 0 0.5 1 0.0
+B6 B 0.086 0.172 0.0135 1 0.0

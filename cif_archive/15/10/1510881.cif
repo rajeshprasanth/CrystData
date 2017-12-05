@@ -1,0 +1,96 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/08/1510881.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1510881
+loop_
+_publ_author_name
+'Fronczek, F.R.'
+'Di Tusa, J.F.'
+'Adams, P.W.'
+'Chan, J.Y.'
+'Young, D.P.'
+_publ_section_title
+;
+ Synthesis, structure, and superconductivity in Be1.09 B3
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              385
+_journal_page_last               389
+_journal_paper_doi               10.1006/jssc.2001.9374
+_journal_volume                  163
+_journal_year                    2002
+_chemical_formula_sum            'B3 Be1.0926'
+_chemical_name_systematic        'Be1.0926 B3'
+_space_group_IT_number           191
+_symmetry_space_group_name_Hall  '-P 6 2'
+_symmetry_space_group_name_H-M   'P 6/m m m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            27
+_cell_length_a                   9.7738
+_cell_length_b                   9.7738
+_cell_length_c                   9.5467
+_cell_volume                     789.788
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            boron_395.cif
+_cod_data_source_block           B3Be1.0926
+_cod_original_cell_volume        789.7885
+_cod_database_code               1510881
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x-y,x,z
+-y,x-y,z
+-x,-y,z
+-x+y,-x,z
+y,-x+y,z
+-y,-x,-z
+x-y,-y,-z
+x,x-y,-z
+y,x,-z
+-x+y,y,-z
+-x,-x+y,-z
+-x,-y,-z
+-x+y,-x,-z
+y,-x+y,-z
+x,y,-z
+x-y,x,-z
+-y,x-y,-z
+y,x,z
+-x+y,y,z
+-x,-x+y,z
+-y,-x,z
+x-y,-y,z
+x,x-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B4 B 0.1884 0 0.188 1 0.0
+B8 B 0.1191 -0.1191 0.3582 0.5 0.0
+B6 B 0.2285 -0.2285 0.4046 1 0.0
+Be5 Be 0.1244 -0.1244 0 0.5 0.0
+B2 B 0.348 0 0.0953 1 0.0
+Be4 Be 0 0 0.1067 1 0.0
+Be1 Be 0.1191 -0.1191 0.3582 0.5 0.0
+Be3 Be 0.3644 0 0.3213 1 0.0
+B5 B 0.395 -0.395 0.3071 1 0.0
+B3 B 0.447 -0.447 0.153 1 0.0
+B7 B 0.0619 -0.0619 0.5 0.5 0.0
+Be6 Be 0.3333 0.6667 0.125 0.125 0.0
+B1 B 0.164 0.4926 0 1 0.0
+Be2 Be 0.4395 -0.4395 0.5 1 0.0

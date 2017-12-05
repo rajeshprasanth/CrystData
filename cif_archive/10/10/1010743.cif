@@ -1,0 +1,50 @@
+#------------------------------------------------------------------------------
+#$Date: 2013-03-28 18:17:04 +0200 (Thu, 28 Mar 2013) $
+#$Revision: 77586 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/07/1010743.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010743
+loop_
+_publ_author_name
+'Peacock, M A'
+'Berry, L G'
+_publ_section_title
+;
+Roentgenographic observations on ore minerals
+;
+_journal_coden_ASTM              UTSGAL
+_journal_name_full
+;
+University of Toronto Studies, Geological Series
+;
+_journal_page_first              47
+_journal_page_last               69
+_journal_volume                  44
+_journal_year                    1940
+_chemical_compound_source        'from the Temiskaming Mine, Cobalt, Ontario'
+_chemical_formula_structural     'Ag Sb'
+_chemical_formula_sum            'Ag Sb'
+_chemical_name_mineral           Dyscrasite
+_chemical_name_systematic        'Silver antimony'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            0
+_cell_length_a                   4.111(5)
+_cell_length_b                   4.111
+_cell_length_c                   4.111
+_cell_volume                     69.5
+_cod_database_code               1010743
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

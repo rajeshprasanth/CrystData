@@ -1,0 +1,556 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 22:30:59 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176467 $
+#$URL: svn://www.crystallography.net/cod/cif/4/10/86/4108676.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4108676
+loop_
+_publ_author_name
+'Andreas Teng\%a'
+'Sven Lidin'
+'Jean-Philippe Belieres'
+'N. Newman'
+'Yang Wu'
+'Ulrich H\"aussermann'
+_publ_section_title
+;
+ Metastable Cd4Sb3: A Complex Structured Intermetallic Compound with
+ Semiconductor Properties
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              15564
+_journal_page_last               15572
+_journal_paper_doi               10.1021/ja805454p
+_journal_volume                  130
+_journal_year                    2008
+_chemical_formula_sum            'Cd13 Sb10'
+_chemical_name_common            alpha-Cd4Sb3
+_chemical_name_systematic        ' ?'
+_space_group_IT_number           7
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  'P -2yac'
+_symmetry_space_group_name_H-M   'P 1 n 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 100.872(4)
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   11.4478(4)
+_cell_length_b                   26.0793(7)
+_cell_length_c                   26.0691(10)
+_cell_volume                     7643.2(5)
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      100
+_diffrn_measured_fraction_theta_full 0.95
+_diffrn_measurement_device_type  'Oxford Diffraction CCD'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.0611
+_diffrn_reflns_av_sigmaI/netI    0.1351
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       -13
+_diffrn_reflns_limit_k_max       38
+_diffrn_reflns_limit_k_min       -35
+_diffrn_reflns_limit_l_max       37
+_diffrn_reflns_limit_l_min       -22
+_diffrn_reflns_number            51282
+_diffrn_reflns_theta_full        30.26
+_diffrn_reflns_theta_max         31.94
+_diffrn_reflns_theta_min         3.65
+_exptl_absorpt_coefficient_mu    22.825
+_exptl_absorpt_correction_T_max  1.000
+_exptl_absorpt_correction_T_min  1.000
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn    7.1261
+_exptl_crystal_F_000             13608
+_refine_diff_density_max         11.81
+_refine_diff_density_min         -7.17
+_refine_ls_extinction_coef       0.00000(4)
+_refine_ls_extinction_method
+'B-C type 1 gaussian isotropic (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_gt    1.82
+_refine_ls_goodness_of_fit_ref   1.21
+_refine_ls_number_parameters     419
+_refine_ls_number_reflns         28443
+_refine_ls_R_factor_all          0.1734
+_refine_ls_R_factor_gt           0.0607
+_refine_ls_shift/su_max          0.0497
+_refine_ls_shift/su_mean         0.0079
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     w=1/(\s^2^(I)+0.0016I^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.1367
+_refine_ls_wR_factor_ref         0.1773
+_reflns_number_gt                7624
+_reflns_number_total             28443
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ja805454p_si_001.cif
+_cod_data_source_block           (I)
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_diffrn_ambient_temperature' value '100 K' was changed to '100' -
+the value should be numeric and without a unit designator.
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+;
+_cod_original_formula_sum        Cd13Sb10
+_cod_database_code               4108676
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+Sb1_1 Sb 1.600263 0.7506(2) 0.692587 Uiso 0.00780(8) 2 1 d
+Sb1_2 Sb 2.1013(7) 0.5027(2) 0.6952(3) Uiso 0.00780(8) 2 1 d
+Sb1_3 Sb 1.5995(7) 0.7462(2) 0.3637(3) Uiso 0.00780(8) 2 1 d
+Sb1_4 Sb 1.6022(8) 0.4961(2) 0.8602(3) Uiso 0.00780(8) 2 1 d
+Sb1_5 Sb 2.0997(7) 0.7479(2) 0.5262(3) Uiso 0.00780(8) 2 1 d
+Sb1_6 Sb 2.1012(8) 1.0008(2) 0.3592(3) Uiso 0.00780(8) 2 1 d
+Sb1_7 Sb 1.1007(7) 0.4956(2) 1.0324(3) Uiso 0.00780(8) 2 1 d
+Sb1_8 Sb 1.5970(7) 0.9984(2) 0.5273(3) Uiso 0.00780(8) 2 1 d
+Sb1_9 Sb 1.1020(7) 1.24835(19) 0.5263(3) Uiso 0.00780(8) 2 1 d
+Sb1_10 Sb 1.5989(7) 1.2430(2) 0.3608(3) Uiso 0.00780(8) 2 1 d
+Sb1_11 Sb 1.0978(7) 0.9926(2) 0.6920(3) Uiso 0.00780(8) 2 1 d
+Sb1_12 Sb 1.3788(7) 0.4984(2) 0.7892(3) Uiso 0.00780(8) 2 1 d
+Sb1_13 Sb 1.3827(7) 0.9992(2) 0.4535(3) Uiso 0.00780(8) 2 1 d
+Sb1_14 Sb 1.3831(7) 0.7522(2) 0.6224(3) Uiso 0.00780(8) 2 1 d
+Sb1_15 Sb 1.3820(8) 1.2461(2) 0.2846(3) Uiso 0.00780(8) 2 1 d
+Sb1_16 Sb 1.8844(7) 0.5006(2) 0.6230(3) Uiso 0.00780(8) 2 1 d
+Sb1_17 Sb 1.8826(5) 0.7487(2) 0.4529(2) Uiso 0.00780(8) 2 1 d
+Sb1_18 Sb 0.8794(7) 0.9981(2) 0.6166(3) Uiso 0.00780(8) 2 1 d
+Sb1_19 Sb 0.8850(7) 0.4898(2) 0.9574(3) Uiso 0.00780(8) 2 1 d
+Sb1_20 Sb 1.3833(7) 0.7420(2) 0.2888(3) Uiso 0.00780(8) 2 1 d
+Sb1_21 Sb 0.8794(7) 1.2455(2) 0.4584(3) Uiso 0.00780(8) 2 1 d
+Sb1_22 Sb 1.3785(7) 0.2509(2) 0.6210(3) Uiso 0.00780(8) 2 1 d
+Sb1_23 Sb 1.8810(7) 1.0056(2) 0.2890(3) Uiso 0.00780(8) 2 1 d
+Sb1_24 Sb 1.5980(7) 0.2527(2) 0.6915(3) Uiso 0.00780(8) 2 1 d
+Sb2_1 Sb 1.8124(7) 0.4132(2) 0.7744(3) Uiso 0.00760(7) 2 1 d
+Sb2_2 Sb 1.6667(7) 0.5879(2) 0.7103(3) Uiso 0.00760(7) 2 1 d
+Sb2_3 Sb 1.4934(7) 0.8219(2) 0.4902(3) Uiso 0.00760(7) 2 1 d
+Sb2_4 Sb 1.3165(7) 1.1592(2) 0.4455(3) Uiso 0.00760(7) 2 1 d
+Sb2_5 Sb 1.3167(7) 0.5931(2) 0.6147(3) Uiso 0.00760(7) 2 1 d
+Sb2_6 Sb 1.8079(7) 0.8387(2) 0.6065(3) Uiso 0.00760(7) 2 1 d
+Sb2_7 Sb 1.4908(7) 0.4218(2) 0.9910(3) Uiso 0.00760(7) 2 1 d
+Sb2_8 Sb 2.1691(7) 0.40918(19) 0.8697(3) Uiso 0.00760(7) 2 1 d
+Sb2_9 Sb 1.9883(7) 0.6773(2) 0.6591(3) Uiso 0.00760(7) 2 1 d
+Sb2_10 Sb 1.3156(7) 0.6655(2) 0.7723(3) Uiso 0.00760(7) 2 1 d
+Sb2_11 Sb 1.3123(7) 1.08633(19) 0.6092(3) Uiso 0.00760(7) 2 1 d
+Sb2_12 Sb 1.9898(7) 0.5725(2) 0.8269(3) Uiso 0.00760(7) 2 1 d
+Sb2_13 Sb 1.9890(7) 1.1717(2) 0.3266(3) Uiso 0.00760(7) 2 1 d
+Sb2_14 Sb 1.4911(7) 0.4304(2) 0.6564(3) Uiso 0.00760(7) 2 1 d
+Sb2_15 Sb 0.9908(7) 1.0710(2) 0.4931(3) Uiso 0.00760(7) 2 1 d
+Sb2_16 Sb 2.1660(7) 0.41640(19) 0.5452(3) Uiso 0.00760(7) 2 1 d
+Sb2_17 Sb 1.6719(7) 0.6615(2) 0.5424(3) Uiso 0.00760(7) 2 1 d
+Sb2_18 Sb 1.2977(7) 0.58688(19) 0.9477(3) Uiso 0.00760(7) 2 1 d
+Sb2_19 Sb 1.4878(7) 0.9215(2) 0.6568(3) Uiso 0.00760(7) 2 1 d
+Sb2_20 Sb 1.4911(7) 0.3283(2) 0.8213(3) Uiso 0.00760(7) 2 1 d
+Sb2_21 Sb 1.8116(7) 0.9116(2) 0.4394(3) Uiso 0.00760(7) 2 1 d
+Sb2_22 Sb 1.6809(7) 0.66017(18) 0.8696(3) Uiso 0.00760(7) 2 1 d
+Sb2_23 Sb 1.4903(7) 0.9268(2) 0.3239(3) Uiso 0.00760(7) 2 1 d
+Sb2_24 Sb 2.1603(7) 0.8408(2) 0.7008(3) Uiso 0.00760(7) 2 1 d
+Sb2_25 Sb 1.6709(7) 1.1632(2) 0.5398(3) Uiso 0.00760(7) 2 1 d
+Sb2_26 Sb 1.7969(7) 0.83449(18) 0.2767(3) Uiso 0.00760(7) 2 1 d
+Sb2_27 Sb 1.8186(7) 0.3419(2) 0.9491(3) Uiso 0.00760(7) 2 1 d
+Sb2_28 Sb 0.9900(7) 1.1780(2) 0.6569(3) Uiso 0.00760(7) 2 1 d
+Sb2_29 Sb 1.4910(7) 1.3221(2) 0.4902(3) Uiso 0.00760(7) 2 1 d
+Sb2_30 Sb 2.1675(7) 0.83360(19) 0.3772(3) Uiso 0.00760(7) 2 1 d
+Sb2_31 Sb 1.8122(7) 0.3374(2) 0.6094(3) Uiso 0.00760(7) 2 1 d
+Sb2_32 Sb 2.1612(7) 0.3408(2) 0.7042(3) Uiso 0.00760(7) 2 1 d
+Sb2_33 Sb 2.1597(7) 0.9087(2) 0.5342(3) Uiso 0.00760(7) 2 1 d
+Sb2_34 Sb 1.6851(7) 1.09078(19) 0.7022(3) Uiso 0.00760(7) 2 1 d
+Sb2_35 Sb 1.6695(7) 1.0877(2) 0.3734(3) Uiso 0.00760(7) 2 1 d
+Sb2_36 Sb 1.8160(7) 0.9112(2) 0.7758(3) Uiso 0.00760(7) 2 1 d
+Cd1_1 Cd 1.5639(8) 0.6705(2) 0.7609(3) Uiso 0.00983(7) 2 1 d
+Cd1_2 Cd 2.1019(7) 0.6027(2) 0.7347(3) Uiso 0.00983(7) 2 1 d
+Cd1_3 Cd 2.0562(7) 0.4258(2) 0.7632(3) Uiso 0.00983(7) 2 1 d
+Cd1_4 Cd 1.6189(7) 0.8478(2) 0.4048(3) Uiso 0.00983(7) 2 1 d
+Cd1_5 Cd 1.5625(7) 1.0794(2) 0.5923(3) Uiso 0.00983(7) 2 1 d
+Cd1_6 Cd 1.7699(8) 0.5233(2) 0.7953(3) Uiso 0.00983(7) 2 1 d
+Cd1_7 Cd 2.0581(7) 0.9244(2) 0.4262(3) Uiso 0.00983(7) 2 1 d
+Cd1_8 Cd 1.6115(7) 0.3959(2) 0.9053(3) Uiso 0.00983(7) 2 1 d
+Cd1_9 Cd 1.1086(7) 1.1479(2) 0.5694(3) Uiso 0.00983(7) 2 1 d
+Cd1_10 Cd 2.0557(7) 0.8266(2) 0.5928(3) Uiso 0.00983(7) 2 1 d
+Cd1_11 Cd 1.6047(8) 0.8986(2) 0.5658(3) Uiso 0.00983(7) 2 1 d
+Cd1_12 Cd 1.7637(8) 0.7297(2) 0.6295(3) Uiso 0.00983(7) 2 1 d
+Cd1_13 Cd 1.7654(8) 1.0210(2) 0.4620(3) Uiso 0.00983(7) 2 1 d
+Cd1_14 Cd 1.6080(7) 0.3554(2) 0.7316(3) Uiso 0.00983(7) 2 1 d
+Cd1_15 Cd 1.4159(7) 0.5770(2) 0.7226(3) Uiso 0.00983(7) 2 1 d
+Cd1_16 Cd 1.8678(8) 0.6513(2) 0.7453(3) Uiso 0.00983(7) 2 1 d
+Cd1_17 Cd 1.5683(7) 0.6680(2) 0.4358(3) Uiso 0.00983(7) 2 1 d
+Cd1_18 Cd 1.2588(7) 0.97273(19) 0.6238(3) Uiso 0.00983(7) 2 1 d
+Cd1_19 Cd 1.3693(8) 0.3496(2) 0.9118(3) Uiso 0.00983(7) 2 1 d
+Cd1_20 Cd 1.5645(7) 1.1652(2) 0.4339(3) Uiso 0.00983(7) 2 1 d
+Cd1_21 Cd 1.3813(7) 0.8985(2) 0.4153(3) Uiso 0.00983(7) 2 1 d
+Cd1_22 Cd 1.2540(8) 0.4663(2) 0.9655(3) Uiso 0.00983(7) 2 1 d
+Cd1_23 Cd 1.0705(7) 0.4155(2) 1.1015(3) Uiso 0.00983(7) 2 1 d
+Cd1_24 Cd 2.2752(7) 0.4835(2) 0.6341(3) Uiso 0.00983(7) 2 1 d
+Cd1_25 Cd 1.2680(8) 1.2678(2) 0.4626(3) Uiso 0.00983(7) 2 1 d
+Cd1_26 Cd 1.7552(7) 1.2210(2) 0.2893(3) Uiso 0.00983(7) 2 1 d
+Cd1_27 Cd 2.2766(8) 0.7673(2) 0.4667(3) Uiso 0.00983(7) 2 1 d
+Cd1_28 Cd 0.8649(8) 1.0981(2) 0.5781(3) Uiso 0.00983(7) 2 1 d
+Cd1_29 Cd 2.1140(8) 1.0986(2) 0.4054(3) Uiso 0.00983(7) 2 1 d
+Cd1_30 Cd 1.7149(8) 0.4788(2) 0.6854(3) Uiso 0.00983(7) 2 1 d
+Cd1_31 Cd 1.9173(8) 0.4160(2) 0.8818(3) Uiso 0.00983(7) 2 1 d
+Cd1_32 Cd 2.1188(7) 0.6514(2) 0.5743(3) Uiso 0.00983(7) 2 1 d
+Cd1_33 Cd 1.3666(7) 0.8479(2) 0.5747(3) Uiso 0.00983(7) 2 1 d
+Cd1_34 Cd 1.9158(8) 0.8294(2) 0.3859(3) Uiso 0.00983(7) 2 1 d
+Cd1_35 Cd 1.2120(7) 1.0174(2) 0.5169(3) Uiso 0.00983(7) 2 1 d
+Cd1_36 Cd 2.2116(8) 0.5193(2) 0.8530(3) Uiso 0.00983(7) 2 1 d
+Cd1_37 Cd 1.7165(8) 0.7693(2) 0.5186(3) Uiso 0.00983(7) 2 1 d
+Cd1_38 Cd 1.3686(8) 0.4005(2) 0.7422(3) Uiso 0.00983(7) 2 1 d
+Cd1_39 Cd 1.9140(7) 0.3343(2) 0.7152(3) Uiso 0.00983(7) 2 1 d
+Cd1_40 Cd 1.4146(7) 1.1743(2) 0.5521(3) Uiso 0.00983(7) 2 1 d
+Cd1_41 Cd 1.6108(8) 0.8500(2) 0.7378(3) Uiso 0.00983(7) 2 1 d
+Cd1_42 Cd 1.8751(7) 1.1447(2) 0.4175(3) Uiso 0.00983(7) 2 1 d
+Cd1_43 Cd 2.2107(8) 0.7302(2) 0.6824(3) Uiso 0.00983(7) 2 1 d
+Cd1_44 Cd 1.9161(7) 0.9169(2) 0.5473(3) Uiso 0.00983(7) 2 1 d
+Cd1_45 Cd 1.0591(7) 1.3275(2) 0.5963(3) Uiso 0.00983(7) 2 1 d
+Cd1_46 Cd 1.2317(7) 0.53420(19) 0.5261(3) Uiso 0.00983(7) 2 1 d
+Cd1_47 Cd 1.1120(7) 0.6002(2) 1.0724(3) Uiso 0.00983(7) 2 1 d
+Cd1_48 Cd 1.2298(8) 1.2166(2) 0.3507(3) Uiso 0.00983(7) 2 1 d
+Cd1_49 Cd 2.2655(8) 0.9812(2) 0.2929(3) Uiso 0.00983(7) 2 1 d
+Cd1_50 Cd 1.0623(8) 0.9167(2) 0.7667(3) Uiso 0.00983(7) 2 1 d
+Cd1_51 Cd 1.3800(7) 0.3994(2) 1.0842(3) Uiso 0.00983(7) 2 1 d
+Cd1_52 Cd 1.7124(8) 0.7672(2) 0.1875(3) Uiso 0.00983(7) 2 1 d
+Cd1_53 Cd 1.4204(7) 1.0771(2) 0.3861(3) Uiso 0.00983(7) 2 1 d
+Cd1_54 Cd 1.7525(8) 0.7169(2) 0.2970(3) Uiso 0.00983(7) 2 1 d
+Cd1_55 Cd 1.7666(7) 0.2256(2) 0.6300(3) Uiso 0.00983(7) 2 1 d
+Cd1_56 Cd 1.7325(7) 0.2813(2) 0.8598(3) Uiso 0.00983(7) 2 1 d
+Cd1_57 Cd 1.7111(8) 0.9780(2) 0.3526(3) Uiso 0.00983(7) 2 1 d
+Cd1_58 Cd 1.8644(8) 1.1024(2) 0.2442(3) Uiso 0.00983(7) 2 1 d
+Cd1_59 Cd 1.9076(7) 0.8330(2) 0.7133(3) Uiso 0.00983(7) 2 1 d
+Cd1_60 Cd 1.3779(7) 0.3525(2) 0.5826(3) Uiso 0.00983(7) 2 1 d
+Cd1_61 Cd 1.7096(7) 1.2718(2) 0.5203(3) Uiso 0.00983(7) 2 1 d
+Cd1_62 Cd 1.9147(7) 0.4203(2) 0.5574(3) Uiso 0.00983(7) 2 1 d
+Cd1_63 Cd 1.7295(8) 0.9665(2) 0.6832(3) Uiso 0.00983(7) 2 1 d
+Cd1_64 Cd 1.4276(7) 0.6745(2) 0.5557(3) Uiso 0.00983(7) 2 1 d
+Cd3_1 Cd 0.9534(8) 1.0808(2) 0.7048(3) Uiso 0.0165(2) 2 1 d
+Cd3_2 Cd 0.5091(7) 1.2256(2) 0.7827(3) Uiso 0.0165(2) 2 1 d
+Cd3_3 Cd 1.0362(8) 1.1697(2) 0.7759(3) Uiso 0.0165(2) 2 1 d
+Cd3_4 Cd 1.2548(7) 1.07502(18) 0.7151(3) Uiso 0.0165(2) 2 1 d
+Cd3_5 Cd 1.4960(7) 1.02179(19) 0.7086(3) Uiso 0.0165(2) 2 1 d
+Cd3_6 Cd 0.4621(7) 1.15117(18) 0.6980(3) Uiso 0.0165(2) 2 1 d
+Cd3_7 Cd 0.7718(7) 1.15183(18) 0.7912(3) Uiso 0.0165(2) 2 1 d
+Cd3_8 Cd 1.0352(8) 0.5815(2) 0.9437(3) Uiso 0.0165(2) 2 1 d
+Cd3_9 Cd 1.4478(8) 1.3310(2) 0.3763(3) Uiso 0.0165(2) 2 1 d
+Cd3_10 Cd 1.5156(7) 0.52666(19) 0.9552(3) Uiso 0.0165(2) 2 1 d
+Cd3_11 Cd 1.4518(7) 0.7216(2) 0.8570(3) Uiso 0.0165(2) 2 1 d
+Cd3_12 Cd 1.4641(7) 0.59952(18) 0.8673(3) Uiso 0.0165(2) 2 1 d
+Cd3_13 Cd 1.2459(7) 0.67492(18) 0.8818(3) Uiso 0.0165(2) 2 1 d
+Cd3_14 Cd 1.2676(7) 0.40517(18) 0.4567(3) Uiso 0.0165(2) 2 1 d
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+Cd -0.808 1.202 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4'
+19.221399 0.5946 17.6444 6.9089 4.461 24.7008 1.6029 87.482498 5.0694
+Sb -0.808 1.202 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4'
+19.6418 5.3034 19.0455 0.4607 5.0371 27.9074 2.6827 75.282501 4.5909
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Sn1 Sn14 . 2.795(7) yes
+Sn1 Cd1 . 2.820(8) yes
+Sn1 Cd12 . 2.777(9) yes
+Sn1 Cd41 . 2.816(8) yes
+Sn2 Sn16 . 2.827(10) yes
+Sn2 Cd2 . 2.800(9) yes
+Sn2 Cd3 . 2.786(10) yes
+Sn2 Cd24 . 2.803(13) yes
+Sn3 Sn20 . 2.859(10) yes
+Sn3 Cd4 . 2.831(8) yes
+Sn3 Cd17 . 2.853(10) yes
+Sn3 Cd54 . 2.822(12) yes
+Sn4 Sn12 . 2.845(11) yes
+Sn4 Cd6 . 2.890(13) yes
+Sn4 Cd8 . 2.844(9) yes
+Sn4 Ce73 . 2.949(12) yes
+Sn5 Sn17 . 2.839(8) yes
+Sn5 Cd10 . 2.796(10) yes
+Sn5 Cd27 . 2.819(12) yes
+Sn5 Cd32 . 2.778(9) yes
+Sn6 Sn23 . 2.838(11) yes
+Sn6 Cd7 . 2.780(10) yes
+Sn6 Cd29 . 2.807(9) yes
+Sn6 Cd49 . 2.823(13) yes
+Sn7 Sn19 . 2.838(10) yes
+Sn7 Cd22 . 2.799(13) yes
+Sn7 Cd23 . 2.823(10) yes
+Sn7 Cd47 . 2.859(9) yes
+Sn8 Sn13 . 2.804(10) yes
+Sn8 Cd5 . 2.784(10) yes
+Sn8 Cd11 . 2.807(9) yes
+Sn8 Cd13 . 2.854(13) yes
+Sn9 Sn21 . 2.829(10) yes
+Sn9 Cd9 . 2.822(8) yes
+Sn9 Cd25 . 2.798(12) yes
+Sn9 Cd45 . 2.828(10) yes
+Sn10 Sn15 . 2.863(10) yes
+Sn10 Cd20 . 2.863(10) yes
+Sn10 Cd26 . 2.880(12) yes
+Sn10 Ce72 . 2.934(10) yes
+Sn10 Ce76 2_574 2.727(9) yes
+Sn11 Sn18 . 2.890(10) yes
+Sn11 Cd18 . 2.823(12) yes
+Sn11 Cd50 . 2.855(10) yes
+Sn11 Ce65 . 2.951(10) yes
+Sn11 Ce68 1_565 2.824(9) yes
+Sn12 Cd15 . 2.752(10) yes
+Sn12 Cd36 1_455 2.821(12) yes
+Sn12 Cd38 . 2.831(9) yes
+Sn13 Cd21 . 2.807(8) yes
+Sn13 Cd35 . 2.842(12) yes
+Sn13 Cd53 . 2.782(10) yes
+Sn14 Cd33 . 2.804(9) yes
+Sn14 Cd43 1_455 2.795(12) yes
+Sn14 Cd64 . 2.777(10) yes
+Sn15 Cd16 2_474 2.885(8) yes
+Sn15 Cd48 . 2.753(12) yes
+Sn15 Cd59 2_474 2.816(10) yes
+Sn16 Cd30 . 2.827(12) yes
+Sn16 Cd51 2_564 2.769(9) yes
+Sn16 Cd62 . 2.763(10) yes
+Sn17 Cd19 2_564 2.797(8) yes
+Sn17 Cd34 . 2.809(9) yes
+Sn17 Cd37 . 2.827(11) yes
+Sn18 Cd28 . 2.840(8) yes
+Sn18 Cd44 1_455 2.868(10) yes
+Sn18 Cd63 1_455 2.798(12) yes
+Sn19 Cd31 1_455 2.834(10) yes
+Sn19 Cd46 2_465 2.819(12) yes
+Sn19 Ce71 . 2.951(10) yes
+Sn20 Cd39 2_464 2.831(10) yes
+Sn20 Cd56 2_464 2.813(12) yes
+Sn20 Ce67 . 2.981(10) yes
+Sn21 Cd42 1_455 2.882(8) yes
+Sn21 Cd61 1_455 2.834(12) yes
+Sn21 Ce74 2_474 2.867(12) yes
+Sn22 Sn24 . 2.817(10) yes
+Sn22 Cd40 1_545 2.796(10) yes
+Sn22 Cd52 2_465 2.844(12) yes
+Sn22 Cd60 . 2.856(8) yes
+Sn23 Cd57 . 2.866(12) yes
+Sn23 Cd58 . 2.784(9) yes
+Sn23 Ce69 2_564 2.783(12) yes
+Sn24 Cd14 . 2.828(8) yes
+Sn24 Cd55 . 2.818(12) yes
+Sb25 Cd3 . 2.876(12) yes
+Sb25 Cd14 . 2.841(10) yes
+Sb25 Cd30 . 2.935(9) yes
+Sb25 Cd31 . 2.825(10) yes
+Sb25 Cd39 . 2.918(10) yes
+Sb26 Cd1 . 2.903(10) yes
+Sb26 Cd6 . 2.861(9) yes
+Sb26 Cd15 . 2.967(12) yes
+Sb26 Cd16 . 2.841(10) yes
+Sb26 Cd23 2_564 2.837(11) yes
+Sb26 Cd30 . 2.969(8) yes
+Sb27 Cd4 . 2.958(12) yes
+Sb27 Cd11 . 2.901(9) yes
+Sb27 Cd21 . 2.926(9) yes
+Sb27 Cd27 1_455 2.843(11) yes
+Sb27 Cd33 . 2.921(12) yes
+Sb27 Cd37 . 2.879(11) yes
+Sb28 Cd20 . 2.912(12) yes
+Sb28 Cd25 . 2.913(8) yes
+Sb28 Cd29 1_455 2.833(10) yes
+Sb28 Cd40 . 2.809(10) yes
+Sb28 Cd48 . 2.903(10) yes
+Sb29 Cd15 . 2.849(11) yes
+Sb29 Cd23 2_564 2.968(12) yes
+Sb29 Cd24 1_455 2.995(8) yes
+Sb29 Cd32 1_455 2.794(10) yes
+Sb29 Cd46 . 2.830(9) yes
+Sb30 Cd10 . 2.936(12) yes
+Sb30 Cd11 . 2.875(10) yes
+Sb30 Cd12 . 2.952(8) yes
+Sb30 Cd37 . 2.910(10) yes
+Sb30 Cd44 . 2.968(10) yes
+Sb30 Cd59 . 2.807(10) yes
+Sb31 Cd8 . 2.906(12) yes
+Sb31 Cd19 . 2.934(10) yes
+Sb31 Cd22 . 2.949(11) yes
+Sb31 Cd46 2_565 2.967(10) yes
+Sb31 Ce73 . 2.933(8) yes
+Sb32 Cd3 . 2.877(10) yes
+Sb32 Cd19 1_655 2.818(10) yes
+Sb32 Cd22 1_655 2.891(10) yes
+Sb32 Cd31 . 2.961(12) yes
+Sb32 Cd36 . 2.938(8) yes
+Sb33 Cd2 . 2.889(9) yes
+Sb33 Cd12 . 2.879(11) yes
+Sb33 Cd16 . 2.914(12) yes
+Sb33 Cd32 . 2.989(12) yes
+Sb33 Cd43 . 2.840(11) yes
+Sb33 Cd51 2_564 2.932(9) yes
+Sb34 Cd1 . 2.918(12) yes
+Sb34 Cd2 1_455 2.942(10) yes
+Sb34 Cd15 . 2.991(10) yes
+Sb34 Cd43 1_455 2.898(9) yes
+Sb35 Cd5 . 2.953(12) yes
+Sb35 Cd9 . 2.885(10) yes
+Sb35 Ce68 1_565 2.974(11) yes
+Sb36 Cd6 . 2.779(11) yes
+Sb36 Cd36 . 2.905(11) yes
+Sb36 Ce72 2_575 2.920(9) yes
+Sb37 Cd26 . 2.959(10) yes
+Sb37 Cd29 . 2.963(9) yes
+Sb37 Cd41 2_574 2.973(12) yes
+Sb37 Cd48 1_655 2.954(11) yes
+Sb37 Cd58 . 2.953(9) yes
+Sb37 Ce74 2_574 2.903(8) yes
+Sb38 Cd14 . 2.925(9) yes
+Sb38 Cd24 1_455 2.799(11) yes
+Sb38 Cd30 . 2.842(11) yes
+Sb38 Cd38 . 2.941(12) yes
+Sb38 Cd47 2_564 2.976(12) yes
+Sb38 Cd60 . 2.926(9) yes
+Sb39 Cd9 . 2.965(9) yes
+Sb39 Cd13 1_455 2.853(11) yes
+Sb39 Cd28 . 2.886(12) yes
+Sb39 Cd35 . 2.855(11) yes
+Sb39 Cd42 1_455 2.864(9) yes
+Sb40 Cd24 . 2.938(9) yes
+Sb40 Cd60 1_655 2.926(10) yes
+Sb40 Cd62 . 2.986(12) yes
+Sb40 Ce78 1_655 2.785(11) yes
+Sb41 Cd12 . 2.955(10) yes
+Sb41 Cd17 . 2.813(10) yes
+Sb41 Cd23 2_564 2.904(11) yes
+Sb41 Cd37 . 2.953(8) yes
+Sb41 Cd51 2_564 2.860(10) yes
+Sb41 Cd64 . 2.907(12) yes
+Sb42 Cd62 2_465 2.944(10) yes
+Sb42 Ce71 . 2.991(12) yes
+Sb42 Ce73 . 2.951(10) yes
+Sb42 Ce76 . 2.850(8) yes
+Sb43 Cd11 . 2.975(12) yes
+Sb43 Cd18 . 2.938(10) yes
+Sb43 Cd41 . 2.976(10) yes
+Sb43 Cd58 2_475 2.976(12) yes
+Sb43 Cd63 . 2.915(11) yes
+Sb43 Ce69 1_565 2.935(8) yes
+Sb44 Cd8 . 2.949(9) yes
+Sb44 Cd14 . 2.977(12) yes
+Sb44 Cd38 . 2.943(9) yes
+Sb44 Cd54 2_465 2.931(11) yes
+Sb44 Ce66 . 2.931(8) yes
+Sb45 Cd4 . 2.774(10) yes
+Sb45 Cd7 . 2.922(12) yes
+Sb45 Cd34 . 2.926(10) yes
+Sb45 Cd44 . 2.850(10) yes
+Sb45 Cd57 . 2.902(9) yes
+Sb46 Cd1 . 2.915(10) yes
+Sb46 Ce74 . 2.878(10) yes
+Sb46 Ce75 . 2.921(10) yes
+Sb46 Ce78 2_565 2.874(9) yes
+Sb47 Cd21 . 2.991(12) yes
+Sb47 Cd49 1_455 2.878(11) yes
+Sb47 Cd57 . 2.860(10) yes
+Sb47 Ce67 . 2.889(9) yes
+Sb48 Cd10 . 2.870(10) yes
+Sb48 Cd26 2_575 2.882(10) yes
+Sb48 Cd50 1_655 2.958(11) yes
+Sb48 Cd58 2_575 2.806(10) yes
+Sb48 Cd59 . 2.979(12) yes
+Sb49 Cd5 . 2.982(10) yes
+Sb49 Cd20 . 2.800(10) yes
+Sb49 Cd28 1_655 2.829(10) yes
+Sb49 Cd55 1_565 2.880(9) yes
+Sb49 Cd61 . 2.901(8) yes
+Sb50 Cd34 . 2.909(10) yes
+Sb50 Cd52 . 2.930(9) yes
+Sb50 Ce67 . 2.957(12) yes
+Sb50 Ce68 2_564 2.845(8) yes
+Sb51 Cd8 . 2.814(10) yes
+Sb51 Cd17 2_565 2.954(12) yes
+Sb51 Cd27 2_465 2.900(8) yes
+Sb51 Cd31 . 2.987(11) yes
+Sb51 Cd56 . 2.797(10) yes
+Sb51 Cd64 2_565 2.856(10) yes
+Sb52 Cd9 . 2.978(12) yes
+Sb52 Cd52 2_475 2.855(11) yes
+Sb52 Cd55 1_465 2.843(11) yes
+Sb52 Ce65 . 2.902(9) yes
+Sb53 Cd25 . 2.917(11) yes
+Sb53 Cd61 . 2.779(10) yes
+Sb53 Ce71 2_574 2.870(9) yes
+Sb53 Ce72 . 2.931(11) yes
+Sb54 Cd34 . 2.928(12) yes
+Sb54 Ce66 2_564 2.810(9) yes
+Sb54 Ce77 1_655 2.735(12) yes
+Sb55 Cd39 . 2.785(10) yes
+Sb55 Cd45 1_645 2.937(12) yes
+Sb55 Cd47 2_564 2.825(10) yes
+Sb55 Cd61 1_545 2.963(9) yes
+Sb55 Cd62 . 2.902(10) yes
+Sb56 Cd38 1_655 2.861(10) yes
+Sb56 Cd39 . 2.916(12) yes
+Sb56 Cd45 1_645 2.868(11) yes
+Sb56 Cd52 2_565 2.942(8) yes
+Sb56 Cd54 2_565 2.866(10) yes
+Sb57 Cd7 . 2.875(10) yes
+Sb57 Cd18 1_655 2.880(9) yes
+Sb57 Cd33 1_655 2.847(10) yes
+Sb57 Cd35 1_655 2.913(8) yes
+Sb57 Cd44 . 2.903(12) yes
+Sb58 Cd5 . 2.937(10) yes
+Sb58 Ce69 1_565 2.842(10) yes
+Sb58 Ce70 1_565 2.973(10) yes
+Sb58 Ce77 2_575 2.859(9) yes
+Sb59 Cd13 . 2.929(10) yes
+Sb59 Cd20 . 2.974(10) yes
+Sb59 Cd42 . 2.833(10) yes
+Sb59 Cd50 2_574 2.830(11) yes
+Sb59 Cd53 . 2.944(12) yes
+Sb59 Cd57 . 2.946(8) yes
+Sb60 Cd41 . 2.856(10) yes
+Sb60 Cd49 2_475 2.937(8) yes
+Sb60 Cd50 1_655 2.884(12) yes
+Sb60 Cd53 2_575 2.900(10) yes
+Sb60 Cd59 . 2.930(10) yes
+Sb60 Cd63 . 2.856(10) yes
+Cd10 Cd44 . 2.964(9) yes
+Cd13 Cd57 . 2.995(11) yes
+Cd17 Cd31 2_464 2.973(9) yes
+Cd18 Cd35 . 2.956(10) yes
+Cd20 Cd53 . 2.976(9) yes
+Cd23 Cd64 2_465 2.978(9) yes
+Cd50 Cd59 1_455 2.987(9) yes
+Ce65 Ce67 2_475 2.997(10) yes
+Ce71 Ce72 2_475 2.942(10) yes
+Ce73 Ce75 . 2.972(9) yes

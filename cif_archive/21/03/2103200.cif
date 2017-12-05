@@ -1,0 +1,102 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 16:26:36 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176435 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/32/2103200.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2103200
+loop_
+_publ_author_name
+'Marsh, Richard E.'
+'Kapon, Moshe'
+'Hu, Shengzhi'
+'Herbstein, Frank H.'
+_publ_section_title
+;
+ Some 60 new space-group corrections
+;
+_journal_issue                   1
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              62
+_journal_page_last               77
+_journal_paper_doi               10.1107/S0108768101017128
+_journal_volume                  58
+_journal_year                    2002
+_chemical_formula_moiety         '(C60) (C28 H20) (C6 H6)3'
+_chemical_formula_sum            'C106 H38'
+_chemical_name_systematic
+;
+C60-fullerene 5,6,11,12-tetrahydro-5,12(1',2'):6,11(1'',2'')
+-dibenzenodibenzo(a,e)cyclo-octene benzene solvate
+;
+_space_group_IT_number           12
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 110.970
+_cell_angle_gamma                90.00
+_cell_length_a                   13.260
+_cell_length_b                   15.177
+_cell_length_c                   15.764
+_cell_volume                     2962.340
+_cod_data_source_file            bm0047.cif
+_cod_data_source_block           CSD_CIF_Table_39S
+_cod_original_sg_symbol_H-M      ' C2/m  '
+_cod_original_formula_sum        ' C60, C28H20, 3(C6H6) '
+_cod_database_code               2103200
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, y, -z'
+'x+1/2, y+1/2, z'
+'-x+1/2, y+1/2, -z'
+'-x, -y, -z'
+'x, -y, z'
+'-x+1/2, -y+1/2, -z'
+'x+1/2, -y+1/2, z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 .1194 .0 -.0046
+C2 .0132 .0 -.0965
+C3 -.0562 .0811 -.1036
+C4 -.0554 .1538 -.1570
+C5 -.1210 .2246 -.1600
+C6 -.1886 .2242 -.1114
+C7 -.1896 .1517 -.0571
+C8 -.1229 .0802 -.0531
+C17 1.0691 .0455 .6574
+C18 1.1490 .0901 .7235
+C19 1.2271 .0446 .7904
+C23 .5636 .0 -.0516
+C24 .5304 .0767 -.0258
+C27 -.7633 .0 .5006
+C28 -.7016 .0 .5980
+C29 -.6410 .0770 .6352
+C30 -.5362 .0516 .7019
+C31 .5429 .0946 .7136
+C32 .6456 .0492 .7272
+C33 .7038 .0904 .6880
+C34 .7606 .0484 .6468
+C35 .7639 .0764 .5544
+C45 -.7132 .1440 .4767
+C46 -.6516 .1486 .5759
+C47 -.5540 .1988 .5880
+C48 -.4638 .1703 .6566
+C49 -.3597 .1715 .6372
+C50 -.3503 .1934 .5703
+C57 -.5506 .2268 .5061
+loop_
+_atom_type_symbol
+C

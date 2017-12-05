@@ -1,0 +1,239 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 22:30:59 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176467 $
+#$URL: svn://www.crystallography.net/cod/cif/4/10/37/4103787.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4103787
+loop_
+_publ_author_name
+'Toru Amaya'
+'Shu Seki'
+'Toshiyuki Moriuchi'
+'Kana Nakamoto'
+'Takuto Nakata'
+'Hiroyuki Sakane'
+'Akinori Saeki'
+'Seiichi Tagawa'
+'Toshikazu Hirao'
+_publ_contact_author_address
+;
+Department of Applied Chemistry, 
+Graduate School of Engineering, 
+Osaka University, Suita, 
+Osaka 565-0871, Japan
+;
+_publ_contact_author_email       ' hirao@chem.eng.osaka-u.ac.jp '
+_publ_contact_author_fax         ' +81-6-6879-7415 '
+_publ_contact_author_name        ' Toshikazu Hirao '
+_publ_contact_author_phone       ' +81-6-6879-7413 '
+_publ_section_title
+;
+ Anisotropic Electron Transport Properties in Sumanene Crystal
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              408
+_journal_page_last               409
+_journal_paper_doi               10.1021/ja805997v
+_journal_volume                  131
+_journal_year                    2009
+_chemical_formula_moiety         'C21 H12 '
+_chemical_formula_sum            'C21 H12'
+_chemical_formula_weight         264.33
+_space_group_IT_number           161
+_symmetry_cell_setting           trigonal
+_symmetry_Int_Tables_number      161
+_symmetry_space_group_name_Hall  'R 3 -2"c'
+_symmetry_space_group_name_H-M   'R 3 c :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            6
+_cell_length_a                   16.6402(3)
+_cell_length_b                   16.6402(3)
+_cell_length_c                   7.7024(1)
+_cell_measurement_reflns_used    4946
+_cell_measurement_temperature    277.2
+_cell_measurement_theta_max      67.9
+_cell_measurement_theta_min      5.3
+_cell_volume                     1847.03(5)
+_computing_cell_refinement       PROCESS-AUTO
+_computing_data_collection       PROCESS-AUTO
+_computing_data_reduction        'teXsan Ver. 1.11'
+_computing_publication_material  'teXsan Ver. 1.11'
+_computing_structure_refinement  SHELXL97
+_computing_structure_solution    SIR92
+_diffrn_detector_area_resol_mean 5.00
+_diffrn_measurement_device_type  'Rigaku RAXIS-RAPID Imaging Plate'
+_diffrn_measurement_method       \w
+_diffrn_radiation_type           'Cu K\a'
+_diffrn_radiation_wavelength     1.5419
+_diffrn_reflns_av_R_equivalents  0.076
+_diffrn_reflns_limit_h_max       18
+_diffrn_reflns_limit_h_min       -20
+_diffrn_reflns_limit_k_max       20
+_diffrn_reflns_limit_k_min       -20
+_diffrn_reflns_limit_l_max       8
+_diffrn_reflns_limit_l_min       -8
+_diffrn_reflns_number            6606
+_diffrn_reflns_theta_max         67.92
+_exptl_absorpt_coefficient_mu    0.616
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colorless
+_exptl_crystal_density_diffrn    1.426
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       block
+_exptl_crystal_size_max          0.700
+_exptl_crystal_size_mid          0.280
+_exptl_crystal_size_min          0.200
+_refine_diff_density_max         0.10
+_refine_diff_density_min         -0.20
+_refine_ls_abs_structure_Flack   -1(2)
+_refine_ls_extinction_coef       0.0191
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_ref   0.788
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_number_parameters     81
+_refine_ls_number_reflns         687
+_refine_ls_R_factor_gt           0.0334
+_refine_ls_shift/su_max          -0.0010
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w = 1/[\s^2^(Fo^2^) + (0.1000P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.0862
+_reflns_number_gt                687
+_reflns_number_total             697
+_reflns_threshold_expression     >2.0sigma(I)
+_cod_data_source_file            ja805997v_si_001.cif
+_cod_data_source_block           080628amaya
+_cod_original_cell_volume        1847.03(6)
+_cod_original_sg_symbol_H-M      'R 3 c '
+_cod_original_formula_sum        'C21 H12 '
+_cod_database_code               4103787
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+-y,-x,1/2+z
+x,x-y,1/2+z
+-x+y,y,1/2+z
+2/3+x,1/3+y,1/3+z
+2/3-y,1/3+x-y,1/3+z
+2/3-x+y,1/3-x,1/3+z
+2/3-y,1/3-x,5/6+z
+2/3+x,1/3+x-y,5/6+z
+2/3-x+y,1/3+y,5/6+z
+1/3+x,2/3+y,2/3+z
+1/3-y,2/3+x-y,2/3+z
+1/3-x+y,2/3-x,2/3+z
+1/3-y,2/3-x,1/6+z
+1/3+x,2/3+x-y,1/6+z
+1/3-x+y,2/3+y,1/6+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_calc_flag
+C(1) C 0.2359(1) 0.6228(1) 0.2507(2) 0.0320(4) Uani 1.00 d
+C(2) C 0.28786(9) 0.7189(1) 0.2510(2) 0.0313(4) Uani 1.00 d
+C(3) C 0.2574(1) 0.7737(1) 0.3310(2) 0.0352(4) Uani 1.00 d
+C(4) C 0.1666(1) 0.7270(1) 0.3948(3) 0.0380(5) Uani 1.00 d
+C(5) C 0.5151(1) 0.8869(1) 0.3951(2) 0.0393(4) Uani 1.00 d
+C(6) C 0.42520(9) 0.8504(1) 0.3309(3) 0.0343(5) Uani 1.00 d
+C(7) C 0.3445(1) 0.8693(1) 0.3680(2) 0.0404(4) Uani 1.00 d
+H(1) H 0.144(1) 0.758(1) 0.462(2) 0.04116(6) Uiso 1.00 calc
+H(2) H 0.546(1) 0.945(2) 0.464(3) 0.04955(6) Uiso 1.00 calc
+H(3) H 0.345(1) 0.890(1) 0.486(3) 0.04475(6) Uiso 1.00 calc
+H(4) H 0.346(1) 0.921(1) 0.295(3) 0.05878(8) Uiso 1.00 calc
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C(1) 0.0330(8) 0.0350(8) 0.0286(8) 0.0175(6) -0.0070(6) -0.0024(5)
+C(2) 0.0328(8) 0.0347(8) 0.0284(8) 0.0183(7) -0.0037(5) 0.0042(5)
+C(3) 0.0382(8) 0.0354(8) 0.0375(9) 0.0225(6) -0.0046(7) 0.0036(7)
+C(4) 0.0377(8) 0.0452(9) 0.0417(10) 0.0287(7) -0.0029(7) -0.0007(7)
+C(5) 0.0344(7) 0.0283(8) 0.0451(10) 0.0080(6) 0.0028(6) 0.0026(6)
+C(6) 0.0357(8) 0.0272(8) 0.037(1) 0.0137(6) 0.0020(5) 0.0050(6)
+C(7) 0.0449(9) 0.0327(8) 0.047(1) 0.0221(8) -0.0020(7) 0.0011(7)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.018 0.009
+;International Tables for Crystallography
+(1992, Vol. C, Tables 4.2.6.8 and 6.1.1.4)
+;
+H H 0.000 0.000
+;International Tables for Crystallography
+(1992, Vol. C, Table 6.1.1.4)
+;
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C(2) C(1) C(2) 120.2(2) . 2_665 yes
+C(2) C(1) C(6) 122.0(2) . 2_665 yes
+C(2) C(1) C(6) 110.8(1) 2_665 2_665 yes
+C(1) C(2) C(1) 119.8(2) . 3_565 yes
+C(1) C(2) C(3) 122.4(1) . . yes
+C(1) C(2) C(3) 111.0(1) 3_565 . yes
+C(2) C(3) C(4) 116.0(1) . . yes
+C(2) C(3) C(7) 107.1(1) . . yes
+C(4) C(3) C(7) 134.6(2) . . yes
+C(3) C(4) C(5) 121.3(2) . 2_665 yes
+C(4) C(5) C(6) 121.0(2) 3_565 . yes
+C(1) C(6) C(5) 116.4(2) 3_565 . yes
+C(1) C(6) C(7) 107.1(1) 3_565 . yes
+C(5) C(6) C(7) 134.1(2) . . yes
+C(3) C(7) C(6) 102.6(1) . . yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+C(1) C(2) 1.386(2) . yes
+C(1) C(2) 1.429(2) 2_665 yes
+C(1) C(6) 1.391(2) 2_665 yes
+C(2) C(3) 1.390(3) . yes
+C(3) C(4) 1.398(2) . yes
+C(3) C(7) 1.551(2) . yes
+C(4) C(5) 1.425(3) 2_665 yes
+C(5) C(6) 1.394(2) . yes
+C(6) C(7) 1.551(3) . yes
+loop_
+_geom_contact_atom_site_label_1
+_geom_contact_atom_site_label_2
+_geom_contact_distance
+_geom_contact_site_symmetry_2
+C(1) C(2) 2.815(2) 3_565
+C(1) C(6) 3.466(2) 4_664
+C(1) C(5) 3.501(2) 4_664
+C(2) C(4) 3.419(3) 4_664
+C(2) C(3) 3.475(3) 4_664
+C(3) C(4) 3.476(3) 4_664

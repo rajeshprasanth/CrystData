@@ -1,0 +1,337 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 02:53:41 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176768 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/40/2104016.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2104016
+loop_
+_publ_author_name
+'Lind, Hanna'
+'Bostr\"om, Magnus'
+'Pet\<r\'i\<cek, Vaclav'
+'Lidin, Sven'
+_publ_section_title
+;
+ Structure of \d~1~-CoZn~7.8~, an example of a phason
+ pinning--unpinning transformation?
+;
+_journal_issue                   6
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              720
+_journal_page_last               729
+_journal_paper_doi               10.1107/S0108768103019694
+_journal_volume                  59
+_journal_year                    2003
+_chemical_formula_sum            'Co Zn7.8'
+_chemical_formula_weight         568.90
+_symmetry_cell_setting           monoclinic
+_audit_creation_method           'Jana2000 Version : 16/05/2003'
+_cell_angle_alpha                90
+_cell_angle_beta                 89.90(3)
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   9.030(2)
+_cell_length_b                   4.3380(10)
+_cell_length_c                   12.511(3)
+_cell_measurement_reflns_used    2026
+_cell_measurement_temperature    293
+_cell_measurement_theta_max      48.4
+_cell_measurement_theta_min      2.9
+_cell_volume                     490.1(2)
+_computing_data_reduction
+'XRED: Data Reduction Program, Stoe and Cie, (1996)'
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      293
+_diffrn_measurement_device_type  'STOE IPDS'
+_diffrn_measurement_method       \q-2\q
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'X-ray tube'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.0750
+_diffrn_reflns_limit_h_max       10
+_diffrn_reflns_limit_h_min       -10
+_diffrn_reflns_limit_k_max       5
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       14
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            8488
+_diffrn_reflns_theta_max         48.4
+_diffrn_reflns_theta_min         2.9
+_exptl_absorpt_coefficient_mu    20.290
+_exptl_absorpt_correction_T_max  0.7244
+_exptl_absorpt_correction_T_min  0.2627
+_exptl_absorpt_correction_type   'Numerical from crystal shape'
+_exptl_crystal_colour            metallic
+_exptl_crystal_density_diffrn    3.8539(15)
+_exptl_crystal_description       tabular
+_exptl_crystal_F_000             1006
+_exptl_crystal_size_max          0.082
+_exptl_crystal_size_mid          0.045
+_exptl_crystal_size_min          0.015
+_refine_diff_density_max         4.98
+_refine_diff_density_min         -4.53
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   2.92
+_refine_ls_number_parameters     104
+_refine_ls_number_reflns         2026
+_refine_ls_R_factor_all          0.1140
+_refine_ls_R_factor_gt           0.0624
+_refine_ls_shift/su_max          0.0002
+_refine_ls_shift/su_mean         0.0000
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     w=1/(\s^2^(F)+0.0001F^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0668
+_refine_ls_wR_factor_ref         0.0687
+_reflns_number_gt                1095
+_reflns_number_total             2026
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            sn5001.cif
+_cod_data_source_block           global
+_cod_database_code               2104016
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_occupancy
+_atom_site_type_symbol
+Co -0.16084(16) -0.3052(4) 0.0879(2) 0.0105(4) Uani d 1 Co
+Zn1 -0.21276(11) 0 0.09149(9) 0.0174(3) Uani d 1 Zn
+Zn2 0.41599(17) 0 0.02151(12) 0.0215(5) Uani d 1 Zn
+Zn3 0.27052(14) 0 0.23105(11) 0.0136(4) Uani d 1 Zn
+Zn4 0.07312(9) 0 0.09012(7) 0.0146(3) Uani d 1 Zn
+Zn5 -0.43014(9) 0 0.21472(7) 0.0140(3) Uani d 1 Zn
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+_atom_site_aniso_type_symbol
+Co 0.0060(7) 0.0193(9) 0.0064(7) -0.0114(6) -0.0023(6) 0.0028(6) Co
+Zn1 0.0160(5) 0.0225(6) 0.0138(6) 0 0.0030(5) 0 Zn
+Zn2 0.0378(9) 0.0081(7) 0.0187(8) 0 -0.0074(7) 0 Zn
+Zn3 0.0136(6) 0.0148(7) 0.0126(6) 0 -0.0028(5) 0 Zn
+Zn4 0.0160(5) 0.0152(5) 0.0126(5) 0 -0.0005(4) 0 Zn
+Zn5 0.0183(5) 0.0097(5) 0.0140(5) 0 0.0032(4) 0 Zn
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Co 0.349 0.972 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+Zn 0.284 1.430 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+Co Co Zn1 4_555 1_545 yes
+Co Co Zn1 4_555 13_545 yes
+Co Co Zn1 4_555 3_555 yes
+Co Co Zn1 4_555 11_455 yes
+Co Co Zn1 4_555 15_445 yes
+Co Co Zn1 4_555 15_455 yes
+Co Co Zn2 4_555 3_545 yes
+Co Co Zn2 4_555 3_555 yes
+Co Co Zn2 4_555 15_545 yes
+Co Co Zn3 4_555 7_545 yes
+Co Co Zn4 4_555 1_545 yes
+Co Co Zn4 4_555 . yes
+Co Co Zn4 4_555 13_445 yes
+Co Co Zn4 4_555 3_545 yes
+Co Co Zn4 4_555 3_555 yes
+Co Co Zn5 4_555 1_545 yes
+Co Co Zn5 4_555 . yes
+Co Co Zn5 4_555 13_545 yes
+Co Co Zn5 4_555 11_445 yes
+Co Co Zn5 4_555 11_455 yes
+Co Co Zn5 4_555 15_445 yes
+Zn1 Co Zn1 1_545 13_545 yes
+Zn1 Co Zn1 1_545 3_555 yes
+Zn1 Co Zn1 1_545 11_455 yes
+Zn1 Co Zn1 1_545 15_445 yes
+Zn1 Co Zn1 1_545 15_455 yes
+Zn1 Co Zn2 1_545 3_545 yes
+Zn1 Co Zn2 1_545 3_555 yes
+Zn1 Co Zn2 1_545 15_545 yes
+Zn1 Co Zn3 1_545 7_545 yes
+Zn1 Co Zn4 1_545 1_545 yes
+Zn1 Co Zn4 1_545 . yes
+Zn1 Co Zn4 1_545 13_445 yes
+Zn1 Co Zn4 1_545 3_545 yes
+Zn1 Co Zn4 1_545 3_555 yes
+Zn1 Co Zn5 1_545 1_545 yes
+Zn1 Co Zn5 1_545 . yes
+Zn1 Co Zn5 1_545 13_545 yes
+Zn1 Co Zn5 1_545 11_445 yes
+Zn1 Co Zn5 1_545 11_455 yes
+Zn1 Co Zn5 1_545 15_445 yes
+Zn1 Co Zn1 15_445 1_545 yes
+Zn1 Co Zn1 15_445 13_545 yes
+Zn1 Co Zn1 15_445 3_555 yes
+Zn1 Co Zn1 15_445 11_455 yes
+Zn1 Co Zn1 15_445 15_455 yes
+Zn1 Co Zn2 15_445 3_545 yes
+Zn1 Co Zn2 15_445 3_555 yes
+Zn1 Co Zn2 15_445 15_545 yes
+Zn1 Co Zn3 15_445 7_545 yes
+Zn1 Co Zn4 15_445 1_545 yes
+Zn1 Co Zn4 15_445 . yes
+Zn1 Co Zn4 15_445 13_445 yes
+Zn1 Co Zn4 15_445 3_545 yes
+Zn1 Co Zn4 15_445 3_555 yes
+Zn1 Co Zn5 15_445 1_545 yes
+Zn1 Co Zn5 15_445 . yes
+Zn1 Co Zn5 15_445 13_545 yes
+Zn1 Co Zn5 15_445 11_445 yes
+Zn1 Co Zn5 15_445 11_455 yes
+Zn1 Co Zn5 15_445 15_445 yes
+Zn2 Co Zn2 3_555 3_545 yes
+Zn2 Co Zn2 3_555 15_545 yes
+Zn2 Co Zn3 3_555 7_545 yes
+Zn2 Co Zn4 3_555 1_545 yes
+Zn2 Co Zn4 3_555 . yes
+Zn2 Co Zn4 3_555 13_445 yes
+Zn2 Co Zn4 3_555 3_545 yes
+Zn2 Co Zn4 3_555 3_555 yes
+Zn2 Co Zn5 3_555 1_545 yes
+Zn2 Co Zn5 3_555 . yes
+Zn2 Co Zn5 3_555 13_545 yes
+Zn2 Co Zn5 3_555 11_445 yes
+Zn2 Co Zn5 3_555 11_455 yes
+Zn2 Co Zn5 3_555 15_445 yes
+Zn2 Co Zn2 15_545 3_545 yes
+Zn2 Co Zn2 15_545 3_555 yes
+Zn2 Co Zn3 15_545 7_545 yes
+Zn2 Co Zn4 15_545 1_545 yes
+Zn2 Co Zn4 15_545 . yes
+Zn2 Co Zn4 15_545 13_445 yes
+Zn2 Co Zn4 15_545 3_545 yes
+Zn2 Co Zn4 15_545 3_555 yes
+Zn2 Co Zn5 15_545 1_545 yes
+Zn2 Co Zn5 15_545 . yes
+Zn2 Co Zn5 15_545 13_545 yes
+Zn2 Co Zn5 15_545 11_445 yes
+Zn2 Co Zn5 15_545 11_455 yes
+Zn2 Co Zn5 15_545 15_445 yes
+Zn3 Co Zn4 7_545 1_545 yes
+Zn3 Co Zn4 7_545 . yes
+Zn3 Co Zn4 7_545 13_445 yes
+Zn3 Co Zn4 7_545 3_545 yes
+Zn3 Co Zn4 7_545 3_555 yes
+Zn3 Co Zn5 7_545 1_545 yes
+Zn3 Co Zn5 7_545 . yes
+Zn3 Co Zn5 7_545 13_545 yes
+Zn3 Co Zn5 7_545 11_445 yes
+Zn3 Co Zn5 7_545 11_455 yes
+Zn3 Co Zn5 7_545 15_445 yes
+Zn4 Co Zn4 1_545 . yes
+Zn4 Co Zn4 1_545 13_445 yes
+Zn4 Co Zn4 1_545 3_545 yes
+Zn4 Co Zn4 1_545 3_555 yes
+Zn4 Co Zn5 1_545 1_545 yes
+Zn4 Co Zn5 1_545 . yes
+Zn4 Co Zn5 1_545 13_545 yes
+Zn4 Co Zn5 1_545 11_445 yes
+Zn4 Co Zn5 1_545 11_455 yes
+Zn4 Co Zn5 1_545 15_445 yes
+Zn4 Co Zn4 . 1_545 yes
+Zn4 Co Zn4 . 13_445 yes
+Zn4 Co Zn4 . 3_545 yes
+Zn4 Co Zn4 . 3_555 yes
+Zn4 Co Zn5 . 1_545 yes
+Zn4 Co Zn5 . . yes
+Zn4 Co Zn5 . 13_545 yes
+Zn4 Co Zn5 . 11_445 yes
+Zn4 Co Zn5 . 11_455 yes
+Zn4 Co Zn5 . 15_445 yes
+Zn4 Co Zn4 13_445 1_545 yes
+Zn4 Co Zn4 13_445 . yes
+Zn4 Co Zn4 13_445 3_545 yes
+Zn4 Co Zn4 13_445 3_555 yes
+Zn4 Co Zn5 13_445 1_545 yes
+Zn4 Co Zn5 13_445 . yes
+Zn4 Co Zn5 13_445 13_545 yes
+Zn4 Co Zn5 13_445 11_445 yes
+Zn4 Co Zn5 13_445 11_455 yes
+Zn4 Co Zn5 13_445 15_445 yes
+Zn4 Co Zn4 3_545 1_545 yes
+Zn4 Co Zn4 3_545 . yes
+Zn4 Co Zn4 3_545 13_445 yes
+Zn4 Co Zn4 3_545 3_555 yes
+Zn4 Co Zn5 3_545 1_545 yes
+Zn4 Co Zn5 3_545 . yes
+Zn4 Co Zn5 3_545 13_545 yes
+Zn4 Co Zn5 3_545 11_445 yes
+Zn4 Co Zn5 3_545 11_455 yes
+Zn4 Co Zn5 3_545 15_445 yes
+Zn4 Co Zn4 3_555 1_545 yes
+Zn4 Co Zn4 3_555 . yes
+Zn4 Co Zn4 3_555 13_445 yes
+Zn4 Co Zn4 3_555 3_545 yes
+Zn4 Co Zn5 3_555 1_545 yes
+Zn4 Co Zn5 3_555 . yes
+Zn4 Co Zn5 3_555 13_545 yes
+Zn4 Co Zn5 3_555 11_445 yes
+Zn4 Co Zn5 3_555 11_455 yes
+Zn4 Co Zn5 3_555 15_445 yes
+Zn5 Co Zn5 . 1_545 yes
+Zn5 Co Zn5 . 13_545 yes
+Zn5 Co Zn5 . 11_445 yes
+Zn5 Co Zn5 . 11_455 yes
+Zn5 Co Zn5 . 15_445 yes
+Zn5 Co Zn5 13_545 1_545 yes
+Zn5 Co Zn5 13_545 . yes
+Zn5 Co Zn5 13_545 11_445 yes
+Zn5 Co Zn5 13_545 11_455 yes
+Zn5 Co Zn5 13_545 15_445 yes
+Zn5 Co Zn5 11_445 1_545 yes
+Zn5 Co Zn5 11_445 . yes
+Zn5 Co Zn5 11_445 13_545 yes
+Zn5 Co Zn5 11_445 11_455 yes
+Zn5 Co Zn5 11_445 15_445 yes
+Zn5 Co Zn5 11_455 1_545 yes
+Zn5 Co Zn5 11_455 . yes
+Zn5 Co Zn5 11_455 13_545 yes
+Zn5 Co Zn5 11_455 11_445 yes
+Zn5 Co Zn5 11_455 15_445 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Co Co 4_555 yes
+Co Zn1 1_545 yes
+Co Zn1 15_445 yes
+Co Zn2 3_555 yes
+Co Zn2 15_545 yes
+Co Zn3 7_545 yes
+Co Zn4 1_545 yes
+Co Zn4 . yes
+Co Zn4 13_445 yes
+Co Zn4 3_545 yes
+Co Zn4 3_555 yes
+Co Zn5 . yes
+Co Zn5 13_545 yes
+Co Zn5 11_445 yes
+Co Zn5 11_455 yes

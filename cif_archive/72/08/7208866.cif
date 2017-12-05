@@ -1,0 +1,496 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/7/20/88/7208866.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7208866
+loop_
+_publ_author_name
+'Jana, Partha Pratim'
+'Lidin, Sven'
+_publ_section_title
+;
+ Structures of NiCd6+\d (&#x2212;0.32 &#x2264; \d &#x2264; 0.35) -- a
+ \g-brass related phase, and NiCd1+\d (0 &#x2264; \d &#x2264; 0.05) -- a
+ Ti2Ni type phase in the nickel--cadmium system
+;
+_journal_issue                   4
+_journal_name_full               CrystEngComm
+_journal_page_first              745
+_journal_paper_doi               10.1039/c2ce25982f
+_journal_volume                  15
+_journal_year                    2013
+_chemical_formula_sum            'Cd12.303 Ni11.697'
+_chemical_formula_weight         2069.5
+_chemical_name_systematic        ' ?'
+_space_group_IT_number           227
+_symmetry_cell_setting           cubic
+_symmetry_Int_Tables_number      227
+_symmetry_space_group_name_Hall  '-F 4vw 2vw 3'
+_symmetry_space_group_name_H-M   'F d -3 m :2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   11.3970(4)
+_cell_length_b                   11.3970(4)
+_cell_length_c                   11.3970(4)
+_cell_measurement_reflns_used    814
+_cell_measurement_temperature    293
+_cell_measurement_theta_max      28.49
+_cell_measurement_theta_min      3.09
+_cell_volume                     1480.37(9)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.34.49 (release 20-01-2011 CrysAlis171 .NET)
+(compiled Jan 20 2011,15:58:25)
+;
+_computing_data_collection
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.34.49 (release 20-01-2011 CrysAlis171 .NET)
+(compiled Jan 20 2011,15:58:25)
+;
+_computing_data_reduction
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.34.49 (release 20-01-2011 CrysAlis171 .NET)
+(compiled Jan 20 2011,15:58:25)
+;
+_diffrn_ambient_temperature      293
+_diffrn_detector_area_resol_mean 16.1367
+_diffrn_measured_fraction_theta_full 0.98
+_diffrn_measured_fraction_theta_max 0.96
+_diffrn_measurement_device       'four-cycle diffractometer'
+_diffrn_measurement_device_type  'Xcalibur, Eos'
+_diffrn_measurement_method       '\w scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_source         'Enhance (Mo) X-ray Source'
+_diffrn_radiation_wavelength     0.7107
+_diffrn_reflns_av_R_equivalents  0.0158
+_diffrn_reflns_av_sigmaI/netI    0.0091
+_diffrn_reflns_limit_h_max       14
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       15
+_diffrn_reflns_limit_k_min       -6
+_diffrn_reflns_limit_l_max       7
+_diffrn_reflns_limit_l_min       -15
+_diffrn_reflns_number            900
+_diffrn_reflns_theta_full        28.02
+_diffrn_reflns_theta_max         28.55
+_diffrn_reflns_theta_min         3.1
+_exptl_absorpt_coefficient_mu    31.664
+_exptl_absorpt_correction_T_max  1
+_exptl_absorpt_correction_T_min  0.532
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.34.49 (release 20-01-2011 CrysAlis171 .NET)
+(compiled Jan 20 2011,15:58:25)
+Empirical absorption correction using spherical harmonics,
+implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_density_diffrn    9.2823
+_exptl_crystal_F_000             3672
+_exptl_crystal_size_max          0.04
+_exptl_crystal_size_mid          0.04
+_exptl_crystal_size_min          0.03
+_refine_diff_density_max         0.97
+_refine_diff_density_min         -0.90
+_refine_ls_extinction_coef       1840(100)
+_refine_ls_extinction_method
+'B-C type 1 Gaussian isotropic (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_all   1.20
+_refine_ls_goodness_of_fit_gt    1.18
+_refine_ls_number_constraints    3
+_refine_ls_number_parameters     12
+_refine_ls_number_reflns         112
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0201
+_refine_ls_R_factor_gt           0.0192
+_refine_ls_shift/su_max          0.0458
+_refine_ls_shift/su_mean         0.0060
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     w=1/(\s^2^(I)+0.0025000002I^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_all         0.0642
+_refine_ls_wR_factor_gt          0.0623
+_reflns_number_gt                109
+_reflns_number_total             112
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            c2ce25982f.txt
+_cod_data_source_block           Ig
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_diffrn_radiation_probe' value 'X-ray' changed to 'x-ray' according
+to /home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary
+named 'cif_core.dic' version 2.4.2 from 2011-04-26.
+
+Automatic conversion script
+Id: cif_fix_values 1891 2012-01-12 08:04:46Z andrius 
+;
+_cod_original_sg_symbol_Hall     '-F 4abvw;2abvw;3'
+_cod_original_sg_symbol_H-M      'F d -3 m'
+_cod_database_code               7208866
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x+3/4,-y+1/4,z+1/2
+3 -x+1/4,y+1/2,-z+3/4
+4 x+1/2,-y+3/4,-z+1/4
+5 z,x,y
+6 z+1/2,-x+3/4,-y+1/4
+7 -z+3/4,-x+1/4,y+1/2
+8 -z+1/4,x+1/2,-y+3/4
+9 y,z,x
+10 -y+1/4,z+1/2,-x+3/4
+11 y+1/2,-z+3/4,-x+1/4
+12 -y+3/4,-z+1/4,x+1/2
+13 y+3/4,x+1/4,-z+1/2
+14 -y,-x,-z
+15 y+1/4,-x+1/2,z+3/4
+16 -y+1/2,x+3/4,z+1/4
+17 x+3/4,z+1/4,-y+1/2
+18 -x+1/2,z+3/4,y+1/4
+19 -x,-z,-y
+20 x+1/4,-z+1/2,y+3/4
+21 z+3/4,y+1/4,-x+1/2
+22 z+1/4,-y+1/2,x+3/4
+23 -z+1/2,y+3/4,x+1/4
+24 -z,-y,-x
+25 -x,-y,-z
+26 x+1/4,y+3/4,-z+1/2
+27 x+3/4,-y+1/2,z+1/4
+28 -x+1/2,y+1/4,z+3/4
+29 -z,-x,-y
+30 -z+1/2,x+1/4,y+3/4
+31 z+1/4,x+3/4,-y+1/2
+32 z+3/4,-x+1/2,y+1/4
+33 -y,-z,-x
+34 y+3/4,-z+1/2,x+1/4
+35 -y+1/2,z+1/4,x+3/4
+36 y+1/4,z+3/4,-x+1/2
+37 -y+1/4,-x+3/4,z+1/2
+38 y,x,z
+39 -y+3/4,x+1/2,-z+1/4
+40 y+1/2,-x+1/4,-z+3/4
+41 -x+1/4,-z+3/4,y+1/2
+42 x+1/2,-z+1/4,-y+3/4
+43 x,z,y
+44 -x+3/4,z+1/2,-y+1/4
+45 -z+1/4,-y+3/4,x+1/2
+46 -z+3/4,y+1/2,-x+1/4
+47 z+1/2,-y+1/4,-x+3/4
+48 z,y,x
+49 x,y+1/2,z+1/2
+50 -x+3/4,-y+3/4,z
+51 -x+1/4,y,-z+1/4
+52 x+1/2,-y+1/4,-z+3/4
+53 z,x+1/2,y+1/2
+54 z+1/2,-x+1/4,-y+3/4
+55 -z+3/4,-x+3/4,y
+56 -z+1/4,x,-y+1/4
+57 y,z+1/2,x+1/2
+58 -y+1/4,z,-x+1/4
+59 y+1/2,-z+1/4,-x+3/4
+60 -y+3/4,-z+3/4,x
+61 y+3/4,x+3/4,-z
+62 -y,-x+1/2,-z+1/2
+63 y+1/4,-x,z+1/4
+64 -y+1/2,x+1/4,z+3/4
+65 x+3/4,z+3/4,-y
+66 -x+1/2,z+1/4,y+3/4
+67 -x,-z+1/2,-y+1/2
+68 x+1/4,-z,y+1/4
+69 z+3/4,y+3/4,-x
+70 z+1/4,-y,x+1/4
+71 -z+1/2,y+1/4,x+3/4
+72 -z,-y+1/2,-x+1/2
+73 -x,-y+1/2,-z+1/2
+74 x+1/4,y+1/4,-z
+75 x+3/4,-y,z+3/4
+76 -x+1/2,y+3/4,z+1/4
+77 -z,-x+1/2,-y+1/2
+78 -z+1/2,x+3/4,y+1/4
+79 z+1/4,x+1/4,-y
+80 z+3/4,-x,y+3/4
+81 -y,-z+1/2,-x+1/2
+82 y+3/4,-z,x+3/4
+83 -y+1/2,z+3/4,x+1/4
+84 y+1/4,z+1/4,-x
+85 -y+1/4,-x+1/4,z
+86 y,x+1/2,z+1/2
+87 -y+3/4,x,-z+3/4
+88 y+1/2,-x+3/4,-z+1/4
+89 -x+1/4,-z+1/4,y
+90 x+1/2,-z+3/4,-y+1/4
+91 x,z+1/2,y+1/2
+92 -x+3/4,z,-y+3/4
+93 -z+1/4,-y+1/4,x
+94 -z+3/4,y,-x+3/4
+95 z+1/2,-y+3/4,-x+1/4
+96 z,y+1/2,x+1/2
+97 x+1/2,y,z+1/2
+98 -x+1/4,-y+1/4,z
+99 -x+3/4,y+1/2,-z+1/4
+100 x,-y+3/4,-z+3/4
+101 z+1/2,x,y+1/2
+102 z,-x+3/4,-y+3/4
+103 -z+1/4,-x+1/4,y
+104 -z+3/4,x+1/2,-y+1/4
+105 y+1/2,z,x+1/2
+106 -y+3/4,z+1/2,-x+1/4
+107 y,-z+3/4,-x+3/4
+108 -y+1/4,-z+1/4,x
+109 y+1/4,x+1/4,-z
+110 -y+1/2,-x,-z+1/2
+111 y+3/4,-x+1/2,z+1/4
+112 -y,x+3/4,z+3/4
+113 x+1/4,z+1/4,-y
+114 -x,z+3/4,y+3/4
+115 -x+1/2,-z,-y+1/2
+116 x+3/4,-z+1/2,y+1/4
+117 z+1/4,y+1/4,-x
+118 z+3/4,-y+1/2,x+1/4
+119 -z,y+3/4,x+3/4
+120 -z+1/2,-y,-x+1/2
+121 -x+1/2,-y,-z+1/2
+122 x+3/4,y+3/4,-z
+123 x+1/4,-y+1/2,z+3/4
+124 -x,y+1/4,z+1/4
+125 -z+1/2,-x,-y+1/2
+126 -z,x+1/4,y+1/4
+127 z+3/4,x+3/4,-y
+128 z+1/4,-x+1/2,y+3/4
+129 -y+1/2,-z,-x+1/2
+130 y+1/4,-z+1/2,x+3/4
+131 -y,z+1/4,x+1/4
+132 y+3/4,z+3/4,-x
+133 -y+3/4,-x+3/4,z
+134 y+1/2,x,z+1/2
+135 -y+1/4,x+1/2,-z+3/4
+136 y,-x+1/4,-z+1/4
+137 -x+3/4,-z+3/4,y
+138 x,-z+1/4,-y+1/4
+139 x+1/2,z,y+1/2
+140 -x+1/4,z+1/2,-y+3/4
+141 -z+3/4,-y+3/4,x
+142 -z+1/4,y+1/2,-x+3/4
+143 z,-y+1/4,-x+1/4
+144 z+1/2,y,x+1/2
+145 x+1/2,y+1/2,z
+146 -x+1/4,-y+3/4,z+1/2
+147 -x+3/4,y,-z+3/4
+148 x,-y+1/4,-z+1/4
+149 z+1/2,x+1/2,y
+150 z,-x+1/4,-y+1/4
+151 -z+1/4,-x+3/4,y+1/2
+152 -z+3/4,x,-y+3/4
+153 y+1/2,z+1/2,x
+154 -y+3/4,z,-x+3/4
+155 y,-z+1/4,-x+1/4
+156 -y+1/4,-z+3/4,x+1/2
+157 y+1/4,x+3/4,-z+1/2
+158 -y+1/2,-x+1/2,-z
+159 y+3/4,-x,z+3/4
+160 -y,x+1/4,z+1/4
+161 x+1/4,z+3/4,-y+1/2
+162 -x,z+1/4,y+1/4
+163 -x+1/2,-z+1/2,-y
+164 x+3/4,-z,y+3/4
+165 z+1/4,y+3/4,-x+1/2
+166 z+3/4,-y,x+3/4
+167 -z,y+1/4,x+1/4
+168 -z+1/2,-y+1/2,-x
+169 -x+1/2,-y+1/2,-z
+170 x+3/4,y+1/4,-z+1/2
+171 x+1/4,-y,z+1/4
+172 -x,y+3/4,z+3/4
+173 -z+1/2,-x+1/2,-y
+174 -z,x+3/4,y+3/4
+175 z+3/4,x+1/4,-y+1/2
+176 z+1/4,-x,y+1/4
+177 -y+1/2,-z+1/2,-x
+178 y+1/4,-z,x+1/4
+179 -y,z+3/4,x+3/4
+180 y+3/4,z+1/4,-x+1/2
+181 -y+3/4,-x+1/4,z+1/2
+182 y+1/2,x+1/2,z
+183 -y+1/4,x,-z+1/4
+184 y,-x+3/4,-z+3/4
+185 -x+3/4,-z+1/4,y+1/2
+186 x,-z+3/4,-y+3/4
+187 x+1/2,z+1/2,y
+188 -x+1/4,z,-y+1/4
+189 -z+3/4,-y+1/4,x+1/2
+190 -z+1/4,y,-x+1/4
+191 z,-y+3/4,-x+3/4
+192 z+1/2,y+1/2,x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+Cd1 Cd 0.42715(5) 0.125 0.125 Uani 0.0088(3) 48 1 d
+Ni1 Ni 0 0 0 Uani 0.0073(3) 16 1 d
+Ni2 Ni 0.20403(7) 0.20403(7) 0.20403(7) Uani 0.0074(3) 32 0.962(7) d
+Cd2 Cd 0.20403(7) 0.20403(7) 0.20403(7) Uani 0.0074(3) 32 0.038(7) d
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd 0.0106(5) 0.0079(5) 0.0079(5) 0 0 0.0009(2)
+Ni1 Ni 0.0073(6) 0.0073(6) 0.0073(6) -0.0004(4) -0.0004(4) -0.0004(4)
+Ni2 Ni 0.0074(5) 0.0074(5) 0.0074(5) -0.0004(3) -0.0004(3) -0.0004(3)
+Cd2 Cd 0.0074(5) 0.0074(5) 0.0074(5) -0.0004(3) -0.0004(3) -0.0004(3)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Cd -0.8075 1.2024 'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+Ni 0.3393 1.1124 'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+loop_
+_refln_index_h
+_refln_index_k
+_refln_index_l
+_refln_F_squared_calc
+_refln_F_squared_meas
+_refln_F_squared_sigma
+_refln_observed_status
+1 1 1 6349. 6439. 185. o
+0 2 2 22261. 25773. 315. o
+2 2 2 6022. 5548. 187. o
+1 1 3 3004. 3009. 84. o
+1 3 3 256572. 249737. 861. o
+3 3 3 1706710. 1888380. 8506. o
+0 0 4 532680. 526700. 2245. o
+2 2 4 729240. 721415. 2401. o
+0 4 4 1561900. 1718870. 8001. o
+2 4 4 203031. 181486. 929. o
+4 4 4 2410. 2139. 275. o
+1 1 5 1401910. 1529010. 2645. o
+1 3 5 7193. 7553. 133. o
+3 3 5 29799. 26575. 375. o
+1 5 5 237140. 228409. 1057. o
+3 5 5 115576. 113609. 905. o
+5 5 5 1560330. 1586930. 8940. o
+0 2 6 1131. 2056. 124. o
+2 2 6 130951. 124879. 762. o
+2 4 6 2411. 2754. 106. o
+4 4 6 5256. 5646. 310. o
+0 6 6 1539390. 1531970. 5723. o
+2 6 6 56601. 55878. 658. o
+4 6 6 46577. 49466. 795. o
+6 6 6 38350. 38861. 1776. o
+1 1 7 24142. 24453. 261. o
+1 3 7 89796. 88888. 479. o
+3 3 7 548141. 516169. 2390. o
+1 5 7 8257. 9801. 207. o
+3 5 7 137339. 132618. 802. o
+5 5 7 194956. 188309. 1641. o
+1 7 7 401443. 372485. 2059. o
+3 7 7 286334. 277470. 2030. o
+5 7 7 38885. 39127. 1065. o
+7 7 7 125940. 126333. 3533. o
+0 0 8 169925. 171556. 1484. o
+2 2 8 1281180. 1237280. 3157. o
+0 4 8 4112. 4257. 189. o
+2 4 8 73082. 71719. 547. o
+4 4 8 1746. 2049. 262. o
+2 6 8 91683. 92009. 734. o
+4 6 8 1754. 1888. 157. o
+6 6 8 73877. 72299. 1486. o
+0 8 8 17059. 15273. 611. o
+2 8 8 28831. 29515. 636. o
+4 8 8 473943. 464622. 3643. o
+6 8 8 824. 906. 333. <
+8 8 8 390971. 385729. 6924. o
+1 1 9 11764. 13024. 237. o
+1 3 9 31062. 30687. 303. o
+3 3 9 637084. 602726. 2509. o
+1 5 9 122219. 122931. 821. o
+3 5 9 24079. 22816. 406. o
+5 5 9 124038. 123555. 1665. o
+1 7 9 58564. 59551. 608. o
+3 7 9 21237. 22880. 432. o
+5 7 9 29996. 30037. 621. o
+7 7 9 91933. 96567. 1883. o
+1 9 9 26342. 26091. 600. o
+3 9 9 49996. 52110. 974. o
+5 9 9 212630. 205897. 2478. o
+7 9 9 3740. 3984. 883. o
+0 2 10 232150. 231020. 1303. o
+2 2 10 243013. 233099. 1300. o
+2 4 10 14522. 14763. 256. o
+4 4 10 88354. 86011. 1026. o
+0 6 10 434913. 416834. 2360. o
+2 6 10 15557. 15829. 354. o
+4 6 10 264261. 261325. 1764. o
+6 6 10 28908. 30596. 813. o
+2 8 10 52916. 54532. 657. o
+4 8 10 44560. 44547. 800. o
+6 8 10 31784. 33539. 712. o
+0 10 10 600511. 575750. 5112. o
+2 10 10 6700. 6300. 450. o
+4 10 10 289319. 276472. 5909. o
+1 1 11 62020. 63710. 800. o
+1 3 11 46591. 46072. 510. o
+3 3 11 84. 568. 156. o
+1 5 11 212121. 210269. 1199. o
+3 5 11 12200. 12964. 299. o
+5 5 11 279367. 278475. 2516. o
+1 7 11 57774. 59431. 663. o
+3 7 11 116414. 114327. 1082. o
+5 7 11 261. 590. 182. o
+7 7 11 52440. 50722. 2472. o
+1 9 11 39515. 39236. 577. o
+3 9 11 1001. 1125. 213. o
+0 0 12 340461. 337823. 3549. o
+2 2 12 342261. 332685. 2342. o
+0 4 12 44379. 43420. 976. o
+2 4 12 6481. 6946. 288. o
+4 4 12 21846. 21986. 709. o
+2 6 12 204462. 198043. 1397. o
+4 6 12 131. 480. 171. <
+6 6 12 77243. 80041. 2091. o
+0 8 12 200131. 190731. 2231. o
+2 8 12 2637. 2322. 258. o
+4 8 12 11914. 12542. 632. o
+1 1 13 15556. 16389. 445. o
+1 3 13 141225. 142931. 1191. o
+3 3 13 140217. 141167. 2130. o
+1 5 13 30488. 32072. 578. o
+3 5 13 3996. 4367. 338. o
+1 7 13 108. 734. 299. <
+0 2 14 43535. 43938. 893. o
+2 2 14 67487. 68213. 1355. o
+2 4 14 23799. 25783. 1093. o
+4 4 14 21347. 19991. 1721. o
+0 6 14 24581. 22885. 1776. o
+1 1 15 10757. 10590. 731. o
+1 3 15 41699. 40525. 2311. o

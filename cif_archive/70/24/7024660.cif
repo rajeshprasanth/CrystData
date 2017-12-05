@@ -1,0 +1,416 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-25 16:05:40 +0200 (Fri, 25 Mar 2016) $
+#$Revision: 179951 $
+#$URL: svn://www.crystallography.net/cod/cif/7/02/46/7024660.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7024660
+loop_
+_publ_author_name
+'Aydemir, U.'
+'Candolfi, C.'
+'Borrmann, H.'
+'Baitinger, M.'
+'Ormeci, A.'
+'Carrillo-Cabrera, W'
+'Chubilleau, C.'
+'Lenoir, B.'
+'Dauscher, A.'
+'Oeschler, N.'
+'Steglich, F.'
+'Grin, Yu'
+_publ_section_title
+;
+ Crystal structure and transport properties of Ba8Ge43square3.
+;
+_journal_issue                   4
+_journal_name_full
+'Dalton transactions (Cambridge, England : 2003)'
+_journal_page_first              1078
+_journal_page_last               1088
+_journal_paper_doi               10.1039/b919726e
+_journal_volume                  39
+_journal_year                    2010
+_chemical_compound_source        'Synthesized from the elements at 790 C'
+_chemical_formula_analytical     'Ba8.0(1) Ge43.0(1)'
+_chemical_formula_sum            'Ba8 Ge43'
+_chemical_formula_weight         4220.85
+_chemical_melting_point          810
+_chemical_name_common            Ba8Ge43
+_space_group_IT_number           230
+_symmetry_cell_setting           cubic
+_symmetry_Int_Tables_number      230
+_symmetry_space_group_name_Hall  '-I 4bd 2c 3'
+_symmetry_space_group_name_H-M   'I a -3 d'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   21.3069(3)
+_cell_length_b                   21.3069(3)
+_cell_length_c                   21.3069(3)
+_cell_measurement_radiation      CuK\a1
+_cell_measurement_reflns_used    112
+_cell_measurement_temperature    295(2)
+_cell_measurement_theta_max      50
+_cell_measurement_theta_min      1.5
+_cell_measurement_wavelength     1.540598
+_cell_volume                     9673.0(2)
+_computing_cell_refinement       WinCSD
+_computing_data_collection       'CrystalClear (Rigaku Inc. 2005)'
+_computing_data_reduction        'CrystalClear (Rigaku Inc. 2005)'
+_computing_publication_material
+;
+Akselrud, L.G., Zavalii, P.Y., Grin, Yu.N.,
+Pecharsky, V.K., Baumgartner, B., W\"olfel, E.
+(1993) Materials Science Forum, v.133-136, 335-340
+;
+_computing_structure_refinement  WinCSD
+_computing_structure_solution    WinCSD
+_diffrn_ambient_temperature      295(2)
+_diffrn_detector_area_resol_mean 10.000
+_diffrn_measured_fraction_theta_full 0.999
+_diffrn_measured_fraction_theta_max 0.999
+_diffrn_measurement_device_type  'RIGAKU Spider'
+_diffrn_measurement_method       omega-scans
+_diffrn_radiation_monochromator  'multilayer optics'
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           AgK\a
+_diffrn_radiation_wavelength     0.56087
+_diffrn_reflns_av_R_equivalents  0.0485
+_diffrn_reflns_av_sigmaI/netI    0.0032
+_diffrn_reflns_limit_h_max       41
+_diffrn_reflns_limit_h_min       -24
+_diffrn_reflns_limit_k_max       42
+_diffrn_reflns_limit_k_min       -27
+_diffrn_reflns_limit_l_max       41
+_diffrn_reflns_limit_l_min       -32
+_diffrn_reflns_number            50827
+_diffrn_reflns_theta_full        34.20
+_diffrn_reflns_theta_max         34.2
+_diffrn_reflns_theta_min         2.8
+_diffrn_source                   'micro-focus rotating anode'
+_exptl_absorpt_coefficient_mu    17.144
+_exptl_absorpt_correction_T_max  1.0000
+_exptl_absorpt_correction_T_min  0.2778
+_exptl_absorpt_correction_type   multi-scan
+_exptl_crystal_colour            metallic-grey
+_exptl_crystal_density_diffrn    5.7946
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             14592
+_exptl_crystal_size_max          0.120
+_exptl_crystal_size_mid          0.080
+_exptl_crystal_size_min          0.020
+_refine_ls_extinction_coef       0.000161(3)
+_refine_ls_extinction_method
+;
+Gaussian isotropic
+P.J. Becker, P. Coppens, Acta Crystallogr. A 30 (1974) 129-153
+;
+_refine_ls_goodness_of_fit_ref   1.01
+_refine_ls_matrix_type           fullcycle
+_refine_ls_number_parameters     50
+_refine_ls_number_reflns         3407
+_refine_ls_R_factor_gt           0.0669
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_scheme      unit
+_refine_ls_wR_factor_gt          0.0669
+_reflns_number_gt                2505
+_reflns_number_total             3407
+_reflns_threshold_expression     'F~o~ > 4\s(F~o~)'
+_cod_data_source_file            b919726e.txt
+_cod_data_source_block           1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_exptl_absorpt_correction_type' value 'Multi-scan' changed to
+'multi-scan' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 from 2011-04-26.
+
+Automatic conversion script
+Id: cif_fix_values 1891 2012-01-12 08:04:46Z andrius 
+;
+_cod_original_cell_volume        9673.0(4)
+_cod_database_code               7024660
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'x, -y, -z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, y, -z'
+'-y+1/4, x+3/4, z+1/4'
+'y+1/4, x+3/4, -z+3/4'
+'y+1/4, -x+1/4, z+3/4'
+'-y+1/4, -x+1/4, -z+1/4'
+'y, z, x'
+'-y+1/2, -z, x+1/2'
+'y, -z, -x+1/2'
+'-y+1/2, z, -x'
+'-z+1/4, y+3/4, x+1/4'
+'-z+1/4, -y+1/4, -x+1/4'
+'z+1/4, -y+1/4, x+3/4'
+'z+1/4, y+3/4, -x+3/4'
+'z, x, y'
+'-z, x+1/2, -y+1/2'
+'-z, -x+1/2, y'
+'z, -x, -y+1/2'
+'-x+1/4, -z+1/4, -y+1/4'
+'-x+1/4, z+3/4, y+1/4'
+'x+3/4, -z+3/4, y+1/4'
+'x+1/4, z+3/4, -y+3/4'
+'x+1/2, y+1/2, z+1/2'
+'x+1/2, -y+1/2, -z+1'
+'-x+1, -y+1/2, z+1'
+'-x+1, y+1/2, -z+1/2'
+'-y+3/4, x+5/4, z+3/4'
+'y+3/4, x+5/4, -z+5/4'
+'y+3/4, -x+3/4, z+5/4'
+'-y+3/4, -x+3/4, -z+3/4'
+'y+1/2, z+1/2, x+1/2'
+'-y+1, -z+1/2, x+1'
+'y+1/2, -z+1/2, -x+1'
+'-y+1, z+1/2, -x+1/2'
+'-z+3/4, y+5/4, x+3/4'
+'-z+3/4, -y+3/4, -x+3/4'
+'z+3/4, -y+3/4, x+5/4'
+'z+3/4, y+5/4, -x+5/4'
+'z+1/2, x+1/2, y+1/2'
+'-z+1/2, x+1, -y+1'
+'-z+1/2, -x+1, y+1/2'
+'z+1/2, -x+1/2, -y+1'
+'-x+3/4, -z+3/4, -y+3/4'
+'-x+3/4, z+5/4, y+3/4'
+'x+5/4, -z+5/4, y+3/4'
+'x+3/4, z+5/4, -y+5/4'
+'-x, -y, -z'
+'-x, y, z-1/2'
+'x-1/2, y, -z-1/2'
+'x-1/2, -y, z'
+'y-1/4, -x-3/4, -z-1/4'
+'-y-1/4, -x-3/4, z-3/4'
+'-y-1/4, x-1/4, -z-3/4'
+'y-1/4, x-1/4, z-1/4'
+'-y, -z, -x'
+'y-1/2, z, -x-1/2'
+'-y, z, x-1/2'
+'y-1/2, -z, x'
+'z-1/4, -y-3/4, -x-1/4'
+'z-1/4, y-1/4, x-1/4'
+'-z-1/4, y-1/4, -x-3/4'
+'-z-1/4, -y-3/4, x-3/4'
+'-z, -x, -y'
+'z, -x-1/2, y-1/2'
+'z, x-1/2, -y'
+'-z, x, y-1/2'
+'x-1/4, z-1/4, y-1/4'
+'x-1/4, -z-3/4, -y-1/4'
+'-x-3/4, z-3/4, -y-1/4'
+'-x-1/4, -z-3/4, y-3/4'
+'-x+1/2, -y+1/2, -z+1/2'
+'-x+1/2, y+1/2, z'
+'x, y+1/2, -z'
+'x, -y+1/2, z+1/2'
+'y+1/4, -x-1/4, -z+1/4'
+'-y+1/4, -x-1/4, z-1/4'
+'-y+1/4, x+1/4, -z-1/4'
+'y+1/4, x+1/4, z+1/4'
+'-y+1/2, -z+1/2, -x+1/2'
+'y, z+1/2, -x'
+'-y+1/2, z+1/2, x'
+'y, -z+1/2, x+1/2'
+'z+1/4, -y-1/4, -x+1/4'
+'z+1/4, y+1/4, x+1/4'
+'-z+1/4, y+1/4, -x-1/4'
+'-z+1/4, -y-1/4, x-1/4'
+'-z+1/2, -x+1/2, -y+1/2'
+'z+1/2, -x, y'
+'z+1/2, x, -y+1/2'
+'-z+1/2, x+1/2, y'
+'x+1/4, z+1/4, y+1/4'
+'x+1/4, -z-1/4, -y+1/4'
+'-x-1/4, z-1/4, -y+1/4'
+'-x+1/4, -z-1/4, y-1/4'
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 0.01207(1) 0.01207(1) 0.01207(1) 0.00034(1) 0.00034(1) 0.00034(1)
+Ba2 0.0210(3) 0.0358(2) 0.0358(2) -0.0016(2) -0.0016(2) -0.0030(3)
+Ge11 0.0141(5) 0.0132(3) 0.0132(3) 0 0 0
+Ge21 0.0134(2) 0.0134(2) 0.0134(2) -0.0018(2) -0.0018(2) -0.0018(2)
+Ge22 0.0133(2) 0.0134(3) 0.0135(3) 0.0023(2) -0.0014(2) 0.0018(2)
+Ge311 0.0120(3) 0.0133(3) 0.0137(3) -0.0000(3) 0.0006(3) 0.0004(2)
+Ge321 0.0156(3) 0.0171(4) 0.0184(4) -0.0003(3) 0.0007(3) 0.0025(3)
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_thermal_displace_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_type_symbol
+_atom_site_occupancy
+Ba1 0 0 0 Uani 0.01207(6) 16 Ba 1
+Ba2 0.125 0.24773(3) 0.00227(3) Uani 0.03088(1) 48 Ba 1
+Ge11 0.375 0 0.25 Uani 0.0135(2) 24 Ge 0.91(1)
+Ge12 0.125 0 0.25 Uiso 0.012(2) 24 Ge 0.09(1)
+Ge21 0.09150(3) 0.09150(3) 0.09150(3) Uani 0.01339(1) 32 Ge 1
+Ge22 0.15562(3) 0.34021(3) 0.15895(3) Uani 0.01340(1) 96 Ge 1
+Ge311 0.09661(4) 0.24951(4) 0.30637(4) Uani 0.0130(2) 96 Ge 0.91(1)
+Ge312 0.0814(5) 0.2490(6) 0.3170(5) Uiso 0.017(2) 96 Ge 0.09(1)
+Ge321 0.00091(5) 0.16668(5) 0.06536(5) Uani 0.0170(2) 96 Ge 0.91(1)
+Ge322 0.0004(6) 0.1528(5) 0.0554(5) Uiso 0.016(2) 96 Ge 0.09(1)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_number_in_cell
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Ba Ba 64.00 -0.646 1.510 International_Tables_Vol_IV_Table_2.3.1
+Ge Ge 343.96 0.311 1.197 International_Tables_Vol_IV_Table_2.3.1
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+Ge312 Ge11 Ge312 109.7(4) 64_666 20
+Ge312 Ge11 Ge312 109.1(3) 20 17
+Ge312 Ge11 Ge311 109.1(3) 17 20
+Ge312 Ge11 Ge311 109.3(3) 63_656 20
+Ge312 Ge11 Ge311 109.9(3) 17 64_666
+Ge311 Ge11 Ge311 109.60(3) 20 64_666
+Ge311 Ge11 Ge311 109.22(3) 64_666 63_656
+Ge321 Ge12 Ge321 108.81(4) 14 13_545
+Ge321 Ge12 Ge321 108.92(4) 14 17
+Ge321 Ge12 Ge321 110.68(4) 13_545 17
+Ge321 Ge12 Ge322 109.2(3) 17 14
+Ge321 Ge12 Ge322 110.4(3) 20 14
+Ge322 Ge12 Ge322 109.5(4) 14 17
+Ge322 Ge12 Ge322 110.1(4) 13_545 17
+Ge322 Ge21 Ge322 109.7(4) 17 9
+Ge322 Ge21 Ge21 109.2(3) 17 8
+Ge322 Ge21 Ge321 111.8(3) 17 .
+Ge322 Ge21 Ge321 115.0(3) 9 .
+Ge21 Ge21 Ge321 101.47(4) 8 .
+Ge321 Ge21 Ge321 116.14(4) . 9
+Ge322 Ge22 Ge22 110.3(3) 8 30_444
+Ge322 Ge22 Ge311 110.5(3) 8 89
+Ge22 Ge22 Ge311 109.80(3) 30_444 89
+Ge322 Ge22 Ge311 110.3(3) 8 9
+Ge22 Ge22 Ge311 107.77(3) 30_444 9
+Ge311 Ge22 Ge311 108.01(4) 89 9
+Ge22 Ge22 Ge321 102.57(4) 30_444 8
+Ge311 Ge22 Ge321 116.07(4) 89 8
+Ge311 Ge22 Ge321 112.24(4) 9 8
+Ge322 Ge22 Ge312 115.8(4) 8 9
+Ge22 Ge22 Ge312 99.6(2) 30_444 9
+Ge311 Ge22 Ge312 110.2(2) 89 9
+Ge321 Ge22 Ge312 116.8(2) 8 9
+Ge322 Ge22 Ge312 112.6(4) 8 89
+Ge22 Ge22 Ge312 101.8(2) 30_444 89
+Ge311 Ge22 Ge312 113.5(2) 9 89
+Ge321 Ge22 Ge312 117.2(2) 8 89
+Ge312 Ge22 Ge312 114.7(3) 9 89
+Ge322 Ge311 Ge22 108.7(3) 8 81
+Ge322 Ge311 Ge22 106.6(3) 8 17
+Ge22 Ge311 Ge22 104.10(4) 81 17
+Ge322 Ge311 Ge11 125.7(3) 8 9
+Ge22 Ge311 Ge11 104.34(3) 81 9
+Ge22 Ge311 Ge11 105.58(3) 17 9
+Ge22 Ge311 Ge321 112.49(4) 81 8
+Ge22 Ge311 Ge321 109.92(4) 17 8
+Ge11 Ge311 Ge321 119.16(4) 9 8
+Ge11 Ge312 Ge322 132.8(6) 9 8
+Ge11 Ge312 Ge22 114.2(5) 9 17
+Ge322 Ge312 Ge22 96.3(4) 8 17
+Ge11 Ge312 Ge22 112.3(5) 9 81
+Ge322 Ge312 Ge22 97.7(4) 8 81
+Ge22 Ge312 Ge22 97.1(4) 17 81
+Ge12 Ge321 Ge22 111.17(5) 9 8
+Ge12 Ge321 Ge21 112.80(5) 9 .
+Ge22 Ge321 Ge21 98.60(4) 8 .
+Ge12 Ge321 Ge311 131.82(5) 9 8
+Ge22 Ge321 Ge311 98.39(4) 8 8
+Ge21 Ge321 Ge311 98.60(4) . 8
+Ge311 Ge322 Ge22 108.5(4) 8 8
+Ge311 Ge322 Ge21 108.3(4) 8 .
+Ge22 Ge322 Ge21 105.0(4) 8 .
+Ge311 Ge322 Ge12 125.3(5) 8 9
+Ge22 Ge322 Ge12 103.5(4) 8 9
+Ge21 Ge322 Ge12 104.6(4) . 9
+Ge22 Ge322 Ge312 112.4(5) 8 8
+Ge21 Ge322 Ge312 112.0(5) . 8
+Ge12 Ge322 Ge312 118.2(5) 9 8
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba1 Ge21 3.3768(6) 49
+Ba1 Ge22 3.3914(6) 69
+Ba1 Ge322 3.46(1) 65
+Ba2 Ge321 3.432(1) 21
+Ba2 Ge312 3.46(1) 9
+Ba2 Ge321 3.511(1) 47_444
+Ba2 Ge322 3.52(1) 21
+Ba2 Ge312 3.54(1) 12
+Ba2 Ge311 3.555(1) 9
+Ge11 Ge312 2.13(1) 64_666
+Ge11 Ge311 2.5250(9) 20
+Ge11 Ba2 3.8012(5) 54_666
+Ge12 Ge321 2.183(1) 14
+Ge12 Ge322 2.55(1) 14
+Ge12 Ba2 3.7328(4) 11
+Ge21 Ge322 2.46(1) 17
+Ge21 Ge21 2.4726(9) 8
+Ge21 Ge321 2.569(1) .
+Ge22 Ge322 2.42(1) 8
+Ge22 Ge22 2.4449(9) 30_444
+Ge22 Ge311 2.504(1) 89
+Ge22 Ge321 2.538(1) 8
+Ge22 Ge312 2.63(1) 9
+Ge22 Ge312 2.64(1) 89
+Ge22 Ba1 3.3914(6) 8
+Ge311 Ge322 2.38(1) 8
+Ge311 Ge22 2.504(1) 81
+Ge311 Ge22 2.507(1) 17
+Ge311 Ge11 2.5250(9) 9
+Ge311 Ge321 2.609(1) 8
+Ge311 Ba1 3.4820(9) 8
+Ge311 Ba2 3.555(1) 8
+Ge311 Ba2 3.626(1) 30_444
+Ge312 Ge11 2.13(1) 9
+Ge312 Ge322 2.63(2) 8
+Ge312 Ge22 2.63(1) 17
+Ge312 Ge22 2.64(1) 81
+Ge312 Ge321 2.82(1) 8
+Ge312 Ba2 3.46(1) 8
+Ge312 Ba2 3.54(1) 30_444
+Ge312 Ba1 3.87(1) 8
+Ge321 Ge12 2.183(1) 9
+Ge321 Ge22 2.538(1) 8
+Ge321 Ge311 2.609(1) 8
+Ge321 Ge312 2.82(1) 8
+Ge321 Ba2 3.511(1) 27_454
+Ge322 Ge311 2.38(1) 8
+Ge322 Ge22 2.42(1) 8
+Ge322 Ge12 2.55(1) 9
+Ge322 Ge312 2.63(1) 8
+Ge322 Ba2 3.59(1) 27_454

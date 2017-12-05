@@ -1,0 +1,85 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-09-28 16:08:07 +0300 (Mon, 28 Sep 2015) $
+#$Revision: 158633 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/26/1532678.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1532678
+loop_
+_publ_author_name
+'Bostroem, M.'
+'Lidin, S.'
+_publ_section_title
+;
+ The incommensurably modulated strucutre of zeta-(Zn3-x Sb2)
+;
+_journal_name_full               'Journal of Alloys Compd.'
+_journal_page_first              49
+_journal_page_last               57
+_journal_volume                  376
+_journal_year                    2004
+_chemical_formula_sum            'Sb2 Zn3'
+_chemical_name_systematic        'Zn3 Sb2'
+_space_group_IT_number           52
+_symmetry_space_group_name_Hall  '-P 2a 2bc'
+_symmetry_space_group_name_H-M   'P n n a'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            24
+_cell_length_a                   7.283
+_cell_length_b                   15.398
+_cell_length_c                   25.06
+_cell_volume                     2810.319
+_citation_journal_id_ASTM        JALCEU
+_cod_data_source_file            Bostroem_JALCEU_2004_1532.cif
+_cod_data_source_block           Sb2Zn3
+_cod_database_code               1532678
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y,z
+x,-y+1/2,-z+1/2
+-x+1/2,y+1/2,-z+1/2
+-x,-y,-z
+x-1/2,y,-z
+-x,y-1/2,z-1/2
+x-1/2,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn17 Zn+2 0.583 0.8217 0.4409 0.5 0.0
+Zn7 Zn+2 0.404 0.9889 0.6619 0.5 0.0
+Zn11 Zn+2 0.535 0.274 0.8119 0.5 0.0
+Zn3 Zn+2 -0.05 0.5859 0.5984 0.5 0.0
+Sb4 Sb-3 0.2571 0.8466 0.6944 1 0.0
+Zn13 Zn+2 0.345 0.4682 0.5535 0.5 0.0
+Zn5 Zn+2 -0.076 0.796 0.647 0.5 0.0
+Zn1 Zn+2 0.1157 0.6714 0.7095 0.5 0.0
+Sb5 Sb-3 0.259 0.5498 0.642 1 0.0
+Zn6 Zn+2 0.1184 0.9968 0.6526 0.5 0.0
+Zn16 Zn+2 0.619 0.8427 0.3982 0.5 0.0
+Sb2 Sb-3 0.2552 0.521 0.45465 1 0.0
+Zn9 Zn+2 0.617 0.4011 0.8087 0.5 0.0
+Zn4 Zn+2 0.781 0.7697 0.6163 0.5 0.0
+Zn14 Zn+2 0.442 0.3926 0.5149 0.5 0.0
+Zn18 Zn+2 0.08 0.8947 0.6053 0.5 0.0
+Zn2 Zn+2 0.074 0.5794 0.5478 0.5 0.0
+Sb3 Sb-3 0.2551 0.8206 0.40086 1 0.0
+Sb1 Sb-3 0.2325 0.369 0.79056 1 0.0
+Sb6 Sb-3 0.0081 0.747 0.5427 1 0.0
+Zn10 Zn+2 0.408 0.2263 0.8074 0.5 0.0
+Zn8 Zn+2 0.863 0.4026 0.8077 0.5 0.0
+Zn12 Zn+2 -0.066 0.8203 0.4507 0.5 0.0
+Zn15 Zn+2 0.075 0.398 0.5128 0.5 0.0

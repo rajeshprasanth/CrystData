@@ -1,0 +1,107 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/26/1522600.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1522600
+loop_
+_publ_author_name
+'Nover, G.'
+'Schubert, K.'
+_publ_section_title
+;
+ The crystal structure of Ni Zn3.r
+;
+_journal_name_full               'Journal of the Less-Common Metals'
+_journal_page_first              51
+_journal_page_last               63
+_journal_volume                  75
+_journal_year                    1980
+_chemical_formula_sum            'Ni Zn3'
+_chemical_name_systematic        'Ni Zn3'
+_space_group_IT_number           39
+_symmetry_space_group_name_Hall  'A 2 -2b'
+_symmetry_space_group_name_H-M   'A b m 2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            69
+_cell_length_a                   33.326
+_cell_length_b                   12.499
+_cell_length_c                   8.869
+_cell_volume                     3694.308
+_citation_journal_id_ASTM        JCOMAH
+_cod_data_source_file            Nover_JCOMAH_1980_1583.cif
+_cod_data_source_block           Ni1Zn3
+_cod_original_formula_sum        'Ni1 Zn3'
+_cod_database_code               1522600
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-x,y+1/2,z
+x,-y+1/2,z
+x,y+1/2,z+1/2
+-x,-y+1/2,z+1/2
+-x,y+1,z+1/2
+x,-y+1,z+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn13 Zn 0.442 0.25 0.405 1 0.0
+Ni1 Ni 0.0307 0.25 0.65 1 0.0
+Zn30 Zn 0.4703 0.1288 0.61 1 0.0
+Zn2 Zn 0.173 0.25 0.924 1 0.0
+Ni7 Ni 0.4065 0.25 0.661 1 0.0
+Zn4 Zn 0.249 0.25 0.892 1 0.0
+Zn31 Zn 0.2828 0.1339 0.096 1 0.0
+Zn27 Zn 0.3524 0.0716 0.989 1 0.0
+Zn21 Zn 0.2175 0.1328 0.688 1 0.0
+Ni2 Ni 0.0937 0.25 0.128 1 0.0
+Ni5 Ni 0.2812 0.25 0.628 1 0.0
+Zn5 Zn 0.0198 0.25 0.932 1 0.0
+Zn14 Zn 0.0263 0.0718 0.482 1 0.0
+Zn17 Zn 0.0944 0.1383 0.59 1 0.0
+Zn11 Zn 0.365 0.25 0.415 1 0.0
+Ni6 Ni 0.3448 0.25 0.139 1 0.0
+Zn16 Zn 0.0914 0.0627 0.016 1 0.0
+Zn10 Zn 0.3278 0.25 0.858 1 0.0
+Zn9 Zn 0.2867 0.25 0.343 1 0.0
+Zn28 Zn 0.4059 0.1378 0.194 1 0.0
+Zn22 Zn 0.029 0.3731 0.171 1 0.0
+Ni11 Ni 0.2846 0.0752 0.806 1 0.0
+Zn8 Zn 0.4786 0.25 0.849 1 0.0
+Zn23 Zn 0.1578 0.3758 0.151 1 0.0
+Zn19 Zn 0.4738 0.0738 0.302 1 0.0
+Zn1 Zn 0.0957 0.25 0.843 1 0.0
+Zn20 Zn 0.1635 0.0716 0.485 1 0.0
+Zn33 Zn 0.4094 0.062 0.764 1 0.0
+Zn3 Zn 0.2132 0.25 0.44 1 0.0
+Zn18 Zn 0.1465 0.0723 0.791 1 0.0
+Ni3 Ni 0.1572 0.25 0.645 1 0.0
+Zn15 Zn 0.0416 0.0689 0.781 1 0.0
+Ni12 Ni 0.4053 0.073 0.476 1 0.0
+Zn32 Zn 0.3435 0.125 0.631 1 0.0
+Zn12 Zn 0.4047 0.25 0.942 1 0.0
+Zn26 Zn 0.3365 0.0734 0.298 1 0.0
+Zn6 Zn 0.0569 0.25 0.379 1 0.0
+Ni10 Ni 0.216 0.0724 0.978 1 0.0
+Ni9 Ni 0.095 0.0762 0.308 1 0.0
+Zn7 Zn 0.1351 0.25 0.368 1 0.0
+Ni4 Ni 0.219 0.25 0.156 1 0.0
+Zn24 Zn 0.227 0.0645 0.271 1 0.0
+Zn29 Zn 0.4603 0.069 0.998 1 0.0
+Zn25 Zn 0.2748 0.065 0.509 1 0.0
+Ni8 Ni 0.4683 0.25 0.132 1 0.0

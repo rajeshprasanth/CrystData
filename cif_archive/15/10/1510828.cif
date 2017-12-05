@@ -1,0 +1,107 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/08/1510828.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1510828
+loop_
+_publ_author_name
+'Sasaki, T.'
+'Uheda, K.'
+'Endo, T.'
+'Yamashita, T.'
+'Takizawa, H.'
+_publ_section_title
+;
+ High-pressure synthesis and crystal structure of B2 S3
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              164
+_journal_page_last               170
+_journal_paper_doi               10.1006/jssc.2002.9575
+_journal_volume                  166
+_journal_year                    2002
+_chemical_formula_sum            'B2 S3'
+_chemical_name_systematic        'B2 S3'
+_space_group_IT_number           88
+_symmetry_space_group_name_Hall  '-I 4ad'
+_symmetry_space_group_name_H-M   'I 41/a :2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            100
+_cell_length_a                   16.086
+_cell_length_b                   16.086
+_cell_length_c                   30.488
+_cell_volume                     7889.056
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            boron_337.cif
+_cod_data_source_block           B2S3
+_cod_original_cell_volume        7889.057
+_cod_database_code               1510828
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y+3/4,x+1/4,z+1/4
+-x+1/2,-y,z+1/2
+y+3/4,-x+3/4,z+3/4
+-x,-y,-z
+y-3/4,-x-1/4,-z-1/4
+x-1/2,y,-z-1/2
+-y-3/4,x-3/4,-z-3/4
+x+1/2,y+1/2,z+1/2
+-y+5/4,x+3/4,z+3/4
+-x+1,-y+1/2,z+1
+y+5/4,-x+5/4,z+5/4
+-x+1/2,-y+1/2,-z+1/2
+y-1/4,-x+1/4,-z+1/4
+x,y+1/2,-z
+-y-1/4,x-1/4,-z-1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B6 B+3 0.6549 -0.3511 -0.5189 1 0.0
+B2 B+3 0.5667 -0.1879 -0.2327 1 0.0
+S7 S-2 0.64787 -0.11918 -0.12314 1 0.0
+S3 S-2 0.55721 -0.16621 -0.48397 1 0.0
+S4 S-2 0.5 0.25 -0.26995 1 0.0
+S9 S-2 0.51757 -0.02528 -0.12313 1 0.0
+B11 B+3 0.7429 -0.067 -0.3038 1 0.0
+B13 B+3 0.6345 -0.2229 -0.4463 1 0.0
+B12 B+3 0.6331 -0.2238 -0.3026 1 0.0
+B4 B+3 0.7706 -0.1965 -0.374 1 0.0
+B10 B+3 0.5 -0.25 -0.5198 1 0.0
+S18 S-2 0.42356 -0.19725 -0.55599 1 0.0
+S12 S-2 0.49983 -0.10028 -0.34059 1 0.0
+S11 S-2 0.63781 -0.26194 -0.19904 1 0.0
+S5 S-2 0.73475 -0.40841 -0.55616 1 0.0
+S20 S-2 0.55278 -0.17081 -0.33984 1 0.0
+B1 B+3 0.5771 0.0439 -0.3027 1 0.0
+B5 B+3 0.4349 0.178 -0.1608 1 0.0
+S16 S-2 0.50362 -0.11037 -0.19727 1 0.0
+S6 S-2 0.69045 -0.14803 -0.26493 1 0.0
+S14 S-2 0.5 0.25 -0.125 1 0.0
+S17 S-2 0.71602 -0.27088 -0.48394 1 0.0
+S1 S-2 0.64079 -0.12536 -0.27088 1 0.0
+S8 S-2 0.69059 -0.13914 -0.41205 1 0.0
+B7 B+3 0.577 0.0483 -0.1587 1 0.0
+B9 B+3 0.608 -0.0887 -0.3747 1 0.0
+S19 S-2 0.79804 0.00902 -0.26714 1 0.0
+S15 S-2 0.71682 -0.28057 -0.33696 1 0.0
+B3 B+3 0.7175 0.0634 -0.2325 1 0.0
+S10 S-2 0.82474 -0.11945 -0.33833 1 0.0
+B8 B+3 0.7082 0.196 -0.1614 1 0.0
+S13 S-2 0.78122 -0.13653 -0.19762 1 0.0
+S2 S-2 0.66481 -0.00552 -0.34126 1 0.0

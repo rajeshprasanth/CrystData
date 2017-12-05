@@ -1,0 +1,101 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-10 04:52:44 +0300 (Fri, 10 Jul 2015) $
+#$Revision: 141533 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/61/2106103.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2106103
+loop_
+_publ_author_name
+'Ling, R.G.'
+'Belin, C.'
+_publ_section_title
+;
+ Structure of the intermetallic compound Na22 Ga39 (36.07% Na)
+;
+_journal_name_full               'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first              1101
+_journal_page_last               1104
+_journal_volume                  38
+_journal_year                    1982
+_chemical_formula_sum            'Ga39 Na22'
+_chemical_name_systematic        'Ga39 Na22'
+_space_group_IT_number           62
+_symmetry_space_group_name_Hall  '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   15.585
+_cell_length_b                   14.984
+_cell_length_c                   21.632
+_cell_volume                     5051.627
+_citation_journal_id_ASTM        ACBCAR
+_cod_data_source_file            Ling_ACBCAR_1982_232.cif
+_cod_data_source_block           Ga39Na22
+_cod_database_code               2106103
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y,z+1/2
+x+1/2,-y+1/2,-z+1/2
+-x,y+1/2,-z
+-x,-y,-z
+x-1/2,y,-z-1/2
+-x-1/2,y-1/2,z-1/2
+x,-y-1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ga9 Ga 0.7079 0.3444 0.0859 1 0.0
+Na2 Na 0.4182 0.4237 0.1583 1 0.0
+Na5 Na 0.5147 0.6265 0.1301 1 0.0
+Na11 Na 0.7988 0.75 0.7227 1 0.0
+Ga12 Ga 0.1446 0.4264 0.0288 1 0.0
+Na1 Na 0.3306 0.4338 0.3055 1 0.0
+Ga21 Ga 0.6236 0.75 0.0345 1 0.0
+Na12 Na 0.1948 0.75 0.0285 1 0.0
+Ga17 Ga 0.4241 0.75 0.2378 1 0.0
+Na15 Na 0.9254 0.75 0.4914 1 0.0
+Ga8 Ga 0.8391 0.66 0.1754 1 0.0
+Ga11 Ga 0.7101 0.65 -0.0573 1 0.0
+Ga15 Ga 0.0293 0.3846 0.2276 1 0.0
+Na14 Na 0.6064 0.75 0.6199 1 0.0
+Ga13 Ga 0.5694 0.4443 0.0621 1 0.0
+Na3 Na 0.7187 0.5613 0.0786 1 0.0
+Na8 Na 0.4774 0.75 0.8736 1 0.0
+Ga16 Ga 0.9976 0.3357 0.0042 1 0.0
+Na13 Na 0.879 0.75 0.8863 1 0.0
+Ga23 Ga 0.6933 0.75 -0.1522 1 0.0
+Na7 Na 0.2017 0.4398 0.1769 1 0.0
+Na4 Na 0.3112 0.5636 0.0563 1 0.0
+Ga7 Ga 0.0961 0.5777 0.0809 1 0.0
+Ga20 Ga 0.5955 0.75 0.2445 1 0.0
+Na10 Na 0.328 0.75 0.4592 1 0.0
+Ga6 Ga 0.0116 0.4245 0.1124 1 0.0
+Ga4 Ga 0.5694 0.5929 -0.0073 1 0.0
+Ga5 Ga 0.8366 0.5959 0.2934 1 0.0
+Ga1 Ga 0.8563 0.4311 0.0438 1 0.0
+Ga3 Ga 0.1896 0.5955 0.2817 1 0.0
+Ga18 Ga 0.6915 0.75 0.1452 1 0.0
+Ga19 Ga 0.3332 0.75 0.1333 1 0.0
+Na6 Na 0.0107 0.5593 0.2225 1 0.0
+Ga10 Ga 0.9225 0.574 0.0881 1 0.0
+Ga14 Ga 0.1202 0.44 0.3178 1 0.0
+Ga22 Ga 0.1006 0.75 0.7429 1 0.0
+Na9 Na 0.0103 0.75 0.1283 1 0.0
+Ga2 Ga 0.1846 0.661 0.166 1 0.0

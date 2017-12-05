@@ -1,0 +1,667 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-22 23:39:18 +0200 (Tue, 22 Mar 2016) $
+#$Revision: 179071 $
+#$URL: svn://www.crystallography.net/cod/cif/4/30/33/4303368.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4303368
+loop_
+_publ_author_name
+'Olivier Gourdon'
+'Zunbeltz Izaola'
+'Luis Elcoro'
+'Vaclav Petricek'
+'Gordon J. Miller'
+_publ_section_title
+;
+Structure Determination of Two Modulated \g-Brass Structures in the Zn-Pd
+System through a (3 + 1)-Dimensional Space Description
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              9715
+_journal_page_last               9722
+_journal_paper_doi               10.1021/ic900830y
+_journal_volume                  48
+_journal_year                    2009
+_chemical_formula_sum            'Pd0.56 Zn2.079'
+_chemical_formula_weight         195.5
+_chemical_name_systematic        ' ?'
+_space_group_ssg_name            Xmmm(00\g)0s0
+_symmetry_cell_setting           orthorhombic
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   12.909
+_cell_length_b                   9.1115
+_cell_length_c                   2.6052
+_cell_modulation_dimension       1
+_cell_subsystems_number          2
+_cell_volume                     306.425
+_computing_publication_material
+'Jana2006 (Petricek, Dusek & Palatinus, 2006)'
+_computing_structure_refinement
+'Jana2006 (Petricek, Dusek & Palatinus, 2006)'
+_diffrn_ambient_temperature      293
+_diffrn_radiation_source         'X-ray tube'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71069
+_exptl_absorpt_coefficient_mu    38.181
+_exptl_absorpt_correction_T_max  1.000
+_exptl_absorpt_correction_T_min  1.000
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn    8.4731
+_exptl_crystal_F_000             352
+_refine_ls_extinction_coef       2606.27
+_refine_ls_extinction_method
+'B-C type 1 Lorentzian isotropic (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_gt    1.72
+_refine_ls_goodness_of_fit_ref   1.25
+_refine_ls_number_parameters     175
+_refine_ls_number_reflns         2931
+_refine_ls_R_factor_all          0.1116
+_refine_ls_R_factor_gt           0.0316
+_refine_ls_shift/su_max          0.6012
+_refine_ls_shift/su_mean         0.1212
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     w=1/\s^2^(F)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0365
+_refine_ls_wR_factor_ref         0.0454
+_reflns_number_gt                1115
+_reflns_number_total             2931
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ic900830y_si_001.cif
+_cod_data_source_block           (I)
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_absorpt_correction_type' value 'None' changed to 'none' according
+to '/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_original_cell_volume        306.4246
+_cod_database_code               4303368
+loop_
+_space_group_symop_ssg_id
+_space_group_symop_ssg_operation_algebraic
+1 x1,x2,x3,x4
+2 -x1,x2,x3,x4
+3 x1,-x2,x3,x4+1/2
+4 -x1,-x2,x3,x4+1/2
+5 -x1,-x2,-x3,-x4
+6 x1,-x2,-x3,-x4
+7 -x1,x2,-x3,-x4+1/2
+8 x1,x2,-x3,-x4+1/2
+9 x1+1/2,x2+1/2,x3,x4
+10 -x1+1/2,x2+1/2,x3,x4
+11 x1+1/2,-x2+1/2,x3,x4+1/2
+12 -x1+1/2,-x2+1/2,x3,x4+1/2
+13 -x1+1/2,-x2+1/2,-x3,-x4
+14 x1+1/2,-x2+1/2,-x3,-x4
+15 -x1+1/2,x2+1/2,-x3,-x4+1/2
+16 x1+1/2,x2+1/2,-x3,-x4+1/2
+17 x1+1/2,x2,x3+1/2,x4+1/2
+18 -x1+1/2,x2,x3+1/2,x4+1/2
+19 x1+1/2,-x2,x3+1/2,x4
+20 -x1+1/2,-x2,x3+1/2,x4
+21 -x1+1/2,-x2,-x3+1/2,-x4+1/2
+22 x1+1/2,-x2,-x3+1/2,-x4+1/2
+23 -x1+1/2,x2,-x3+1/2,-x4
+24 x1+1/2,x2,-x3+1/2,-x4
+25 x1,x2+1/2,x3+1/2,x4+1/2
+26 -x1,x2+1/2,x3+1/2,x4+1/2
+27 x1,-x2+1/2,x3+1/2,x4
+28 -x1,-x2+1/2,x3+1/2,x4
+29 -x1,-x2+1/2,-x3+1/2,-x4+1/2
+30 x1,-x2+1/2,-x3+1/2,-x4+1/2
+31 -x1,x2+1/2,-x3+1/2,-x4
+32 x1,x2+1/2,-x3+1/2,-x4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Zn1 Zn 0 0 0 Uani 0.01416(15) 4 1 d . . .
+Pd1 Pd 0 0.25 0.25 Uani 0.00825(15) 4 0.8397 d . . .
+Pd1zn Zn 0 0.25 0.25 Uani 0.00825(15) 4 0.1603 d . . .
+Zn2 Zn 0.12408(4) 0.25 0.75 Uani 0.01530(16) 8 1 d . . .
+Zn3 Zn 0.17951(13) 0.5989(2) 0.75 Uani 0.01204(14) 16 0.752 d . . .
+Pd3 Pd 0.17951(13) 0.5989(2) 0.75 Uani 0.01204(14) 16 0.248 d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn 0.0153(3) 0.0112(3) 0.0159(2) 0 0 0
+Pd1 Pd 0.0081(3) 0.0080(3) 0.0086(2) 0 0 0
+Pd1zn Zn 0.0081(3) 0.0080(3) 0.0086(2) 0 0 0
+Zn2 Zn 0.0179(3) 0.0179(3) 0.0101(2) 0 0 0
+Zn3 Zn 0.0103(2) 0.0127(3) 0.0131(2) 0.00326(15) 0 0
+Pd3 Pd 0.0103(2) 0.0127(3) 0.0131(2) 0.00326(15) 0 0
+loop_
+_atom_site_displace_Fourier_atom_site_label
+_atom_site_displace_Fourier_axis
+_atom_site_displace_Fourier_wave_vector_seq_id
+_atom_site_displace_Fourier_param_cos
+_atom_site_displace_Fourier_param_sin
+Zn1 x 1 0 0
+Zn1 y 1 0 -0.05708(7)
+Zn1 z 1 0 0
+Zn1 x 2 0 0
+Zn1 y 2 0 0
+Zn1 z 2 0 0.0398(2)
+Zn1 x 3 0 0
+Zn1 y 3 0 -0.00154(6)
+Zn1 z 3 0 0
+Zn1 x 4 0 0
+Zn1 y 4 0 0
+Zn1 z 4 0 -0.0063(3)
+Zn1 x 5 0 0
+Zn1 y 5 0 0.00557(8)
+Zn1 z 5 0 0
+Zn1 x 6 0 0
+Zn1 y 6 0 0
+Zn1 z 6 0 0.0043(5)
+Zn1 x 7 0 0
+Zn1 y 7 0 -0.00078(14)
+Zn1 z 7 0 0
+Zn1 x 8 0 0
+Zn1 y 8 0 0
+Zn1 z 8 0 0.0038(6)
+Zn1 x 9 0 0
+Zn1 y 9 0 0.0005(2)
+Zn1 z 9 0 0
+Pd1 x 1 0 0
+Pd1 y 1 -0.02416(9) 0
+Pd1 z 1 0 0
+Pd1 x 2 0 0
+Pd1 y 2 0 0
+Pd1 z 2 0 -0.00451(12)
+Pd1 x 3 0 0
+Pd1 y 3 0.00508(6) 0
+Pd1 z 3 0 0
+Pd1 x 4 0 0
+Pd1 y 4 0 0
+Pd1 z 4 0 0.0048(2)
+Pd1 x 5 0 0
+Pd1 y 5 -0.0020(5) 0
+Pd1 z 5 0 0
+Pd1 x 6 0 0
+Pd1 y 6 0 0
+Pd1 z 6 0 0.0061(9)
+Pd1zn x 1 0 0
+Pd1zn y 1 -0.02416(9) 0
+Pd1zn z 1 0 0
+Pd1zn x 2 0 0
+Pd1zn y 2 0 0
+Pd1zn z 2 0 -0.00451(12)
+Pd1zn x 3 0 0
+Pd1zn y 3 0.00508(6) 0
+Pd1zn z 3 0 0
+Pd1zn x 4 0 0
+Pd1zn y 4 0 0
+Pd1zn z 4 0 0.0048(2)
+Pd1zn x 5 0 0
+Pd1zn y 5 -0.0020(5) 0
+Pd1zn z 5 0 0
+Pd1zn x 6 0 0
+Pd1zn y 6 0 0
+Pd1zn z 6 0 0.0061(9)
+Zn2 x 1 0 0
+Zn2 y 1 0.05049(7) 0
+Zn2 z 1 0 0
+Zn2 x 2 -0.00858(5) 0
+Zn2 y 2 0 0
+Zn2 z 2 0 -0.01332(12)
+Zn2 x 3 0 0
+Zn2 y 3 -0.00585(9) 0
+Zn2 z 3 0 0
+Zn2 x 4 -0.00205(8) 0
+Zn2 y 4 0 0
+Zn2 z 4 0 0.00338(19)
+Zn2 x 5 0 0
+Zn2 y 5 0.0006(3) 0
+Zn2 z 5 0 0
+Zn2 x 6 -0.0004(3) 0
+Zn2 y 6 0 0
+Zn2 z 6 0 -0.0006(5)
+Zn2 x 7 0 0
+Zn2 y 7 0.0007(3) 0
+Zn2 z 7 0 0
+Zn2 x 8 0.00082(15) 0
+Zn2 y 8 0 0
+Zn2 z 8 0 0.0021(4)
+Zn2 x 9 0 0
+Zn2 y 9 -0.0015(2) 0
+Zn2 z 9 0 0
+Zn2 x 10 -0.00090(13) 0
+Zn2 y 10 0 0
+Zn2 z 10 0 0.0014(4)
+Zn3 x 1 -0.0033(2) 0
+Zn3 y 1 -0.0187(4) 0
+Zn3 z 1 0 -0.0654(3)
+Zn3 x 2 0.00300(17) 0
+Zn3 y 2 0.0051(3) 0
+Zn3 z 2 0 0.0137(4)
+Zn3 x 3 -0.00163(7) 0
+Zn3 y 3 -0.00716(11) 0
+Zn3 z 3 0 -0.00687(20)
+Zn3 x 4 -0.00005(9) 0
+Zn3 y 4 0.00006(12) 0
+Zn3 z 4 0 -0.0033(2)
+Zn3 x 5 0.0000(3) 0
+Zn3 y 5 0.0002(4) 0
+Zn3 z 5 0 0.0000(6)
+Zn3 x 6 -0.0029(3) 0
+Zn3 y 6 -0.0013(4) 0
+Zn3 z 6 0 -0.0001(6)
+Zn3 x 7 -0.00038(16) 0
+Zn3 y 7 -0.0009(2) 0
+Zn3 z 7 0 0.0020(4)
+Pd3 x 1 -0.0033(2) 0
+Pd3 y 1 -0.0187(4) 0
+Pd3 z 1 0 -0.0654(3)
+Pd3 x 2 0.00300(17) 0
+Pd3 y 2 0.0051(3) 0
+Pd3 z 2 0 0.0137(4)
+Pd3 x 3 -0.00163(7) 0
+Pd3 y 3 -0.00716(11) 0
+Pd3 z 3 0 -0.00687(20)
+Pd3 x 4 -0.00005(9) 0
+Pd3 y 4 0.00006(12) 0
+Pd3 z 4 0 -0.0033(2)
+Pd3 x 5 0.0000(3) 0
+Pd3 y 5 0.0002(4) 0
+Pd3 z 5 0 0.0000(6)
+Pd3 x 6 -0.0029(3) 0
+Pd3 y 6 -0.0013(4) 0
+Pd3 z 6 0 -0.0001(6)
+Pd3 x 7 -0.00038(16) 0
+Pd3 y 7 -0.0009(2) 0
+Pd3 z 7 0 0.0020(4)
+loop_
+_atom_site_Fourier_wave_vector_seq_id
+_atom_site_Fourier_wave_vector_x
+_atom_site_Fourier_wave_vector_y
+_atom_site_Fourier_wave_vector_z
+1 0.00000 0.00000 0.61111
+2 0.00000 0.00000 1.22222
+3 0.00000 0.00000 1.83333
+4 0.00000 0.00000 2.44444
+5 0.00000 0.00000 3.05556
+6 0.00000 0.00000 3.66667
+7 0.00000 0.00000 4.27778
+8 0.00000 0.00000 4.88889
+9 0.00000 0.00000 5.50000
+10 0.00000 0.00000 6.11111
+loop_
+_atom_site_occ_Fourier_atom_site_label
+_atom_site_occ_Fourier_wave_vector_seq_id
+_atom_site_occ_Fourier_param_cos
+_atom_site_occ_Fourier_param_sin
+Pd1 1 0 0
+Pd1 2 -0.154(5) 0
+Pd1zn 1 0 0
+Pd1zn 2 0.154(5) 0
+Zn3 1 -0.431(3) 0
+Zn3 2 -0.231(3) 0
+Zn3 3 -0.060(3) 0
+Zn3 4 0.024(4) 0
+Pd3 1 0.431(3) 0
+Pd3 2 0.231(3) 0
+Pd3 3 0.060(3) 0
+Pd3 4 -0.024(4) 0
+loop_
+_atom_site_U_Fourier_atom_site_label
+_atom_site_U_Fourier_tens_elem
+_atom_site_U_Fourier_wave_vector_seq_id
+_atom_site_U_Fourier_param_cos
+_atom_site_U_Fourier_param_sin
+Zn1 U11 1 0 0
+Zn1 U22 1 0 0
+Zn1 U33 1 0 0
+Zn1 U12 1 0 0
+Zn1 U13 1 0 0
+Zn1 U23 1 -0.0071(3) 0
+Zn1 U11 2 -0.0040(3) 0
+Zn1 U22 2 0.0039(3) 0
+Zn1 U33 2 0.0080(3) 0
+Zn1 U12 2 0 0
+Zn1 U13 2 0 0
+Zn1 U23 2 0 0
+Zn1 U11 3 0 0
+Zn1 U22 3 0 0
+Zn1 U33 3 0 0
+Zn1 U12 3 0 0
+Zn1 U13 3 0 0
+Zn1 U23 3 -0.0001(3) 0
+Zn1 U11 4 -0.0013(3) 0
+Zn1 U22 4 -0.0006(4) 0
+Zn1 U33 4 -0.0021(4) 0
+Zn1 U12 4 0 0
+Zn1 U13 4 0 0
+Zn1 U23 4 0 0
+Zn1 U11 5 0 0
+Zn1 U22 5 0 0
+Zn1 U33 5 0 0
+Zn1 U12 5 0 0
+Zn1 U13 5 0 0
+Zn1 U23 5 0.0001(3) 0
+Zn1 U11 6 0.0024(4) 0
+Zn1 U22 6 0.0008(4) 0
+Zn1 U33 6 0.0018(6) 0
+Zn1 U12 6 0 0
+Zn1 U13 6 0 0
+Zn1 U23 6 0 0
+Zn1 U11 7 0 0
+Zn1 U22 7 0 0
+Zn1 U33 7 0 0
+Zn1 U12 7 0 0
+Zn1 U13 7 0 0
+Zn1 U23 7 -0.0019(4) 0
+Zn1 U11 8 0.0014(7) 0
+Zn1 U22 8 0.0030(6) 0
+Zn1 U33 8 0.0014(6) 0
+Zn1 U12 8 0 0
+Zn1 U13 8 0 0
+Zn1 U23 8 0 0
+Zn1 U11 9 0 0
+Zn1 U22 9 0 0
+Zn1 U33 9 0 0
+Zn1 U12 9 0 0
+Zn1 U13 9 0 0
+Zn1 U23 9 -0.0012(6) 0
+Pd1 U11 1 0 0
+Pd1 U22 1 0 0
+Pd1 U33 1 0 0
+Pd1 U12 1 0 0
+Pd1 U13 1 0 0
+Pd1 U23 1 0 0.0011(2)
+Pd1 U11 2 0.0000(3) 0
+Pd1 U22 2 0.0011(3) 0
+Pd1 U33 2 0.0020(3) 0
+Pd1 U12 2 0 0
+Pd1 U13 2 0 0
+Pd1 U23 2 0 0
+Pd1 U11 3 0 0
+Pd1 U22 3 0 0
+Pd1 U33 3 0 0
+Pd1 U12 3 0 0
+Pd1 U13 3 0 0
+Pd1 U23 3 0 0.0004(2)
+Pd1 U11 4 -0.0004(5) 0
+Pd1 U22 4 -0.0032(13) 0
+Pd1 U33 4 0.0015(4) 0
+Pd1 U12 4 0 0
+Pd1 U13 4 0 0
+Pd1 U23 4 0 0
+Pd1 U11 5 0 0
+Pd1 U22 5 0 0
+Pd1 U33 5 0 0
+Pd1 U12 5 0 0
+Pd1 U13 5 0 0
+Pd1 U23 5 0 -0.0003(7)
+Pd1 U11 6 -0.003(2) 0
+Pd1 U22 6 0.0047(18) 0
+Pd1 U33 6 0.0040(13) 0
+Pd1 U12 6 0 0
+Pd1 U13 6 0 0
+Pd1 U23 6 0 0
+Pd1zn U11 1 0 0
+Pd1zn U22 1 0 0
+Pd1zn U33 1 0 0
+Pd1zn U12 1 0 0
+Pd1zn U13 1 0 0
+Pd1zn U23 1 0 0.0011(2)
+Pd1zn U11 2 0.0000(3) 0
+Pd1zn U22 2 0.0011(3) 0
+Pd1zn U33 2 0.0020(3) 0
+Pd1zn U12 2 0 0
+Pd1zn U13 2 0 0
+Pd1zn U23 2 0 0
+Pd1zn U11 3 0 0
+Pd1zn U22 3 0 0
+Pd1zn U33 3 0 0
+Pd1zn U12 3 0 0
+Pd1zn U13 3 0 0
+Pd1zn U23 3 0 0.0004(2)
+Pd1zn U11 4 -0.0004(5) 0
+Pd1zn U22 4 -0.0032(13) 0
+Pd1zn U33 4 0.0015(4) 0
+Pd1zn U12 4 0 0
+Pd1zn U13 4 0 0
+Pd1zn U23 4 0 0
+Pd1zn U11 5 0 0
+Pd1zn U22 5 0 0
+Pd1zn U33 5 0 0
+Pd1zn U12 5 0 0
+Pd1zn U13 5 0 0
+Pd1zn U23 5 0 -0.0003(7)
+Pd1zn U11 6 -0.003(2) 0
+Pd1zn U22 6 0.0047(18) 0
+Pd1zn U33 6 0.0040(13) 0
+Pd1zn U12 6 0 0
+Pd1zn U13 6 0 0
+Pd1zn U23 6 0 0
+Zn2 U11 1 0 0
+Zn2 U22 1 0 0
+Zn2 U33 1 0 0
+Zn2 U12 1 -0.0057(3) 0
+Zn2 U13 1 0 0
+Zn2 U23 1 0 -0.0046(2)
+Zn2 U11 2 0.0005(3) 0
+Zn2 U22 2 -0.0022(4) 0
+Zn2 U33 2 -0.0003(3) 0
+Zn2 U12 2 0 0
+Zn2 U13 2 0 -0.0021(2)
+Zn2 U23 2 0 0
+Zn2 U11 3 0 0
+Zn2 U22 3 0 0
+Zn2 U33 3 0 0
+Zn2 U12 3 -0.0012(3) 0
+Zn2 U13 3 0 0
+Zn2 U23 3 0 0.0028(3)
+Zn2 U11 4 -0.0026(6) 0
+Zn2 U22 4 -0.0011(8) 0
+Zn2 U33 4 0.0012(4) 0
+Zn2 U12 4 0 0
+Zn2 U13 4 0 0.0010(3)
+Zn2 U23 4 0 0
+Zn2 U11 5 0 0
+Zn2 U22 5 0 0
+Zn2 U33 5 0 0
+Zn2 U12 5 0.0029(8) 0
+Zn2 U13 5 0 0
+Zn2 U23 5 0 0.0008(5)
+Zn2 U11 6 0.0011(14) 0
+Zn2 U22 6 -0.0014(9) 0
+Zn2 U33 6 -0.0024(9) 0
+Zn2 U12 6 0 0
+Zn2 U13 6 0 -0.0022(7)
+Zn2 U23 6 0 0
+Zn2 U11 7 0 0
+Zn2 U22 7 0 0
+Zn2 U33 7 0 0
+Zn2 U12 7 -0.0052(10) 0
+Zn2 U13 7 0 0
+Zn2 U23 7 0 -0.0026(7)
+Zn2 U11 8 -0.0074(10) 0
+Zn2 U22 8 0.0043(10) 0
+Zn2 U33 8 0.0051(7) 0
+Zn2 U12 8 0 0
+Zn2 U13 8 0 -0.0017(7)
+Zn2 U23 8 0 0
+Zn2 U11 9 0 0
+Zn2 U22 9 0 0
+Zn2 U33 9 0 0
+Zn2 U12 9 0.0033(8) 0
+Zn2 U13 9 0 0
+Zn2 U23 9 0 -0.0033(7)
+Zn2 U11 10 0.0073(9) 0
+Zn2 U22 10 0.0070(9) 0
+Zn2 U33 10 0.0058(8) 0
+Zn2 U12 10 0 0
+Zn2 U13 10 0 -0.0029(7)
+Zn2 U23 10 0 0
+Zn3 U11 1 -0.0014(5) 0
+Zn3 U22 1 -0.0026(6) 0
+Zn3 U33 1 -0.0063(5) 0
+Zn3 U12 1 -0.0020(4) 0
+Zn3 U13 1 0 0.0027(4)
+Zn3 U23 1 0 0.0018(3)
+Zn3 U11 2 -0.0001(7) 0
+Zn3 U22 2 -0.0023(8) 0
+Zn3 U33 2 0.0006(6) 0
+Zn3 U12 2 -0.0004(5) 0
+Zn3 U13 2 0 -0.0008(6)
+Zn3 U23 2 0 -0.0005(6)
+Zn3 U11 3 -0.0011(9) 0
+Zn3 U22 3 0.0009(9) 0
+Zn3 U33 3 -0.0005(7) 0
+Zn3 U12 3 -0.0011(7) 0
+Zn3 U13 3 0 0.0001(7)
+Zn3 U23 3 0 0.0003(7)
+Zn3 U11 4 0.0016(12) 0
+Zn3 U22 4 0.0002(12) 0
+Zn3 U33 4 0.0000(9) 0
+Zn3 U12 4 0.0002(9) 0
+Zn3 U13 4 0 0.0008(9)
+Zn3 U23 4 0 -0.0006(9)
+Zn3 U11 5 -0.0016(17) 0
+Zn3 U22 5 -0.0001(16) 0
+Zn3 U33 5 0.0019(11) 0
+Zn3 U12 5 0.0006(13) 0
+Zn3 U13 5 0 0.0010(12)
+Zn3 U23 5 0 0.0011(11)
+Zn3 U11 6 -0.0050(18) 0
+Zn3 U22 6 0.0016(17) 0
+Zn3 U33 6 -0.0032(11) 0
+Zn3 U12 6 0.0004(13) 0
+Zn3 U13 6 0 -0.0047(11)
+Zn3 U23 6 0 -0.0003(11)
+Zn3 U11 7 -0.0018(11) 0
+Zn3 U22 7 -0.0020(12) 0
+Zn3 U33 7 -0.0039(9) 0
+Zn3 U12 7 -0.0033(8) 0
+Zn3 U13 7 0 -0.0027(7)
+Zn3 U23 7 0 -0.0035(8)
+Pd3 U11 1 -0.0014(5) 0
+Pd3 U22 1 -0.0026(6) 0
+Pd3 U33 1 -0.0063(5) 0
+Pd3 U12 1 -0.0020(4) 0
+Pd3 U13 1 0 0.0027(4)
+Pd3 U23 1 0 0.0018(3)
+Pd3 U11 2 -0.0001(7) 0
+Pd3 U22 2 -0.0023(8) 0
+Pd3 U33 2 0.0006(6) 0
+Pd3 U12 2 -0.0004(5) 0
+Pd3 U13 2 0 -0.0008(6)
+Pd3 U23 2 0 -0.0005(6)
+Pd3 U11 3 -0.0011(9) 0
+Pd3 U22 3 0.0009(9) 0
+Pd3 U33 3 -0.0005(7) 0
+Pd3 U12 3 -0.0011(7) 0
+Pd3 U13 3 0 0.0001(7)
+Pd3 U23 3 0 0.0003(7)
+Pd3 U11 4 0.0016(12) 0
+Pd3 U22 4 0.0002(12) 0
+Pd3 U33 4 0.0000(9) 0
+Pd3 U12 4 0.0002(9) 0
+Pd3 U13 4 0 0.0008(9)
+Pd3 U23 4 0 -0.0006(9)
+Pd3 U11 5 -0.0016(17) 0
+Pd3 U22 5 -0.0001(16) 0
+Pd3 U33 5 0.0019(11) 0
+Pd3 U12 5 0.0006(13) 0
+Pd3 U13 5 0 0.0010(12)
+Pd3 U23 5 0 0.0011(11)
+Pd3 U11 6 -0.0050(18) 0
+Pd3 U22 6 0.0016(17) 0
+Pd3 U33 6 -0.0032(11) 0
+Pd3 U12 6 0.0004(13) 0
+Pd3 U13 6 0 -0.0047(11)
+Pd3 U23 6 0 -0.0003(11)
+Pd3 U11 7 -0.0018(11) 0
+Pd3 U22 7 -0.0020(12) 0
+Pd3 U33 7 -0.0039(9) 0
+Pd3 U12 7 -0.0033(8) 0
+Pd3 U13 7 0 -0.0027(7)
+Pd3 U23 7 0 -0.0035(8)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_versus_stol_list
+Pd -0.999 1.007 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+;
+ stol     0.00    0.05    0.10    0.15    0.20    0.25    0.30    0.35    0.40  
+  f     46.000  45.232  43.172  40.357  37.286  34.283  31.523  29.077  26.961  
+ stol     0.45    0.50    0.55    0.60    0.65    0.70    0.75    0.80    0.85  
+  f     25.153  23.617  22.307  21.177  20.186  19.296  18.482  17.711  16.979  
+ stol     0.90    0.95    1.00    1.05    1.10    1.15    1.20    1.25    1.30  
+  f     16.266  15.573  14.893  14.228  13.580  12.950  12.342  11.757  11.200  
+ stol     1.35    1.40    1.45    1.50    1.55    1.60    1.65    1.70    1.75  
+  f     10.671  10.173   9.706   9.270   8.865   8.492   8.148   7.833   7.545  
+;
+Zn 0.284 1.430 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+;
+ stol     0.00    0.05    0.10    0.15    0.20    0.25    0.30    0.35    0.40  
+  f     30.000  29.401  27.927  26.124  24.283  22.478  20.720  19.027  17.421  
+ stol     0.45    0.50    0.55    0.60    0.65    0.70    0.75    0.80    0.85  
+  f     15.926  14.559  13.328  12.235  11.276  10.442   9.724   9.108   8.582  
+ stol     0.90    0.95    1.00    1.05    1.10    1.15    1.20    1.25    1.30  
+  f      8.132   7.748   7.417   7.131   6.879   6.655   6.453   6.269   6.096  
+ stol     1.35    1.40    1.45    1.50    1.55    1.60    1.65    1.70    1.75  
+  f      5.932   5.775   5.623   5.473   5.326   5.180   5.035   4.892   4.751  
+;
+loop_
+_cell_subsystem_code
+_cell_subsystem_description
+_cell_subsystem_matrix_W_1_1
+_cell_subsystem_matrix_W_1_2
+_cell_subsystem_matrix_W_1_3
+_cell_subsystem_matrix_W_1_4
+_cell_subsystem_matrix_W_2_1
+_cell_subsystem_matrix_W_2_2
+_cell_subsystem_matrix_W_2_3
+_cell_subsystem_matrix_W_2_4
+_cell_subsystem_matrix_W_3_1
+_cell_subsystem_matrix_W_3_2
+_cell_subsystem_matrix_W_3_3
+_cell_subsystem_matrix_W_3_4
+_cell_subsystem_matrix_W_4_1
+_cell_subsystem_matrix_W_4_2
+_cell_subsystem_matrix_W_4_3
+_cell_subsystem_matrix_W_4_4
+? '1-st subsystem' 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+? '2-nd subsystem' 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0
+loop_
+_cell_wave_vector_seq_id
+_cell_wave_vector_x
+_cell_wave_vector_y
+_cell_wave_vector_z
+1 0.00000 0.00000 0.61111

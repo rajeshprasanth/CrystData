@@ -1,0 +1,739 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-05-05 00:52:53 +0300 (Fri, 05 May 2017) $
+#$Revision: 196159 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/54/57/1545776.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1545776
+loop_
+_publ_author_name
+'Ivanov, Maxim V.'
+'Thakur, Khushabu'
+'Boddeda, Anitha'
+'Wang, Denan'
+'Rathore, Rajendra'
+_publ_section_title
+;
+ Nodal Arrangement of HOMO Controls the Turning On/Off the Electronic
+ Coupling in Isomeric Polypyrene Wires
+;
+_journal_issue                   17
+_journal_name_full               'The Journal of Physical Chemistry C'
+_journal_page_first              9202
+_journal_paper_doi               10.1021/acs.jpcc.7b02264
+_journal_volume                  121
+_journal_year                    2017
+_chemical_formula_moiety         'C64 H82'
+_chemical_formula_sum            'C64 H82'
+_chemical_formula_weight         851.30
+_chemical_name_systematic
+;
+ ? 
+;
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           15
+_space_group_name_Hall           '-I 2ya'
+_space_group_name_H-M_alt        'I 1 2/a 1'
+_symmetry_space_group_name_Hall  '-I 2ya'
+_symmetry_space_group_name_H-M   'I 1 2/a 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     iterative
+_atom_sites_solution_secondary   difmap
+_audit_creation_date             2016-09-30
+_audit_creation_method
+;
+Olex2 1.2
+(compiled 2016.09.09 svn.r3337 for OlexSys, GUI svn.r5227)
+;
+_cell_angle_alpha                90.00
+_cell_angle_beta                 101.985(4)
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   16.3409(6)
+_cell_length_b                   9.0662(3)
+_cell_length_c                   35.1804(13)
+_cell_measurement_reflns_used    4602
+_cell_measurement_temperature    99.9(2)
+_cell_measurement_theta_max      73.3440
+_cell_measurement_theta_min      5.0090
+_cell_volume                     5098.4(3)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_data_collection
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_data_reduction
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_molecular_graphics    'Olex2 (Dolomanov et al., 2009)'
+_computing_publication_material  'Olex2 (Dolomanov et al., 2009)'
+_computing_structure_refinement  'XL (Sheldrick, 2008)'
+_computing_structure_solution    'olex2.solve (Bourhis et al., 2015)'
+_diffrn_ambient_environment      N~2~
+_diffrn_ambient_temperature      99.9(2)
+_diffrn_detector                 'CCD plate'
+_diffrn_detector_area_resol_mean 10.3756
+_diffrn_detector_type            Atlas
+_diffrn_measured_fraction_theta_full 0.996
+_diffrn_measured_fraction_theta_max 0.985
+_diffrn_measurement_details
+;
+#__ type_ start__ end____ width___ exp.time_
+  1 omega -124.00  -79.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -41.3987  -99.0000  150.0000 45
+
+#__ type_ start__ end____ width___ exp.time_
+  2 omega -123.00    5.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -41.3987  -19.0000  150.0000 128
+
+#__ type_ start__ end____ width___ exp.time_
+  3 omega   23.00   99.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -       41.3987 -125.0000 -120.0000 76
+
+#__ type_ start__ end____ width___ exp.time_
+  4 omega    1.00   83.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -       41.3987  -99.0000    0.0000 82
+
+#__ type_ start__ end____ width___ exp.time_
+  5 omega   34.00   98.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -45.0000  -30.0000 64
+
+#__ type_ start__ end____ width___ exp.time_
+  6 omega   34.00  139.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -61.0000   30.0000 105
+
+#__ type_ start__ end____ width___ exp.time_
+  7 omega   30.00   90.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -30.0000 -180.0000 60
+
+#__ type_ start__ end____ width___ exp.time_
+  8 omega   30.00   90.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -30.0000 -120.0000 60
+
+#__ type_ start__ end____ width___ exp.time_
+  9 omega   30.00  142.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -77.0000 -180.0000 112
+
+#__ type_ start__ end____ width___ exp.time_
+ 10 omega   25.00  170.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878  -15.0000   30.0000 145
+
+#__ type_ start__ end____ width___ exp.time_
+ 11 omega -120.00   -8.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -41.3987  -77.0000    0.0000 112
+
+#__ type_ start__ end____ width___ exp.time_
+ 12 omega -115.00  -12.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -41.3987  -57.0000   90.0000 103
+
+#__ type_ start__ end____ width___ exp.time_
+ 13 omega    8.00  120.00   1.0000    7.5000
+omega____ theta____ kappa____ phi______ frames
+    -       41.3987   77.0000  -90.0000 112
+
+#__ type_ start__ end____ width___ exp.time_
+ 14 omega   81.00  178.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878   45.0000   60.0000 97
+
+#__ type_ start__ end____ width___ exp.time_
+ 15 omega   78.00  178.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878   61.0000  120.0000 100
+
+#__ type_ start__ end____ width___ exp.time_
+ 16 omega   33.00  122.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878 -125.0000   30.0000 89
+
+#__ type_ start__ end____ width___ exp.time_
+ 17 omega   47.00  178.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878   15.0000  -30.0000 131
+
+#__ type_ start__ end____ width___ exp.time_
+ 18 omega   78.00   93.00   1.0000   30.0000
+omega____ theta____ kappa____ phi______ frames
+    -      108.2878   30.0000 -150.0000 15
+;
+_diffrn_measurement_device       'four-circle diffractometer'
+_diffrn_measurement_device_type  'SuperNova, Dual, Cu at zero, Atlas'
+_diffrn_measurement_method       '\w scans'
+_diffrn_orient_matrix_UB_11      -0.0769875000
+_diffrn_orient_matrix_UB_12      -0.0846421000
+_diffrn_orient_matrix_UB_13      0.0073710000
+_diffrn_orient_matrix_UB_21      0.0246500000
+_diffrn_orient_matrix_UB_22      -0.1339852000
+_diffrn_orient_matrix_UB_23      -0.0220704000
+_diffrn_orient_matrix_UB_31      0.0524841000
+_diffrn_orient_matrix_UB_32      -0.0613424000
+_diffrn_orient_matrix_UB_33      0.0382363000
+_diffrn_radiation_monochromator  mirror
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           CuK\a
+_diffrn_radiation_wavelength     1.54184
+_diffrn_reflns_av_R_equivalents  0.0379
+_diffrn_reflns_av_unetI/netI     0.0267
+_diffrn_reflns_limit_h_max       20
+_diffrn_reflns_limit_h_min       -20
+_diffrn_reflns_limit_k_max       11
+_diffrn_reflns_limit_k_min       -11
+_diffrn_reflns_limit_l_max       43
+_diffrn_reflns_limit_l_min       -38
+_diffrn_reflns_number            23202
+_diffrn_reflns_theta_full        72.00
+_diffrn_reflns_theta_max         74.19
+_diffrn_reflns_theta_min         5.04
+_diffrn_source                   'sealed X-ray tube'
+_diffrn_source_type              'SuperNova (Cu) X-ray Source'
+_exptl_absorpt_coefficient_mu    0.456
+_exptl_absorpt_correction_T_max  1.00000
+_exptl_absorpt_correction_T_min  0.44064
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+Empirical absorption correction using spherical harmonics,
+ implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_colour            colourless
+_exptl_crystal_colour_primary    colourless
+_exptl_crystal_density_diffrn    1.109
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       prism
+_exptl_crystal_F_000             1864
+_exptl_crystal_size_max          0.1
+_exptl_crystal_size_mid          0.05
+_exptl_crystal_size_min          0.03
+_refine_diff_density_max         0.264
+_refine_diff_density_min         -0.188
+_refine_diff_density_rms         0.040
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.023
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     291
+_refine_ls_number_reflns         5118
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.023
+_refine_ls_R_factor_all          0.0832
+_refine_ls_R_factor_gt           0.0542
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0928P)^2^+1.1288P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1530
+_refine_ls_wR_factor_ref         0.1822
+_reflns_number_gt                3222
+_reflns_number_total             5118
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            jp7b02264_si_004.cif
+_cod_data_source_block           raj27p
+_cod_depositor_comments          'Adding full bibliography for 1545776.cif.'
+_cod_original_cell_volume        5098.3(3)
+_cod_database_code               1545776
+_chemical_oxdiff_formula         'C64 H82'
+_reflns_odcompleteness_completeness 99.96
+_reflns_odcompleteness_iscentric 1
+_reflns_odcompleteness_theta     66.97
+_olex2_refinement_description
+;
+1. Fixed Uiso
+ At 1.2 times of:
+  All C(H) groups, All C(H,H) groups
+ At 1.5 times of:
+  All C(H,H,H) groups
+2.a Secondary CH2 refined with riding coordinates:
+ C17(H17A,H17B), C18(H18A,H18B), C19(H19A,H19B), C20(H20A,H20B), C21(H21A,
+ H21B), C22(H22A,H22B), C23(H23A,H23B), C25(H25A,H25B), C26(H26A,H26B),
+ C27(H27A,H27B), C28(H28A,H28B), C29(H29A,H29B), C30(H30A,H30B), C31(H31A,H31B)
+2.b Aromatic/amide H refined with riding coordinates:
+ C3(H3), C4(H4), C7(H7), C10(H10), C11(H11), C13(H13), C14(H14)
+2.c Idealised Me refined as rotating group:
+ C24(H24A,H24B,H24C), C32(H32A,H32B,H32C)
+;
+_olex2_date_sample_data_collection 2016-09-29
+_olex2_date_sample_submission    2016-09-28
+_olex2_submission_special_instructions 'No special instructions were received'
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y, z'
+2 '-x+1/2, y, -z'
+3 'x+1/2, y+1/2, z+1/2'
+4 '-x+1, y+1/2, -z+1/2'
+5 '-x, -y, -z'
+6 'x-1/2, -y, z'
+7 '-x+1/2, -y+1/2, -z+1/2'
+8 'x, -y+1/2, z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags_posn
+C1 C -0.06350(11) 0.46934(19) 0.43186(5) 0.0440(4) Uani 1 d .
+C2 C 0.00506(10) 0.38222(18) 0.45051(5) 0.0395(4) Uani 1 d .
+C3 C 0.08233(10) 0.37972(18) 0.43734(5) 0.0400(4) Uani 1 d .
+H3 H 0.0881 0.4386 0.4157 0.048 Uiso 1 calc R
+C4 C 0.14756(10) 0.29474(18) 0.45519(5) 0.0393(4) Uani 1 d .
+H4 H 0.1979 0.2954 0.4457 0.047 Uiso 1 calc R
+C5 C 0.14219(10) 0.20375(17) 0.48813(4) 0.0355(3) Uani 1 d .
+C6 C 0.20994(10) 0.11746(17) 0.50695(5) 0.0370(4) Uani 1 d .
+C7 C 0.20210(11) 0.03461(18) 0.53940(5) 0.0413(4) Uani 1 d .
+H7 H 0.2483 -0.0230 0.5521 0.050 Uiso 1 calc R
+C8 C 0.12906(11) 0.03310(18) 0.55392(5) 0.0407(4) Uani 1 d .
+C9 C 0.06011(11) 0.11726(18) 0.53543(5) 0.0400(4) Uani 1 d .
+C10 C -0.01817(11) 0.1211(2) 0.54799(5) 0.0469(4) Uani 1 d .
+H10 H -0.0247 0.0622 0.5695 0.056 Uiso 1 calc R
+C11 C -0.08259(11) 0.2059(2) 0.53013(5) 0.0488(5) Uani 1 d .
+H11 H -0.1329 0.2060 0.5397 0.059 Uiso 1 calc R
+C12 C -0.07741(11) 0.2956(2) 0.49725(5) 0.0446(4) Uani 1 d .
+C13 C -0.14308(11) 0.3846(2) 0.47837(6) 0.0528(5) Uani 1 d .
+H13 H -0.1937 0.3874 0.4876 0.063 Uiso 1 calc R
+C14 C -0.13599(11) 0.4687(2) 0.44655(5) 0.0509(5) Uani 1 d .
+H14 H -0.1820 0.5278 0.4344 0.061 Uiso 1 calc R
+C15 C -0.00160(10) 0.29389(18) 0.48325(5) 0.0386(4) Uani 1 d .
+C16 C 0.06675(10) 0.20521(17) 0.50211(4) 0.0365(4) Uani 1 d .
+C17 C -0.06022(12) 0.55848(19) 0.39613(5) 0.0458(4) Uani 1 d .
+H17A H -0.0058 0.6104 0.4001 0.055 Uiso 1 calc R
+H17B H -0.1048 0.6342 0.3926 0.055 Uiso 1 calc R
+C18 C -0.07107(12) 0.46463(19) 0.35920(5) 0.0447(4) Uani 1 d .
+H18A H -0.0251 0.3917 0.3622 0.054 Uiso 1 calc R
+H18B H -0.1244 0.4096 0.3558 0.054 Uiso 1 calc R
+C19 C -0.07116(12) 0.55713(19) 0.32316(5) 0.0456(4) Uani 1 d .
+H19A H -0.0187 0.6151 0.3272 0.055 Uiso 1 calc R
+H19B H -0.1184 0.6276 0.3197 0.055 Uiso 1 calc R
+C20 C -0.07866(12) 0.46623(18) 0.28615(5) 0.0451(4) Uani 1 d .
+H20A H -0.0299 0.3994 0.2890 0.054 Uiso 1 calc R
+H20B H -0.1296 0.4044 0.2828 0.054 Uiso 1 calc R
+C21 C -0.08307(12) 0.55959(19) 0.25003(5) 0.0455(4) Uani 1 d .
+H21A H -0.0319 0.6209 0.2534 0.055 Uiso 1 calc R
+H21B H -0.1316 0.6271 0.2474 0.055 Uiso 1 calc R
+C22 C -0.09127(12) 0.4700(2) 0.21284(5) 0.0472(4) Uani 1 d .
+H22A H -0.1413 0.4062 0.2100 0.057 Uiso 1 calc R
+H22B H -0.0418 0.4050 0.2151 0.057 Uiso 1 calc R
+C23 C -0.09861(13) 0.5643(2) 0.17648(6) 0.0533(5) Uani 1 d .
+H23A H -0.1482 0.6291 0.1741 0.064 Uiso 1 calc R
+H23B H -0.0486 0.6282 0.1793 0.064 Uiso 1 calc R
+C24 C -0.10662(15) 0.4738(3) 0.13945(6) 0.0648(6) Uani 1 d .
+H24A H -0.1105 0.5402 0.1172 0.097 Uiso 1 calc GR
+H24B H -0.1571 0.4126 0.1359 0.097 Uiso 1 calc GR
+H24C H -0.0574 0.4102 0.1414 0.097 Uiso 1 calc GR
+C25 C 0.12757(13) -0.05740(19) 0.59011(5) 0.0460(4) Uani 1 d .
+H25A H 0.1708 -0.1353 0.5927 0.055 Uiso 1 calc R
+H25B H 0.0725 -0.1064 0.5871 0.055 Uiso 1 calc R
+C26 C 0.14329(11) 0.03571(18) 0.62724(5) 0.0403(4) Uani 1 d .
+H26A H 0.1961 0.0912 0.6291 0.048 Uiso 1 calc R
+H26B H 0.0974 0.1083 0.6256 0.048 Uiso 1 calc R
+C27 C 0.14887(11) -0.05651(18) 0.66396(5) 0.0419(4) Uani 1 d .
+H27A H 0.0977 -0.1174 0.6612 0.050 Uiso 1 calc R
+H27B H 0.1972 -0.1243 0.6665 0.050 Uiso 1 calc R
+C28 C 0.15850(11) 0.03545(18) 0.70091(5) 0.0412(4) Uani 1 d .
+H28A H 0.2092 0.0975 0.7035 0.049 Uiso 1 calc R
+H28B H 0.1097 0.1021 0.6986 0.049 Uiso 1 calc R
+C29 C 0.16532(11) -0.05731(18) 0.73747(5) 0.0428(4) Uani 1 d .
+H29A H 0.2151 -0.1218 0.7401 0.051 Uiso 1 calc R
+H29B H 0.1155 -0.1218 0.7344 0.051 Uiso 1 calc R
+C30 C 0.17224(11) 0.03223(18) 0.77469(5) 0.0431(4) Uani 1 d .
+H30A H 0.2222 0.0966 0.7779 0.052 Uiso 1 calc R
+H30B H 0.1225 0.0966 0.7722 0.052 Uiso 1 calc R
+C31 C 0.17893(13) -0.0633(2) 0.81080(5) 0.0491(4) Uani 1 d .
+H31A H 0.2288 -0.1273 0.8133 0.059 Uiso 1 calc R
+H31B H 0.1292 -0.1281 0.8074 0.059 Uiso 1 calc R
+C32 C 0.18539(14) 0.0247(2) 0.84819(5) 0.0583(5) Uani 1 d .
+H32A H 0.1346 0.0840 0.8467 0.087 Uiso 1 calc GR
+H32B H 0.2342 0.0900 0.8517 0.087 Uiso 1 calc GR
+H32C H 0.1915 -0.0431 0.8703 0.087 Uiso 1 calc GR
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+C1 0.0451(9) 0.0430(9) 0.0406(9) -0.0088(7) 0.0012(7) 0.0041(7)
+C2 0.0392(8) 0.0402(8) 0.0370(9) -0.0064(7) 0.0031(7) -0.0001(7)
+C3 0.0439(9) 0.0416(8) 0.0335(8) 0.0018(6) 0.0058(7) -0.0012(7)
+C4 0.0396(8) 0.0419(8) 0.0364(8) -0.0005(7) 0.0082(7) -0.0016(7)
+C5 0.0360(8) 0.0356(7) 0.0336(8) -0.0033(6) 0.0039(6) -0.0037(6)
+C6 0.0389(9) 0.0371(8) 0.0333(8) -0.0026(6) 0.0036(7) -0.0029(7)
+C7 0.0464(9) 0.0393(8) 0.0364(9) 0.0001(6) 0.0047(7) -0.0012(7)
+C8 0.0522(10) 0.0395(8) 0.0300(8) -0.0022(6) 0.0074(7) -0.0092(7)
+C9 0.0438(9) 0.0427(9) 0.0334(8) -0.0070(7) 0.0078(7) -0.0107(7)
+C10 0.0481(10) 0.0584(10) 0.0352(9) -0.0094(8) 0.0110(7) -0.0168(9)
+C11 0.0398(9) 0.0656(11) 0.0421(10) -0.0161(8) 0.0113(8) -0.0119(8)
+C12 0.0361(8) 0.0569(10) 0.0406(9) -0.0145(8) 0.0079(7) -0.0067(8)
+C13 0.0377(9) 0.0712(12) 0.0504(11) -0.0157(9) 0.0107(8) -0.0014(9)
+C14 0.0413(9) 0.0609(11) 0.0464(10) -0.0122(8) -0.0002(8) 0.0092(8)
+C15 0.0365(8) 0.0438(8) 0.0345(8) -0.0094(6) 0.0047(7) -0.0046(7)
+C16 0.0370(8) 0.0409(8) 0.0308(8) -0.0055(6) 0.0049(6) -0.0058(7)
+C17 0.0481(10) 0.0393(8) 0.0445(10) -0.0042(7) -0.0033(8) 0.0080(7)
+C18 0.0513(10) 0.0384(8) 0.0400(9) -0.0025(7) -0.0005(7) 0.0042(7)
+C19 0.0528(10) 0.0375(8) 0.0425(10) -0.0010(7) 0.0008(8) 0.0013(7)
+C20 0.0520(10) 0.0379(8) 0.0422(10) -0.0003(7) 0.0027(8) 0.0011(7)
+C21 0.0496(10) 0.0402(8) 0.0437(10) 0.0012(7) 0.0027(8) -0.0011(7)
+C22 0.0500(10) 0.0478(9) 0.0423(10) 0.0000(7) 0.0060(8) 0.0020(8)
+C23 0.0534(11) 0.0588(11) 0.0475(11) 0.0041(8) 0.0101(9) 0.0013(9)
+C24 0.0665(13) 0.0852(16) 0.0440(11) 0.0019(10) 0.0142(10) 0.0111(12)
+C25 0.0620(11) 0.0418(9) 0.0347(9) 0.0007(7) 0.0112(8) -0.0099(8)
+C26 0.0475(9) 0.0379(8) 0.0340(8) 0.0016(6) 0.0045(7) -0.0049(7)
+C27 0.0505(10) 0.0374(8) 0.0361(9) 0.0020(6) 0.0049(7) -0.0024(7)
+C28 0.0474(9) 0.0362(8) 0.0371(9) 0.0017(6) 0.0025(7) 0.0007(7)
+C29 0.0503(10) 0.0393(8) 0.0357(9) 0.0013(7) 0.0022(7) 0.0031(7)
+C30 0.0487(10) 0.0405(9) 0.0371(9) 0.0001(7) 0.0022(7) 0.0027(7)
+C31 0.0569(11) 0.0496(10) 0.0383(9) 0.0023(7) 0.0045(8) 0.0064(8)
+C32 0.0661(13) 0.0670(12) 0.0393(10) 0.0002(9) 0.0052(9) 0.0108(10)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0181 0.0091 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_3
+C2 C1 C17 121.65(15) .
+C14 C1 C2 118.67(17) .
+C14 C1 C17 119.65(17) .
+C1 C2 C3 121.64(16) .
+C1 C2 C15 120.14(15) .
+C15 C2 C3 118.22(15) .
+C2 C3 H3 119.4 .
+C4 C3 C2 121.26(15) .
+C4 C3 H3 119.4 .
+C3 C4 H4 119.2 .
+C3 C4 C5 121.58(14) .
+C5 C4 H4 119.2 .
+C6 C5 C4 121.66(14) .
+C6 C5 C16 119.89(14) .
+C16 C5 C4 118.44(15) .
+C5 C6 C6 120.38(15) 2_556
+C7 C6 C5 119.25(14) .
+C7 C6 C6 120.35(16) 2_556
+C6 C7 H7 118.8 .
+C8 C7 C6 122.49(16) .
+C8 C7 H7 118.8 .
+C7 C8 C9 119.43(15) .
+C7 C8 C25 118.49(16) .
+C9 C8 C25 122.07(15) .
+C8 C9 C10 123.39(16) .
+C8 C9 C16 119.29(15) .
+C10 C9 C16 117.33(16) .
+C9 C10 H10 119.1 .
+C11 C10 C9 121.89(17) .
+C11 C10 H10 119.1 .
+C10 C11 H11 119.0 .
+C10 C11 C12 121.96(15) .
+C12 C11 H11 119.0 .
+C13 C12 C11 123.01(16) .
+C13 C12 C15 118.66(17) .
+C15 C12 C11 118.33(17) .
+C12 C13 H13 119.3 .
+C14 C13 C12 121.33(16) .
+C14 C13 H13 119.3 .
+C1 C14 H14 119.1 .
+C13 C14 C1 121.79(18) .
+C13 C14 H14 119.1 .
+C12 C15 C2 119.39(16) .
+C16 C15 C2 120.65(14) .
+C16 C15 C12 119.96(16) .
+C5 C16 C9 119.65(16) .
+C5 C16 C15 119.84(14) .
+C15 C16 C9 120.51(14) .
+C1 C17 H17A 109.0 .
+C1 C17 H17B 109.0 .
+C1 C17 C18 113.09(14) .
+H17A C17 H17B 107.8 .
+C18 C17 H17A 109.0 .
+C18 C17 H17B 109.0 .
+C17 C18 H18A 109.1 .
+C17 C18 H18B 109.1 .
+H18A C18 H18B 107.9 .
+C19 C18 C17 112.38(14) .
+C19 C18 H18A 109.1 .
+C19 C18 H18B 109.1 .
+C18 C19 H19A 108.8 .
+C18 C19 H19B 108.8 .
+C18 C19 C20 113.59(14) .
+H19A C19 H19B 107.7 .
+C20 C19 H19A 108.8 .
+C20 C19 H19B 108.8 .
+C19 C20 H20A 108.9 .
+C19 C20 H20B 108.9 .
+H20A C20 H20B 107.7 .
+C21 C20 C19 113.30(14) .
+C21 C20 H20A 108.9 .
+C21 C20 H20B 108.9 .
+C20 C21 H21A 108.8 .
+C20 C21 H21B 108.8 .
+C20 C21 C22 113.77(14) .
+H21A C21 H21B 107.7 .
+C22 C21 H21A 108.8 .
+C22 C21 H21B 108.8 .
+C21 C22 H22A 108.8 .
+C21 C22 H22B 108.8 .
+C21 C22 C23 113.60(15) .
+H22A C22 H22B 107.7 .
+C23 C22 H22A 108.8 .
+C23 C22 H22B 108.8 .
+C22 C23 H23A 108.9 .
+C22 C23 H23B 108.9 .
+H23A C23 H23B 107.7 .
+C24 C23 C22 113.22(17) .
+C24 C23 H23A 108.9 .
+C24 C23 H23B 108.9 .
+C23 C24 H24A 109.5 .
+C23 C24 H24B 109.5 .
+C23 C24 H24C 109.5 .
+H24A C24 H24B 109.5 .
+H24A C24 H24C 109.5 .
+H24B C24 H24C 109.5 .
+C8 C25 H25A 109.0 .
+C8 C25 H25B 109.0 .
+C8 C25 C26 112.84(14) .
+H25A C25 H25B 107.8 .
+C26 C25 H25A 109.0 .
+C26 C25 H25B 109.0 .
+C25 C26 H26A 109.0 .
+C25 C26 H26B 109.0 .
+H26A C26 H26B 107.8 .
+C27 C26 C25 112.96(14) .
+C27 C26 H26A 109.0 .
+C27 C26 H26B 109.0 .
+C26 C27 H27A 108.9 .
+C26 C27 H27B 108.9 .
+H27A C27 H27B 107.7 .
+C28 C27 C26 113.56(13) .
+C28 C27 H27A 108.9 .
+C28 C27 H27B 108.9 .
+C27 C28 H28A 108.9 .
+C27 C28 H28B 108.9 .
+H28A C28 H28B 107.7 .
+C29 C28 C27 113.26(14) .
+C29 C28 H28A 108.9 .
+C29 C28 H28B 108.9 .
+C28 C29 H29A 108.7 .
+C28 C29 H29B 108.7 .
+C28 C29 C30 114.28(14) .
+H29A C29 H29B 107.6 .
+C30 C29 H29A 108.7 .
+C30 C29 H29B 108.7 .
+C29 C30 H30A 108.9 .
+C29 C30 H30B 108.9 .
+H30A C30 H30B 107.8 .
+C31 C30 C29 113.17(14) .
+C31 C30 H30A 108.9 .
+C31 C30 H30B 108.9 .
+C30 C31 H31A 108.8 .
+C30 C31 H31B 108.8 .
+C30 C31 C32 113.75(16) .
+H31A C31 H31B 107.7 .
+C32 C31 H31A 108.8 .
+C32 C31 H31B 108.8 .
+C31 C32 H32A 109.5 .
+C31 C32 H32B 109.5 .
+C31 C32 H32C 109.5 .
+H32A C32 H32B 109.5 .
+H32A C32 H32C 109.5 .
+H32B C32 H32C 109.5 .
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C1 C2 1.416(2) .
+C1 C14 1.387(2) .
+C1 C17 1.505(2) .
+C2 C3 1.433(2) .
+C2 C15 1.425(2) .
+C3 H3 0.9500 .
+C3 C4 1.359(2) .
+C4 H4 0.9500 .
+C4 C5 1.440(2) .
+C5 C6 1.404(2) .
+C5 C16 1.419(2) .
+C6 C6 1.490(3) 2_556
+C6 C7 1.394(2) .
+C7 H7 0.9500 .
+C7 C8 1.392(2) .
+C8 C9 1.404(2) .
+C8 C25 1.519(2) .
+C9 C10 1.438(2) .
+C9 C16 1.440(2) .
+C10 H10 0.9500 .
+C10 C11 1.349(3) .
+C11 H11 0.9500 .
+C11 C12 1.431(3) .
+C12 C13 1.396(3) .
+C12 C15 1.425(2) .
+C13 H13 0.9500 .
+C13 C14 1.379(3) .
+C14 H14 0.9500 .
+C15 C16 1.424(2) .
+C17 H17A 0.9900 .
+C17 H17B 0.9900 .
+C17 C18 1.532(2) .
+C18 H18A 0.9900 .
+C18 H18B 0.9900 .
+C18 C19 1.520(2) .
+C19 H19A 0.9900 .
+C19 H19B 0.9900 .
+C19 C20 1.524(2) .
+C20 H20A 0.9900 .
+C20 H20B 0.9900 .
+C20 C21 1.516(2) .
+C21 H21A 0.9900 .
+C21 H21B 0.9900 .
+C21 C22 1.522(2) .
+C22 H22A 0.9900 .
+C22 H22B 0.9900 .
+C22 C23 1.522(2) .
+C23 H23A 0.9900 .
+C23 H23B 0.9900 .
+C23 C24 1.522(3) .
+C24 H24A 0.9800 .
+C24 H24B 0.9800 .
+C24 H24C 0.9800 .
+C25 H25A 0.9900 .
+C25 H25B 0.9900 .
+C25 C26 1.532(2) .
+C26 H26A 0.9900 .
+C26 H26B 0.9900 .
+C26 C27 1.525(2) .
+C27 H27A 0.9900 .
+C27 H27B 0.9900 .
+C27 C28 1.525(2) .
+C28 H28A 0.9900 .
+C28 H28B 0.9900 .
+C28 C29 1.521(2) .
+C29 H29A 0.9900 .
+C29 H29B 0.9900 .
+C29 C30 1.525(2) .
+C30 H30A 0.9900 .
+C30 H30B 0.9900 .
+C30 C31 1.522(2) .
+C31 H31A 0.9900 .
+C31 H31B 0.9900 .
+C31 C32 1.524(2) .
+C32 H32A 0.9800 .
+C32 H32B 0.9800 .
+C32 H32C 0.9800 .
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_4
+C1 C2 C3 C4 -179.39(16) . .
+C1 C2 C15 C12 -0.8(2) . .
+C1 C2 C15 C16 179.66(15) . .
+C1 C17 C18 C19 177.66(15) . .
+C2 C1 C14 C13 -0.7(3) . .
+C2 C1 C17 C18 76.6(2) . .
+C2 C3 C4 C5 -0.1(3) . .
+C2 C15 C16 C5 -0.4(2) . .
+C2 C15 C16 C9 179.36(15) . .
+C3 C2 C15 C12 179.26(15) . .
+C3 C2 C15 C16 -0.3(2) . .
+C3 C4 C5 C6 -179.09(15) . .
+C3 C4 C5 C16 -0.6(2) . .
+C4 C5 C6 C6 -0.2(2) . 2_556
+C4 C5 C6 C7 178.20(15) . .
+C4 C5 C16 C9 -178.93(14) . .
+C4 C5 C16 C15 0.8(2) . .
+C5 C6 C7 C8 0.4(2) . .
+C6 C5 C16 C9 -0.4(2) . .
+C6 C5 C16 C15 179.36(14) . .
+C6 C6 C7 C8 178.82(14) 2_556 .
+C6 C7 C8 C9 0.2(2) . .
+C6 C7 C8 C25 -178.30(15) . .
+C7 C8 C9 C10 179.15(16) . .
+C7 C8 C9 C16 -0.9(2) . .
+C7 C8 C25 C26 98.35(19) . .
+C8 C9 C10 C11 178.40(17) . .
+C8 C9 C16 C5 1.0(2) . .
+C8 C9 C16 C15 -178.76(15) . .
+C8 C25 C26 C27 -175.34(15) . .
+C9 C8 C25 C26 -80.1(2) . .
+C9 C10 C11 C12 0.9(3) . .
+C10 C9 C16 C5 -179.06(14) . .
+C10 C9 C16 C15 1.2(2) . .
+C10 C11 C12 C13 -179.77(18) . .
+C10 C11 C12 C15 0.2(3) . .
+C11 C12 C13 C14 -179.45(18) . .
+C11 C12 C15 C2 179.93(15) . .
+C11 C12 C15 C16 -0.5(2) . .
+C12 C13 C14 C1 -0.2(3) . .
+C12 C15 C16 C5 -179.95(16) . .
+C12 C15 C16 C9 -0.2(2) . .
+C13 C12 C15 C2 -0.1(2) . .
+C13 C12 C15 C16 179.45(16) . .
+C14 C1 C2 C3 -178.84(16) . .
+C14 C1 C2 C15 1.2(2) . .
+C14 C1 C17 C18 -101.70(19) . .
+C15 C2 C3 C4 0.6(2) . .
+C15 C12 C13 C14 0.6(3) . .
+C16 C5 C6 C6 -178.72(14) . 2_556
+C16 C5 C6 C7 -0.3(2) . .
+C16 C9 C10 C11 -1.6(2) . .
+C17 C1 C2 C3 2.9(2) . .
+C17 C1 C2 C15 -177.12(15) . .
+C17 C1 C14 C13 177.62(17) . .
+C17 C18 C19 C20 177.89(15) . .
+C18 C19 C20 C21 177.12(15) . .
+C19 C20 C21 C22 -179.55(16) . .
+C20 C21 C22 C23 178.06(15) . .
+C21 C22 C23 C24 179.89(17) . .
+C25 C8 C9 C10 -2.4(2) . .
+C25 C8 C9 C16 177.56(15) . .
+C25 C26 C27 C28 -176.03(15) . .
+C26 C27 C28 C29 -179.15(15) . .
+C27 C28 C29 C30 -178.17(15) . .
+C28 C29 C30 C31 179.97(15) . .
+C29 C30 C31 C32 -179.67(16) . .

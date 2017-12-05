@@ -1,0 +1,728 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-21 01:21:50 +0200 (Mon, 21 Mar 2016) $
+#$Revision: 178377 $
+#$URL: svn://www.crystallography.net/cod/cif/4/00/07/4000729.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4000729
+loop_
+_publ_author_name
+'Stefanoski, Stevce'
+'Beekman, Matt'
+'Wong-Ng, Winnie'
+'Zavalij, Peter'
+'Nolas, George S.'
+_publ_section_title
+;
+ Simple Approach for Selective Crystal Growth of Intermetallic Clathrates
+;
+_journal_issue                   6
+_journal_name_full               'Chemistry of Materials'
+_journal_page_first              1491
+_journal_paper_doi               10.1021/cm103135k
+_journal_volume                  23
+_journal_year                    2011
+_chemical_formula_moiety         'Si17, Na3'
+_chemical_formula_sum            'Na3 Si17'
+_chemical_formula_weight         546.50
+_chemical_name_common            'Sodium Silicide'
+_chemical_name_systematic
+;
+Sodium Silicide
+;
+_space_group_IT_number           227
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_Hall  '-F 4vw 2vw 3'
+_symmetry_space_group_name_H-M   'F d -3 m :2'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           'SHELXL-97 & ZCIF'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            8
+_cell_length_a                   14.7121(1)
+_cell_length_b                   14.7121(1)
+_cell_length_c                   14.7121(1)
+_cell_measurement_reflns_used    11765
+_cell_measurement_temperature    200(2)
+_cell_measurement_theta_max      32.4
+_cell_measurement_theta_min      2.4
+_cell_volume                     3184.37(4)
+_computing_cell_refinement       Apex2
+_computing_data_collection       'Apex2 (Bruker, 2005)'
+_computing_data_reduction        Apex2
+_computing_molecular_graphics    'XSHEL (Bruker, 2004)'
+_computing_publication_material  SHELXL-97
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature      200(2)
+_diffrn_detector                 'CCD area detector'
+_diffrn_detector_area_resol_mean 8.333
+_diffrn_detector_type            'Bruker Smart Apex II'
+_diffrn_measured_fraction_theta_full 1.000
+_diffrn_measured_fraction_theta_max 1.000
+_diffrn_measurement_details      610,610,610,1200
+_diffrn_measurement_device_type  'three-circle diffractometer'
+_diffrn_measurement_method       '\w and \f scans'
+_diffrn_measurement_specimen_support 'glass capillary'
+_diffrn_orient_matrix_type       standard
+_diffrn_orient_matrix_UB_11      0.0501099
+_diffrn_orient_matrix_UB_12      0.0022089
+_diffrn_orient_matrix_UB_13      0.0458741
+_diffrn_orient_matrix_UB_21      -0.0088702
+_diffrn_orient_matrix_UB_22      0.0670798
+_diffrn_orient_matrix_UB_23      0.0064657
+_diffrn_orient_matrix_UB_31      -0.0450580
+_diffrn_orient_matrix_UB_32      -0.0107528
+_diffrn_orient_matrix_UB_33      0.0497401
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0183
+_diffrn_reflns_av_sigmaI/netI    0.0040
+_diffrn_reflns_limit_h_max       20
+_diffrn_reflns_limit_h_min       -20
+_diffrn_reflns_limit_k_max       20
+_diffrn_reflns_limit_k_min       -20
+_diffrn_reflns_limit_l_max       20
+_diffrn_reflns_limit_l_min       -20
+_diffrn_reflns_number            12553
+_diffrn_reflns_theta_full        29.98
+_diffrn_reflns_theta_max         29.98
+_diffrn_reflns_theta_min         2.40
+_diffrn_source_current           30.00
+_diffrn_source_voltage           50.00
+_diffrn_standards_decay_%        0
+_exptl_absorpt_coefficient_mu    1.411
+_exptl_absorpt_correction_T_max  0.832
+_exptl_absorpt_correction_T_min  0.746
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'SADABS (Sheldrick, 1996)'
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    2.280
+_exptl_crystal_description       prism
+_exptl_crystal_F_000             2168
+_exptl_crystal_id                'NIST/Winnie 2.SS74 200K'
+_exptl_crystal_size_max          0.27
+_exptl_crystal_size_mid          0.22
+_exptl_crystal_size_min          0.13
+_refine_diff_density_max         0.203
+_refine_diff_density_min         -0.122
+_refine_diff_density_rms         0.044
+_refine_ls_extinction_coef       0.00031(4)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_ref   1.000
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     18
+_refine_ls_number_reflns         262
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.000
+_refine_ls_R_factor_all          0.0116
+_refine_ls_R_factor_gt           0.0115
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.01P)^2^+12.P], P=(max(Fo^2^,0)+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0290
+_refine_ls_wR_factor_ref         0.0290
+_reflns_number_gt                260
+_reflns_number_total             262
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            cm103135k_si_003.cif
+_cod_data_source_block           1791__Na24Si136
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_symmetry_cell_setting' value 'Cubic' changed to 'cubic' according
+to /home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary
+named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+
+ Adding full bibliography for 4000728--4000729.cif.
+;
+_cod_original_sg_symbol_H-M      Fd-3m
+_cod_database_code               4000729
+#BEGIN Tags that were not found in dictionaries:
+_diffrn_measurement_frame_width-ccd -0.30
+_diffrn_measurement_total_frames-ccd 3030
+_diffrn_measurement_frame_time-ccd 12
+_diffrn_measurement_total_time-ccd 15.00
+_diffrn_detector_distance-ccd    5.000
+_diffrn_measurement_frame_size-ccd 512
+#END Tags that were not found in dictionaries
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+3/4, -y+1/4, z+1/2'
+'-x+1/4, y+1/2, -z+3/4'
+'x+1/2, -y+3/4, -z+1/4'
+'z, x, y'
+'z+1/2, -x+3/4, -y+1/4'
+'-z+3/4, -x+1/4, y+1/2'
+'-z+1/4, x+1/2, -y+3/4'
+'y, z, x'
+'-y+1/4, z+1/2, -x+3/4'
+'y+1/2, -z+3/4, -x+1/4'
+'-y+3/4, -z+1/4, x+1/2'
+'y+3/4, x+1/4, -z+1/2'
+'-y, -x, -z'
+'y+1/4, -x+1/2, z+3/4'
+'-y+1/2, x+3/4, z+1/4'
+'x+3/4, z+1/4, -y+1/2'
+'-x+1/2, z+3/4, y+1/4'
+'-x, -z, -y'
+'x+1/4, -z+1/2, y+3/4'
+'z+3/4, y+1/4, -x+1/2'
+'z+1/4, -y+1/2, x+3/4'
+'-z+1/2, y+3/4, x+1/4'
+'-z, -y, -x'
+'x, y+1/2, z+1/2'
+'-x+3/4, -y+3/4, z+1'
+'-x+1/4, y+1, -z+5/4'
+'x+1/2, -y+5/4, -z+3/4'
+'z, x+1/2, y+1/2'
+'z+1/2, -x+5/4, -y+3/4'
+'-z+3/4, -x+3/4, y+1'
+'-z+1/4, x+1, -y+5/4'
+'y, z+1/2, x+1/2'
+'-y+1/4, z+1, -x+5/4'
+'y+1/2, -z+5/4, -x+3/4'
+'-y+3/4, -z+3/4, x+1'
+'y+3/4, x+3/4, -z+1'
+'-y, -x+1/2, -z+1/2'
+'y+1/4, -x+1, z+5/4'
+'-y+1/2, x+5/4, z+3/4'
+'x+3/4, z+3/4, -y+1'
+'-x+1/2, z+5/4, y+3/4'
+'-x, -z+1/2, -y+1/2'
+'x+1/4, -z+1, y+5/4'
+'z+3/4, y+3/4, -x+1'
+'z+1/4, -y+1, x+5/4'
+'-z+1/2, y+5/4, x+3/4'
+'-z, -y+1/2, -x+1/2'
+'x+1/2, y, z+1/2'
+'-x+5/4, -y+1/4, z+1'
+'-x+3/4, y+1/2, -z+5/4'
+'x+1, -y+3/4, -z+3/4'
+'z+1/2, x, y+1/2'
+'z+1, -x+3/4, -y+3/4'
+'-z+5/4, -x+1/4, y+1'
+'-z+3/4, x+1/2, -y+5/4'
+'y+1/2, z, x+1/2'
+'-y+3/4, z+1/2, -x+5/4'
+'y+1, -z+3/4, -x+3/4'
+'-y+5/4, -z+1/4, x+1'
+'y+5/4, x+1/4, -z+1'
+'-y+1/2, -x, -z+1/2'
+'y+3/4, -x+1/2, z+5/4'
+'-y+1, x+3/4, z+3/4'
+'x+5/4, z+1/4, -y+1'
+'-x+1, z+3/4, y+3/4'
+'-x+1/2, -z, -y+1/2'
+'x+3/4, -z+1/2, y+5/4'
+'z+5/4, y+1/4, -x+1'
+'z+3/4, -y+1/2, x+5/4'
+'-z+1, y+3/4, x+3/4'
+'-z+1/2, -y, -x+1/2'
+'x+1/2, y+1/2, z'
+'-x+5/4, -y+3/4, z+1/2'
+'-x+3/4, y+1, -z+3/4'
+'x+1, -y+5/4, -z+1/4'
+'z+1/2, x+1/2, y'
+'z+1, -x+5/4, -y+1/4'
+'-z+5/4, -x+3/4, y+1/2'
+'-z+3/4, x+1, -y+3/4'
+'y+1/2, z+1/2, x'
+'-y+3/4, z+1, -x+3/4'
+'y+1, -z+5/4, -x+1/4'
+'-y+5/4, -z+3/4, x+1/2'
+'y+5/4, x+3/4, -z+1/2'
+'-y+1/2, -x+1/2, -z'
+'y+3/4, -x+1, z+3/4'
+'-y+1, x+5/4, z+1/4'
+'x+5/4, z+3/4, -y+1/2'
+'-x+1, z+5/4, y+1/4'
+'-x+1/2, -z+1/2, -y'
+'x+3/4, -z+1, y+3/4'
+'z+5/4, y+3/4, -x+1/2'
+'z+3/4, -y+1, x+3/4'
+'-z+1, y+5/4, x+1/4'
+'-z+1/2, -y+1/2, -x'
+'-x, -y, -z'
+'x-3/4, y-1/4, -z-1/2'
+'x-1/4, -y-1/2, z-3/4'
+'-x-1/2, y-3/4, z-1/4'
+'-z, -x, -y'
+'-z-1/2, x-3/4, y-1/4'
+'z-3/4, x-1/4, -y-1/2'
+'z-1/4, -x-1/2, y-3/4'
+'-y, -z, -x'
+'y-1/4, -z-1/2, x-3/4'
+'-y-1/2, z-3/4, x-1/4'
+'y-3/4, z-1/4, -x-1/2'
+'-y-3/4, -x-1/4, z-1/2'
+'y, x, z'
+'-y-1/4, x-1/2, -z-3/4'
+'y-1/2, -x-3/4, -z-1/4'
+'-x-3/4, -z-1/4, y-1/2'
+'x-1/2, -z-3/4, -y-1/4'
+'x, z, y'
+'-x-1/4, z-1/2, -y-3/4'
+'-z-3/4, -y-1/4, x-1/2'
+'-z-1/4, y-1/2, -x-3/4'
+'z-1/2, -y-3/4, -x-1/4'
+'z, y, x'
+'-x, -y+1/2, -z+1/2'
+'x-3/4, y+1/4, -z'
+'x-1/4, -y, z-1/4'
+'-x-1/2, y-1/4, z+1/4'
+'-z, -x+1/2, -y+1/2'
+'-z-1/2, x-1/4, y+1/4'
+'z-3/4, x+1/4, -y'
+'z-1/4, -x, y-1/4'
+'-y, -z+1/2, -x+1/2'
+'y-1/4, -z, x-1/4'
+'-y-1/2, z-1/4, x+1/4'
+'y-3/4, z+1/4, -x'
+'-y-3/4, -x+1/4, z'
+'y, x+1/2, z+1/2'
+'-y-1/4, x, -z-1/4'
+'y-1/2, -x-1/4, -z+1/4'
+'-x-3/4, -z+1/4, y'
+'x-1/2, -z-1/4, -y+1/4'
+'x, z+1/2, y+1/2'
+'-x-1/4, z, -y-1/4'
+'-z-3/4, -y+1/4, x'
+'-z-1/4, y, -x-1/4'
+'z-1/2, -y-1/4, -x+1/4'
+'z, y+1/2, x+1/2'
+'-x+1/2, -y, -z+1/2'
+'x-1/4, y-1/4, -z'
+'x+1/4, -y-1/2, z-1/4'
+'-x, y-3/4, z+1/4'
+'-z+1/2, -x, -y+1/2'
+'-z, x-3/4, y+1/4'
+'z-1/4, x-1/4, -y'
+'z+1/4, -x-1/2, y-1/4'
+'-y+1/2, -z, -x+1/2'
+'y+1/4, -z-1/2, x-1/4'
+'-y, z-3/4, x+1/4'
+'y-1/4, z-1/4, -x'
+'-y-1/4, -x-1/4, z'
+'y+1/2, x, z+1/2'
+'-y+1/4, x-1/2, -z-1/4'
+'y, -x-3/4, -z+1/4'
+'-x-1/4, -z-1/4, y'
+'x, -z-3/4, -y+1/4'
+'x+1/2, z, y+1/2'
+'-x+1/4, z-1/2, -y-1/4'
+'-z-1/4, -y-1/4, x'
+'-z+1/4, y-1/2, -x-1/4'
+'z, -y-3/4, -x+1/4'
+'z+1/2, y, x+1/2'
+'-x+1/2, -y+1/2, -z'
+'x-1/4, y+1/4, -z-1/2'
+'x+1/4, -y, z-3/4'
+'-x, y-1/4, z-1/4'
+'-z+1/2, -x+1/2, -y'
+'-z, x-1/4, y-1/4'
+'z-1/4, x+1/4, -y-1/2'
+'z+1/4, -x, y-3/4'
+'-y+1/2, -z+1/2, -x'
+'y+1/4, -z, x-3/4'
+'-y, z-1/4, x-1/4'
+'y-1/4, z+1/4, -x-1/2'
+'-y-1/4, -x+1/4, z-1/2'
+'y+1/2, x+1/2, z'
+'-y+1/4, x, -z-3/4'
+'y, -x-1/4, -z-1/4'
+'-x-1/4, -z+1/4, y-1/2'
+'x, -z-1/4, -y-1/4'
+'x+1/2, z+1/2, y'
+'-x+1/4, z, -y-3/4'
+'-z-1/4, -y+1/4, x-1/2'
+'-z+1/4, y, -x-3/4'
+'z, -y-1/4, -x-1/4'
+'z+1/2, y+1/2, x'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Na1 Na 0.1250 0.1250 0.1466(7) 0.049(3) Uani 0.1666667 4 d SP
+Na2 Na 0.5000 0.0000 0.0000 0.0152(2) Uani 1 12 d S
+Si1 Si 0.6250 0.1250 0.1250 0.00613(18) Uani 1 24 d S
+Si2 Si 0.871284(19) 0.067382(13) 0.067382(13) 0.00649(8) Uani 1 2 d S
+Si3 Si 0.717951(19) 0.032049(19) 0.032049(19) 0.00636(10) Uani 1 6 d S
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Na1 0.056(4) 0.056(4) 0.034(4) 0.000 0.000 0.000(2)
+Na2 0.0152(2) 0.0152(2) 0.0152(2) -0.0011(3) -0.0011(3) -0.0011(3)
+Si1 0.00613(18) 0.00613(18) 0.00613(18) 0.000 0.000 0.000
+Si2 0.00683(13) 0.00632(9) 0.00632(9) 0.00040(9) 0.00002(6) 0.00002(6)
+Si3 0.00636(10) 0.00636(10) 0.00636(10) -0.00001(9) 0.00001(9) 0.00001(9)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Na Na 0.0362 0.0249 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Si Si 0.0817 0.0704 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+Si2 Na1 Si2 38.69(11) 83_446 34_545
+Si2 Na1 Si2 62.97(16) 83_446 176_566
+Si2 Na1 Si2 37.06(8) 34_545 176_566
+Si2 Na1 Si2 37.06(8) 83_446 148_665
+Si2 Na1 Si2 62.97(16) 34_545 148_665
+Si2 Na1 Si2 62.47(13) 176_566 148_665
+Si2 Na1 Si2 37.06(8) 83_446 150
+Si2 Na1 Si2 62.97(16) 34_545 150
+Si2 Na1 Si2 96.8(2) 176_566 150
+Si2 Na1 Si2 65.23(13) 148_665 150
+Si2 Na1 Si2 62.97(16) 83_446 171_456
+Si2 Na1 Si2 37.06(8) 34_545 171_456
+Si2 Na1 Si2 65.23(13) 176_566 171_456
+Si2 Na1 Si2 96.8(2) 148_665 171_456
+Si2 Na1 Si2 62.47(13) 150 171_456
+Si2 Na1 Si3 60.58(13) 83_446 148_665
+Si2 Na1 Si3 60.58(13) 34_545 148_665
+Si2 Na1 Si3 36.32(6) 176_566 148_665
+Si2 Na1 Si3 36.32(6) 148_665 148_665
+Si2 Na1 Si3 96.6(2) 150 148_665
+Si2 Na1 Si3 96.6(2) 171_456 148_665
+Si2 Na1 Si3 60.58(13) 83_446 171_456
+Si2 Na1 Si3 60.58(13) 34_545 171_456
+Si2 Na1 Si3 96.6(2) 176_566 171_456
+Si2 Na1 Si3 96.6(2) 148_665 171_456
+Si2 Na1 Si3 36.32(6) 150 171_456
+Si2 Na1 Si3 36.32(6) 171_456 171_456
+Si3 Na1 Si3 117.3(3) 148_665 171_456
+Si2 Na1 Si2 65.99(11) 83_446 78_455
+Si2 Na1 Si2 98.5(2) 34_545 78_455
+Si2 Na1 Si2 93.39(13) 176_566 78_455
+Si2 Na1 Si2 35.89(4) 148_665 78_455
+Si2 Na1 Si2 76.05(10) 150 78_455
+Si2 Na1 Si2 128.9(3) 171_456 78_455
+Si3 Na1 Si2 58.53(6) 148_665 78_455
+Si3 Na1 Si2 112.30(15) 171_456 78_455
+Si2 Na1 Si2 98.5(2) 83_446 27_644
+Si2 Na1 Si2 65.99(11) 34_545 27_644
+Si2 Na1 Si2 35.89(4) 176_566 27_644
+Si2 Na1 Si2 93.39(13) 148_665 27_644
+Si2 Na1 Si2 128.9(3) 150 27_644
+Si2 Na1 Si2 76.05(10) 171_456 27_644
+Si3 Na1 Si2 58.53(6) 148_665 27_644
+Si3 Na1 Si2 112.30(15) 171_456 27_644
+Si2 Na1 Si2 113.89(7) 78_455 27_644
+Si2 Na1 Si2 98.5(2) 83_446 32_534
+Si2 Na1 Si2 65.99(11) 34_545 32_534
+Si2 Na1 Si2 76.05(10) 176_566 32_534
+Si2 Na1 Si2 128.9(3) 148_665 32_534
+Si2 Na1 Si2 93.39(13) 150 32_534
+Si2 Na1 Si2 35.89(4) 171_456 32_534
+Si3 Na1 Si2 112.30(15) 148_665 32_534
+Si3 Na1 Si2 58.53(6) 171_456 32_534
+Si2 Na1 Si2 164.3(3) 78_455 32_534
+Si2 Na1 Si2 63.73(3) 27_644 32_534
+Si2 Na1 Si2 65.99(11) 83_446 76_345
+Si2 Na1 Si2 98.5(2) 34_545 76_345
+Si2 Na1 Si2 128.9(3) 176_566 76_345
+Si2 Na1 Si2 76.05(10) 148_665 76_345
+Si2 Na1 Si2 35.89(4) 150 76_345
+Si2 Na1 Si2 93.39(13) 171_456 76_345
+Si3 Na1 Si2 112.30(15) 148_665 76_345
+Si3 Na1 Si2 58.53(6) 171_456 76_345
+Si2 Na1 Si2 63.73(3) 78_455 76_345
+Si2 Na1 Si2 164.3(3) 27_644 76_345
+Si2 Na1 Si2 113.89(7) 32_534 76_345
+Si2 Na1 Si2 116.35(16) 83_446 5_545
+Si2 Na1 Si2 96.09(10) 34_545 5_545
+Si2 Na1 Si2 111.43(8) 176_566 5_545
+Si2 Na1 Si2 153.4(2) 148_665 5_545
+Si2 Na1 Si2 91.23(5) 150 5_545
+Si2 Na1 Si2 59.52(3) 171_456 5_545
+Si3 Na1 Si2 147.44(12) 148_665 5_545
+Si3 Na1 Si2 57.356(14) 171_456 5_545
+Si2 Na1 Si2 153.45(10) 78_455 5_545
+Si2 Na1 Si2 92.29(3) 27_644 5_545
+Si2 Na1 Si2 35.440(14) 32_534 5_545
+Si2 Na1 Si2 92.29(3) 76_345 5_545
+Si2 Na1 Si2 96.09(10) 83_446 1_455
+Si2 Na1 Si2 116.35(16) 34_545 1_455
+Si2 Na1 Si2 153.4(2) 176_566 1_455
+Si2 Na1 Si2 111.43(8) 148_665 1_455
+Si2 Na1 Si2 59.52(3) 150 1_455
+Si2 Na1 Si2 91.23(5) 171_456 1_455
+Si3 Na1 Si2 147.44(12) 148_665 1_455
+Si3 Na1 Si2 57.356(14) 171_456 1_455
+Si2 Na1 Si2 92.29(3) 78_455 1_455
+Si2 Na1 Si2 153.45(10) 27_644 1_455
+Si2 Na1 Si2 92.29(3) 32_534 1_455
+Si2 Na1 Si2 35.440(14) 76_345 1_455
+Si2 Na1 Si2 61.30(5) 5_545 1_455
+Si2 Na1 Si2 116.35(16) 83_446 50_554
+Si2 Na1 Si2 96.09(11) 34_545 50_554
+Si2 Na1 Si2 59.52(3) 176_566 50_554
+Si2 Na1 Si2 91.23(5) 148_665 50_554
+Si2 Na1 Si2 153.4(2) 150 50_554
+Si2 Na1 Si2 111.43(8) 171_456 50_554
+Si3 Na1 Si2 57.356(14) 148_665 50_554
+Si3 Na1 Si2 147.44(12) 171_456 50_554
+Si2 Na1 Si2 92.29(3) 78_455 50_554
+Si2 Na1 Si2 35.440(14) 27_644 50_554
+Si2 Na1 Si2 92.29(3) 32_534 50_554
+Si2 Na1 Si2 153.45(10) 76_345 50_554
+Si2 Na1 Si2 108.08(12) 5_545 50_554
+Si2 Na1 Si2 146.1(3) 1_455 50_554
+Si2 Na1 Si2 96.09(11) 83_446 55_464
+Si2 Na1 Si2 116.35(16) 34_545 55_464
+Si2 Na1 Si2 91.23(5) 176_566 55_464
+Si2 Na1 Si2 59.52(3) 148_665 55_464
+Si2 Na1 Si2 111.43(8) 150 55_464
+Si2 Na1 Si2 153.4(2) 171_456 55_464
+Si3 Na1 Si2 57.356(14) 148_665 55_464
+Si3 Na1 Si2 147.44(12) 171_456 55_464
+Si2 Na1 Si2 35.440(14) 78_455 55_464
+Si2 Na1 Si2 92.29(3) 27_644 55_464
+Si2 Na1 Si2 153.45(10) 32_534 55_464
+Si2 Na1 Si2 92.29(3) 76_345 55_464
+Si2 Na1 Si2 146.1(3) 5_545 55_464
+Si2 Na1 Si2 108.08(12) 1_455 55_464
+Si2 Na1 Si2 61.30(5) 50_554 55_464
+Si2 Na1 Si2 93.55(14) 83_446 105_556
+Si2 Na1 Si2 93.55(14) 34_545 105_556
+Si2 Na1 Si2 125.55(18) 176_566 105_556
+Si2 Na1 Si2 125.55(18) 148_665 105_556
+Si2 Na1 Si2 60.38(5) 150 105_556
+Si2 Na1 Si2 60.38(5) 171_456 105_556
+Si3 Na1 Si2 152.4(3) 148_665 105_556
+Si3 Na1 Si2 35.139(16) 171_456 105_556
+Si2 Na1 Si2 122.40(2) 78_455 105_556
+Si2 Na1 Si2 122.40(2) 27_644 105_556
+Si2 Na1 Si2 58.816(6) 32_534 105_556
+Si2 Na1 Si2 58.816(6) 76_345 105_556
+Si2 Na1 Si2 34.226(16) 5_545 105_556
+Si2 Na1 Si2 34.226(16) 1_455 105_556
+Si2 Na1 Si2 142.05(15) 50_554 105_556
+Si2 Na1 Si2 142.05(15) 55_464 105_556
+Si2 Na1 Si2 93.55(14) 83_446 132_656
+Si2 Na1 Si2 93.55(14) 34_545 132_656
+Si2 Na1 Si2 60.38(5) 176_566 132_656
+Si2 Na1 Si2 60.38(5) 148_665 132_656
+Si2 Na1 Si2 125.55(18) 150 132_656
+Si2 Na1 Si2 125.55(18) 171_456 132_656
+Si3 Na1 Si2 35.139(16) 148_665 132_656
+Si3 Na1 Si2 152.4(3) 171_456 132_656
+Si2 Na1 Si2 58.816(6) 78_455 132_656
+Si2 Na1 Si2 58.816(6) 27_644 132_656
+Si2 Na1 Si2 122.40(2) 32_534 132_656
+Si2 Na1 Si2 122.40(2) 76_345 132_656
+Si2 Na1 Si2 142.05(15) 5_545 132_656
+Si2 Na1 Si2 142.05(15) 1_455 132_656
+Si2 Na1 Si2 34.226(16) 50_554 132_656
+Si2 Na1 Si2 34.226(16) 55_464 132_656
+Si2 Na1 Si2 172.5(3) 105_556 132_656
+Si2 Na1 Si2 75.98(9) 83_446 155_564
+Si2 Na1 Si2 114.7(2) 34_545 155_564
+Si2 Na1 Si2 125.30(17) 176_566 155_564
+Si2 Na1 Si2 62.95(5) 148_665 155_564
+Si2 Na1 Si2 62.95(5) 150 155_564
+Si2 Na1 Si2 125.30(17) 171_456 155_564
+Si3 Na1 Si2 92.77(7) 148_665 155_564
+Si3 Na1 Si2 92.77(7) 171_456 155_564
+Si2 Na1 Si2 34.731(3) 78_455 155_564
+Si2 Na1 Si2 147.91(2) 27_644 155_564
+Si2 Na1 Si2 147.91(2) 32_534 155_564
+Si2 Na1 Si2 34.731(3) 76_345 155_564
+Si2 Na1 Si2 118.72(10) 5_545 155_564
+Si2 Na1 Si2 57.68(3) 1_455 155_564
+Si2 Na1 Si2 118.72(10) 50_554 155_564
+Si2 Na1 Si2 57.68(3) 55_464 155_564
+Si2 Na1 Si2 89.65(2) 105_556 155_564
+Si2 Na1 Si2 89.65(2) 132_656 155_564
+Si2 Na1 Si2 114.7(2) 83_446 178
+Si2 Na1 Si2 75.98(9) 34_545 178
+Si2 Na1 Si2 62.95(5) 176_566 178
+Si2 Na1 Si2 125.30(17) 148_665 178
+Si2 Na1 Si2 125.30(17) 150 178
+Si2 Na1 Si2 62.95(5) 171_456 178
+Si3 Na1 Si2 92.77(7) 148_665 178
+Si3 Na1 Si2 92.77(7) 171_456 178
+Si2 Na1 Si2 147.91(2) 78_455 178
+Si2 Na1 Si2 34.731(3) 27_644 178
+Si2 Na1 Si2 34.731(3) 32_534 178
+Si2 Na1 Si2 147.91(2) 76_345 178
+Si2 Na1 Si2 57.68(3) 5_545 178
+Si2 Na1 Si2 118.72(10) 1_455 178
+Si2 Na1 Si2 57.68(3) 50_554 178
+Si2 Na1 Si2 118.72(10) 55_464 178
+Si2 Na1 Si2 89.65(2) 105_556 178
+Si2 Na1 Si2 89.65(2) 132_656 178
+Si2 Na1 Si2 169.4(3) 155_564 178
+Si1 Na2 Si1 180.0 97_655 .
+Si1 Na2 Si3 42.987(8) 97_655 97_655
+Si1 Na2 Si3 137.013(8) . 97_655
+Si1 Na2 Si3 42.987(8) 97_655 123
+Si1 Na2 Si3 137.013(8) . 123
+Si3 Na2 Si3 72.383(12) 97_655 123
+Si1 Na2 Si3 137.013(8) 97_655 27_644
+Si1 Na2 Si3 42.987(8) . 27_644
+Si3 Na2 Si3 107.617(12) 97_655 27_644
+Si3 Na2 Si3 180.00(2) 123 27_644
+Si1 Na2 Si3 42.987(8) 97_655 146
+Si1 Na2 Si3 137.013(8) . 146
+Si3 Na2 Si3 72.383(12) 97_655 146
+Si3 Na2 Si3 72.383(12) 123 146
+Si3 Na2 Si3 107.617(12) 27_644 146
+Si1 Na2 Si3 137.013(8) 97_655 50_554
+Si1 Na2 Si3 42.987(8) . 50_554
+Si3 Na2 Si3 107.617(12) 97_655 50_554
+Si3 Na2 Si3 107.617(12) 123 50_554
+Si3 Na2 Si3 72.383(12) 27_644 50_554
+Si3 Na2 Si3 180.000(12) 146 50_554
+Si1 Na2 Si3 137.012(8) 97_655 .
+Si1 Na2 Si3 42.988(8) . .
+Si3 Na2 Si3 180.0 97_655 .
+Si3 Na2 Si3 107.616(12) 123 .
+Si3 Na2 Si3 72.384(12) 27_644 .
+Si3 Na2 Si3 107.616(12) 146 .
+Si3 Na2 Si3 72.384(12) 50_554 .
+Si1 Na2 Si2 108.907(4) 97_655 50_554
+Si1 Na2 Si2 71.093(4) . 50_554
+Si3 Na2 Si2 68.850(8) 97_655 50_554
+Si3 Na2 Si2 109.035(4) 123 50_554
+Si3 Na2 Si2 70.965(4) 27_644 50_554
+Si3 Na2 Si2 138.222(6) 146 50_554
+Si3 Na2 Si2 41.778(6) 50_554 50_554
+Si3 Na2 Si2 111.150(8) . 50_554
+Si1 Na2 Si2 71.093(4) 97_655 102_655
+Si1 Na2 Si2 108.907(4) . 102_655
+Si3 Na2 Si2 70.965(4) 97_655 102_655
+Si3 Na2 Si2 41.778(6) 123 102_655
+Si3 Na2 Si2 138.222(6) 27_644 102_655
+Si3 Na2 Si2 111.150(8) 146 102_655
+Si3 Na2 Si2 68.850(8) 50_554 102_655
+Si3 Na2 Si2 109.035(4) . 102_655
+Si2 Na2 Si2 69.970(4) 50_554 102_655
+Si1 Na2 Si2 108.907(4) 97_655 31_554
+Si1 Na2 Si2 71.093(4) . 31_554
+Si3 Na2 Si2 138.222(6) 97_655 31_554
+Si3 Na2 Si2 109.035(4) 123 31_554
+Si3 Na2 Si2 70.965(4) 27_644 31_554
+Si3 Na2 Si2 68.850(8) 146 31_554
+Si3 Na2 Si2 111.150(8) 50_554 31_554
+Si3 Na2 Si2 41.777(6) . 31_554
+Si2 Na2 Si2 139.099(7) 50_554 31_554
+Si2 Na2 Si2 138.378(9) 102_655 31_554
+Si1 Na2 Si2 71.093(4) 97_655 127_645
+Si1 Na2 Si2 108.907(4) . 127_645
+Si3 Na2 Si2 41.778(6) 97_655 127_645
+Si3 Na2 Si2 70.965(4) 123 127_645
+Si3 Na2 Si2 109.035(4) 27_644 127_645
+Si3 Na2 Si2 111.150(8) 146 127_645
+Si3 Na2 Si2 68.850(8) 50_554 127_645
+Si3 Na2 Si2 138.223(6) . 127_645
+Si2 Na2 Si2 40.901(7) 50_554 127_645
+Si2 Na2 Si2 41.622(9) 102_655 127_645
+Si2 Na2 Si2 180.000(9) 31_554 127_645
+Si3 Si1 Si3 109.471(1) 76_445 27_644
+Si3 Si1 Si3 109.471(1) 76_445 50_554
+Si3 Si1 Si3 109.471(1) 27_644 50_554
+Si3 Si1 Si3 109.471(1) 76_445 .
+Si3 Si1 Si3 109.471(1) 27_644 .
+Si3 Si1 Si3 109.471(1) 50_554 .
+Si2 Si2 Si2 119.812(2) 105_656 101_665
+Si2 Si2 Si3 105.277(14) 105_656 .
+Si2 Si2 Si3 105.277(14) 101_665 .
+Si2 Si2 Si2 108.904(11) 105_656 76_445
+Si2 Si2 Si2 108.904(11) 101_665 76_445
+Si3 Si2 Si2 108.050(13) . 76_445
+Si1 Si3 Si2 107.215(13) . .
+Si1 Si3 Si2 107.215(13) . 82_545
+Si2 Si3 Si2 111.630(12) . 82_545
+Si1 Si3 Si2 107.215(13) . 31_554
+Si2 Si3 Si2 111.630(12) . 31_554
+Si2 Si3 Si2 111.630(12) 82_545 31_554
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na1 Si2 3.619(10) 83_446
+Na1 Si2 3.619(10) 34_545
+Na1 Si2 3.785(7) 176_566
+Na1 Si2 3.785(7) 148_665
+Na1 Si2 3.785(7) 150
+Na1 Si2 3.785(7) 171_456
+Na1 Si3 3.827(5) 148_665
+Na1 Si3 3.827(5) 171_456
+Na1 Si2 3.8642(15) 78_455
+Na1 Si2 3.8642(15) 27_644
+Na1 Si2 3.8642(15) 32_534
+Na1 Si2 3.8642(15) 76_345
+Na1 Si2 4.001(3) 5_545
+Na1 Si2 4.001(3) 1_455
+Na1 Si2 4.001(3) 50_554
+Na1 Si2 4.001(3) 55_464
+Na1 Si2 4.0114(7) 105_556
+Na1 Si2 4.0114(7) 132_656
+Na1 Si2 4.0201(10) 155_564
+Na1 Si2 4.0201(10) 178
+Na2 Si1 3.1853(1) 97_655
+Na2 Si1 3.1853(1) .
+Na2 Si3 3.27509(19) 97_655
+Na2 Si3 3.2751(2) 123
+Na2 Si3 3.2751(2) 27_644
+Na2 Si3 3.27509(19) 146
+Na2 Si3 3.27509(19) 50_554
+Na2 Si3 3.2751(2) .
+Na2 Si2 3.37416(18) 50_554
+Na2 Si2 3.37416(18) 102_655
+Na2 Si2 3.37416(18) 31_554
+Na2 Si2 3.37416(18) 127_645
+Si1 Si3 2.3685(5) 76_445
+Si1 Si3 2.3685(5) 27_644
+Si1 Si3 2.3685(5) 50_554
+Si1 Si3 2.3686(5) .
+Si2 Si2 2.3578(3) 105_656
+Si2 Si2 2.3578(3) 101_665
+Si2 Si3 2.3726(3) .
+Si2 Si2 2.3976(6) 76_445
+Si3 Si1 2.3686(5) .
+Si3 Si2 2.3726(3) .
+Si3 Si2 2.3726(3) 82_545
+Si3 Si2 2.3726(3) 31_554

@@ -1,0 +1,101 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 14:49:47 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176465 $
+#$URL: svn://www.crystallography.net/cod/cif/9/01/34/9013492.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9013492
+loop_
+_publ_author_name
+'Hirose, T.'
+'Kihara, K.'
+'Okuno, M.'
+'Fujinami, S.'
+'Shinoda, K.'
+_publ_section_title
+;
+ X-ray, DTA and Raman studies of monoclinic tridymite and its higher
+ temperature orthorhombic modification with varying temperature.
+ Locality: synthetic
+ Note: T = 373 K
+;
+_journal_name_full
+'Journal of Mineralogical and Petrological Sciences'
+_journal_page_first              55
+_journal_page_last               69
+_journal_paper_doi               10.2465/jmps.100.55
+_journal_volume                  100
+_journal_year                    2005
+_chemical_formula_structural     SiO2
+_chemical_formula_sum            'O2 Si'
+_chemical_name_mineral           Tridymite
+_space_group_IT_number           9
+_symmetry_space_group_name_Hall  'A -2ya'
+_symmetry_space_group_name_H-M   'A 1 a 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 117.72
+_cell_angle_gamma                90
+_cell_length_a                   25.919
+_cell_length_b                   5.004
+_cell_length_c                   18.540
+_cell_volume                     2128.639
+_diffrn_ambient_temperature      373
+_exptl_crystal_density_diffrn    2.250
+_cod_original_formula_sum        'Si O2'
+_cod_database_code               9013492
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,-y,z
+1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 -0.01790 0.70130 0.03140
+Si2 0.01120 0.20060 -0.03830
+Si3 0.14690 0.21210 0.04590
+Si4 0.18140 0.71320 -0.01510
+Si5 0.30980 0.70840 0.01260
+Si6 0.34810 0.21140 -0.04440
+Si7 0.04200 0.79420 0.21930
+Si8 0.11630 0.29500 0.29780
+Si9 0.20610 0.30770 0.23290
+Si10 0.28360 0.80560 0.27120
+Si11 0.36870 0.70120 0.20160
+Si12 0.44370 0.20100 0.27150
+O1 -0.08380 0.75200 0.01160
+O2 -0.00080 0.90300 -0.01990
+O3 -0.01220 0.39800 0.00720
+O4 0.07830 0.24900 -0.01050
+O5 0.18000 0.41600 0.01590
+O6 0.16570 -0.08800 0.03990
+O7 0.24370 0.77400 -0.00740
+O8 0.31250 0.41300 -0.01670
+O9 0.32890 -0.08900 -0.03650
+O10 0.02310 0.74500 0.12490
+O11 0.16250 0.26700 0.13780
+O12 0.35270 0.73800 0.10870
+O13 -0.01330 0.74900 0.23260
+O14 0.06510 0.09500 0.24230
+O15 0.09390 0.59500 0.27510
+O16 0.17230 0.24900 0.28530
+O17 0.23040 0.60700 0.25020
+O18 0.25950 0.10700 0.26060
+O19 0.31140 0.75600 0.21200
+O20 0.39020 0.40300 0.22990
+O21 0.41970 0.90300 0.25580
+O22 0.13380 0.24400 0.39140
+O23 0.33390 0.76300 0.36290
+O24 0.47690 0.25000 0.36580

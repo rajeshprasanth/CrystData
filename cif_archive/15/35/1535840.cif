@@ -1,0 +1,96 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-10 00:11:18 +0300 (Sat, 10 Oct 2015) $
+#$Revision: 163327 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/58/1535840.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1535840
+loop_
+_publ_author_name
+'Carillo-Cabrera, W.'
+'Grin', Yu.'
+'Borrmann, H.'
+'Baenitz, M.'
+'Paschen, S.'
+'Steglich, F.'
+_publ_section_title
+;
+ Ba6 Ge25: low-temperature Ge-Ge bond breaking during temperature-induced
+ structure transformation
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              715
+_journal_page_last               728
+_journal_volume                  178
+_journal_year                    2005
+_chemical_formula_sum            'Ba6 Ge25'
+_chemical_name_systematic        'Ba6 Ge25'
+_space_group_IT_number           213
+_symmetry_space_group_name_Hall  'P 4bd 2ab 3'
+_symmetry_space_group_name_H-M   'P 41 3 2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   14.5502
+_cell_length_b                   14.5502
+_cell_length_c                   14.5502
+_cell_volume                     3080.398
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            Carillo-Cabrera_JSSCBI_2005_1769.cif
+_cod_data_source_block           Ba6Ge25
+_cod_original_cell_volume        3080.399
+_cod_database_code               1535840
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y+1/4,x+3/4,z+1/4
+-x+1/2,-y,z+1/2
+y+1/4,-x+1/4,z+3/4
+x+1/2,-y+1/2,-z
+y+3/4,x+1/4,-z+1/4
+-x,y+1/2,-z+1/2
+-y+3/4,-x+3/4,-z+3/4
+z,x,y
+-x+1/4,z+3/4,y+1/4
+-z+1/2,-x,y+1/2
+x+1/4,-z+1/4,y+3/4
+z+1/2,-x+1/2,-y
+x+3/4,z+1/4,-y+1/4
+-z,x+1/2,-y+1/2
+-x+3/4,-z+3/4,-y+3/4
+y,z,x
+y+1/2,-z+1/2,-x
+z+3/4,y+1/4,-x+1/4
+-y,z+1/2,-x+1/2
+-z+3/4,-y+3/4,-x+3/4
+-y+1/2,-z,x+1/2
+z+1/4,-y+1/4,x+3/4
+-z+1/4,y+3/4,x+1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ge5 Ge 0.1938 0.8079 0.0238 0.14 0.0
+Ge2 Ge 0.92504 0.92504 0.92504 1 0.0
+Ge7 Ge 0.9086 0.0781 0.8535 0.28 0.0
+Ge4 Ge 0.125 0.83332 0.08332 0.72 0.0
+Ba2 Ba 0.125 0.181 0.431 0.257 0.0
+Ge3 Ge 0.21733 0.21733 0.21733 1 0.0
+Ge8 Ge 0.18591 0.99085 0.87724 1 0.0
+Ge1 Ge 0.29333 0.95284 0.75118 1 0.0
+Ba1 Ba 0.0641 0.0484 0.0679 0.33 0.0
+Ge6 Ge 0.9176 0.0872 0.8543 0.72 0.0
+Ba3 Ba 0.1574 0.1862 0.4423 0.248 0.0
+Ba4 Ba 0.1921 0.1997 0.4629 0.124 0.0
+Ba5 Ba 0.36211 0.36211 0.36211 0.5 0.0

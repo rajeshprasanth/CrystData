@@ -1,0 +1,97 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-09-06 16:03:55 +0300 (Sun, 06 Sep 2015) $
+#$Revision: 154834 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/99/1529922.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1529922
+loop_
+_publ_author_name
+'Fawcett, J.'
+'Holloway, J.H.'
+'Edwards, A.J.'
+'Russell, D.R.'
+'Khallow, K.I.'
+_publ_section_title
+;
+ Preparations and the crystal structure of 3(Sb F3) 4(Sb F5)
+;
+_journal_name_full               'Canadian Journal of Chemistry'
+_journal_page_first              2041
+_journal_page_last               2046
+_journal_volume                  67
+_journal_year                    1989
+_chemical_formula_sum            'F29 Sb7'
+_chemical_name_systematic        'Sb3 Sb4 F29'
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 100.3
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   8.547
+_cell_length_b                   13.521
+_cell_length_c                   19.551
+_cell_volume                     2222.982
+_citation_journal_id_ASTM        CJCHAG
+_cod_data_source_file            Fawcett_CJCHAG_1989_1934.cif
+_cod_data_source_block           F29Sb7
+_cod_original_cell_volume        2222.981
+_cod_database_code               1529922
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z+1/2
+-x,-y,-z
+x,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+F1 F-1 0.0075 0.7766 0.2188 1 0.0
+F19 F-1 0.0583 0.0816 0.046 1 0.0
+Sb3 Sb+3 0.11366 0.05941 0.14033 1 0.0
+F11 F-1 0.3373 0.658 0.2864 1 0.0
+F5 F-1 0.8014 0.6542 0.1267 1 0.0
+F20 F-1 0.3462 0.5012 0.1356 1 0.0
+F25 F-1 0.6774 0.9811 0.0215 1 0.0
+F22 F-1 0.1188 0.365 0.079 1 0.0
+F2 F-1 0.2837 0.7567 0.1681 1 0.0
+Sb6 Sb+5 0.65467 0.97298 0.11433 1 0.0
+Sb1 Sb+3 0.01218 0.75489 0.12717 1 0.0
+F18 F-1 0.0982 0.1896 0.1602 1 0.0
+F17 F-1 0.1472 0.0272 0.2347 1 0.0
+F10 F-1 0.4749 0.8516 0.065 1 0.0
+F23 F-1 0.079 0.5599 0.0522 1 0.0
+F3 F-1 0.1029 0.9192 0.1239 1 0.0
+F26 F-1 0.3942 0.8451 -0.0741 1 0.0
+F29 F-1 0.3947 0.6462 -0.0681 1 0.0
+F12 F-1 0.5632 0.6677 0.2132 1 0.0
+F7 F-1 0.885 0.0447 0.1421 1 0.0
+F8 F-1 0.8962 0.4647 0.1273 1 0.0
+Sb7 Sb+5 0.43602 0.7498 -0.00372 1 0.0
+F24 F-1 0.6735 0.5321 0.0228 1 0.0
+F21 F-1 0.1567 0.4225 0.2161 1 0.0
+F4 F-1 0.0984 0.6016 0.1749 1 0.0
+F6 F-1 0.7968 0.8561 0.1208 1 0.0
+F16 F-1 0.329 0.0544 0.137 1 0.0
+F28 F-1 0.6484 0.7509 -0.0086 1 0.0
+F27 F-1 0.2241 0.7515 0.0095 1 0.0
+F13 F-1 0.5419 0.8599 0.2097 1 0.0
+F15 F-1 0.5968 0.7697 0.3327 1 0.0
+Sb5 Sb+5 0.6646 0.53438 0.11734 1 0.0
+F9 F-1 0.4796 0.6562 0.0703 1 0.0
+Sb4 Sb+5 0.12638 0.47865 0.12898 1 0.0
+F14 F-1 0.3194 0.8565 0.2857 1 0.0
+Sb2 Sb+3 0.44405 0.76096 0.25261 1 0.0

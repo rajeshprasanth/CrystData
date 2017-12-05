@@ -1,0 +1,94 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 14:50:18 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176428 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/73/1537387.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1537387
+loop_
+_publ_author_name
+'Hariharan, A.V.'
+'Powell, D.R.'
+'Jacobson, R.A.'
+'Franzen, H.F.'
+_publ_section_title
+;
+ The Crystal Structure of Lu3 S4: A New Population wave Structure
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              148
+_journal_page_last               150
+_journal_volume                  36
+_journal_year                    1981
+_chemical_formula_sum            'Lu2.25 S3'
+_chemical_name_systematic        '(Lu3 S4).75'
+_space_group_IT_number           70
+_symmetry_space_group_name_Hall  'F 2 2 -1d'
+_symmetry_space_group_name_H-M   'F d d d :1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   10.747
+_cell_length_b                   22.813
+_cell_length_c                   7.602
+_cell_volume                     1863.792
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            Hariharan_JSSCBI_1981_1324.cif
+_cod_data_source_block           Lu2.25S3
+_cod_original_sg_symbol_Hall     '-F 2uv 2vw (x+1/8,y+1/8,z+1/8)'
+_cod_database_code               1537387
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y+1/2,z
+x,-y+1/2,-z+1/2
+-x+1/2,y,-z+1/2
+-x+1/4,-y+1/4,-z+1/4
+x-1/4,y-1/4,-z+1/4
+-x+1/4,y-1/4,z-1/4
+x-1/4,-y+1/4,z-1/4
+x,y+1/2,z+1/2
+-x+1/2,-y+1,z+1/2
+x,-y+1,-z+1
+-x+1/2,y+1/2,-z+1
+-x+1/4,-y+3/4,-z+3/4
+x-1/4,y+1/4,-z+3/4
+-x+1/4,y+1/4,z+1/4
+x-1/4,-y+3/4,z+1/4
+x+1/2,y,z+1/2
+-x+1,-y+1/2,z+1/2
+x+1/2,-y+1/2,-z+1
+-x+1,y,-z+1
+-x+3/4,-y+1/4,-z+3/4
+x+1/4,y-1/4,-z+3/4
+-x+3/4,y-1/4,z+1/4
+x+1/4,-y+1/4,z+1/4
+x+1/2,y+1/2,z
+-x+1,-y+1,z
+x+1/2,-y+1,-z+1/2
+-x+1,y+1/2,-z+1/2
+-x+3/4,-y+3/4,-z+1/4
+x+1/4,y+1/4,-z+1/4
+-x+3/4,y+1/4,z-1/4
+x+1/4,-y+3/4,z-1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Lu1 Lu+2 0 0 0 0.54 0.0
+Lu2 Lu+2 0 0 0.5 0.84 0.0
+Lu4 Lu+2 0 0.1661 0 0.75 0.0
+S2 S-2 0.25 0.16667 0 1 0.0
+S1 S-2 0.25 0 0 1 0.0
+Lu3 Lu+2 0 0.3327 0 0.83 0.0
