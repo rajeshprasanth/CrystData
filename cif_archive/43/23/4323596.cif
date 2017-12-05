@@ -1,0 +1,1011 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-23 15:37:02 +0200 (Wed, 23 Mar 2016) $
+#$Revision: 179338 $
+#$URL: svn://www.crystallography.net/cod/cif/4/32/35/4323596.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4323596
+loop_
+_publ_author_name
+'J. T. Vaughey'
+'John D. Corbett'
+_publ_contact_author
+;           
+                          John D. Corbett
+                          Ames Laboratory
+                          Iowa State University
+                          Ames, IA 50011
+;
+_publ_contact_author_email       ' jdc@ameslab.gov '
+_publ_contact_author_fax         ' 515-294-5718 '
+_publ_contact_author_phone       ' 515-294-'
+_publ_section_title
+;
+ Na5Sn13: A New Zintl Phase with a Complex Network Structure Constructed
+ from Tin Pentagons
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              4316
+_journal_page_last               4320
+_journal_paper_doi               10.1021/ic9703181
+_journal_volume                  36
+_journal_year                    1997
+_chemical_compound_source        'stoichiometric reaction of elements'
+_chemical_formula_sum            'Na5 Sn13'
+_chemical_formula_weight         1657.92
+_space_group_IT_number           63
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      63
+_symmetry_space_group_name_Hall  '-C 2c 2'
+_symmetry_space_group_name_H-M   'C m c m'
+_audit_creation_date             'Wed Mar 26 16:37:05 1997'
+_audit_creation_method           'from TEXRAY.INF file'
+_audit_update_record             'updated by J. Vaughey'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   8.979(1)
+_cell_length_b                   19.448(6)
+_cell_length_c                   50.43(2)
+_cell_measurement_reflns_used    0
+_cell_measurement_temperature    273.2
+_cell_measurement_theta_max      0.0
+_cell_measurement_theta_min      0.0
+_cell_volume                     8806(5)
+_computing_cell_refinement       'MSC/AFC Diffractometer Control'
+_computing_data_collection       'MSC/AFC Diffractometer Control'
+_computing_data_reduction        teXsan
+_computing_publication_material  teXsan
+_computing_structure_refinement  teXsan
+_computing_structure_solution    SHELXS86
+_diffrn_ambient_temperature      273.2
+_diffrn_measurement_device       CAD4
+_diffrn_measurement_method       'omega scans with profile analysis'
+_diffrn_orient_matrix_UB_11      -0.01572
+_diffrn_orient_matrix_UB_12      -0.02462
+_diffrn_orient_matrix_UB_13      0.01721
+_diffrn_orient_matrix_UB_21      -0.02173
+_diffrn_orient_matrix_UB_22      -0.04336
+_diffrn_orient_matrix_UB_23      -0.00994
+_diffrn_orient_matrix_UB_31      0.10836
+_diffrn_orient_matrix_UB_32      -0.01224
+_diffrn_orient_matrix_UB_33      0.00058
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'X-ray tube'
+_diffrn_radiation_type           MoKalpha
+_diffrn_radiation_wavelength     0.7107
+_diffrn_reflns_av_R_equivalents  22.18
+_diffrn_reflns_limit_h_max       0
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       0
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       0
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            8059
+_diffrn_reflns_theta_max         25.01
+_diffrn_standards_decay_%        -8.80
+_diffrn_standards_interval_count 0
+_diffrn_standards_number         3
+_exptl_absorpt_coefficient_mu    14.615
+_exptl_absorpt_correction_T_max  1.811
+_exptl_absorpt_correction_T_min  0.604
+_exptl_absorpt_correction_type   refdelf
+_exptl_absorpt_process_details   Walker&Stuart_DIFABS
+_exptl_crystal_colour            silver
+_exptl_crystal_density_diffrn    5.002
+_exptl_crystal_density_meas      0.000
+_exptl_crystal_description       'irregular plate'
+_exptl_crystal_F_000             11280.00
+_exptl_crystal_size_max          0.050
+_exptl_crystal_size_mid          0.250
+_exptl_crystal_size_min          0.400
+_refine_diff_density_max         -3.47
+_refine_diff_density_min         4.51
+_refine_ls_extinction_coef       0.00000
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_obs   2.241
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     194
+_refine_ls_number_reflns         2152
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_obs          0.0666
+_refine_ls_shift/esd_max         0.0075
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_obs         0.0824
+_reflns_number_observed          2152
+_reflns_number_total             8059
+_reflns_observed_criterion       3.00
+_cod_data_source_file            ic9703181.cif
+_cod_data_source_block           Na5Sn13_MS_No.IC9703181
+_cod_original_cell_volume        8806(7)
+_cod_original_sg_symbol_H-M      'C m c m '
+_cod_database_code               4323596
+loop_
+_symmetry_equiv_pos_as_xyz
+'   +x,   +y,   +z'
+'1/2+x,1/2+y,   +z'
+'   +x,   -y,   -z'
+'1/2+x,1/2-y,   -z'
+'   +x,   +y,1/2-z'
+1/2+x,1/2+y,1/2-z
+'   +x,   -y,1/2+z'
+1/2+x,1/2-y,1/2+z
+'   -x,   -y,   -z'
+'1/2-x,1/2-y,   -z'
+'   -x,   +y,   +z'
+'1/2-x,1/2+y,   +z'
+'   -x,   -y,1/2+z'
+1/2-x,1/2-y,1/2+z
+'   -x,   +y,1/2-z'
+1/2-x,1/2+y,1/2-z
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn(1) 0.024(3) 0.016(2) 0.019(2) 0.0000 0.0000 -0.001(1)
+Sn(2) 0.013(3) 0.019(2) 0.016(2) 0.0000 0.0000 -0.001(1)
+Sn(3) 0.018(3) 0.021(2) 0.019(2) 0.0000 0.0000 -0.001(1)
+Sn(4) 0.014(3) 0.016(2) 0.022(2) 0.0000 0.0000 0.000(1)
+Sn(5) 0.021(3) 0.017(2) 0.021(2) 0.0000 0.0000 -0.001(1)
+Sn(6) 0.019(3) 0.015(2) 0.020(2) 0.0000 0.0000 0.000(1)
+Sn(7) 0.024(3) 0.021(2) 0.021(2) 0.0000 0.0000 -0.001(2)
+Sn(8) 0.016(3) 0.013(2) 0.018(2) 0.0000 0.0000 0.001(1)
+Sn(9) 0.018(2) 0.015(1) 0.021(1) 0.001(2) -0.003(1) 0.0001(10)
+Sn(10) 0.016(3) 0.019(2) 0.014(2) 0.0000 0.0000 -0.002(1)
+Sn(11) 0.028(2) 0.019(1) 0.022(1) 0.000(2) -0.008(1) -0.0016(10)
+Sn(12) 0.020(3) 0.017(2) 0.020(2) 0.0000 0.0000 -0.001(1)
+Sn(13) 0.017(2) 0.021(1) 0.024(1) -0.006(2) 0.004(1) 0.002(1)
+Sn(14) 0.017(2) 0.019(1) 0.014(1) 0.000(2) 0.000(1) -0.0015(10)
+Sn(15) 0.014(2) 0.016(1) 0.017(1) -0.001(1) 0.000(1) -0.0012(9)
+Sn(16) 0.040(4) 0.036(2) 0.017(2) 0.0000 0.0000 0.002(2)
+Sn(17) 0.018(2) 0.017(1) 0.027(1) 0.001(2) 0.001(1) -0.0013(10)
+Sn(18) 0.013(2) 0.019(1) 0.017(1) 0.002(1) 0.003(1) 0.0009(10)
+Sn(19) 0.022(3) 0.015(2) 0.017(2) -0.001(2) 0.0000 0.0000
+Na(1) 0.01(3) 0.05(2) 0.06(2) 0.0000 0.0000 0.0000
+Na(2) 0.03(3) 0.04(2) 0.03(2) 0.0000 0.0000 0.0000
+Na(3) 0.06(3) 0.03(1) 0.02(1) 0.0000 0.0000 -0.006(9)
+Na(4) 0.00(2) 0.02(1) 0.04(1) 0.0000 0.0000 0.005(9)
+Na(5) 0.03(2) 0.05(1) 0.04(1) 0.0000 0.0000 0.02(1)
+Na(6) 0.06(4) 0.01(1) 0.02(1) 0.0000 0.0000 0.0000
+Na(7) 0.03(2) 0.04(1) 0.05(1) 0.0000 0.0000 0.00(1)
+Na(8) 0.08(2) 0.044(9) 0.017(7) 0.00(1) -0.01(1) -0.001(7)
+Na(9) 0.05(2) 0.030(8) 0.05(1) 0.01(1) -0.02(1) -0.004(7)
+Na(10) 0.11(7) 0.10(4) 0.06(3) 0.0000 0.0000 0.0000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+_atom_site_calc_flag
+_atom_site_calc_attached_atom
+Sn(1) 0.0000 0.4023(2) 0.44908(7) 0.0197 Uij ? ?
+Sn(2) 0.5000 0.5008(2) 0.34765(7) 0.0159 Uij ? ?
+Sn(3) 0.5000 0.3701(2) 0.41908(7) 0.0191 Uij ? ?
+Sn(4) 0.0000 0.5832(2) 0.30908(7) 0.0171 Uij ? ?
+Sn(5) 0.5000 0.3609(2) 0.33038(7) 0.0195 Uij ? ?
+Sn(6) 0.0000 0.2802(2) 0.41811(7) 0.0182 Uij ? ?
+Sn(7) 0.5000 0.2718(2) 0.46127(7) 0.0219 Uij ? ?
+Sn(8) 0.0000 0.3414(2) 0.32173(7) 0.0155 Uij ? ?
+Sn(9) 0.2668(4) 0.4689(1) 0.43122(5) 0.0178 Uij ? ?
+Sn(10) 0.0000 0.4745(2) 0.34664(6) 0.0161 Uij ? ?
+Sn(11) 0.2992(5) 0.5848(1) 0.46863(5) 0.0230 Uij ? ?
+Sn(12) 0.5000 0.5936(2) 0.30301(7) 0.0189 Uij ? ?
+Sn(13) 0.1612(4) 0.6722(1) 0.37787(5) 0.0206 Uij ? ?
+Sn(14) 0.2368(4) 0.5277(1) 0.37812(4) 0.0167 Uij ? ?
+Sn(15) -0.2464(4) 0.5291(1) 0.27909(4) 0.0155 Uij ? ?
+Sn(16) 0.0000 0.4285(2) 0.50624(7) 0.0309 Uij ? ?
+Sn(17) 0.2641(4) 0.2028(1) 0.43334(5) 0.0208 Uij ? ?
+Sn(18) 0.2644(4) 0.3833(1) 0.29340(4) 0.0163 Uij ? ?
+Sn(19) 0.3345(6) 0.2901(2) 0.2500 0.0180 Uij ? ?
+Na(1) 0.0000 0.416(2) 0.2500 0.0390 Uij ? ?
+Na(2) 0.5000 0.444(2) 0.2500 0.0327 Uij ? ?
+Na(3) 0.5000 0.431(1) 0.4795(4) 0.0378 Uij ? ?
+Na(4) 0.0000 0.577(1) 0.4254(4) 0.0199 Uij ? ?
+Na(5) 0.0000 0.198(1) 0.3573(5) 0.0402 Uij ? ?
+Na(6) 1.0000 0.357(1) 0.7500 0.0299 Uij ? ?
+Na(7) 1.0000 0.095(1) 0.0859(4) 0.0373 Uij ? ?
+Na(8) 0.257(3) 0.1579(8) 0.6247(3) 0.0474 Uij ? ?
+Na(9) 0.285(3) 0.2166(8) 0.1872(3) 0.0439 Uij ? ?
+Na(10) 1.0000 0.198(3) 0.2500 0.0886 Uij ? ?
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_number_in_cell
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Na 0 80 0.036 0.025 'International Tables'
+Sn 0 208 -0.654 1.425 'International Tables'
+loop_
+_diffrn_standard_refln_index_h
+_diffrn_standard_refln_index_k
+_diffrn_standard_refln_index_l
+? ? ?
+? ? ?
+? ? ?
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+SN6 SN1 SN9 101.82(10) ? ? ? yes
+SN6 SN1 SN9 101.82(10) ? ? ? yes
+SN6 SN1 SN16 133.3(2) ? ? ? yes
+SN6 SN1 NA4 127.3(3) ? ? ? yes
+SN9 SN1 SN9 113.3(2) ? ? ? yes
+SN9 SN1 SN16 103.34(10) ? ? ? yes
+SN9 SN1 NA4 57.99(10) ? ? ? yes
+SN9 SN1 SN16 103.34(10) ? ? ? yes
+SN9 SN1 NA4 57.99(10) ? ? ? yes
+SN16 SN1 NA4 99.3(3) ? ? ? yes
+SN5 SN2 SN12 111.0(2) ? ? ? yes
+SN5 SN2 SN14 109.7(1) ? ? ? yes
+SN5 SN2 SN14 109.7(1) ? ? ? yes
+SN12 SN2 SN14 107.7(1) ? ? ? yes
+SN12 SN2 SN14 107.7(1) ? ? ? yes
+SN14 SN2 SN14 111.0(2) ? ? ? yes
+SN7 SN3 SN9 106.6(1) ? ? ? yes
+SN7 SN3 SN9 106.6(1) ? ? ? yes
+SN7 SN3 NA3 63.2(4) ? ? ? yes
+SN7 SN3 NA8 113.2(3) ? ? ? yes
+SN7 SN3 NA8 113.2(3) ? ? ? yes
+SN9 SN3 SN9 92.1(2) ? ? ? yes
+SN9 SN3 NA3 64.2(2) ? ? ? yes
+SN9 SN3 NA8 140.1(3) ? ? ? yes
+SN9 SN3 NA8 75.0(4) ? ? ? yes
+SN9 SN3 NA3 64.2(2) ? ? ? yes
+SN9 SN3 NA8 75.0(4) ? ? ? yes
+SN9 SN3 NA8 140.1(3) ? ? ? yes
+NA3 SN3 NA8 134.1(4) ? ? ? yes
+NA3 SN3 NA8 134.1(4) ? ? ? yes
+NA8 SN3 NA8 90.9(8) ? ? ? yes
+SN10 SN4 SN15 94.5(1) ? ? ? yes
+SN10 SN4 SN15 94.5(1) ? ? ? yes
+SN10 SN4 NA6 153.4(5) ? ? ? yes
+SN10 SN4 NA9 123.9(3) ? ? ? yes
+SN10 SN4 NA9 123.9(3) ? ? ? yes
+SN15 SN4 SN15 100.5(2) ? ? ? yes
+SN15 SN4 NA6 69.2(3) ? ? ? yes
+SN15 SN4 NA9 141.3(4) ? ? ? yes
+SN15 SN4 NA9 82.2(4) ? ? ? yes
+SN15 SN4 NA6 69.2(3) ? ? ? yes
+SN15 SN4 NA9 82.2(4) ? ? ? yes
+SN15 SN4 NA9 141.3(4) ? ? ? yes
+NA6 SN4 NA9 76.1(5) ? ? ? yes
+NA6 SN4 NA9 76.1(5) ? ? ? yes
+NA9 SN4 NA9 73.1(9) ? ? ? yes
+SN2 SN5 SN18 93.1(1) ? ? ? yes
+SN2 SN5 SN18 93.1(1) ? ? ? yes
+SN2 SN5 NA8 84.0(3) ? ? ? yes
+SN2 SN5 NA8 84.0(3) ? ? ? yes
+SN2 SN5 NA9 146.7(4) ? ? ? yes
+SN2 SN5 NA9 146.7(4) ? ? ? yes
+SN18 SN5 SN18 95.7(2) ? ? ? yes
+SN18 SN5 NA8 176.2(4) ? ? ? yes
+SN18 SN5 NA8 86.9(4) ? ? ? yes
+SN18 SN5 NA9 63.3(3) ? ? ? yes
+SN18 SN5 NA9 111.3(3) ? ? ? yes
+SN18 SN5 NA8 86.9(4) ? ? ? yes
+SN18 SN5 NA8 176.2(4) ? ? ? yes
+SN18 SN5 NA9 111.3(3) ? ? ? yes
+SN18 SN5 NA9 63.3(3) ? ? ? yes
+NA8 SN5 NA8 90.3(8) ? ? ? yes
+NA8 SN5 NA9 118.4(5) ? ? ? yes
+NA8 SN5 NA9 72.4(4) ? ? ? yes
+NA8 SN5 NA9 72.4(4) ? ? ? yes
+NA8 SN5 NA9 118.4(5) ? ? ? yes
+NA9 SN5 NA9 66.5(8) ? ? ? yes
+SN1 SN6 SN17 106.7(1) ? ? ? yes
+SN1 SN6 SN17 106.7(1) ? ? ? yes
+SN1 SN6 NA5 151.0(4) ? ? ? yes
+SN1 SN6 NA7 149.9(4) ? ? ? yes
+SN1 SN6 NA8 93.1(3) ? ? ? yes
+SN1 SN6 NA8 93.1(3) ? ? ? yes
+SN17 SN6 SN17 109.1(2) ? ? ? yes
+SN17 SN6 NA5 89.6(2) ? ? ? yes
+SN17 SN6 NA7 59.9(1) ? ? ? yes
+SN17 SN6 NA8 154.2(3) ? ? ? yes
+SN17 SN6 NA8 79.8(4) ? ? ? yes
+SN17 SN6 NA5 89.6(2) ? ? ? yes
+SN17 SN6 NA7 59.9(1) ? ? ? yes
+SN17 SN6 NA8 79.8(4) ? ? ? yes
+SN17 SN6 NA8 154.2(3) ? ? ? yes
+NA5 SN6 NA7 59.1(5) ? ? ? yes
+NA5 SN6 NA8 65.8(4) ? ? ? yes
+NA5 SN6 NA8 65.8(4) ? ? ? yes
+NA7 SN6 NA8 109.2(4) ? ? ? yes
+NA7 SN6 NA8 109.2(4) ? ? ? yes
+NA8 SN6 NA8 82.9(8) ? ? ? yes
+SN3 SN7 SN17 87.0(1) ? ? ? yes
+SN3 SN7 SN17 87.0(1) ? ? ? yes
+SN3 SN7 NA3 64.6(4) ? ? ? yes
+SN17 SN7 SN17 94.9(2) ? ? ? yes
+SN17 SN7 NA3 125.9(2) ? ? ? yes
+SN17 SN7 NA3 125.9(2) ? ? ? yes
+SN10 SN8 SN18 87.86(9) ? ? ? yes
+SN10 SN8 SN18 87.86(9) ? ? ? yes
+SN10 SN8 NA5 121.5(5) ? ? ? yes
+SN10 SN8 NA8 69.9(3) ? ? ? yes
+SN10 SN8 NA8 69.9(3) ? ? ? yes
+SN10 SN8 NA9 132.0(4) ? ? ? yes
+SN10 SN8 NA9 132.0(4) ? ? ? yes
+SN18 SN8 SN18 110.6(2) ? ? ? yes
+SN18 SN8 NA5 120.3(2) ? ? ? yes
+SN18 SN8 NA8 154.2(4) ? ? ? yes
+SN18 SN8 NA8 82.4(4) ? ? ? yes
+SN18 SN8 NA9 62.5(3) ? ? ? yes
+SN18 SN8 NA9 136.2(3) ? ? ? yes
+SN18 SN8 NA5 120.3(2) ? ? ? yes
+SN18 SN8 NA8 82.4(4) ? ? ? yes
+SN18 SN8 NA8 154.2(4) ? ? ? yes
+SN18 SN8 NA9 136.2(3) ? ? ? yes
+SN18 SN8 NA9 62.5(3) ? ? ? yes
+NA5 SN8 NA8 65.4(4) ? ? ? yes
+NA5 SN8 NA8 65.4(4) ? ? ? yes
+NA5 SN8 NA9 59.6(4) ? ? ? yes
+NA5 SN8 NA9 59.6(4) ? ? ? yes
+NA8 SN8 NA8 77.8(8) ? ? ? yes
+NA8 SN8 NA9 123.6(4) ? ? ? yes
+NA8 SN8 NA9 69.5(5) ? ? ? yes
+NA8 SN8 NA9 69.5(5) ? ? ? yes
+NA8 SN8 NA9 123.6(4) ? ? ? yes
+NA9 SN8 NA9 92.0(7) ? ? ? yes
+SN1 SN9 SN3 111.7(1) ? ? ? yes
+SN1 SN9 SN11 103.1(1) ? ? ? yes
+SN1 SN9 SN14 112.8(1) ? ? ? yes
+SN1 SN9 NA3 101.4(3) ? ? ? yes
+SN1 SN9 NA4 72.6(3) ? ? ? yes
+SN1 SN9 NA7 159.5(3) ? ? ? yes
+SN3 SN9 SN11 124.6(1) ? ? ? yes
+SN3 SN9 SN14 97.6(1) ? ? ? yes
+SN3 SN9 NA3 63.3(3) ? ? ? yes
+SN3 SN9 NA4 162.6(4) ? ? ? yes
+SN3 SN9 NA7 88.9(3) ? ? ? yes
+SN11 SN9 SN14 107.20(10) ? ? ? yes
+SN11 SN9 NA3 68.7(4) ? ? ? yes
+SN11 SN9 NA4 68.3(3) ? ? ? yes
+SN11 SN9 NA7 62.8(4) ? ? ? yes
+SN14 SN9 NA3 145.4(3) ? ? ? yes
+SN14 SN9 NA4 65.8(4) ? ? ? yes
+SN14 SN9 NA7 62.2(4) ? ? ? yes
+NA3 SN9 NA4 133.6(5) ? ? ? yes
+NA3 SN9 NA7 87.5(4) ? ? ? yes
+NA4 SN9 NA7 87.8(4) ? ? ? yes
+SN4 SN10 SN8 112.2(1) ? ? ? yes
+SN4 SN10 SN14 95.8(1) ? ? ? yes
+SN4 SN10 SN14 95.8(1) ? ? ? yes
+SN8 SN10 SN14 124.75(10) ? ? ? yes
+SN8 SN10 SN14 124.75(10) ? ? ? yes
+SN14 SN10 SN14 96.6(2) ? ? ? yes
+SN9 SN11 SN11 95.7(1) ? ? ? yes
+SN9 SN11 SN16 96.7(1) ? ? ? yes
+SN9 SN11 SN17 100.89(10) ? ? ? yes
+SN9 SN11 NA3 60.2(3) ? ? ? yes
+SN9 SN11 NA3 120.4(4) ? ? ? yes
+SN9 SN11 NA4 59.2(3) ? ? ? yes
+SN9 SN11 NA7 64.4(4) ? ? ? yes
+SN11 SN11 SN16 154.29(8) ? ? ? yes
+SN11 SN11 SN17 101.1(1) ? ? ? yes
+SN11 SN11 NA3 59.3(2) ? ? ? yes
+SN11 SN11 NA3 55.6(2) ? ? ? yes
+SN11 SN11 NA4 140.9(3) ? ? ? yes
+SN11 SN11 NA7 56.8(2) ? ? ? yes
+SN16 SN11 SN17 98.6(1) ? ? ? yes
+SN16 SN11 NA3 108.7(2) ? ? ? yes
+SN16 SN11 NA3 98.8(2) ? ? ? yes
+SN16 SN11 NA4 64.2(3) ? ? ? yes
+SN16 SN11 NA7 148.6(3) ? ? ? yes
+SN17 SN11 NA3 147.9(3) ? ? ? yes
+SN17 SN11 NA3 132.5(4) ? ? ? yes
+SN17 SN11 NA4 60.4(3) ? ? ? yes
+SN17 SN11 NA7 63.6(4) ? ? ? yes
+NA3 SN11 NA3 60.2(6) ? ? ? yes
+NA3 SN11 NA4 117.2(4) ? ? ? yes
+NA3 SN11 NA7 84.4(5) ? ? ? yes
+NA3 SN11 NA4 161.8(4) ? ? ? yes
+NA3 SN11 NA7 112.4(3) ? ? ? yes
+NA4 SN11 NA7 84.4(3) ? ? ? yes
+SN2 SN12 SN15 93.1(1) ? ? ? yes
+SN2 SN12 SN15 93.1(1) ? ? ? yes
+SN2 SN12 NA5 75.2(4) ? ? ? yes
+SN2 SN12 NA9 108.3(3) ? ? ? yes
+SN2 SN12 NA9 108.3(3) ? ? ? yes
+SN2 SN12 NA10 178.6(7) ? ? ? yes
+SN15 SN12 SN15 105.2(2) ? ? ? yes
+SN15 SN12 NA5 126.77(9) ? ? ? yes
+SN15 SN12 NA9 158.3(3) ? ? ? yes
+SN15 SN12 NA9 77.3(3) ? ? ? yes
+SN15 SN12 NA10 86.0(4) ? ? ? yes
+SN15 SN12 NA5 126.77(9) ? ? ? yes
+SN15 SN12 NA9 77.3(3) ? ? ? yes
+SN15 SN12 NA9 158.3(3) ? ? ? yes
+SN15 SN12 NA10 86.0(4) ? ? ? yes
+NA5 SN12 NA9 59.1(4) ? ? ? yes
+NA5 SN12 NA9 59.1(4) ? ? ? yes
+NA5 SN12 NA10 106.2(8) ? ? ? yes
+NA9 SN12 NA9 92.7(7) ? ? ? yes
+NA9 SN12 NA10 72.6(5) ? ? ? yes
+NA9 SN12 NA10 72.6(5) ? ? ? yes
+SN13 SN13 SN14 103.6(1) ? ? ? yes
+SN13 SN13 SN17 103.21(10) ? ? ? yes
+SN13 SN13 NA4 64.5(2) ? ? ? yes
+SN13 SN13 NA5 159.3(4) ? ? ? yes
+SN13 SN13 NA8 104.6(5) ? ? ? yes
+SN13 SN13 NA9 98.1(5) ? ? ? yes
+SN14 SN13 SN17 98.0(1) ? ? ? yes
+SN14 SN13 NA4 64.1(3) ? ? ? yes
+SN14 SN13 NA5 85.9(4) ? ? ? yes
+SN14 SN13 NA8 151.8(5) ? ? ? yes
+SN14 SN13 NA9 102.4(3) ? ? ? yes
+SN17 SN13 NA4 62.0(3) ? ? ? yes
+SN17 SN13 NA5 93.4(4) ? ? ? yes
+SN17 SN13 NA8 77.4(2) ? ? ? yes
+SN17 SN13 NA9 146.0(4) ? ? ? yes
+NA4 SN13 NA5 135.6(4) ? ? ? yes
+NA4 SN13 NA8 131.9(4) ? ? ? yes
+NA4 SN13 NA9 152.1(5) ? ? ? yes
+NA5 SN13 NA8 66.8(6) ? ? ? yes
+NA5 SN13 NA9 61.6(6) ? ? ? yes
+NA8 SN13 NA9 71.7(3) ? ? ? yes
+SN2 SN14 SN9 110.1(1) ? ? ? yes
+SN2 SN14 SN10 104.5(1) ? ? ? yes
+SN2 SN14 SN13 111.6(1) ? ? ? yes
+SN2 SN14 NA4 163.9(3) ? ? ? yes
+SN2 SN14 NA7 77.0(3) ? ? ? yes
+SN2 SN14 NA8 77.5(4) ? ? ? yes
+SN9 SN14 SN10 115.9(1) ? ? ? yes
+SN9 SN14 SN13 113.92(10) ? ? ? yes
+SN9 SN14 NA4 61.1(3) ? ? ? yes
+SN9 SN14 NA7 65.2(4) ? ? ? yes
+SN9 SN14 NA8 69.1(2) ? ? ? yes
+SN10 SN14 SN13 100.1(1) ? ? ? yes
+SN10 SN14 NA4 91.6(2) ? ? ? yes
+SN10 SN14 NA7 177.4(4) ? ? ? yes
+SN10 SN14 NA8 68.1(4) ? ? ? yes
+SN13 SN14 NA4 64.7(3) ? ? ? yes
+SN13 SN14 NA7 77.4(4) ? ? ? yes
+SN13 SN14 NA8 167.1(5) ? ? ? yes
+NA4 SN14 NA7 87.0(4) ? ? ? yes
+NA4 SN14 NA8 109.0(5) ? ? ? yes
+NA7 SN14 NA8 114.4(5) ? ? ? yes
+SN4 SN15 SN12 103.3(1) ? ? ? yes
+SN4 SN15 SN15 121.69(8) ? ? ? yes
+SN4 SN15 SN18 105.5(1) ? ? ? yes
+SN4 SN15 NA1 87.9(3) ? ? ? yes
+SN4 SN15 NA2 169.9(5) ? ? ? yes
+SN4 SN15 NA6 59.81(9) ? ? ? yes
+SN12 SN15 SN15 114.89(8) ? ? ? yes
+SN12 SN15 SN18 106.0(1) ? ? ? yes
+SN12 SN15 NA1 165.5(5) ? ? ? yes
+SN12 SN15 NA2 81.5(3) ? ? ? yes
+SN12 SN15 NA6 113.9(3) ? ? ? yes
+SN15 SN15 SN18 104.25(6) ? ? ? yes
+SN15 SN15 NA1 64.8(2) ? ? ? yes
+SN15 SN15 NA2 62.5(2) ? ? ? yes
+SN15 SN15 NA6 64.9(1) ? ? ? yes
+SN18 SN15 NA1 61.5(5) ? ? ? yes
+SN18 SN15 NA2 64.5(5) ? ? ? yes
+SN18 SN15 NA6 139.5(3) ? ? ? yes
+NA1 SN15 NA2 86.0(5) ? ? ? yes
+NA1 SN15 NA6 79.6(6) ? ? ? yes
+NA2 SN15 NA6 126.7(3) ? ? ? yes
+SN1 SN16 SN11 113.79(8) ? ? ? yes
+SN1 SN16 SN11 113.79(8) ? ? ? yes
+SN1 SN16 SN16 87.3(2) ? ? ? yes
+SN1 SN16 NA4 168.2(4) ? ? ? yes
+SN11 SN16 SN11 128.6(2) ? ? ? yes
+SN11 SN16 SN16 100.3(1) ? ? ? yes
+SN11 SN16 NA4 64.69(8) ? ? ? yes
+SN11 SN16 SN16 100.3(1) ? ? ? yes
+SN11 SN16 NA4 64.69(8) ? ? ? yes
+SN16 SN16 NA4 104.6(4) ? ? ? yes
+SN6 SN17 SN7 119.2(1) ? ? ? yes
+SN6 SN17 SN11 113.8(1) ? ? ? yes
+SN6 SN17 SN13 92.3(1) ? ? ? yes
+SN6 SN17 NA4 152.2(3) ? ? ? yes
+SN6 SN17 NA7 70.5(3) ? ? ? yes
+SN7 SN17 SN11 102.0(1) ? ? ? yes
+SN7 SN17 SN13 113.1(1) ? ? ? yes
+SN7 SN17 NA4 86.0(3) ? ? ? yes
+SN7 SN17 NA7 165.1(4) ? ? ? yes
+SN11 SN17 SN13 117.4(1) ? ? ? yes
+SN11 SN17 NA4 67.5(3) ? ? ? yes
+SN11 SN17 NA7 63.1(4) ? ? ? yes
+SN13 SN17 NA4 65.3(3) ? ? ? yes
+SN13 SN17 NA7 75.9(4) ? ? ? yes
+NA4 SN17 NA7 87.4(4) ? ? ? yes
+SN5 SN18 SN8 104.1(1) ? ? ? yes
+SN5 SN18 SN15 110.5(1) ? ? ? yes
+SN5 SN18 SN19 103.7(1) ? ? ? yes
+SN5 SN18 NA1 177.3(6) ? ? ? yes
+SN5 SN18 NA2 90.8(1) ? ? ? yes
+SN5 SN18 NA9 68.0(4) ? ? ? yes
+SN8 SN18 SN15 110.4(1) ? ? ? yes
+SN8 SN18 SN19 112.0(1) ? ? ? yes
+SN8 SN18 NA1 77.9(2) ? ? ? yes
+SN8 SN18 NA2 165.1(2) ? ? ? yes
+SN8 SN18 NA9 68.5(4) ? ? ? yes
+SN15 SN18 SN19 115.4(1) ? ? ? yes
+SN15 SN18 NA1 67.0(6) ? ? ? yes
+SN15 SN18 NA2 61.4(5) ? ? ? yes
+SN15 SN18 NA9 177.5(3) ? ? ? yes
+SN19 SN18 NA1 77.1(5) ? ? ? yes
+SN19 SN18 NA2 65.2(5) ? ? ? yes
+SN19 SN18 NA9 67.0(3) ? ? ? yes
+NA1 SN18 NA2 87.2(3) ? ? ? yes
+NA1 SN18 NA9 114.6(8) ? ? ? yes
+NA2 SN18 NA9 120.2(7) ? ? ? yes
+SN18 SN19 SN18 97.6(1) ? ? ? yes
+SN18 SN19 SN19 102.5(1) ? ? ? yes
+SN18 SN19 NA2 62.5(2) ? ? ? yes
+SN18 SN19 NA6 130.69(9) ? ? ? yes
+SN18 SN19 NA9 155.1(4) ? ? ? yes
+SN18 SN19 NA9 63.1(3) ? ? ? yes
+SN18 SN19 NA10 97.6(5) ? ? ? yes
+SN18 SN19 SN19 102.5(1) ? ? ? yes
+SN18 SN19 NA2 62.5(2) ? ? ? yes
+SN18 SN19 NA6 130.69(9) ? ? ? yes
+SN18 SN19 NA9 63.1(3) ? ? ? yes
+SN18 SN19 NA9 155.1(4) ? ? ? yes
+SN18 SN19 NA10 97.6(5) ? ? ? yes
+SN19 SN19 NA2 63.6(3) ? ? ? yes
+SN19 SN19 NA6 62.5(2) ? ? ? yes
+SN19 SN19 NA9 97.3(5) ? ? ? yes
+SN19 SN19 NA9 97.3(5) ? ? ? yes
+SN19 SN19 NA10 149.3(7) ? ? ? yes
+NA2 SN19 NA6 126.1(4) ? ? ? yes
+NA2 SN19 NA9 115.0(3) ? ? ? yes
+NA2 SN19 NA9 115.0(3) ? ? ? yes
+NA2 SN19 NA10 147.1(8) ? ? ? yes
+NA6 SN19 NA9 72.3(3) ? ? ? yes
+NA6 SN19 NA9 72.3(3) ? ? ? yes
+NA6 SN19 NA10 86.8(8) ? ? ? yes
+NA9 SN19 NA9 129.4(6) ? ? ? yes
+NA9 SN19 NA10 71.5(5) ? ? ? yes
+NA9 SN19 NA10 71.5(5) ? ? ? yes
+SN15 NA1 SN15 50.4(4) ? ? ? yes
+SN15 NA1 SN15 79.9(7) ? ? ? yes
+SN15 NA1 SN15 100.7(10) ? ? ? yes
+SN15 NA1 SN18 107.7(4) ? ? ? yes
+SN15 NA1 SN18 150(1) ? ? ? yes
+SN15 NA1 SN18 51.5(2) ? ? ? yes
+SN15 NA1 SN18 86.8(3) ? ? ? yes
+SN15 NA1 SN15 100.7(10) ? ? ? yes
+SN15 NA1 SN15 79.9(7) ? ? ? yes
+SN15 NA1 SN18 150(1) ? ? ? yes
+SN15 NA1 SN18 107.7(4) ? ? ? yes
+SN15 NA1 SN18 86.8(3) ? ? ? yes
+SN15 NA1 SN18 51.5(2) ? ? ? yes
+SN15 NA1 SN15 50.4(4) ? ? ? yes
+SN15 NA1 SN18 51.5(2) ? ? ? yes
+SN15 NA1 SN18 86.8(3) ? ? ? yes
+SN15 NA1 SN18 107.7(4) ? ? ? yes
+SN15 NA1 SN18 150(1) ? ? ? yes
+SN15 NA1 SN18 86.8(3) ? ? ? yes
+SN15 NA1 SN18 51.5(2) ? ? ? yes
+SN15 NA1 SN18 150(1) ? ? ? yes
+SN15 NA1 SN18 107.7(4) ? ? ? yes
+SN18 NA1 SN18 83.3(2) ? ? ? yes
+SN18 NA1 SN18 92.3(3) ? ? ? yes
+SN18 NA1 SN18 157(1) ? ? ? yes
+SN18 NA1 SN18 157(1) ? ? ? yes
+SN18 NA1 SN18 92.3(3) ? ? ? yes
+SN18 NA1 SN18 83.3(2) ? ? ? yes
+SN15 NA2 SN15 55.0(3) ? ? ? yes
+SN15 NA2 SN15 91.6(6) ? ? ? yes
+SN15 NA2 SN15 117.1(10) ? ? ? yes
+SN15 NA2 SN18 54.14(7) ? ? ? yes
+SN15 NA2 SN18 91.9(1) ? ? ? yes
+SN15 NA2 SN18 110.1(1) ? ? ? yes
+SN15 NA2 SN18 164.4(7) ? ? ? yes
+SN15 NA2 SN19 98.5(3) ? ? ? yes
+SN15 NA2 SN19 141.8(6) ? ? ? yes
+SN15 NA2 SN15 117.1(10) ? ? ? yes
+SN15 NA2 SN15 91.6(6) ? ? ? yes
+SN15 NA2 SN18 91.9(1) ? ? ? yes
+SN15 NA2 SN18 54.14(7) ? ? ? yes
+SN15 NA2 SN18 164.4(7) ? ? ? yes
+SN15 NA2 SN18 110.1(1) ? ? ? yes
+SN15 NA2 SN19 98.5(3) ? ? ? yes
+SN15 NA2 SN19 141.8(6) ? ? ? yes
+SN15 NA2 SN15 55.0(3) ? ? ? yes
+SN15 NA2 SN18 110.1(1) ? ? ? yes
+SN15 NA2 SN18 164.4(7) ? ? ? yes
+SN15 NA2 SN18 54.14(7) ? ? ? yes
+SN15 NA2 SN18 91.9(1) ? ? ? yes
+SN15 NA2 SN19 141.8(6) ? ? ? yes
+SN15 NA2 SN19 98.5(3) ? ? ? yes
+SN15 NA2 SN18 164.4(7) ? ? ? yes
+SN15 NA2 SN18 110.1(1) ? ? ? yes
+SN15 NA2 SN18 91.9(1) ? ? ? yes
+SN15 NA2 SN18 54.14(7) ? ? ? yes
+SN15 NA2 SN19 141.8(6) ? ? ? yes
+SN15 NA2 SN19 98.5(3) ? ? ? yes
+SN18 NA2 SN18 84.2(4) ? ? ? yes
+SN18 NA2 SN18 80.8(4) ? ? ? yes
+SN18 NA2 SN18 137(1) ? ? ? yes
+SN18 NA2 SN19 52.3(4) ? ? ? yes
+SN18 NA2 SN19 88.0(7) ? ? ? yes
+SN18 NA2 SN18 137(1) ? ? ? yes
+SN18 NA2 SN18 80.8(4) ? ? ? yes
+SN18 NA2 SN19 52.3(4) ? ? ? yes
+SN18 NA2 SN19 88.0(7) ? ? ? yes
+SN18 NA2 SN18 84.2(4) ? ? ? yes
+SN18 NA2 SN19 88.0(7) ? ? ? yes
+SN18 NA2 SN19 52.3(4) ? ? ? yes
+SN18 NA2 SN19 88.0(7) ? ? ? yes
+SN18 NA2 SN19 52.3(4) ? ? ? yes
+SN19 NA2 SN19 52.8(5) ? ? ? yes
+SN3 NA3 SN7 52.2(3) ? ? ? yes
+SN3 NA3 SN9 52.6(3) ? ? ? yes
+SN3 NA3 SN9 52.6(3) ? ? ? yes
+SN3 NA3 SN11 99.3(5) ? ? ? yes
+SN3 NA3 SN11 136.8(5) ? ? ? yes
+SN3 NA3 SN11 99.3(5) ? ? ? yes
+SN3 NA3 SN11 136.8(5) ? ? ? yes
+SN3 NA3 NA3 148(1) ? ? ? yes
+SN7 NA3 SN9 90.2(4) ? ? ? yes
+SN7 NA3 SN9 90.2(4) ? ? ? yes
+SN7 NA3 SN11 140.1(4) ? ? ? yes
+SN7 NA3 SN11 98.1(5) ? ? ? yes
+SN7 NA3 SN11 140.1(4) ? ? ? yes
+SN7 NA3 SN11 98.1(5) ? ? ? yes
+SN7 NA3 NA3 158(1) ? ? ? yes
+SN9 NA3 SN9 78.9(5) ? ? ? yes
+SN9 NA3 SN11 51.1(3) ? ? ? yes
+SN9 NA3 SN11 105.6(1) ? ? ? yes
+SN9 NA3 SN11 91.1(5) ? ? ? yes
+SN9 NA3 SN11 170.5(7) ? ? ? yes
+SN9 NA3 NA3 105.9(7) ? ? ? yes
+SN9 NA3 SN11 91.1(5) ? ? ? yes
+SN9 NA3 SN11 170.5(7) ? ? ? yes
+SN9 NA3 SN11 51.1(3) ? ? ? yes
+SN9 NA3 SN11 105.6(1) ? ? ? yes
+SN9 NA3 NA3 105.9(7) ? ? ? yes
+SN11 NA3 SN11 85.5(3) ? ? ? yes
+SN11 NA3 SN11 61.3(4) ? ? ? yes
+SN11 NA3 SN11 119.8(6) ? ? ? yes
+SN11 NA3 NA3 54.9(5) ? ? ? yes
+SN11 NA3 SN11 119.8(6) ? ? ? yes
+SN11 NA3 SN11 68.8(4) ? ? ? yes
+SN11 NA3 NA3 64.9(5) ? ? ? yes
+SN11 NA3 SN11 85.5(3) ? ? ? yes
+SN11 NA3 NA3 54.9(5) ? ? ? yes
+SN11 NA3 NA3 64.9(5) ? ? ? yes
+SN1 NA4 SN9 49.4(3) ? ? ? yes
+SN1 NA4 SN9 49.4(3) ? ? ? yes
+SN1 NA4 SN11 80.3(4) ? ? ? yes
+SN1 NA4 SN11 80.3(4) ? ? ? yes
+SN1 NA4 SN13 139.2(5) ? ? ? yes
+SN1 NA4 SN13 139.2(5) ? ? ? yes
+SN1 NA4 SN14 88.0(4) ? ? ? yes
+SN1 NA4 SN14 88.0(4) ? ? ? yes
+SN1 NA4 SN16 68.8(4) ? ? ? yes
+SN1 NA4 SN17 131.8(4) ? ? ? yes
+SN1 NA4 SN17 131.8(4) ? ? ? yes
+SN9 NA4 SN9 96.9(5) ? ? ? yes
+SN9 NA4 SN11 52.4(2) ? ? ? yes
+SN9 NA4 SN11 123.5(6) ? ? ? yes
+SN9 NA4 SN13 96.0(3) ? ? ? yes
+SN9 NA4 SN13 138.6(6) ? ? ? yes
+SN9 NA4 SN14 53.1(2) ? ? ? yes
+SN9 NA4 SN14 110.6(6) ? ? ? yes
+SN9 NA4 SN16 83.6(4) ? ? ? yes
+SN9 NA4 SN17 89.7(1) ? ? ? yes
+SN9 NA4 SN17 165.5(6) ? ? ? yes
+SN9 NA4 SN11 123.5(6) ? ? ? yes
+SN9 NA4 SN11 52.4(2) ? ? ? yes
+SN9 NA4 SN13 138.6(6) ? ? ? yes
+SN9 NA4 SN13 96.0(3) ? ? ? yes
+SN9 NA4 SN14 110.6(6) ? ? ? yes
+SN9 NA4 SN14 53.1(2) ? ? ? yes
+SN9 NA4 SN16 83.6(4) ? ? ? yes
+SN9 NA4 SN17 165.5(6) ? ? ? yes
+SN9 NA4 SN17 89.7(1) ? ? ? yes
+SN11 NA4 SN11 101.8(5) ? ? ? yes
+SN11 NA4 SN13 95.2(2) ? ? ? yes
+SN11 NA4 SN13 139.5(5) ? ? ? yes
+SN11 NA4 SN14 88.2(1) ? ? ? yes
+SN11 NA4 SN14 163.1(6) ? ? ? yes
+SN11 NA4 SN16 51.1(3) ? ? ? yes
+SN11 NA4 SN17 52.1(2) ? ? ? yes
+SN11 NA4 SN17 113.2(6) ? ? ? yes
+SN11 NA4 SN13 139.5(5) ? ? ? yes
+SN11 NA4 SN13 95.2(2) ? ? ? yes
+SN11 NA4 SN14 163.1(6) ? ? ? yes
+SN11 NA4 SN14 88.2(1) ? ? ? yes
+SN11 NA4 SN16 51.1(3) ? ? ? yes
+SN11 NA4 SN17 113.2(6) ? ? ? yes
+SN11 NA4 SN17 52.1(2) ? ? ? yes
+SN13 NA4 SN13 51.1(3) ? ? ? yes
+SN13 NA4 SN14 51.2(2) ? ? ? yes
+SN13 NA4 SN14 85.6(5) ? ? ? yes
+SN13 NA4 SN16 137.0(5) ? ? ? yes
+SN13 NA4 SN17 52.7(2) ? ? ? yes
+SN13 NA4 SN17 87.4(5) ? ? ? yes
+SN13 NA4 SN14 85.6(5) ? ? ? yes
+SN13 NA4 SN14 51.2(2) ? ? ? yes
+SN13 NA4 SN16 137.0(5) ? ? ? yes
+SN13 NA4 SN17 87.4(5) ? ? ? yes
+SN13 NA4 SN17 52.7(2) ? ? ? yes
+SN14 NA4 SN14 79.2(4) ? ? ? yes
+SN14 NA4 SN16 134.8(3) ? ? ? yes
+SN14 NA4 SN17 83.7(2) ? ? ? yes
+SN14 NA4 SN17 135.9(6) ? ? ? yes
+SN14 NA4 SN16 134.8(3) ? ? ? yes
+SN14 NA4 SN17 135.9(6) ? ? ? yes
+SN14 NA4 SN17 83.7(2) ? ? ? yes
+SN16 NA4 SN17 84.3(4) ? ? ? yes
+SN16 NA4 SN17 84.3(4) ? ? ? yes
+SN17 NA4 SN17 81.1(5) ? ? ? yes
+SN6 NA5 SN8 95.0(6) ? ? ? yes
+SN6 NA5 SN12 171.2(8) ? ? ? yes
+SN6 NA5 SN13 77.7(4) ? ? ? yes
+SN6 NA5 SN13 77.7(4) ? ? ? yes
+SN6 NA5 NA7 62.4(6) ? ? ? yes
+SN6 NA5 NA9 122.0(6) ? ? ? yes
+SN6 NA5 NA9 122.0(6) ? ? ? yes
+SN8 NA5 SN12 93.8(6) ? ? ? yes
+SN8 NA5 SN13 107.4(4) ? ? ? yes
+SN8 NA5 SN13 107.4(4) ? ? ? yes
+SN8 NA5 NA7 157.4(9) ? ? ? yes
+SN8 NA5 NA9 63.6(5) ? ? ? yes
+SN8 NA5 NA9 63.6(5) ? ? ? yes
+SN12 NA5 SN13 99.6(5) ? ? ? yes
+SN12 NA5 SN13 99.6(5) ? ? ? yes
+SN12 NA5 NA7 108.8(8) ? ? ? yes
+SN12 NA5 NA9 62.4(5) ? ? ? yes
+SN12 NA5 NA9 62.4(5) ? ? ? yes
+SN13 NA5 SN13 138.6(8) ? ? ? yes
+SN13 NA5 NA7 69.6(4) ? ? ? yes
+SN13 NA5 NA9 157.7(8) ? ? ? yes
+SN13 NA5 NA9 61.7(4) ? ? ? yes
+SN13 NA5 NA7 69.6(4) ? ? ? yes
+SN13 NA5 NA9 61.7(4) ? ? ? yes
+SN13 NA5 NA9 157.7(8) ? ? ? yes
+NA7 NA5 NA9 126.9(5) ? ? ? yes
+NA7 NA5 NA9 126.9(5) ? ? ? yes
+NA9 NA5 NA9 96.8(10) ? ? ? yes
+SN4 NA6 SN4 137.0(9) ? ? ? yes
+SN4 NA6 SN15 51.0(2) ? ? ? yes
+SN4 NA6 SN15 51.0(2) ? ? ? yes
+SN4 NA6 SN15 99.2(5) ? ? ? yes
+SN4 NA6 SN15 99.2(5) ? ? ? yes
+SN4 NA6 SN19 109.0(3) ? ? ? yes
+SN4 NA6 SN19 109.0(3) ? ? ? yes
+SN4 NA6 SN15 99.2(5) ? ? ? yes
+SN4 NA6 SN15 99.2(5) ? ? ? yes
+SN4 NA6 SN15 51.0(2) ? ? ? yes
+SN4 NA6 SN15 51.0(2) ? ? ? yes
+SN4 NA6 SN19 109.0(3) ? ? ? yes
+SN4 NA6 SN19 109.0(3) ? ? ? yes
+SN15 NA6 SN15 79.4(5) ? ? ? yes
+SN15 NA6 SN15 50.1(3) ? ? ? yes
+SN15 NA6 SN15 100.1(7) ? ? ? yes
+SN15 NA6 SN19 105.9(2) ? ? ? yes
+SN15 NA6 SN19 149.8(4) ? ? ? yes
+SN15 NA6 SN15 100.1(7) ? ? ? yes
+SN15 NA6 SN15 50.1(3) ? ? ? yes
+SN15 NA6 SN19 149.8(4) ? ? ? yes
+SN15 NA6 SN19 105.9(2) ? ? ? yes
+SN15 NA6 SN15 79.4(5) ? ? ? yes
+SN15 NA6 SN19 105.9(2) ? ? ? yes
+SN15 NA6 SN19 149.8(4) ? ? ? yes
+SN15 NA6 SN19 149.8(4) ? ? ? yes
+SN15 NA6 SN19 105.9(2) ? ? ? yes
+SN19 NA6 SN19 55.0(5) ? ? ? yes
+SN6 NA7 SN9 136.0(4) ? ? ? yes
+SN6 NA7 SN9 136.0(4) ? ? ? yes
+SN6 NA7 SN11 90.8(5) ? ? ? yes
+SN6 NA7 SN11 90.8(5) ? ? ? yes
+SN6 NA7 SN14 115.7(5) ? ? ? yes
+SN6 NA7 SN14 115.7(5) ? ? ? yes
+SN6 NA7 SN17 49.6(3) ? ? ? yes
+SN6 NA7 SN17 49.6(3) ? ? ? yes
+SN6 NA7 NA5 58.4(5) ? ? ? yes
+SN9 NA7 SN9 77.7(5) ? ? ? yes
+SN9 NA7 SN11 52.9(3) ? ? ? yes
+SN9 NA7 SN11 94.8(6) ? ? ? yes
+SN9 NA7 SN14 52.6(2) ? ? ? yes
+SN9 NA7 SN14 107.6(7) ? ? ? yes
+SN9 NA7 SN17 147.0(7) ? ? ? yes
+SN9 NA7 SN17 86.6(2) ? ? ? yes
+SN9 NA7 NA5 129.1(5) ? ? ? yes
+SN9 NA7 SN11 94.8(6) ? ? ? yes
+SN9 NA7 SN11 52.9(3) ? ? ? yes
+SN9 NA7 SN14 107.6(7) ? ? ? yes
+SN9 NA7 SN14 52.6(2) ? ? ? yes
+SN9 NA7 SN17 86.6(2) ? ? ? yes
+SN9 NA7 SN17 147.0(7) ? ? ? yes
+SN9 NA7 NA5 129.1(5) ? ? ? yes
+SN11 NA7 SN11 66.4(5) ? ? ? yes
+SN11 NA7 SN14 92.5(2) ? ? ? yes
+SN11 NA7 SN14 146.9(7) ? ? ? yes
+SN11 NA7 SN17 100.7(6) ? ? ? yes
+SN11 NA7 SN17 53.3(3) ? ? ? yes
+SN11 NA7 NA5 136.1(6) ? ? ? yes
+SN11 NA7 SN14 146.9(7) ? ? ? yes
+SN11 NA7 SN14 92.5(2) ? ? ? yes
+SN11 NA7 SN17 53.3(3) ? ? ? yes
+SN11 NA7 SN17 100.7(6) ? ? ? yes
+SN11 NA7 NA5 136.1(6) ? ? ? yes
+SN14 NA7 SN14 93.1(6) ? ? ? yes
+SN14 NA7 SN17 159.8(8) ? ? ? yes
+SN14 NA7 SN17 84.2(1) ? ? ? yes
+SN14 NA7 NA5 76.8(5) ? ? ? yes
+SN14 NA7 SN17 84.2(1) ? ? ? yes
+SN14 NA7 SN17 159.8(8) ? ? ? yes
+SN14 NA7 NA5 76.8(5) ? ? ? yes
+SN17 NA7 SN17 91.6(6) ? ? ? yes
+SN17 NA7 NA5 83.1(5) ? ? ? yes
+SN17 NA7 NA5 83.1(5) ? ? ? yes
+SN3 NA8 SN5 87.2(7) ? ? ? yes
+SN3 NA8 SN6 95.0(3) ? ? ? yes
+SN3 NA8 SN8 168.0(6) ? ? ? yes
+SN3 NA8 SN13 87.6(5) ? ? ? yes
+SN3 NA8 SN14 79.4(4) ? ? ? yes
+SN5 NA8 SN6 165.0(6) ? ? ? yes
+SN5 NA8 SN8 84.5(3) ? ? ? yes
+SN5 NA8 SN13 87.5(5) ? ? ? yes
+SN5 NA8 SN14 85.8(4) ? ? ? yes
+SN6 NA8 SN8 95.3(7) ? ? ? yes
+SN6 NA8 SN13 77.8(4) ? ? ? yes
+SN6 NA8 SN14 109.2(5) ? ? ? yes
+SN8 NA8 SN13 100.6(4) ? ? ? yes
+SN8 NA8 SN14 91.4(4) ? ? ? yes
+SN13 NA8 SN14 165.6(9) ? ? ? yes
+SN4 NA9 SN5 109.1(8) ? ? ? yes
+SN4 NA9 SN8 169.4(7) ? ? ? yes
+SN4 NA9 SN12 83.2(4) ? ? ? yes
+SN4 NA9 SN13 76.7(4) ? ? ? yes
+SN4 NA9 SN18 141.4(8) ? ? ? yes
+SN4 NA9 SN19 101.5(5) ? ? ? yes
+SN4 NA9 NA5 113.4(6) ? ? ? yes
+SN5 NA9 SN8 79.5(3) ? ? ? yes
+SN5 NA9 SN12 166.2(7) ? ? ? yes
+SN5 NA9 SN13 83.2(5) ? ? ? yes
+SN5 NA9 SN18 48.7(2) ? ? ? yes
+SN5 NA9 SN19 80.4(4) ? ? ? yes
+SN5 NA9 NA5 109.3(6) ? ? ? yes
+SN8 NA9 SN12 87.6(6) ? ? ? yes
+SN8 NA9 SN13 98.7(5) ? ? ? yes
+SN8 NA9 SN18 49.0(3) ? ? ? yes
+SN8 NA9 SN19 85.8(4) ? ? ? yes
+SN8 NA9 NA5 56.8(5) ? ? ? yes
+SN12 NA9 SN13 93.7(4) ? ? ? yes
+SN12 NA9 SN18 124.5(8) ? ? ? yes
+SN12 NA9 SN19 104.0(6) ? ? ? yes
+SN12 NA9 NA5 58.5(6) ? ? ? yes
+SN13 NA9 SN18 121.6(5) ? ? ? yes
+SN13 NA9 SN19 161.9(8) ? ? ? yes
+SN13 NA9 NA5 56.7(4) ? ? ? yes
+SN18 NA9 SN19 49.9(2) ? ? ? yes
+SN18 NA9 NA5 104.6(7) ? ? ? yes
+SN19 NA9 NA5 137.0(8) ? ? ? yes
+SN12 NA10 SN12 105(1) ? ? ? yes
+SN12 NA10 SN19 108.0(1) ? ? ? yes
+SN12 NA10 SN19 108.0(1) ? ? ? yes
+SN12 NA10 SN19 108.0(1) ? ? ? yes
+SN12 NA10 SN19 108.0(1) ? ? ? yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+SN1 SN6 2.843(5) ? ? yes
+SN1 SN9 2.869(4) ? ? yes
+SN1 SN9 2.869(4) ? ? yes
+SN1 SN16 2.927(5) ? ? yes
+SN1 NA4 3.60(2) ? ? yes
+SN2 SN5 2.857(5) ? ? yes
+SN2 SN12 2.885(5) ? ? yes
+SN2 SN14 2.867(4) ? ? yes
+SN2 SN14 2.867(4) ? ? yes
+SN3 SN7 2.861(5) ? ? yes
+SN3 SN9 2.907(4) ? ? yes
+SN3 SN9 2.907(4) ? ? yes
+SN3 NA3 3.27(2) ? ? yes
+SN3 NA8 3.24(2) ? ? yes
+SN3 NA8 3.24(2) ? ? yes
+SN4 SN10 2.837(5) ? ? yes
+SN4 SN15 2.879(4) ? ? yes
+SN4 SN15 2.879(4) ? ? yes
+SN4 NA6 3.20(1) ? ? yes
+SN4 NA9 3.24(2) ? ? yes
+SN4 NA9 3.24(2) ? ? yes
+SN5 SN18 2.853(4) ? ? yes
+SN5 SN18 2.853(4) ? ? yes
+SN5 NA8 3.25(2) ? ? yes
+SN5 NA8 3.25(2) ? ? yes
+SN5 NA9 3.52(2) ? ? yes
+SN5 NA9 3.52(2) ? ? yes
+SN6 SN17 2.911(4) ? ? yes
+SN6 SN17 2.911(4) ? ? yes
+SN6 NA5 3.46(3) ? ? yes
+SN6 NA7 3.60(2) ? ? yes
+SN6 NA8 3.30(2) ? ? yes
+SN6 NA8 3.30(2) ? ? yes
+SN7 SN17 2.875(4) ? ? yes
+SN7 SN17 2.875(4) ? ? yes
+SN7 NA3 3.23(2) ? ? yes
+SN8 SN10 2.877(5) ? ? yes
+SN8 SN18 2.888(4) ? ? yes
+SN8 SN18 2.888(4) ? ? yes
+SN8 NA5 3.32(2) ? ? yes
+SN8 NA8 3.47(2) ? ? yes
+SN8 NA8 3.47(2) ? ? yes
+SN8 NA9 3.56(2) ? ? yes
+SN8 NA9 3.56(2) ? ? yes
+SN9 SN11 2.954(3) ? ? yes
+SN9 SN14 2.924(3) ? ? yes
+SN9 NA3 3.30(2) ? ? yes
+SN9 NA4 3.20(1) ? ? yes
+SN9 NA7 3.34(2) ? ? yes
+SN10 SN14 2.848(4) ? ? yes
+SN10 SN14 2.848(4) ? ? yes
+SN11 SN11 3.606(8) ? ? yes
+SN11 SN16 2.982(4) ? ? yes
+SN11 SN17 2.959(4) ? ? yes
+SN11 NA3 3.54(2) ? ? yes
+SN11 NA3 3.19(2) ? ? yes
+SN11 NA4 3.46(1) ? ? yes
+SN11 NA7 3.29(2) ? ? yes
+SN12 SN15 2.865(4) ? ? yes
+SN12 SN15 2.865(4) ? ? yes
+SN12 NA5 3.40(3) ? ? yes
+SN12 NA9 3.54(2) ? ? yes
+SN12 NA9 3.54(2) ? ? yes
+SN12 NA10 3.36(3) ? ? yes
+SN13 SN13 2.894(7) ? ? yes
+SN13 SN14 2.892(4) ? ? yes
+SN13 SN17 2.938(4) ? ? yes
+SN13 NA4 3.36(2) ? ? yes
+SN13 NA5 3.252(9) ? ? yes
+SN13 NA8 3.42(2) ? ? yes
+SN13 NA9 3.43(2) ? ? yes
+SN14 NA4 3.34(2) ? ? yes
+SN14 NA7 3.26(2) ? ? yes
+SN14 NA8 3.61(2) ? ? yes
+SN15 SN15 2.934(4) ? ? yes
+SN15 SN18 2.931(3) ? ? yes
+SN15 NA1 3.45(2) ? ? yes
+SN15 NA2 3.17(2) ? ? yes
+SN15 NA6 3.46(2) ? ? yes
+SN16 SN16 2.851(8) ? ? yes
+SN16 NA4 3.45(2) ? ? yes
+SN17 NA4 3.26(2) ? ? yes
+SN17 NA7 3.31(2) ? ? yes
+SN18 SN19 2.910(3) ? ? yes
+SN18 NA1 3.292(8) ? ? yes
+SN18 NA2 3.26(1) ? ? yes
+SN18 NA9 3.39(2) ? ? yes
+SN19 SN19 2.97(1) ? ? yes
+SN19 NA2 3.34(3) ? ? yes
+SN19 NA6 3.22(2) ? ? yes
+SN19 NA9 3.50(2) ? ? yes
+SN19 NA9 3.50(2) ? ? yes
+SN19 NA10 3.49(3) ? ? yes
+NA3 NA3 3.39(4) ? ? yes
+NA5 NA7 3.49(3) ? ? yes
+NA5 NA9 3.42(3) ? ? yes
+NA5 NA9 3.42(3) ? ? yes

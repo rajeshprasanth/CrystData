@@ -1,0 +1,175 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-09 22:52:10 +0300 (Fri, 09 Oct 2015) $
+#$Revision: 163027 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/56/1535605.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1535605
+loop_
+_publ_author_name
+'Hornfeck, W.'
+'Thimmaiah, S.'
+'Harbrecht, B.'
+'Lee, S.'
+_publ_section_title
+;
+ Structure-composition relations for the Hume-Rothery phase Ir(7+7delta)
+ Zn(97-11delta) (0.31 < delta < 0.58)
+;
+_journal_name_full               'Chemistry - A European Journal'
+_journal_page_first              4616
+_journal_page_last               4626
+_journal_volume                  10
+_journal_year                    2004
+_chemical_formula_sum            'Ir38.35 Zn367.3'
+_chemical_name_systematic        'Ir38.35 Zn367.3'
+_space_group_IT_number           216
+_symmetry_space_group_name_Hall  'F -4 2 3'
+_symmetry_space_group_name_H-M   'F -4 3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   18.224
+_cell_length_b                   18.224
+_cell_length_c                   18.224
+_cell_volume                     6052.449
+_citation_journal_id_ASTM        CEUJED
+_cod_data_source_file            Hornfeck_CEUJED_2004_1285.cif
+_cod_data_source_block           Ir38.35Zn367.3
+_cod_original_cell_volume        6052.45
+_cod_database_code               1535605
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+y,-x,-z
+-x,-y,z
+-y,x,-z
+x,-y,-z
+-y,-x,z
+-x,y,-z
+y,x,z
+z,x,y
+x,-z,-y
+-z,-x,y
+-x,z,-y
+z,-x,-y
+-x,-z,y
+-z,x,-y
+x,z,y
+y,z,x
+y,-z,-x
+-z,-y,x
+-y,z,-x
+z,y,x
+-y,-z,x
+-z,y,-x
+z,-y,-x
+x,y+1/2,z+1/2
+y,-x+1/2,-z+1/2
+-x,-y+1/2,z+1/2
+-y,x+1/2,-z+1/2
+x,-y+1/2,-z+1/2
+-y,-x+1/2,z+1/2
+-x,y+1/2,-z+1/2
+y,x+1/2,z+1/2
+z,x+1/2,y+1/2
+x,-z+1/2,-y+1/2
+-z,-x+1/2,y+1/2
+-x,z+1/2,-y+1/2
+z,-x+1/2,-y+1/2
+-x,-z+1/2,y+1/2
+-z,x+1/2,-y+1/2
+x,z+1/2,y+1/2
+y,z+1/2,x+1/2
+y,-z+1/2,-x+1/2
+-z,-y+1/2,x+1/2
+-y,z+1/2,-x+1/2
+z,y+1/2,x+1/2
+-y,-z+1/2,x+1/2
+-z,y+1/2,-x+1/2
+z,-y+1/2,-x+1/2
+x+1/2,y,z+1/2
+y+1/2,-x,-z+1/2
+-x+1/2,-y,z+1/2
+-y+1/2,x,-z+1/2
+x+1/2,-y,-z+1/2
+-y+1/2,-x,z+1/2
+-x+1/2,y,-z+1/2
+y+1/2,x,z+1/2
+z+1/2,x,y+1/2
+x+1/2,-z,-y+1/2
+-z+1/2,-x,y+1/2
+-x+1/2,z,-y+1/2
+z+1/2,-x,-y+1/2
+-x+1/2,-z,y+1/2
+-z+1/2,x,-y+1/2
+x+1/2,z,y+1/2
+y+1/2,z,x+1/2
+y+1/2,-z,-x+1/2
+-z+1/2,-y,x+1/2
+-y+1/2,z,-x+1/2
+z+1/2,y,x+1/2
+-y+1/2,-z,x+1/2
+-z+1/2,y,-x+1/2
+z+1/2,-y,-x+1/2
+x+1/2,y+1/2,z
+y+1/2,-x+1/2,-z
+-x+1/2,-y+1/2,z
+-y+1/2,x+1/2,-z
+x+1/2,-y+1/2,-z
+-y+1/2,-x+1/2,z
+-x+1/2,y+1/2,-z
+y+1/2,x+1/2,z
+z+1/2,x+1/2,y
+x+1/2,-z+1/2,-y
+-z+1/2,-x+1/2,y
+-x+1/2,z+1/2,-y
+z+1/2,-x+1/2,-y
+-x+1/2,-z+1/2,y
+-z+1/2,x+1/2,-y
+x+1/2,z+1/2,y
+y+1/2,z+1/2,x
+y+1/2,-z+1/2,-x
+-z+1/2,-y+1/2,x
+-y+1/2,z+1/2,-x
+z+1/2,y+1/2,x
+-y+1/2,-z+1/2,x
+-z+1/2,y+1/2,-x
+z+1/2,-y+1/2,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn12 Zn 0 0.1791 0.5 0.36 0.0
+Zn10 Zn 0.0706 0.0706 0.5706 0.45 0.0
+Zn14 Zn 0.1762 0.1762 0.5164 0.62 0.0
+Zn7 Zn 0.25 0.25 0.42122 0.838 0.0
+Zn11 Zn 0.0841 0.0841 0.4159 1 0.0
+Zn3 Zn 0.15597 0.15597 0.01971 1 0.0
+Ir4 Ir 0.25 0.25 0.42122 0.162 0.0
+Zn15 Zn 0.1921 0.1921 0.513 0.4 0.0
+Zn8 Zn 0.09021 0.22948 0.40979 1 0.0
+Zn17 Zn 0.10404 0.10404 0.77713 1 0.0
+Zn13 Zn 0.047 0.047 0.6542 0.566 0.0
+Ir1 Ir 0.08666 0.08666 0.91334 1 0.0
+Zn1 Zn 0.05294 0.44706 0.44706 1 0.0
+Zn5 Zn 0.1961 0.1961 0.3039 0.62 0.0
+Zn4 Zn 0.175 0.175 0.325 0.25 0.0
+Zn6 Zn 0.16454 0.33546 0.33546 0.908 0.0
+Ir2 Ir 0.25 0.25 0.25 0.25 0.0
+Zn9 Zn 0 0 0.5 0.63 0.0
+Zn2 Zn 0.1763 0.5 0.5 1 0.0
+Ir5 Ir 0.15128 0.15128 0.65128 1 0.0
+Zn16 Zn 0.25 0.25 0.6371 1 0.0
+Ir3 Ir 0.16454 0.33546 0.33546 0.092 0.0

@@ -1,0 +1,496 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/4/32/77/4327785.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4327785
+loop_
+_publ_author_name
+'Thomas Doert'
+'Christian Graf'
+'Inga G. Vasilyeva'
+'Walter Schnelle'
+_publ_contact_author_address
+;
+Thomas Doert
+Fachrichtung Chemie und Lebensmittelchemie
+Technische Universit\"at Dresden
+D-01062 Dresden
+Germany
+;
+_publ_contact_author_email       Thomas.Doert@chemie.tu-dresden.de
+_publ_contact_author_fax         49(351)463-37287
+_publ_contact_author_phone       49(351)463-33864
+_publ_section_title
+;
+ Structural Frustration and Occupational Disorder: The Rare Earth Metal
+ Polysulfides Tb8S14.8, Dy8S14.9, Ho8S14.9, and Y8S14.8
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              282
+_journal_page_last               289
+_journal_paper_doi               10.1021/ic201639f
+_journal_volume                  51
+_journal_year                    2012
+_chemical_formula_moiety         'Ho8 S14.79'
+_chemical_formula_sum            'Ho6 S11.091'
+_chemical_formula_weight         1345.2
+_chemical_name_common            'Holmium polysulfide'
+_chemical_name_systematic
+; 
+Holmium polysulfide
+;
+_space_group_IT_number           5
+_symmetry_cell_setting           monoclinic
+_symmetry_Int_Tables_number      5
+_symmetry_space_group_name_Hall  'A 2'
+_symmetry_space_group_name_H-M   'A 1 1 2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90.23(2)
+_cell_formula_units_Z            8
+_cell_length_a                   11.538(1)
+_cell_length_b                   15.288(2)
+_cell_length_c                   15.740(2)
+_cell_measurement_reflns_used    18815
+_cell_measurement_temperature    295
+_cell_measurement_theta_max      33.72
+_cell_measurement_theta_min      2.43
+_cell_volume                     2776.4(6)
+_computing_cell_refinement       'X-AREA, STOE, 2006'
+_computing_data_collection       'X-AREA, STOE, 2006'
+_computing_data_reduction        'X-AREA, STOE, 2006'
+_computing_molecular_graphics
+;
+DIAMOND-Visuelles Informationssystem f\"ur Kristallstrukturen 
+ (G. Bergerhoff, Bonn, 2010)
+;
+_computing_publication_material
+'Jana2006 (Petricek, Dusek & Palatinus, 2010)'
+_computing_structure_refinement
+'Jana2006 (Petricek, Dusek & Palatinus, 2010)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      295
+_diffrn_detector                 'image plate (34 cm diameter)'
+_diffrn_detector_area_resol_mean 6.67
+_diffrn_detector_type            STOE
+_diffrn_measured_fraction_theta_full 0.99
+_diffrn_measured_fraction_theta_max 0.99
+_diffrn_measurement_details
+; 
+330 frames, detector distance = 70 mm
+;
+_diffrn_measurement_device       '2-circle goniometer'
+_diffrn_measurement_device_type  'STOE IPDS 2'
+_diffrn_measurement_method       'rotation method'
+_diffrn_radiation_collimation    '0.5 mm diameter, multiple pinhole'
+_diffrn_radiation_monochromator  'plane graphite'
+_diffrn_radiation_polarisn_norm  0
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0739
+_diffrn_reflns_av_sigmaI/netI    0.0348
+_diffrn_reflns_limit_h_max       17
+_diffrn_reflns_limit_h_min       -16
+_diffrn_reflns_limit_k_max       23
+_diffrn_reflns_limit_k_min       -23
+_diffrn_reflns_limit_l_max       24
+_diffrn_reflns_limit_l_min       -24
+_diffrn_reflns_number            34033
+_diffrn_reflns_theta_full        33.48
+_diffrn_reflns_theta_max         33.48
+_diffrn_reflns_theta_min         2.56
+_diffrn_source
+; 
+sealed x-ray tube, 12 x 0.4 mm long-fine focus
+;
+_diffrn_source_current           40
+_diffrn_source_power             2.00
+_diffrn_source_voltage           50
+_exptl_absorpt_coefficient_mu    35.41
+_exptl_absorpt_correction_T_max  0.2789
+_exptl_absorpt_correction_T_min  0.0970
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details   'X-RED, X-SHAPE, STOE 2006'
+_exptl_crystal_colour            red
+_exptl_crystal_density_diffrn    6.43
+_exptl_crystal_F_000             4635
+_exptl_crystal_size_max          0.05
+_exptl_crystal_size_mid          0.04
+_exptl_crystal_size_min          0.01
+_refine_diff_density_max         1.70
+_refine_diff_density_min         -1.87
+_refine_ls_abs_structure_details
+'  5212 of Friedel pairs used in the refinement'
+_refine_ls_abs_structure_Flack   0.31(3)
+_refine_ls_extinction_coef       0.049(1)
+_refine_ls_extinction_method
+'B-C type 1 gaussian isotropic (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_gt    1.53
+_refine_ls_goodness_of_fit_ref   1.22
+_refine_ls_number_constraints    16
+_refine_ls_number_parameters     232
+_refine_ls_number_reflns         10778
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0660
+_refine_ls_R_factor_gt           0.0355
+_refine_ls_shift/su_max          0.0494
+_refine_ls_shift/su_mean         0.0100
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     w=1/(\s^2^(I)+0.0004I^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0678
+_refine_ls_wR_factor_ref         0.0727
+_reflns_number_gt                6065
+_reflns_number_total             10778
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ic201639f_si_002_1.cif
+_cod_data_source_block           IV
+_cod_original_sg_symbol_Hall     'A 2z'
+_cod_database_code               4327785
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x,y+1/2,z+1/2
+4 -x,-y+1/2,z+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+Ho1 Ho -0.0010(3) 0.74834(12) 0.64080(19) Uani 0.0104(3) 4 1 d
+Ho2 Ho 0 0 0.622675 Uani 0.0104(4) 2 1 d
+Ho3 Ho 0 0 0.16330(13) Uani 0.0077(3) 2 1 d
+Ho4 Ho 0.3336(2) 0.25181(13) 0.1395(3) Uani 0.0103(6) 4 1 d
+Ho5 Ho 0.3359(2) 0.74862(14) 0.1414(3) Uani 0.0142(7) 4 1 d
+Ho6 Ho 0.66591(15) -0.0014(2) 0.65454(14) Uani 0.0117(3) 4 1 d
+Ho7 Ho 0.66737(17) 0.00015(19) 0.14139(16) Uani 0.0093(3) 4 1 d
+Ho8 Ho 0.5021(3) 0.62498(10) 0.86034(15) Uani 0.0149(3) 4 1 d
+Ho9 Ho 0.5012(3) 0.12909(10) 0.88335(11) Uani 0.0123(3) 4 1 d
+Ho10 Ho 0.8318(3) 0.12617(14) 0.3789(2) Uani 0.0114(5) 4 1 d
+Ho11 Ho 0.8326(3) 0.86919(13) 0.3766(3) Uani 0.0120(6) 4 1 d
+Ho12 Ho 0.8370(2) 0.62235(16) 0.3623(2) Uani 0.0111(5) 4 1 d
+Ho13 Ho 0.8353(2) 0.37650(14) 0.3592(3) Uani 0.0110(6) 4 1 d
+S1 S -0.0031(10) 0.7519(3) 0.8208(3) Uiso 0.0084(10) 4 1 d
+S2 S 0 0 0.8044(3) Uiso 0.0078(10) 2 1 d
+S3 S 0 0 0.3349(5) Uiso 0.0106(14) 2 1 d
+S4 S 0.3348(9) 0.2494(6) 0.3245(7) Uiso 0.014(2) 4 1 d
+S5 S 0.3325(8) 0.7496(5) 0.3194(6) Uiso 0.0096(17) 4 1 d
+S6 S 0.6682(6) 0.0004(9) 0.8297(3) Uiso 0.0117(10) 4 1 d
+S7 S 0.6629(6) -0.0017(8) 0.3204(4) Uiso 0.0113(10) 4 1 d
+S8 S 0.5010(11) 0.6268(3) 0.6818(4) Uiso 0.0107(10) 4 1 d
+S9 S 0.4991(12) 0.1233(4) 0.6961(4) Uiso 0.0150(11) 4 1 d
+S10 S 0.8323(7) 0.1216(6) 0.1914(6) Uiso 0.0087(16) 4 1 d
+S11 S 0.8354(8) 0.8749(6) 0.1946(6) Uiso 0.0086(16) 4 1 d
+S12 S 0.8334(8) 0.6265(6) 0.1847(7) Uiso 0.0094(17) 4 1 d
+S13 S 0.8314(8) 0.3738(5) 0.1826(7) Uiso 0.0083(17) 4 1 d
+S14 S 0.0015(11) 0.1368(3) 0.5045(2) Uiso 0.0096(8) 4 1 d
+S15a S 0.6827(18) 0.1374(14) 0.0049(11) Uiso 0.0077(4) 4 0.385(7) d
+S15b S 0.7044(12) 0.1218(10) 0.0057(9) Uiso 0.0077(4) 4 0.615(7) d
+S16a S 0.690(2) 0.8671(15) 0.0134(12) Uiso 0.0077(4) 4 0.385(7) d
+S16b S 0.7025(13) 0.8789(11) 0.0066(10) Uiso 0.0077(4) 4 0.615(7) d
+S17a S 0.6216(19) 0.3812(16) 0.0045(11) Uiso 0.0112(12) 4 0.35(3) d
+S17b S 0.6552(16) 0.4065(12) 0.0063(8) Uiso 0.0112(12) 4 0.48(3) d
+S18a S 0.6722(12) 0.5970(9) 0.0057(8) Uiso 0.0112(12) 4 0.54(3) d
+S18b S 0.6284(19) 0.6306(15) 0.0115(11) Uiso 0.0112(12) 4 0.32(3) d
+S19 S 0.5 0 0.007683 Uiso 0.0092(11) 2 1 d
+S20a S 0.4936(11) 0.7739(4) 0.5064(2) Uiso 0.0145(10) 4 0.918(16) d
+S20b S 0.552(6) 0.293(4) 0.003(3) Uiso 0.0145(10) 4 0.082(16) d
+S21a S 0.772(4) -0.032(3) 0.5074(19) Uiso 0.0115(10) 4 0.124(18) d
+S21b S 0.7942(6) 0.0015(10) 0.5065(3) Uiso 0.0115(10) 4 0.876(18) d
+S22a S 0.9067(11) 0.0069(14) 0.9965(6) Uiso 0.0170(12) 4 0.385(7) d
+S22b S 0.0089(12) 0.0697(5) 0.9940(3) Uiso 0.0170(12) 4 0.615(7) d
+S23a S 0.1769(13) 0.2293(9) 0.0112(8) Uiso 0.0077(4) 4 0.615(7) d
+S23b S 0.1627(18) 0.2144(12) 0.0034(11) Uiso 0.0077(4) 4 0.385(7) d
+S24a S 0.1785(13) 0.7657(9) 0.0044(7) Uiso 0.0077(4) 4 0.615(7) d
+S24b S 0.1585(18) 0.7767(15) 0.0066(13) Uiso 0.0077(4) 4 0.385(7) d
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ho1 Ho 0.0116(5) 0.0087(6) 0.0109(4) -0.0025(8) 0.0060(9) -0.0007(3)
+Ho2 Ho 0.0120(8) 0.0094(8) 0.0097(4) -0.0019(12) 0 0
+Ho3 Ho 0.0094(7) 0.0063(6) 0.0074(4) -0.0018(11) 0 0
+Ho4 Ho 0.0063(8) 0.0114(10) 0.0133(14) -0.0018(7) 0.0029(7) -0.0029(7)
+Ho5 Ho 0.0139(9) 0.0081(10) 0.0207(17) -0.0015(7) -0.0074(8) 0.0040(7)
+Ho6 Ho 0.0101(6) 0.0084(5) 0.0166(6) 0.0003(8) 0.0029(5) 0.0047(9)
+Ho7 Ho 0.0094(5) 0.0081(5) 0.0105(4) -0.0012(10) -0.0012(4) 0.0000(10)
+Ho8 Ho 0.0106(6) 0.0110(7) 0.0230(6) 0.0009(10) 0.0041(12) -0.0063(5)
+Ho9 Ho 0.0094(6) 0.0095(6) 0.0180(6) -0.0028(8) -0.0085(8) 0.0037(4)
+Ho10 Ho 0.0139(9) 0.0112(9) 0.0092(10) 0.0017(8) 0.0004(7) -0.0025(9)
+Ho11 Ho 0.0131(8) 0.0074(8) 0.0156(12) 0.0006(7) -0.0010(7) -0.0007(8)
+Ho12 Ho 0.0096(8) 0.0147(9) 0.0089(11) 0.0026(9) 0.0009(7) -0.0017(7)
+Ho13 Ho 0.0145(8) 0.0073(8) 0.0112(13) 0.0019(8) 0.0020(8) 0.0014(7)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+Ho -0.2175 4.6783 'International Tables Vol C tables 4.2.6.8 and 6.1.1.4'
+26.9049 2.07051 17.294001 0.19794 14.5583 11.4407 3.63837 92.656601 4.56796
+S 0.1246 0.1234 'International Tables Vol C tables 4.2.6.8 and 6.1.1.4' 6.9053
+1.4679 5.2034 22.215099 1.4379 0.2536 1.5863 56.172001 0.8669
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+Ho1 S1 . 2.834(6)
+Ho1 S10 3_455 2.839(9)
+Ho1 S11 4_665 2.819(9)
+Ho1 S12 4_665 2.802(9)
+Ho1 S13 3_455 2.808(9)
+Ho1 S14 2_565 2.775(4)
+Ho1 S23a 3_555 2.909(14)
+Ho1 S23b 3_555 2.919(19)
+Ho1 S24a 4_565 2.974(14)
+Ho1 S24b 4_565 2.81(2)
+Ho2 S2 . 2.861(5)
+Ho2 S12 3_445 2.901(9)
+Ho2 S12 4_655 2.901(9)
+Ho2 S13 3_445 2.892(9)
+Ho2 S13 4_655 2.892(9)
+Ho2 S14 . 2.801(4)
+Ho2 S14 2_555 2.801(4)
+Ho2 S21a 1_455 3.23(4)
+Ho2 S21a 2_655 3.23(4)
+Ho2 S21b 1_455 2.998(6)
+Ho2 S21b 2_655 2.998(6)
+Ho3 S3 . 2.700(7)
+Ho3 S10 1_455 2.725(9)
+Ho3 S10 2_655 2.725(9)
+Ho3 S11 1_445 2.735(9)
+Ho3 S11 2_665 2.735(9)
+Ho3 S22a 1_454 2.840(10)
+Ho3 S22a 2_654 2.840(10)
+Ho3 S22b 1_554 2.872(6)
+Ho3 S22b 2_554 2.872(6)
+Ho4 S4 . 2.913(12)
+Ho4 S8 3_544 2.803(9)
+Ho4 S9 4_654 2.853(10)
+Ho4 S11 2_665 2.876(9)
+Ho4 S12 2_665 2.776(9)
+Ho4 S16a 2_665 2.70(2)
+Ho4 S16b 2_665 2.921(16)
+Ho4 S18a 2_665 3.128(14)
+Ho4 S18b 2_665 2.73(2)
+Ho4 S20a 3_544 2.812(9)
+Ho4 S23a . 2.731(14)
+Ho4 S23b . 2.964(19)
+Ho5 S5 . 2.802(11)
+Ho5 S8 4_664 2.747(9)
+Ho5 S9 3_554 2.826(10)
+Ho5 S10 2_665 2.890(9)
+Ho5 S13 2_665 2.761(9)
+Ho5 S15a 2_665 2.776(19)
+Ho5 S15b 2_665 2.952(15)
+Ho5 S17a 2_665 2.97(2)
+Ho5 S17b 2_665 3.187(16)
+Ho5 S20a 4_664 2.918(10)
+Ho5 S20b 2_665 2.61(5)
+Ho5 S24a . 2.832(14)
+Ho5 S24b . 2.98(2)
+Ho6 S6 . 2.758(5)
+Ho6 S9 . 2.792(11)
+Ho6 S9 2_655 2.738(11)
+Ho6 S12 3_545 2.784(9)
+Ho6 S13 3_545 2.740(9)
+Ho6 S17a 3_545 3.01(2)
+Ho6 S17b 3_545 2.728(15)
+Ho6 S18a 3_545 2.785(13)
+Ho6 S18b 3_545 3.05(2)
+Ho6 S21a . 2.66(3)
+Ho6 S21b . 2.761(6)
+Ho7 S7 . 2.818(6)
+Ho7 S8 3_544 2.805(9)
+Ho7 S8 4_654 2.813(9)
+Ho7 S10 . 2.767(9)
+Ho7 S11 1_545 2.856(9)
+Ho7 S15a . 3.007(19)
+Ho7 S15b . 2.864(15)
+Ho7 S16a 1_545 2.88(2)
+Ho7 S16b 1_545 2.848(16)
+Ho7 S19 . 2.856(2)
+Ho8 S4 3_555 2.773(10)
+Ho8 S5 4_665 2.775(9)
+Ho8 S7 3_555 2.760(10)
+Ho8 S7 4_655 2.746(10)
+Ho8 S8 . 2.810(6)
+Ho8 S17a 2_666 2.683(19)
+Ho8 S17b 2_666 2.966(15)
+Ho8 S18a 1_556 3.046(13)
+Ho8 S18b 1_556 2.791(19)
+Ho8 S20a 4_665 2.770(5)
+Ho8 S20b 2_666 2.65(5)
+Ho9 S4 4_655 2.804(10)
+Ho9 S5 3_545 2.868(9)
+Ho9 S6 . 2.885(11)
+Ho9 S6 2_655 2.902(11)
+Ho9 S9 . 2.948(6)
+Ho9 S15a 1_556 2.839(19)
+Ho9 S15b 1_556 3.036(14)
+Ho9 S16a 2_666 3.01(2)
+Ho9 S16b 2_666 3.049(16)
+Ho9 S19 1_556 2.7793(17)
+Ho9 S20a 3_545 2.943(6)
+Ho9 S20b 1_556 3.19(6)
+Ho10 S1 3_644 2.851(9)
+Ho10 S3 1_655 2.828(3)
+Ho10 S5 2_665 2.846(9)
+Ho10 S7 . 2.904(10)
+Ho10 S10 . 2.952(10)
+Ho10 S14 1_655 2.785(9)
+Ho10 S18a 3_545 2.750(13)
+Ho10 S18b 3_545 3.14(2)
+Ho10 S21a . 3.23(4)
+Ho10 S21b . 2.801(11)
+Ho10 S23a 4_655 3.039(14)
+Ho10 S23b 4_655 3.128(18)
+Ho11 S1 4_664 2.845(9)
+Ho11 S3 1_665 2.851(3)
+Ho11 S4 2_665 2.768(10)
+Ho11 S7 1_565 2.922(10)
+Ho11 S11 . 2.867(11)
+Ho11 S14 2_665 2.777(9)
+Ho11 S17a 3_555 3.17(2)
+Ho11 S17b 3_555 2.948(16)
+Ho11 S21a 1_565 2.64(4)
+Ho11 S21b 1_565 2.911(12)
+Ho11 S24a 4_665 2.883(13)
+Ho11 S24b 4_665 3.03(2)
+Ho12 S1 4_664 2.787(9)
+Ho12 S2 3_654 2.810(3)
+Ho12 S4 2_665 2.856(10)
+Ho12 S6 3_554 2.739(11)
+Ho12 S12 . 2.797(12)
+Ho12 S15a 3_555 2.874(19)
+Ho12 S15b 3_555 2.726(14)
+Ho12 S22a 3_554 2.869(16)
+Ho12 S22b 3_654 2.982(10)
+Ho12 S24a 4_665 2.823(13)
+Ho12 S24b 4_665 2.75(2)
+Ho13 S1 3_644 2.739(9)
+Ho13 S2 3_654 2.809(3)
+Ho13 S5 2_665 2.798(9)
+Ho13 S6 3_554 2.748(11)
+Ho13 S13 . 2.780(12)
+Ho13 S16a 3_545 2.95(2)
+Ho13 S16b 3_545 2.781(16)
+Ho13 S22a 3_554 3.052(16)
+Ho13 S22b 4_654 2.898(10)
+Ho13 S23a 4_655 2.891(13)
+Ho13 S23b 4_655 2.662(18)
+S2 S22a 1_455 3.211(11)
+S2 S22a 2_655 3.211(11)
+S2 S22b . 3.170(8)
+S2 S22b 2_555 3.170(8)
+S4 S20b 4_655 3.17(5)
+S7 S17b 3_545 3.246(16)
+S7 S18a 3_545 3.285(15)
+S7 S21a . 3.24(3)
+S7 S21b . 3.297(8)
+S9 S18b 3_545 3.27(2)
+S10 S15b . 3.274(17)
+S11 S23a 2_665 3.299(16)
+S13 S21a 3_554 3.18(4)
+S14 S21a 2_655 3.06(5)
+S14 S21b 1_455 3.156(15)
+S14 S21b 2_655 3.173(15)
+S14 S23a 4_555 2.912(17)
+S14 S23b 4_555 2.97(2)
+S14 S24a 3_545 2.833(17)
+S14 S24b 3_545 2.80(2)
+S15a S19 . 2.97(2)
+S15a S20a 3_544 3.03(2)
+S15a S20b . 2.82(7)
+S15a S22a 1_554 3.27(3)
+S15a S24a 2_665 2.18(3)
+S15a S24b 2_665 2.25(3)
+S15b S19 . 3.000(14)
+S15b S20b . 3.16(7)
+S15b S22a 1_554 2.93(2)
+S15b S24a 2_665 2.18(2)
+S15b S24b 2_665 2.21(3)
+S16a S19 1_565 3.00(2)
+S16a S20a 4_664 3.02(2)
+S16a S22a 1_564 3.29(3)
+S16a S23a 2_665 2.13(3)
+S16a S23b 2_665 2.12(3)
+S16b S19 1_565 2.987(16)
+S16b S20a 4_664 3.245(19)
+S16b S22a 1_564 3.06(2)
+S16b S23a 2_665 2.17(2)
+S16b S23b 2_665 2.11(3)
+S17a S18b 2_665 2.89(3)
+S17a S20a 3_544 2.20(3)
+S17a S21a 3_554 2.18(5)
+S17a S21b 3_554 2.71(3)
+S17a S24a 2_665 3.23(3)
+S17b S18a . 2.92(2)
+S17b S20a 3_544 2.75(2)
+S17b S20b . 2.10(7)
+S17b S21b 3_554 2.16(2)
+S17b S24a 2_665 3.26(2)
+S18a S20a 4_664 2.755(17)
+S18a S20b 2_665 3.09(7)
+S18a S21a 3_554 2.29(5)
+S18a S21b 3_554 2.031(18)
+S18a S23a 2_665 3.17(2)
+S18b S20a 4_664 2.03(2)
+S18b S20b 2_665 2.40(7)
+S18b S21a 3_554 3.00(5)
+S18b S21b 3_554 2.75(3)
+S18b S23a 2_665 3.10(3)
+S20b S24a 2_665 3.24(7)
+S22a S22a 2_755 2.165(17)
+S22b S22b 2_555 2.141(11)
+S22b S23a 1_556 3.121(18)
+S22b S23b 1_556 2.83(2)
+S22b S24b 2_566 3.05(2)
+#BEGIN Loops that were not found in dictionaries:
+loop_
+_jana_cell_twin_matrix_id
+_jana_cell_twin_volume_fraction
+_jana_cell_twin_matrix_1_1
+_jana_cell_twin_matrix_1_2
+_jana_cell_twin_matrix_1_3
+_jana_cell_twin_matrix_2_1
+_jana_cell_twin_matrix_2_2
+_jana_cell_twin_matrix_2_3
+_jana_cell_twin_matrix_3_1
+_jana_cell_twin_matrix_3_2
+_jana_cell_twin_matrix_3_3
+1 0.19(5) 1 0 0 0 1 0 0 0 1
+2 0.31(3) -1 0 0 0 -1 0 0 0 -1
+3 0.23(3) 1 0 0 0 -1 0 0 0 -1
+4 0.28(3) -1 0 0 0 1 0 0 0 1
+#END Loops that were not found in dictionaries

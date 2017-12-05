@@ -1,0 +1,37 @@
+#------------------------------------------------------------------------------
+#$Date: 2012-02-28 14:14:52 +0200 (Tue, 28 Feb 2012) $
+#$Revision: 35911 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/07/1010777.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010777
+_chemical_name_systematic          'Fluorotribromomethane'
+_chemical_formula_structural       'F C Br3'
+_chemical_formula_sum              'Br3 F'
+_publ_section_title
+;
+Interatomic distances of F C Cl~3~ and F C Br~3~
+;
+loop_
+_publ_author_name
+  'Wouters, J'
+  'De Hemptinne, M'
+_journal_name_full                 'Nature (London)'
+_journal_coden_ASTM                NATUAS
+_journal_volume                    141
+_journal_year                      1938
+_journal_page_first                412
+_journal_page_last                 413
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010777

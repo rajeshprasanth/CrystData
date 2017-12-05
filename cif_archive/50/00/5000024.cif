@@ -1,0 +1,85 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-01-30 08:04:45 +0200 (Sat, 30 Jan 2016) $
+#$Revision: 175309 $
+#$URL: svn://www.crystallography.net/cod/cif/5/00/00/5000024.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_5000024
+loop_
+_publ_author_name
+'Pedersen, B.'
+_publ_section_title
+;
+ Decachlorobiphenyl, C~12~Cl~10~: the crystal and molecular structure
+;
+_journal_issue                   12
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              2931
+_journal_page_last               2933
+_journal_paper_doi               10.1107/S0567740875009314
+_journal_volume                  31
+_journal_year                    1975
+_chemical_formula_sum            'C12 Cl10'
+_space_group_IT_number           60
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      60
+_symmetry_space_group_name_Hall  '-P 2n 2ab'
+_symmetry_space_group_name_H-M   'P b c n'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   13.372(2)
+_cell_length_b                   10.497(3)
+_cell_length_c                   11.992(2)
+_cod_database_code               5000024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,z
+3 x,-y,1/2+z
+4 1/2-x,1/2-y,1/2+z
+5 -x,-y,-z
+6 -1/2+x,-1/2-y,-z
+7 -x,y,-1/2-z
+8 -1/2+x,-1/2+y,-1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cl1 Cl 0.48260 0.19575 0.08605
+Cl2 Cl 0.25270 0.18136 0.04836
+Cl3 Cl 0.11231 0.36335 0.17898
+Cl4 Cl 0.20081 0.55783 0.34774
+Cl5 Cl 0.43045 0.56652 0.38821
+C1 C 0.44408 0.37761 0.23821
+C2 C 0.40355 0.29423 0.16067
+C3 C 0.30046 0.28900 0.14086
+C4 C 0.23931 0.36953 0.19985
+C5 C 0.27711 0.45545 0.27583
+C6 C 0.38055 0.45929 0.29502
+C1F* C 0.55592 0.37761 0.26179
+C2F* C 0.59645 0.29423 0.33933
+C6F* C 0.61945 0.45929 0.20498
+Cl1F* Cl 0.51740 0.19575 0.41395
+C3F* C 0.69954 0.28900 0.35914
+Cl5F* Cl 0.56955 0.56652 0.11179
+C5F* C 0.72289 0.45545 0.22417
+Cl2F* Cl 0.74730 0.18136 0.45164
+C4F* C 0.76069 0.36953 0.30015
+Cl4F* Cl 0.79919 0.55783 0.15226
+Cl3F* Cl 0.88769 0.36335 0.32102
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cl 0.99

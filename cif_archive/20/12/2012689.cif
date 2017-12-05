@@ -1,0 +1,296 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/2/01/26/2012689.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2012689
+loop_
+_publ_author_name
+'Radovan \<Cern\'y'
+'Jean-Marc Joubert'
+'Yaroslav Filinchuk'
+'Yves Feutelais'
+_publ_section_title
+;
+ Tl~2~Te and its relationship with Tl~5~Te~3~
+;
+_journal_issue                   5
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              i63
+_journal_page_last               i65
+_journal_paper_doi               10.1107/S0108270102005085
+_journal_volume                  58
+_journal_year                    2002
+_chemical_formula_moiety         'Tl2 Te '
+_chemical_formula_structural     'Tl2 Te'
+_chemical_formula_sum            'Te Tl2'
+_chemical_formula_weight         536.37
+_space_group_IT_number           15
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 100.761(7)
+_cell_angle_gamma                90
+_cell_formula_units_Z            44
+_cell_length_a                   15.6621(9)
+_cell_length_b                   8.9873(4)
+_cell_length_c                   31.196(2)
+_cell_measurement_reflns_used    2000
+_cell_measurement_temperature    293
+_cell_measurement_theta_max      25
+_cell_measurement_theta_min      3
+_cell_volume                     4313.9(4)
+_computing_cell_refinement       'CELL in IPDS Software'
+_computing_data_collection       'EXPOSE in IPDS Software (Stoe & Cie, 1999)'
+_computing_data_reduction
+'ADDREF and SORTRF in Xtal (Hall et al., 2000), and TWIN in IPDS Software'
+_computing_molecular_graphics    'ATOMS (Dowty, 1993)'
+_computing_publication_material  'BONDLA and CIFIO in Xtal'
+_computing_structure_refinement  'LSLS in Xtal '
+_computing_structure_solution    'SHELXS97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      293
+_diffrn_measured_fraction_theta_full 1
+_diffrn_measured_fraction_theta_max 1
+_diffrn_measurement_device_type  'Stoe IPDS'
+_diffrn_measurement_method       '\f oscillation'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.153
+_diffrn_reflns_av_sigmaI/netI    0.167
+_diffrn_reflns_limit_h_max       19
+_diffrn_reflns_limit_h_min       -19
+_diffrn_reflns_limit_k_max       10
+_diffrn_reflns_limit_k_min       -11
+_diffrn_reflns_limit_l_max       38
+_diffrn_reflns_limit_l_min       -38
+_diffrn_reflns_number            12622
+_diffrn_reflns_theta_full        25.93
+_diffrn_reflns_theta_max         25.93
+_diffrn_reflns_theta_min         2.62
+_diffrn_standards_decay_%        0
+_diffrn_standards_interval_time  10
+_diffrn_standards_number         200
+_exptl_absorpt_coefficient_mu    89.103
+_exptl_absorpt_correction_T_max  0.127
+_exptl_absorpt_correction_T_min  0.019
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details   '(X-RED; Stoe & Cie, 1999)'
+_exptl_crystal_colour            'metallic dark grey'
+_exptl_crystal_density_diffrn    9.084
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       parallelepiped
+_exptl_crystal_F_000             9416
+_exptl_crystal_size_max          0.15
+_exptl_crystal_size_mid          0.03
+_exptl_crystal_size_min          0.03
+_refine_diff_density_max         8.97
+_refine_diff_density_min         -8.32
+_refine_ls_extinction_coef       0.005
+_refine_ls_extinction_method     'B-C type 1 Gaussian isotropic'
+_refine_ls_goodness_of_fit_ref   2.372
+_refine_ls_matrix_type           'full matrix'
+_refine_ls_number_constraints    0
+_refine_ls_number_parameters     150
+_refine_ls_number_reflns         1982
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_gt           0.107
+_refine_ls_shift/su_max          0.001
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_all         0.188
+_refine_ls_wR_factor_obs         0.180
+_reflns_number_gt                1989
+_reflns_number_total             3865
+_reflns_threshold_expression     F^2^>2\s(F^2^)
+_cod_data_source_file            br1351.cif
+_cod_data_source_block           I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_exptl_crystal_density_meas' value 'not measured' was changed to '?'
+- the value is perceived as not measured.
+
+Automatic conversion script
+Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas 
+;
+_cod_original_sg_symbol_Hall     '-c 2yc'
+_cod_original_sg_symbol_H-M      'C 2/c'
+_cod_database_code               2012689
+_cod_database_fobs_code          2012689
+loop_
+_symmetry_equiv_pos_as_xyz
++x,+y,+z
+-x,+y,1/2-z
+-x,-y,-z
++x,-y,1/2+z
+1/2+x,1/2+y,+z
+1/2-x,1/2+y,1/2-z
+1/2-x,1/2-y,-z
+1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_calc_attached_atom
+_atom_site_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Tl1 0.46047(12) 0.7406(3) 0.69222(5) 0.038(3) Uani ? ? 1.00000 ? ?
+Tl2 0.22052(12) 0.7372(2) 0.62040(5) 0.036(3) Uani ? ? 1.00000 ? ?
+Tl3 0.30498(12) 0.0964(2) 0.68758(5) 0.031(2) Uani ? ? 1.00000 ? ?
+Tl4 0.41703(12) 0.4103(3) 0.07023(5) 0.035(3) Uani ? ? 1.00000 ? ?
+Tl5 0.00857(12) 0.7388(2) 0.64247(6) 0.040(3) Uani ? ? 1.00000 ? ?
+Tl6 0.10549(13) 0.9425(2) 0.73832(6) 0.035(3) Uani ? ? 1.00000 ? ?
+Tl7 0.14865(12) 0.4548(2) 0.69500(5) 0.050(3) Uani ? ? 1.00000 ? ?
+Tl8 0.28563(13) 0.2439(2) 0.56210(6) 0.039(3) Uani ? ? 1.00000 ? ?
+Tl9 0.36524(13) 0.5251(2) 0.46395(6) 0.045(3) Uani ? ? 1.00000 ? ?
+Tl10 0.35436(14) 0.9243(3) 0.49974(6) 0.060(4) Uani ? ? 1.00000 ? ?
+Tl11 0.41698(14) 0.0902(3) 0.41512(6) 0.040(3) Uani ? ? 1.00000 ? ?
+Te1 0.3416(2) 0.4340(4) 0.64888(8) 0.055(4) Uani ? ? 1.00000 ? ?
+Te2 0.6048(2) 0.5900(3) 0.62835(8) 0.053(3) Uani ? ? 1.00000 ? ?
+Te3 0.3869(2) 0.9366(3) 0.60499(8) 0.049(3) Uani ? ? 1.00000 ? ?
+Te4 0.26927(19) 0.7502(4) 0.72596(7) 0.055(4) Uani ? ? 1.00000 ? ?
+Te5 0.53175(19) 0.7563(4) 0.48253(8) 0.055(4) Uani ? ? 1.00000 ? ?
+Te6 0.50000 0.0988(5) 0.75000 0.030(6) Uani ? ? 1.00000 ? ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 0.0342(9) 0.0417(13) 0.0415(8) 0.0014(9) 0.0003(7) 0.0114(9)
+Tl2 0.0393(10) 0.0372(12) 0.0457(8) -0.0031(9) -0.0001(7) 0.0004(10)
+Tl3 0.0384(9) 0.0349(10) 0.0284(7) -0.0005(9) 0.0005(7) 0.0042(7)
+Tl4 0.0468(12) 0.0424(13) 0.0310(8) -0.0025(10) -0.0041(8) 0.0044(8)
+Tl5 0.0298(9) 0.0339(12) 0.0795(12) 0.0037(9) -0.0011(9) -0.0076(12)
+Tl6 0.0376(10) 0.0438(14) 0.0434(9) 0.0064(9) 0.0026(8) -0.0053(9)
+Tl7 0.0474(12) 0.0440(14) 0.0325(8) -0.0085(9) -0.0078(8) 0.0063(8)
+Tl8 0.0424(10) 0.0346(13) 0.0574(9) -0.0002(9) -0.0085(8) -0.0113(10)
+Tl9 0.0433(11) 0.0452(13) 0.0379(8) -0.0013(10) 0.0014(8) -0.0008(9)
+Tl10 0.0481(12) 0.0658(16) 0.0340(8) 0.0046(11) 0.0044(8) -0.0045(9)
+Tl11 0.0574(13) 0.0593(16) 0.0411(9) -0.0082(12) 0.0139(9) -0.0088(10)
+Te1 0.0420(18) 0.0305(18) 0.0290(13) 0.0035(15) 0.0052(12) -0.0010(12)
+Te2 0.0343(15) 0.0251(17) 0.0333(13) 0.0063(14) -0.0010(11) -0.0040(12)
+Te3 0.0474(18) 0.0237(17) 0.0252(12) 0.0056(14) 0.0089(12) 0.0059(12)
+Te4 0.0325(14) 0.0247(18) 0.0328(12) 0.0006(14) 0.0077(10) -0.0029(15)
+Te5 0.0334(14) 0.0233(18) 0.0405(13) -0.0034(13) 0.0046(11) 0.0030(14)
+Te6 0.0162(18) 0.034(3) 0.0320(17) 0.00000 -0.0008(15) 0.00000
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Tl -3.556 9.659 'Int Tables Vol IV Tables 2.2B and 2.3.1'
+Te -0.772 1.675 'Int Tables Vol IV Tables 2.2B and 2.3.1'
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Tl1 Te3 . . 3.266(3) yes
+Tl1 Te4 . . 3.356(4) yes
+Tl1 Te1 . . 3.457(4) yes
+Tl1 Tl7 . 5 3.508(3) yes
+Tl1 Te2 . . 3.550(4) no
+Tl1 Tl1 . '2 656' 3.586(2) yes
+Tl1 Tl6 . '5 545' 3.631(3) yes
+Tl1 Te6 . '1 565' 3.685(4) no
+Tl1 Tl6 . '6 546' 3.712(3) no
+Tl1 Tl4 . '4 565' 3.977(2) no
+Tl1 Tl2 . . 4.000(2) no
+Tl1 Tl3 . '1 565' 4.005(3) no
+Tl2 Te4 . . 3.241(3) yes
+Tl2 Te3 . . 3.272(4) yes
+Tl2 Te1 . . 3.344(4) yes
+Tl2 Tl9 . '7 566' 3.460(3) yes
+Tl2 Tl5 . . 3.514(3) yes
+Tl2 Te2 . '5 455' 3.683(4) no
+Tl2 Tl11 . '7 556' 3.692(3) yes
+Tl2 Tl7 . . 3.756(3) no
+Tl2 Tl4 . '4 565' 3.934(3) no
+Tl2 Tl3 . '1 565' 3.940(3) no
+Tl2 Tl10 . '7 566' 3.986(2) no
+Tl3 Te6 . . 3.3016(17) yes
+Tl3 Te2 . '5 445' 3.329(3) yes
+Tl3 Te1 . . 3.354(4) yes
+Tl3 Te3 . '1 545' 3.403(3) yes
+Tl3 Te4 . '1 545' 3.417(4) yes
+Tl3 Te4 . '6 546' 3.422(3) yes
+Tl3 Tl7 . '6 546' 3.817(2) no
+Tl3 Tl5 . '5 545' 3.932(3) no
+Tl3 Tl6 . '6 546' 3.972(3) no
+Tl3 Tl6 . '1 545' 4.003(3) no
+Tl3 Tl7 . . 4.079(3) no
+Tl3 Tl8 . . 4.090(2) no
+Tl4 Te2 . '4 564' 3.154(3) yes
+Tl4 Te1 . '4 564' 3.234(4) yes
+Tl4 Tl9 . '4 564' 3.314(2) yes
+Tl4 Te3 . '4 564' 3.363(4) yes
+Tl4 Te5 . '2 655' 3.676(4) yes
+Tl4 Tl8 . '4 564' 3.710(3) no
+Tl4 Tl10 . '4 564' 3.746(3) no
+Tl4 Te5 . '4 564' 3.846(4) yes
+Tl4 Tl11 . '2 655' 3.847(3) no
+Tl4 Tl9 . '2 655' 3.897(3) no
+Tl4 Tl5 . '8 564' 3.984(3) no
+Tl5 Te1 . '5 455' 3.186(4) yes
+Tl5 Te3 . '5 445' 3.397(4) yes
+Tl5 Tl7 . . 3.560(3) yes
+Tl5 Te2 . '5 455' 3.560(4) yes
+Tl5 Tl6 . . 3.592(3) yes
+Tl5 Te6 . '5 455' 3.609(3) no
+Tl5 Tl11 . '7 556' 3.757(3) no
+Tl5 Tl8 . '5 455' 3.900(3) no
+Tl6 Te4 . . 3.175(4) yes
+Tl6 Te4 . '6 556' 3.453(4) yes
+Tl6 Te1 . '6 556' 3.462(3) yes
+Tl6 Tl6 . '2 556' 3.514(3) yes
+Tl6 Te6 . '5 455' 3.554(4) no
+Tl6 Te2 . '5 455' 3.676(3) no
+Tl6 Tl7 . '6 556' 4.022(3) no
+Tl7 Te4 . '6 546' 3.151(3) yes
+Tl7 Te4 . . 3.297(4) yes
+Tl7 Te6 . '5 455' 3.396(3) yes
+Tl7 Tl11 . '7 556' 3.421(2) yes
+Tl7 Te1 . . 3.586(4) no
+Tl8 Te1 . . 3.182(3) yes
+Tl8 Te3 . '1 545' 3.338(4) yes
+Tl8 Tl9 . '7 556' 3.372(3) yes
+Tl8 Te5 . '3 666' 3.407(4) yes
+Tl8 Tl11 . '7 556' 3.693(3) yes
+Tl8 Tl10 . '1 545' 3.739(3) yes
+Tl8 Tl8 . '7 556' 3.828(2) no
+Tl8 Tl10 . '7 566' 3.980(3) no
+Tl9 Te2 . '3 666' 3.175(3) yes
+Tl9 Te5 . '3 666' 3.283(4) yes
+Tl9 Te5 . . 3.300(4) yes
+Tl9 Tl10 . . 3.770(3) no
+Tl9 Tl10 . '7 566' 3.844(3) no
+Tl10 Te3 . . 3.229(3) yes
+Tl10 Te5 . . 3.293(4) yes
+Tl10 Tl11 . '1 565' 3.335(3) yes
+Tl10 Te5 . '3 676' 3.371(4) yes
+Tl10 Tl11 . '3 666' 4.043(3) no
+Tl11 Te2 . '3 666' 3.170(4) yes
+Tl11 Te3 . '3 666' 3.256(4) yes
+Tl11 Te5 . '3 666' 3.433(3) yes

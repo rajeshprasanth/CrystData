@@ -1,0 +1,204 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-19 16:29:56 +0200 (Fri, 19 Feb 2016) $
+#$Revision: 176759 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/41/2004133.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2004133
+loop_
+_publ_author_name
+Rajnikant
+'Watkin, D. J.'
+'Tranter, G.'
+_publ_section_title
+;
+ 4-Benzylbiphenyl
+;
+_journal_issue                   11
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              2388
+_journal_page_last               2390
+_journal_paper_doi               10.1107/S0108270195006329
+_journal_volume                  51
+_journal_year                    1995
+_chemical_formula_sum            'C19 H16'
+_chemical_formula_weight         244.3
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_atom_type_scat_source           IntTabIV
+_cell_angle_alpha                90
+_cell_angle_beta                 99.919(20)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   10.711(4)
+_cell_length_b                   6.115(3)
+_cell_length_c                   21.514(4)
+_cell_measurement_reflns_used    250
+_cell_measurement_temperature    120
+_cell_measurement_theta_max      24
+_cell_measurement_theta_min      3
+_cell_volume                     1388.1(9)
+_diffrn_measurement_device       'Enraf-Nonius FAST'
+_diffrn_measurement_method       \w/2\q
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.123
+_diffrn_reflns_limit_h_max       11
+_diffrn_reflns_limit_h_min       -11
+_diffrn_reflns_limit_k_max       6
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       23
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            5539
+_diffrn_reflns_theta_max         25
+_diffrn_standards_number
+;No standards measured; absence of decay confirmed by comparing analogous
+reflections from beginning and end of data collection (7 h in total)
+;
+_exptl_absorpt_coefficient_mu    0.613
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            White
+_exptl_crystal_density_diffrn    1.17
+_exptl_crystal_description       'Rectangular plate'
+_exptl_crystal_size_max          0.70
+_exptl_crystal_size_mid          0.30
+_exptl_crystal_size_min          0.20
+_refine_diff_density_max         1.573
+_refine_diff_density_min         -1.162
+_refine_ls_extinction_coef       38.6
+_refine_ls_extinction_method     'Secondary, Larson (1970)'
+_refine_ls_goodness_of_fit_obs   0.994
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_number_parameters     232
+_refine_ls_number_reflns         1102
+_refine_ls_R_factor_obs          0.0429
+_refine_ls_shift/esd_max         0.162
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_scheme
+;w = [weight][1 - (\DF/\s + \sF)^2^]^2^, weighting coefficients 11.5,
+-0.68, 8.27
+;
+_refine_ls_wR_factor_obs         0.0510
+_reflns_number_observed          1102
+_reflns_number_total             2055
+_reflns_observed_criterion       I>3\s(I)
+_cod_data_source_file            hu1135.cif
+_cod_data_source_block           hu1135a
+_cod_original_sg_symbol_H-M      'P 21/c'
+_cod_database_code               2004133
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2-y,1/2+z
+-x,-y,-z
+-x,1/2+y,1/2-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C(1) .0635(2) -.2596(4) -.9014(1) .046(3)
+C(2) .0545(2) -.0707(5) -.8665(1) .053(3)
+C(3) -.0296(2) -.0566(5) -.8246(1) .055(3)
+C(4) -.1072(2) -.2298(4) -.8154(1) .050(3)
+C(5) -.0981(3) -.4180(5) -.8499(1) .057(3)
+C(6) -.0151(2) -.4331(5) -.8924(1) .054(3)
+C(7) .1541(2) -.2745(4) -.9463(1) .050(3)
+C(8) .1718(2) -.0999(5) -.9856(1) .058(3)
+C(9) .2561(3) -.1143(7) -1.0272(1) .070(3)
+C(10) .3259(3) -.3026(7) -1.0300(2) .079(3)
+C(11) .3101(3) -.4761(7) -.9915(2) .078(3)
+C(12) .2253(3) -.4630(5) -.9505(2) .066(3)
+C(13) -.1999(3) -.2096(6) -.7699(1) .061(3)
+C(14) -.3150(2) -.0723(4) -.7952(1) .049(3)
+C(15) -.3322(3) .1303(5) -.7694(1) .062(3)
+C(16) -.4369(4) .2532(6) -.7912(2) .076(3)
+C(17) -.5273(4) .1766(8) -.8388(2) .079(3)
+C(18) -.5118(3) -.0232(8) -.8654(2) .078(3)
+C(19) -.4059(3) -.1486(6) -.8435(1) .063(3)
+H[21) .111(2) .056(4) -.871(1) .0473
+H(31) -.034(2) .068(4) -.801(1) .0485
+H(51) -.150(2) -.536(4) -.846(1) .0515
+H(61) -.010(2) -.564(4) -.916(1) .0492
+H(81) .124(2) .025(4) -.982(1) .0525
+H(91) .264(2) .007(5) -1.054(1) .0654
+H(101) .385(3) -.314(5) -1.057(1) .0841
+H(111) .360(3) -.615(5) -.993(1) .0749
+H(121) .213(2) -.579(4) -.925(1) .0597
+H(131) -.227(2) -.347(5) -.759(1) .0565
+H(132) -.156(2) -.151(4) -.729(1) .0565
+H(151) -.274(2) .185(4) -.737(1) .0549
+H(161) -.448(3) .382(5) -.770(1) 0.730
+H(171) -.601(4) .259(6) -.852(2) .1169
+H(181) -.571(3) -.087(5) -.896(1) .0726
+H(191) -.392(2) -.286(4) -.862(1) .0555
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+C(2) C(1) C(6) 117.3(2) yes
+C(2) C(1) C(7) 121.1(2) yes
+C(6) C(1) C(7) 121.6(2) yes
+C(1) C(2) C(3) 121.2(3) yes
+C(2) C(3) C(4) 121.5(3) yes
+C(3) C(4) C(5) 117.4(2) yes
+C(3) C(4) C(13) 120.5(3) yes
+C(5) C(4) C(13) 122.0(3) yes
+C(4) C(5) C(6) 121.6(3) yes
+C(1) C(6) C(5) 121.0(3) yes
+C(1) C(7) C(8) 121.3(2) yes
+C(1) C(7) C(12) 121.3(2) yes
+C(8) C(7) C(12) 117.5(3) yes
+C(7) C(8) C(9) 121.1(3) yes
+C(8) C(9) C(10) 120.1(3) yes
+C(9) C(10) C(11) 119.6(3) yes
+C(10) C(11) C(12) 120.4(3) yes
+C(7) C(12) C(11) 121.3(3) yes
+C(4) C(13) C(14) 113.4(2) yes
+C(13) C(14) C(15) 120.7(3) yes
+C(13) C(14) C(19) 120.6(3) yes
+C(15) C(14) C(19) 118.7(3) yes
+C(14) C(15) C(16) 120.9(3) yes
+C(15) C(16) C(17) 120.3(4) yes
+C(16) C(17) C(18) 119.8(3) yes
+C(17) C(18) C(19) 120.2(4) yes
+C(14) C(19) C(18) 120.0(3) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C(1) C(2) 1.390(3) yes
+C(1) C(6) 1.389(4) yes
+C(1) C(7) 1.485(4) yes
+C(2) C(3) 1.381(4) yes
+C(3) C(4) 1.382(4) yes
+C(4) C(5) 1.383(4) yes
+C(4) C(13) 1.514(4) yes
+C(5) C(6) 1.383(4) yes
+C(7) C(8) 1.395(4) yes
+C(7) C(12) 1.393(4) yes
+C(8) C(9) 1.379(4) yes
+C(9) C(10) 1.380(5) yes
+C(10) C(11) 1.373(5) yes
+C(11) C(12) 1.374(4) yes
+C(13) C(14) 1.513(4) yes
+C(14) C(15) 1.382(4) yes
+C(14) C(19) 1.378(4) yes
+C(15) C(16) 1.364(5) yes
+C(16) C(17) 1.366(6) yes
+C(17) C(18) 1.371(5) yes
+C(18) C(19) 1.383(5) yes

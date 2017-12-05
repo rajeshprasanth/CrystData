@@ -1,0 +1,89 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/68/1526854.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1526854
+loop_
+_publ_author_name
+'Troyanov, S.I.'
+_publ_section_title
+;
+ Crystal modifications of beryllium dihalides Be Cl2, Be Br2 and Be I2
+;
+_journal_name_full               'Zhurnal Neorganicheskoi Khimii'
+_journal_page_first              1619
+_journal_page_last               1624
+_journal_volume                  45
+_journal_year                    2000
+_chemical_formula_sum            'Be Cl2'
+_chemical_name_systematic        'Be Cl2'
+_space_group_IT_number           142
+_symmetry_space_group_name_Hall  '-I 4bd 2c'
+_symmetry_space_group_name_H-M   'I 41/a c d :2'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            32
+_cell_length_a                   10.595
+_cell_length_b                   10.595
+_cell_length_c                   18.036
+_cell_volume                     2024.614
+_citation_journal_id_ASTM        ZNOKAQ
+_cod_data_source_file            Troyanov_ZNOKAQ_2000_837.cif
+_cod_data_source_block           Be1Cl2
+_cod_original_formula_sum        'Be1 Cl2'
+_cod_database_code               1526854
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y+1/4,x+3/4,z+1/4
+-x+1/2,-y,z+1/2
+y+1/4,-x+1/4,z+3/4
+x,-y,-z+1/2
+y+1/4,x+3/4,-z+3/4
+-x+1/2,y,-z
+-y+1/4,-x+1/4,-z+1/4
+-x,-y,-z
+y-1/4,-x-3/4,-z-1/4
+x-1/2,y,-z-1/2
+-y-1/4,x-1/4,-z-3/4
+-x,y,z-1/2
+-y-1/4,-x-3/4,z-3/4
+x-1/2,-y,z
+y-1/4,x-1/4,z-1/4
+x+1/2,y+1/2,z+1/2
+-y+3/4,x+5/4,z+3/4
+-x+1,-y+1/2,z+1
+y+3/4,-x+3/4,z+5/4
+x+1/2,-y+1/2,-z+1
+y+3/4,x+5/4,-z+5/4
+-x+1,y+1/2,-z+1/2
+-y+3/4,-x+3/4,-z+3/4
+-x+1/2,-y+1/2,-z+1/2
+y+1/4,-x-1/4,-z+1/4
+x,y+1/2,-z
+-y+1/4,x+1/4,-z-1/4
+-x+1/2,y+1/2,z
+-y+1/4,-x-1/4,z-1/4
+x,-y+1/2,z+1/2
+y+1/4,x+1/4,z+1/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cl1 Cl-1 0.53382 0.47002 0.12444 1 0.0
+Be1 Be+2 0.4099 0.3749 0.18888 1 0.0
+Cl2 Cl-1 0.5 0.25 0.25591 1 0.0
+Cl3 Cl-1 0.30876 0.5 0.25 1 0.0

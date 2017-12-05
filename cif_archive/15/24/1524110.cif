@@ -1,0 +1,94 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-11 16:04:06 +0300 (Sat, 11 Jul 2015) $
+#$Revision: 144783 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/41/1524110.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1524110
+loop_
+_publ_author_name
+'Bruzzone, G.'
+'Fornasini, M.L.'
+'Merlo, F.'
+_publ_section_title
+;
+ Rare-earth intermediate phases with cadmium
+;
+_journal_name_full               'Journal of the Less-Common Metals'
+_journal_page_first              361
+_journal_page_last               375
+_journal_volume                  30
+_journal_year                    1973
+_chemical_formula_sum            'Cd58 La13'
+_chemical_name_systematic        'Cd58 La13'
+_space_group_IT_number           194
+_symmetry_space_group_name_Hall  '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            2
+_cell_length_a                   15.85
+_cell_length_b                   15.85
+_cell_length_c                   15.63
+_cell_volume                     3400.542
+_citation_journal_id_ASTM        JCOMAH
+_cod_data_source_file            Bruzzone_JCOMAH_1973_642.cif
+_cod_data_source_block           Cd58La13
+_cod_database_code               1524110
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x-y,x,z+1/2
+-y,x-y,z
+-x,-y,z+1/2
+-x+y,-x,z
+y,-x+y,z+1/2
+-y,-x,-z+1/2
+x-y,-y,-z
+x,x-y,-z+1/2
+y,x,-z
+-x+y,y,-z+1/2
+-x,-x+y,-z
+-x,-y,-z
+-x+y,-x,-z-1/2
+y,-x+y,-z
+x,y,-z-1/2
+x-y,x,-z
+-y,x-y,-z-1/2
+y,x,z-1/2
+-x+y,y,z
+-x,-x+y,z-1/2
+-y,-x,z
+x-y,-y,z-1/2
+x,x-y,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+La3 La 0.873 0.746 0.25 1 0.0
+Cd2 Cd 0.3333 0.6667 0.75 1 0.0
+Cd6 Cd 0.1986 0 0 1 0.0
+Cd1 Cd 0 0 0.25 1 0.0
+Cd10 Cd 0.6008 0.2016 0.0548 1 0.0
+La4 La 0.2062 0.4124 0.0518 1 0.0
+La2 La 0.5415 0.083 0.25 1 0.0
+Cd9 Cd 0.4371 0.8742 0.1416 1 0.0
+Cd3 Cd 0.3333 0.6667 0.0956 1 0.0
+Cd7 Cd 0.0856 0.3674 0.25 1 0.0
+Cd4 Cd 0.5 0 0 1 0.0
+Cd5 Cd 0.2706 0.5412 0.25 1 0.0
+La1 La 0 0 0 1 0.0
+Cd11 Cd 0.763 0.526 0.1573 1 0.0
+Cd8 Cd 0.0963 0.1926 0.1573 1 0.0
+Cd12 Cd 0.3663 0.0334 0.1005 1 0.0

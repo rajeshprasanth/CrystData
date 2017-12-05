@@ -1,0 +1,46 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-09 20:42:54 +0200 (Tue, 09 Feb 2016) $
+#$Revision: 176292 $
+#$URL: svn://www.crystallography.net/cod/cif/6/00/00/6000063.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_6000063
+loop_
+_publ_author_name
+'Klap, G. J.'
+'Van, Koningsveld H'
+'Graafsma, H.'
+'Schreurs, A. M. M.'
+_publ_section_title
+;
+ Absolute configuration and domain structure of AlPO4-5 studied by single
+ crystal X-ray diffraction
+;
+_journal_name_full               'Microporous and Mesoporous Materials'
+_journal_page_first              403
+_journal_page_last               412
+_journal_paper_doi               10.1016/S1387-1811(00)00161-X
+_journal_volume                  38
+_journal_year                    2000
+_chemical_formula_sum            'Al Po4'
+_space_group_name_H-M_alt        'P 6'
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                120.000
+_cell_length_a                   13.7180
+_cell_length_b                   13.7180
+_cell_length_c                   9.4526
+_cell_volume                     1540.51
+_cod_database_code               6000063
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

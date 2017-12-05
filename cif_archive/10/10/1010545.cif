@@ -1,0 +1,66 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-01-27 21:58:39 +0200 (Tue, 27 Jan 2015) $
+#$Revision: 130149 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/05/1010545.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010545
+loop_
+_publ_author_name
+'Doell, W'
+'Klemm, W'
+_publ_section_title              'Ueber die Struktur einiger Dihalogenide'
+_journal_coden_ASTM              ZAACAB
+_journal_name_full
+;
+Zeitschrift fuer Anorganische und Allgemeine Chemie
+;
+_journal_page_first              239
+_journal_page_last               258
+_journal_paper_doi               10.1002/zaac.19392410211
+_journal_volume                  241
+_journal_year                    1939
+_chemical_formula_structural     'Yb I2'
+_chemical_formula_sum            'I2 Yb'
+_chemical_name_systematic        'Ytterbium(II) iodide'
+_space_group_IT_number           164
+_symmetry_cell_setting           trigonal
+_symmetry_Int_Tables_number      164
+_symmetry_space_group_name_Hall  '-P 3 2"'
+_symmetry_space_group_name_H-M   'P -3 m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            1
+_cell_length_a                   4.48(2)
+_cell_length_b                   4.48(2)
+_cell_length_c                   6.96(3)
+_cell_volume                     121.0
+_exptl_crystal_density_meas      5.7(2)
+_cod_database_code               1010545
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+y-x,-x,z
+-y,-x,z
+x,x-y,z
+y-x,y,z
+-x,-y,-z
+y,y-x,-z
+x-y,x,-z
+y,x,-z
+-x,y-x,-z
+x-y,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

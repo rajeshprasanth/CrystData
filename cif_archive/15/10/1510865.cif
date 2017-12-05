@@ -1,0 +1,109 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/08/1510865.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1510865
+loop_
+_publ_author_name
+'Callmer, B.'
+'Andersson, S.'
+_publ_section_title
+;
+ The solubilities of copper and manganese in beta-rhombohedral boron as
+ determined in Cu B28 and Mn B23 by single crystal diffractometry
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              219
+_journal_page_last               321
+_journal_paper_doi               10.1016/0022-4596(74)90029-2
+_journal_volume                  10
+_journal_year                    1974
+_chemical_formula_sum            'B25.7244 Mn1.105'
+_chemical_name_systematic        '(Mn B23.28)1.105'
+_space_group_IT_number           166
+_symmetry_space_group_name_Hall  '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            12
+_cell_length_a                   10.9875
+_cell_length_b                   10.9875
+_cell_length_c                   23.9937
+_cell_volume                     2508.567
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            boron_378.cif
+_cod_data_source_block           B25.7244Mn1.105
+_cod_database_code               1510865
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+y,x,-z
+-x,-x+y,-z
+x-y,-y,-z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-y,-x,z
+x,x-y,z
+-x+y,y,z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+y+2/3,x+1/3,-z+1/3
+-x+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,-y+1/3,-z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+-y+2/3,-x+1/3,z+1/3
+x+2/3,x-y+1/3,z+1/3
+-x+y+2/3,y+1/3,z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+y+1/3,x+2/3,-z+2/3
+-x+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,-y+2/3,-z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+-y+1/3,-x+2/3,z+2/3
+x+1/3,x-y+2/3,z+2/3
+-x+y+1/3,y+2/3,z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B15 B 0 0 0.5 1 0.0
+B7 B 0.1094 0.2188 0.8879 1 0.0
+B3 B 0.26193 0.21789 0.41905 1 0.0
+B13 B 0.05582 0.11164 0.55613 0.65 0.0
+B8 B 0.16841 0.33682 0.02804 1 0.0
+B5 B 0.05412 0.10824 0.94386 1 0.0
+B1 B 0.17538 0.17375 0.17526 1 0.0
+B4 B 0.2378 0.25253 0.34698 1 0.0
+Mn1 Mn 0 0 0.13368 0.256 0.0
+B14 B 0 0 0.38577 1 0.0
+B9 B 0.12981 0.25962 0.7667 1 0.0
+B11 B 0.05752 0.11504 0.32738 1 0.0
+B2 B 0.31901 0.29428 0.12845 1 0.0
+B12 B 0.09019 0.18038 0.39796 1 0.0
+B6 B 0.08527 0.17054 0.01318 1 0.0
+Mn2 Mn 0.20199 0.40398 0.1746 0.431 0.0
+Mn3 Mn 0 0 0.23304 0.662 0.0
+B10 B 0.10211 0.20422 0.6982 1 0.0

@@ -1,0 +1,67 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-07 00:38:44 +0300 (Tue, 07 Jul 2015) $
+#$Revision: 140525 $
+#$URL: svn://www.crystallography.net/cod/cif/4/12/39/4123921.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4123921
+loop_
+_publ_author_name
+'Chen, X.H.'
+'Chi, D.H.'
+'Liu, Z.S.'
+'Takenobu, T.'
+'Sun, Z.'
+'Iwasa, Y.'
+_publ_section_title
+;
+ Synthesis, structure, and transport properties of novel fullerides A3 C70
+ (A = Ba and Sm)
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              5729
+_journal_page_last               5732
+_journal_volume                  122
+_journal_year                    2000
+_chemical_formula_sum            'C70 Sm3'
+_chemical_name_systematic        'Sm3 C70'
+_space_group_IT_number           3
+_symmetry_space_group_name_Hall  'P 2y'
+_symmetry_space_group_name_H-M   'P 1 2 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 96.16
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   14.88
+_cell_length_b                   10.09
+_cell_length_c                   10.93
+_cell_volume                     1631.546
+_citation_journal_id_ASTM        JACSAT
+_cod_data_source_file            Chen_JACSAT_2000_1171.cif
+_cod_data_source_block           C70Sm3
+_cod_original_cell_volume        1631.547
+_cod_database_code               4123921
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+C1 C 0 0 0 70 0.0
+Sm4 Sm 0.092 0.427 0.399 0.5 0.0
+Sm3 Sm 0.596 0.011 0.26 0.5 0.0
+C2 C 0.5 0.5 0.5 70 0.0
+Sm2 Sm 0.258 0.525 0.002 1 0.0
+Sm1 Sm 0.223 0.976 0.539 1 0.0

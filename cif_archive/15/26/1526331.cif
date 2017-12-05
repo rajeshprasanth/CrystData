@@ -1,0 +1,100 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-12 19:29:00 +0300 (Sun, 12 Jul 2015) $
+#$Revision: 147486 $
+#$URL: svn://www.crystallography.net/cod/cif/1/52/63/1526331.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1526331
+loop_
+_publ_author_name
+'Hirschle, C.'
+'Roehr, C.'
+_publ_section_title
+;
+ Darstellung und Kristallstruktur der bekannten Zintl-Phasen Cs3 Sb7 und
+ Cs4 Sb2
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first              1992
+_journal_page_last               1998
+_journal_volume                  626
+_journal_year                    2000
+_chemical_formula_sum            'Cs3 Sb7'
+_chemical_name_systematic        'Cs3 Sb7'
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 96.3
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   16.057
+_cell_length_b                   15.711
+_cell_length_c                   27.939
+_cell_volume                     7005.650
+_citation_journal_id_ASTM        ZAACAB
+_cod_data_source_file            Hirschle_ZAACAB_2000_764.cif
+_cod_data_source_block           Cs3Sb7
+_cod_original_cell_volume        7005.649
+_cod_database_code               1526331
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z+1/2
+-x,-y,-z
+x,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sb28 Sb 0.05109 0.71592 0.09384 1 0.0
+Sb7 Sb 0.52269 0.45347 0.37772 1 0.0
+Cs7 Cs 0.07959 0.36323 0.19161 1 0.0
+Sb25 Sb 0.04109 0.82528 0.1697 1 0.0
+Sb17 Sb 0.5817 0.29805 0.12203 1 0.0
+Sb4 Sb 0.56628 0.42541 0.28587 1 0.0
+Sb9 Sb 0.25439 0.29772 0.11315 1 0.0
+Sb14 Sb 0.29607 0.07767 0.01737 1 0.0
+Cs10 Cs 0.08675 0.59413 0.50553 1 0.0
+Cs8 Cs 0.76838 0.37397 0.22906 1 0.0
+Cs9 Cs 0.11219 0.52143 0.33987 1 0.0
+Sb2 Sb 0.30093 0.40113 0.26903 1 0.0
+Sb18 Sb 0.37007 0.61789 0.01921 1 0.0
+Sb13 Sb 0.2451 0.0141 0.10676 1 0.0
+Cs12 Cs 0.14623 0.46434 0.01075 1 0.0
+Cs4 Cs 0.69458 0.27032 0.37338 1 0.0
+Cs11 Cs 0.26424 0.13724 0.22948 1 0.0
+Sb5 Sb 0.34267 0.43899 0.3657 1 0.0
+Sb22 Sb 0.0526 0.70387 0.24262 1 0.0
+Sb10 Sb 0.09051 0.08405 0.11486 1 0.0
+Sb23 Sb 0.05998 0.07418 0.28634 1 0.0
+Sb12 Sb 0.35773 0.1591 0.10721 1 0.0
+Sb11 Sb 0.16045 0.32802 0.47959 1 0.0
+Sb3 Sb 0.45213 0.18647 0.32934 1 0.0
+Sb15 Sb 0.59282 0.44599 0.06941 1 0.0
+Sb8 Sb 0.10621 0.23435 0.06392 1 0.0
+Sb16 Sb 0.25454 0.01002 0.38999 1 0.0
+Sb1 Sb 0.44307 0.30695 0.25528 1 0.0
+Sb24 Sb 0.19958 0.61959 0.22776 1 0.0
+Cs6 Cs 0.56477 0.1194 0.0237 1 0.0
+Cs3 Cs 0.40854 0.4819 0.15151 1 0.0
+Sb20 Sb 0.7359 0.22793 0.10951 1 0.0
+Sb6 Sb 0.44324 0.29836 0.40326 1 0.0
+Sb19 Sb 0.84595 0.36959 0.09916 1 0.0
+Sb26 Sb 0.01947 0.0582 0.37963 1 0.0
+Cs2 Cs 0.57593 0.12708 0.21268 1 0.0
+Cs5 Cs 0.38207 0.34223 0.00316 1 0.0
+Cs1 Cs 0.19793 0.23897 0.3598 1 0.0
+Sb27 Sb 0.15997 0.57985 0.13279 1 0.0
+Sb21 Sb 0.76645 0.28534 0.01439 1 0.0

@@ -1,0 +1,87 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/4/12/43/4124319.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4124319
+loop_
+_publ_author_name
+'Brewer, C.T.'
+'Grimes, R.N.'
+_publ_section_title
+;
+ Metal-induced oxidative fusion of boranes. Synthesis of B12 H16, the
+ first neutral dodecaborane
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              2722
+_journal_page_last               2723
+_journal_volume                  106
+_journal_year                    1984
+_chemical_formula_sum            'B12 H16'
+_chemical_name_systematic        'B12 H16'
+_space_group_IT_number           33
+_symmetry_space_group_name_Hall  'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   10.686
+_cell_length_b                   8.686
+_cell_length_c                   11.351
+_cell_volume                     1053.584
+_citation_journal_id_ASTM        JACSAT
+_cod_data_source_file            Brewer_JACSAT_1984_1114.cif
+_cod_data_source_block           H16B12
+_cod_original_formula_sum        'H16 B12'
+_cod_database_code               4124319
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z+1/2
+-x+1/2,y+1/2,z+1/2
+x+1/2,-y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B12 B+1 -0.1117 0.0923 0.8388 1 0.0
+H2 H-1 0.338 0.336 0.756 1 0.0
+H15 H-1 -0.123 0.359 0.872 1 0.0
+H4 H-1 0.014 0.38 0.441 1 0.0
+B9 B+1 -0.0795 0.2472 0.9284 1 0.0
+H12 H-1 0.225 0.163 0.713 1 0.0
+B6 B+1 0.0709 0.3301 0.5174 1 0.0
+B7 B+1 0.0069 0.0679 0.7282 1 0.0
+H6 H-1 0.098 0.075 0.94 1 0.0
+B4 B+1 0.2547 0.3039 0.6939 1 0.0
+B3 B+1 0.1221 0.202 0.7399 1 0.0
+B8 B+1 0.0506 0.1395 0.8732 1 0.0
+H9 H-1 -0.212 0.112 0.632 1 0.0
+H14 H-1 0.031 0.272 0.907 1 0.0
+H8 H-1 -0.283 0.286 0.835 1 0.0
+B5 B+1 0.2173 0.3807 0.5569 1 0.0
+H5 H-1 0.024 -0.054 0.702 1 0.0
+H16 H-1 -0.163 0.295 0.72 1 0.0
+H10 H-1 -0.16 -0.002 0.87 1 0.0
+H11 H-1 0.049 0.18 0.535 1 0.0
+B1 B+1 0.1021 0.3797 0.6688 1 0.0
+H13 H-1 0.274 0.295 0.592 1 0.0
+H7 H-1 -0.103 0.264 0.019 1 0.0
+B2 B+1 0.0122 0.2179 0.6313 1 0.0
+B10 B+1 -0.1917 0.263 0.8189 1 0.0
+H1 H-1 0.064 0.49 0.713 1 0.0
+H3 H-1 0.266 0.473 0.519 1 0.0
+B11 B+1 -0.1369 0.1638 0.6894 1 0.0

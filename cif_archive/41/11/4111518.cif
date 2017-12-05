@@ -1,0 +1,1112 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-22 11:08:12 +0200 (Tue, 22 Mar 2016) $
+#$Revision: 178886 $
+#$URL: svn://www.crystallography.net/cod/cif/4/11/15/4111518.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4111518
+loop_
+_publ_author_name
+'Franck Dubois'
+'Thomas F. F\"assler'
+_publ_contact_author_address
+;Department Chemie
+Technische Universit\"at M\"unchen
+ Lichtenbergstrasse 4
+ 85747 Garching, Germany
+;
+_publ_contact_author_email       Thomas.Faessler@lrz.tum.de
+_publ_contact_author_fax         '+49-(0) 89 28913134'
+_publ_contact_author_name        'Thomas F. F\"assler'
+_publ_contact_author_phone       '+49-(0) 89 28913186'
+_publ_section_title
+;
+ Ordering of Vacancies in Type-I Tin Clathrate: Superstructure of Rb8Sn44
+ 2
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              3264
+_journal_page_last               3265
+_journal_paper_doi               10.1021/ja043500r
+_journal_volume                  127
+_journal_year                    2005
+_chemical_formula_sum            'Rb2 Sn11'
+_chemical_formula_weight         4849.68
+_space_group_IT_number           230
+_symmetry_cell_setting           cubic
+_symmetry_Int_Tables_number      230
+_symmetry_space_group_name_Hall  '-I 4bd 2c 3'
+_symmetry_space_group_name_H-M   'I a -3 d'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            32
+_cell_length_a                   24.1162(3)
+_cell_length_b                   24.1162(3)
+_cell_length_c                   24.1162(3)
+_cell_measurement_temperature    293(2)
+_cell_volume                     14025.8(3)
+_computing_cell_refinement       'DENZO (Nonius, 2001b)'
+_computing_data_collection       'KappaCCD control sofware (Nonius, 2001a)'
+_computing_data_reduction        'DENZO (Nonius, 2001b)'
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_detector_area_resol_mean 'CCD plate'
+_diffrn_measured_fraction_theta_full 1.000
+_diffrn_measured_fraction_theta_max 1.000
+_diffrn_measurement_device_type  'NONIUS FR 591 rotating anode'
+_diffrn_measurement_method       'phi- and omega-rotation'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1713
+_diffrn_reflns_av_sigmaI/netI    0.0186
+_diffrn_reflns_limit_h_max       29
+_diffrn_reflns_limit_h_min       -29
+_diffrn_reflns_limit_k_max       29
+_diffrn_reflns_limit_k_min       -29
+_diffrn_reflns_limit_l_max       29
+_diffrn_reflns_limit_l_min       -29
+_diffrn_reflns_number            138238
+_diffrn_reflns_theta_full        25.31
+_diffrn_reflns_theta_max         25.31
+_diffrn_reflns_theta_min         2.07
+_diffrn_source                   'fine-focus sealed tube'
+_diffrn_standards_decay_%        0
+_exptl_absorpt_coefficient_mu    20.855
+_exptl_absorpt_correction_T_max  0.659
+_exptl_absorpt_correction_T_min  0.188
+_exptl_absorpt_correction_type   refdelf
+_exptl_absorpt_process_details
+;
+Platon Delabs
+(see: Walker, N.& Stuart, D. (1983) Acta Cryst. A39, 158-166)
+;
+_exptl_crystal_colour            'black-metallic luster'
+_exptl_crystal_density_diffrn    5.594
+_exptl_crystal_density_meas      ?
+_exptl_crystal_description       fragment
+_exptl_crystal_F_000             19968
+_exptl_crystal_size_max          0.30
+_exptl_crystal_size_mid          0.30
+_exptl_crystal_size_min          0.10
+_refine_diff_density_max         1.019
+_refine_diff_density_min         -2.040
+_refine_diff_density_rms         0.402
+_refine_ls_extinction_coef       none
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.154
+_refine_ls_hydrogen_treatment    mixed
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     56
+_refine_ls_number_reflns         1076
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.154
+_refine_ls_R_factor_all          0.0406
+_refine_ls_R_factor_gt           0.0329
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0402P)^2^+149.2054P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0809
+_refine_ls_wR_factor_ref         0.0849
+_reflns_number_gt                906
+_reflns_number_total             1076
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            ja043500rsi20041027_113125.cif
+_cod_data_source_block           Rb8Sn44
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_exptl_crystal_density_meas' value 'none' was changed to '?' - the
+value is perceived as not measured.
+
+Automatic conversion script
+Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas 
+;
+_cod_original_sg_symbol_H-M      'I a 3 d'
+_cod_database_code               4111518
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'x, -y, -z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, y, -z'
+'-y+1/4, x+3/4, z+1/4'
+'y+1/4, x+3/4, -z+3/4'
+'y+1/4, -x+1/4, z+3/4'
+'-y+1/4, -x+1/4, -z+1/4'
+'y, z, x'
+'-y+1/2, -z, x+1/2'
+'y, -z, -x+1/2'
+'-y+1/2, z, -x'
+'-z+1/4, y+3/4, x+1/4'
+'-z+1/4, -y+1/4, -x+1/4'
+'z+1/4, -y+1/4, x+3/4'
+'z+1/4, y+3/4, -x+3/4'
+'z, x, y'
+'-z, x+1/2, -y+1/2'
+'-z, -x+1/2, y'
+'z, -x, -y+1/2'
+'-x+1/4, -z+1/4, -y+1/4'
+'-x+1/4, z+3/4, y+1/4'
+'x+3/4, -z+3/4, y+1/4'
+'x+1/4, z+3/4, -y+3/4'
+'x+1/2, y+1/2, z+1/2'
+'x+1/2, -y+1/2, -z+1'
+'-x+1, -y+1/2, z+1'
+'-x+1, y+1/2, -z+1/2'
+'-y+3/4, x+5/4, z+3/4'
+'y+3/4, x+5/4, -z+5/4'
+'y+3/4, -x+3/4, z+5/4'
+'-y+3/4, -x+3/4, -z+3/4'
+'y+1/2, z+1/2, x+1/2'
+'-y+1, -z+1/2, x+1'
+'y+1/2, -z+1/2, -x+1'
+'-y+1, z+1/2, -x+1/2'
+'-z+3/4, y+5/4, x+3/4'
+'-z+3/4, -y+3/4, -x+3/4'
+'z+3/4, -y+3/4, x+5/4'
+'z+3/4, y+5/4, -x+5/4'
+'z+1/2, x+1/2, y+1/2'
+'-z+1/2, x+1, -y+1'
+'-z+1/2, -x+1, y+1/2'
+'z+1/2, -x+1/2, -y+1'
+'-x+3/4, -z+3/4, -y+3/4'
+'-x+3/4, z+5/4, y+3/4'
+'x+5/4, -z+5/4, y+3/4'
+'x+3/4, z+5/4, -y+5/4'
+'-x, -y, -z'
+'-x, y, z-1/2'
+'x-1/2, y, -z-1/2'
+'x-1/2, -y, z'
+'y-1/4, -x-3/4, -z-1/4'
+'-y-1/4, -x-3/4, z-3/4'
+'-y-1/4, x-1/4, -z-3/4'
+'y-1/4, x-1/4, z-1/4'
+'-y, -z, -x'
+'y-1/2, z, -x-1/2'
+'-y, z, x-1/2'
+'y-1/2, -z, x'
+'z-1/4, -y-3/4, -x-1/4'
+'z-1/4, y-1/4, x-1/4'
+'-z-1/4, y-1/4, -x-3/4'
+'-z-1/4, -y-3/4, x-3/4'
+'-z, -x, -y'
+'z, -x-1/2, y-1/2'
+'z, x-1/2, -y'
+'-z, x, y-1/2'
+'x-1/4, z-1/4, y-1/4'
+'x-1/4, -z-3/4, -y-1/4'
+'-x-3/4, z-3/4, -y-1/4'
+'-x-1/4, -z-3/4, y-3/4'
+'-x+1/2, -y+1/2, -z+1/2'
+'-x+1/2, y+1/2, z'
+'x, y+1/2, -z'
+'x, -y+1/2, z+1/2'
+'y+1/4, -x-1/4, -z+1/4'
+'-y+1/4, -x-1/4, z-1/4'
+'-y+1/4, x+1/4, -z-1/4'
+'y+1/4, x+1/4, z+1/4'
+'-y+1/2, -z+1/2, -x+1/2'
+'y, z+1/2, -x'
+'-y+1/2, z+1/2, x'
+'y, -z+1/2, x+1/2'
+'z+1/4, -y-1/4, -x+1/4'
+'z+1/4, y+1/4, x+1/4'
+'-z+1/4, y+1/4, -x-1/4'
+'-z+1/4, -y-1/4, x-1/4'
+'-z+1/2, -x+1/2, -y+1/2'
+'z+1/2, -x, y'
+'z+1/2, x, -y+1/2'
+'-z+1/2, x+1/2, y'
+'x+1/4, z+1/4, y+1/4'
+'x+1/4, -z-1/4, -y+1/4'
+'-x-1/4, z-1/4, -y+1/4'
+'-x+1/4, -z-1/4, y-1/4'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Rb1 Rb 0.0000 0.5000 0.0000 0.0322(5) Uani 1 6 d S
+Rb2 Rb 0.25174(4) 0.49826(4) -0.1250 0.0617(5) Uani 1 2 d S
+Sn1 Sn 0.15363(2) 0.44444(2) -0.00094(2) 0.0279(2) Uani 1 1 d .
+Sn2 Sn 0.08950(2) 0.40566(2) 0.09039(2) 0.0274(2) Uani 1 1 d .
+Sn3 Sn 0.0953(2) 0.58469(10) -0.0935(2) 0.0243(5) Uiso 0.3333(13) 1 d P
+Sn4A Sn 0.1513(7) 0.5596(2) -0.00309(15) 0.0220(17) Uani 0.32(2) 1 d P
+Sn4B Sn 0.1737(4) 0.56701(17) -0.00100(8) 0.0317(9) Uani 0.68(2) 1 d P
+Sn5 Sn 0.2500 0.3750 0.0000 0.0251(3) Uani 1 4 d S
+Sn6 Sn 0.2500 0.6250 0.0000 0.0170(11) Uani 0.319(4) 4 d SP
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Rb1 0.0322(5) 0.0322(5) 0.0322(5) -0.0002(4) -0.0002(4) 0.0002(4)
+Rb2 0.0739(7) 0.0739(7) 0.0372(8) -0.0008(5) -0.0008(5) -0.0040(7)
+Sn1 0.0266(3) 0.0300(3) 0.0271(3) 0.0012(2) 0.0003(2) 0.0014(2)
+Sn2 0.0272(3) 0.0295(3) 0.0256(3) 0.0026(2) 0.0003(2) 0.0038(2)
+Sn4A 0.020(4) 0.0213(13) 0.0243(11) -0.0005(7) 0.0008(12) -0.0011(15)
+Sn4B 0.033(3) 0.0312(7) 0.0311(5) 0.0012(4) 0.0013(7) 0.0034(11)
+Sn5 0.0245(4) 0.0264(6) 0.0245(4) 0.000 0.000 0.000
+Sn6 0.0163(12) 0.0184(17) 0.0163(12) 0.000 0.0007(11) 0.000
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Rb Rb -0.9393 2.9676 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Sn Sn -0.6537 1.4246 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+Sn3 Rb1 Sn3 180.00(12) 66_565 18
+Sn3 Rb1 Sn3 5.02(7) 66_565 83
+Sn3 Rb1 Sn3 174.98(7) 18 83
+Sn3 Rb1 Sn3 174.98(7) 66_565 35_454
+Sn3 Rb1 Sn3 5.02(7) 18 35_454
+Sn3 Rb1 Sn3 180.00(14) 83 35_454
+Sn3 Rb1 Sn3 5.02(7) 66_565 49_565
+Sn3 Rb1 Sn3 174.98(7) 18 49_565
+Sn3 Rb1 Sn3 5.02(7) 83 49_565
+Sn3 Rb1 Sn3 174.98(7) 35_454 49_565
+Sn3 Rb1 Sn3 174.98(7) 66_565 .
+Sn3 Rb1 Sn3 5.02(7) 18 .
+Sn3 Rb1 Sn3 174.98(7) 83 .
+Sn3 Rb1 Sn3 5.02(7) 35_454 .
+Sn3 Rb1 Sn3 180.00(12) 49_565 .
+Sn3 Rb1 Sn2 66.83(4) 66_565 35_454
+Sn3 Rb1 Sn2 113.17(4) 18 35_454
+Sn3 Rb1 Sn2 71.57(9) 83 35_454
+Sn3 Rb1 Sn2 108.43(9) 35_454 35_454
+Sn3 Rb1 Sn2 70.69(10) 49_565 35_454
+Sn3 Rb1 Sn2 109.31(10) . 35_454
+Sn3 Rb1 Sn2 113.17(4) 66_565 83
+Sn3 Rb1 Sn2 66.83(4) 18 83
+Sn3 Rb1 Sn2 108.43(9) 83 83
+Sn3 Rb1 Sn2 71.57(9) 35_454 83
+Sn3 Rb1 Sn2 109.31(10) 49_565 83
+Sn3 Rb1 Sn2 70.69(10) . 83
+Sn2 Rb1 Sn2 180.00(2) 35_454 83
+Sn3 Rb1 Sn2 70.69(10) 66_565 .
+Sn3 Rb1 Sn2 109.31(10) 18 .
+Sn3 Rb1 Sn2 66.83(4) 83 .
+Sn3 Rb1 Sn2 113.17(4) 35_454 .
+Sn3 Rb1 Sn2 71.57(9) 49_565 .
+Sn3 Rb1 Sn2 108.43(9) . .
+Sn2 Rb1 Sn2 108.615(8) 35_454 .
+Sn2 Rb1 Sn2 71.385(8) 83 .
+Sn3 Rb1 Sn2 108.43(9) 66_565 66_565
+Sn3 Rb1 Sn2 71.57(9) 18 66_565
+Sn3 Rb1 Sn2 109.31(10) 83 66_565
+Sn3 Rb1 Sn2 70.69(10) 35_454 66_565
+Sn3 Rb1 Sn2 113.17(4) 49_565 66_565
+Sn3 Rb1 Sn2 66.83(4) . 66_565
+Sn2 Rb1 Sn2 71.385(8) 35_454 66_565
+Sn2 Rb1 Sn2 108.615(8) 83 66_565
+Sn2 Rb1 Sn2 71.385(8) . 66_565
+Sn3 Rb1 Sn2 109.31(10) 66_565 49_565
+Sn3 Rb1 Sn2 70.69(10) 18 49_565
+Sn3 Rb1 Sn2 113.17(4) 83 49_565
+Sn3 Rb1 Sn2 66.83(4) 35_454 49_565
+Sn3 Rb1 Sn2 108.43(9) 49_565 49_565
+Sn3 Rb1 Sn2 71.57(9) . 49_565
+Sn2 Rb1 Sn2 71.385(8) 35_454 49_565
+Sn2 Rb1 Sn2 108.615(8) 83 49_565
+Sn2 Rb1 Sn2 180.0 . 49_565
+Sn2 Rb1 Sn2 108.615(8) 66_565 49_565
+Sn3 Rb1 Sn2 71.57(9) 66_565 18
+Sn3 Rb1 Sn2 108.43(9) 18 18
+Sn3 Rb1 Sn2 70.69(10) 83 18
+Sn3 Rb1 Sn2 109.31(10) 35_454 18
+Sn3 Rb1 Sn2 66.83(4) 49_565 18
+Sn3 Rb1 Sn2 113.17(4) . 18
+Sn2 Rb1 Sn2 108.615(8) 35_454 18
+Sn2 Rb1 Sn2 71.385(8) 83 18
+Sn2 Rb1 Sn2 108.615(8) . 18
+Sn2 Rb1 Sn2 180.0 66_565 18
+Sn2 Rb1 Sn2 71.385(8) 49_565 18
+Sn3 Rb1 Sn4A 38.65(11) 66_565 49_565
+Sn3 Rb1 Sn4A 141.35(11) 18 49_565
+Sn3 Rb1 Sn4A 43.40(8) 83 49_565
+Sn3 Rb1 Sn4A 136.60(8) 35_454 49_565
+Sn3 Rb1 Sn4A 39.81(12) 49_565 49_565
+Sn3 Rb1 Sn4A 140.19(12) . 49_565
+Sn2 Rb1 Sn4A 41.19(5) 35_454 49_565
+Sn2 Rb1 Sn4A 138.81(5) 83 49_565
+Sn2 Rb1 Sn4A 107.26(6) . 49_565
+Sn2 Rb1 Sn4A 109.59(5) 66_565 49_565
+Sn2 Rb1 Sn4A 72.74(6) 49_565 49_565
+Sn2 Rb1 Sn4A 70.41(5) 18 49_565
+Sn3 Rb1 Sn4A 141.35(11) 66_565 .
+Sn3 Rb1 Sn4A 38.65(11) 18 .
+Sn3 Rb1 Sn4A 136.60(8) 83 .
+Sn3 Rb1 Sn4A 43.40(8) 35_454 .
+Sn3 Rb1 Sn4A 140.19(12) 49_565 .
+Sn3 Rb1 Sn4A 39.81(12) . .
+Sn2 Rb1 Sn4A 138.81(5) 35_454 .
+Sn2 Rb1 Sn4A 41.19(5) 83 .
+Sn2 Rb1 Sn4A 72.74(6) . .
+Sn2 Rb1 Sn4A 70.41(5) 66_565 .
+Sn2 Rb1 Sn4A 107.26(6) 49_565 .
+Sn2 Rb1 Sn4A 109.59(5) 18 .
+Sn4A Rb1 Sn4A 180.00(15) 49_565 .
+Sn3 Rb1 Sn4A 39.81(12) 66_565 66_565
+Sn3 Rb1 Sn4A 140.19(12) 18 66_565
+Sn3 Rb1 Sn4A 38.65(11) 83 66_565
+Sn3 Rb1 Sn4A 141.35(11) 35_454 66_565
+Sn3 Rb1 Sn4A 43.40(8) 49_565 66_565
+Sn3 Rb1 Sn4A 136.60(8) . 66_565
+Sn2 Rb1 Sn4A 70.41(5) 35_454 66_565
+Sn2 Rb1 Sn4A 109.59(5) 83 66_565
+Sn2 Rb1 Sn4A 41.19(5) . 66_565
+Sn2 Rb1 Sn4A 72.74(6) 66_565 66_565
+Sn2 Rb1 Sn4A 138.81(5) 49_565 66_565
+Sn2 Rb1 Sn4A 107.26(6) 18 66_565
+Sn4A Rb1 Sn4A 68.57(9) 49_565 66_565
+Sn4A Rb1 Sn4A 111.43(9) . 66_565
+Sn3 Rb1 Sn4A 140.19(12) 66_565 18
+Sn3 Rb1 Sn4A 39.81(12) 18 18
+Sn3 Rb1 Sn4A 141.35(11) 83 18
+Sn3 Rb1 Sn4A 38.65(11) 35_454 18
+Sn3 Rb1 Sn4A 136.60(8) 49_565 18
+Sn3 Rb1 Sn4A 43.40(8) . 18
+Sn2 Rb1 Sn4A 109.59(5) 35_454 18
+Sn2 Rb1 Sn4A 70.41(5) 83 18
+Sn2 Rb1 Sn4A 138.81(5) . 18
+Sn2 Rb1 Sn4A 107.26(6) 66_565 18
+Sn2 Rb1 Sn4A 41.19(5) 49_565 18
+Sn2 Rb1 Sn4A 72.74(6) 18 18
+Sn4A Rb1 Sn4A 111.43(9) 49_565 18
+Sn4A Rb1 Sn4A 68.57(9) . 18
+Sn4A Rb1 Sn4A 180.0(3) 66_565 18
+Sn3 Rb1 Sn4A 43.40(8) 66_565 83
+Sn3 Rb1 Sn4A 136.60(8) 18 83
+Sn3 Rb1 Sn4A 39.81(12) 83 83
+Sn3 Rb1 Sn4A 140.19(12) 35_454 83
+Sn3 Rb1 Sn4A 38.65(11) 49_565 83
+Sn3 Rb1 Sn4A 141.35(11) . 83
+Sn2 Rb1 Sn4A 107.26(6) 35_454 83
+Sn2 Rb1 Sn4A 72.74(6) 83 83
+Sn2 Rb1 Sn4A 70.41(5) . 83
+Sn2 Rb1 Sn4A 138.81(5) 66_565 83
+Sn2 Rb1 Sn4A 109.59(5) 49_565 83
+Sn2 Rb1 Sn4A 41.19(5) 18 83
+Sn4A Rb1 Sn4A 68.57(9) 49_565 83
+Sn4A Rb1 Sn4A 111.43(9) . 83
+Sn4A Rb1 Sn4A 68.57(9) 66_565 83
+Sn4A Rb1 Sn4A 111.43(9) 18 83
+Sn3 Rb1 Sn4A 136.60(8) 66_565 35_454
+Sn3 Rb1 Sn4A 43.40(8) 18 35_454
+Sn3 Rb1 Sn4A 140.19(12) 83 35_454
+Sn3 Rb1 Sn4A 39.81(12) 35_454 35_454
+Sn3 Rb1 Sn4A 141.35(11) 49_565 35_454
+Sn3 Rb1 Sn4A 38.65(11) . 35_454
+Sn2 Rb1 Sn4A 72.74(6) 35_454 35_454
+Sn2 Rb1 Sn4A 107.26(6) 83 35_454
+Sn2 Rb1 Sn4A 109.59(5) . 35_454
+Sn2 Rb1 Sn4A 41.19(5) 66_565 35_454
+Sn2 Rb1 Sn4A 70.41(5) 49_565 35_454
+Sn2 Rb1 Sn4A 138.81(5) 18 35_454
+Sn4A Rb1 Sn4A 111.43(9) 49_565 35_454
+Sn4A Rb1 Sn4A 68.57(9) . 35_454
+Sn4A Rb1 Sn4A 111.43(9) 66_565 35_454
+Sn4A Rb1 Sn4A 68.57(9) 18 35_454
+Sn4A Rb1 Sn4A 180.0 83 35_454
+Sn3 Rb1 Sn1 72.16(6) 66_565 83
+Sn3 Rb1 Sn1 107.84(6) 18 83
+Sn3 Rb1 Sn1 67.18(7) 83 83
+Sn3 Rb1 Sn1 112.82(7) 35_454 83
+Sn3 Rb1 Sn1 69.25(11) 49_565 83
+Sn3 Rb1 Sn1 110.75(11) . 83
+Sn2 Rb1 Sn1 136.948(10) 35_454 83
+Sn2 Rb1 Sn1 43.052(10) 83 83
+Sn2 Rb1 Sn1 42.916(10) . 83
+Sn2 Rb1 Sn1 111.273(11) 66_565 83
+Sn2 Rb1 Sn1 137.084(10) 49_565 83
+Sn2 Rb1 Sn1 68.727(11) 18 83
+Sn4A Rb1 Sn1 107.24(6) 49_565 83
+Sn4A Rb1 Sn1 72.76(6) . 83
+Sn4A Rb1 Sn1 69.92(5) 66_565 83
+Sn4A Rb1 Sn1 110.08(5) 18 83
+Sn4A Rb1 Sn1 41.37(5) 83 83
+Sn4A Rb1 Sn1 138.63(5) 35_454 83
+Sn3 Rb1 Sn1 107.84(6) 66_565 35_454
+Sn3 Rb1 Sn1 72.16(6) 18 35_454
+Sn3 Rb1 Sn1 112.82(7) 83 35_454
+Sn3 Rb1 Sn1 67.18(7) 35_454 35_454
+Sn3 Rb1 Sn1 110.75(11) 49_565 35_454
+Sn3 Rb1 Sn1 69.25(11) . 35_454
+Sn2 Rb1 Sn1 43.052(10) 35_454 35_454
+Sn2 Rb1 Sn1 136.948(10) 83 35_454
+Sn2 Rb1 Sn1 137.084(10) . 35_454
+Sn2 Rb1 Sn1 68.727(11) 66_565 35_454
+Sn2 Rb1 Sn1 42.916(10) 49_565 35_454
+Sn2 Rb1 Sn1 111.273(11) 18 35_454
+Sn4A Rb1 Sn1 72.76(6) 49_565 35_454
+Sn4A Rb1 Sn1 107.24(6) . 35_454
+Sn4A Rb1 Sn1 110.08(5) 66_565 35_454
+Sn4A Rb1 Sn1 69.92(5) 18 35_454
+Sn4A Rb1 Sn1 138.63(5) 83 35_454
+Sn4A Rb1 Sn1 41.37(5) 35_454 35_454
+Sn1 Rb1 Sn1 180.0 83 35_454
+Sn3 Rb1 Sn1 112.82(7) 66_565 18
+Sn3 Rb1 Sn1 67.18(7) 18 18
+Sn3 Rb1 Sn1 110.75(11) 83 18
+Sn3 Rb1 Sn1 69.25(11) 35_454 18
+Sn3 Rb1 Sn1 107.84(6) 49_565 18
+Sn3 Rb1 Sn1 72.16(6) . 18
+Sn2 Rb1 Sn1 137.084(10) 35_454 18
+Sn2 Rb1 Sn1 42.916(10) 83 18
+Sn2 Rb1 Sn1 111.273(11) . 18
+Sn2 Rb1 Sn1 136.948(10) 66_565 18
+Sn2 Rb1 Sn1 68.727(11) 49_565 18
+Sn2 Rb1 Sn1 43.052(10) 18 18
+Sn4A Rb1 Sn1 110.08(5) 49_565 18
+Sn4A Rb1 Sn1 69.92(5) . 18
+Sn4A Rb1 Sn1 138.63(5) 66_565 18
+Sn4A Rb1 Sn1 41.37(5) 18 18
+Sn4A Rb1 Sn1 72.76(6) 83 18
+Sn4A Rb1 Sn1 107.24(6) 35_454 18
+Sn1 Rb1 Sn1 71.558(8) 83 18
+Sn1 Rb1 Sn1 108.442(8) 35_454 18
+Sn3 Rb1 Sn1 67.18(7) 66_565 66_565
+Sn3 Rb1 Sn1 112.82(7) 18 66_565
+Sn3 Rb1 Sn1 69.25(11) 83 66_565
+Sn3 Rb1 Sn1 110.75(11) 35_454 66_565
+Sn3 Rb1 Sn1 72.16(6) 49_565 66_565
+Sn3 Rb1 Sn1 107.84(6) . 66_565
+Sn2 Rb1 Sn1 42.915(10) 35_454 66_565
+Sn2 Rb1 Sn1 137.085(10) 83 66_565
+Sn2 Rb1 Sn1 68.727(11) . 66_565
+Sn2 Rb1 Sn1 43.052(10) 66_565 66_565
+Sn2 Rb1 Sn1 111.273(11) 49_565 66_565
+Sn2 Rb1 Sn1 136.948(10) 18 66_565
+Sn4A Rb1 Sn1 69.92(5) 49_565 66_565
+Sn4A Rb1 Sn1 110.08(5) . 66_565
+Sn4A Rb1 Sn1 41.37(5) 66_565 66_565
+Sn4A Rb1 Sn1 138.63(5) 18 66_565
+Sn4A Rb1 Sn1 107.24(6) 83 66_565
+Sn4A Rb1 Sn1 72.76(6) 35_454 66_565
+Sn1 Rb1 Sn1 108.442(8) 83 66_565
+Sn1 Rb1 Sn1 71.558(8) 35_454 66_565
+Sn1 Rb1 Sn1 180.000(15) 18 66_565
+Sn3 Rb1 Sn1 69.25(11) 66_565 49_565
+Sn3 Rb1 Sn1 110.75(11) 18 49_565
+Sn3 Rb1 Sn1 72.16(6) 83 49_565
+Sn3 Rb1 Sn1 107.84(6) 35_454 49_565
+Sn3 Rb1 Sn1 67.18(7) 49_565 49_565
+Sn3 Rb1 Sn1 112.82(7) . 49_565
+Sn2 Rb1 Sn1 68.727(11) 35_454 49_565
+Sn2 Rb1 Sn1 111.273(11) 83 49_565
+Sn2 Rb1 Sn1 136.948(10) . 49_565
+Sn2 Rb1 Sn1 137.084(10) 66_565 49_565
+Sn2 Rb1 Sn1 43.052(10) 49_565 49_565
+Sn2 Rb1 Sn1 42.916(10) 18 49_565
+Sn4A Rb1 Sn1 41.37(5) 49_565 49_565
+Sn4A Rb1 Sn1 138.63(5) . 49_565
+Sn4A Rb1 Sn1 107.24(6) 66_565 49_565
+Sn4A Rb1 Sn1 72.76(6) 18 49_565
+Sn4A Rb1 Sn1 69.92(5) 83 49_565
+Sn4A Rb1 Sn1 110.08(5) 35_454 49_565
+Sn1 Rb1 Sn1 108.442(8) 83 49_565
+Sn1 Rb1 Sn1 71.558(8) 35_454 49_565
+Sn1 Rb1 Sn1 71.558(8) 18 49_565
+Sn1 Rb1 Sn1 108.442(8) 66_565 49_565
+Sn3 Rb1 Sn1 110.75(11) 66_565 .
+Sn3 Rb1 Sn1 69.25(11) 18 .
+Sn3 Rb1 Sn1 107.84(6) 83 .
+Sn3 Rb1 Sn1 72.16(6) 35_454 .
+Sn3 Rb1 Sn1 112.82(7) 49_565 .
+Sn3 Rb1 Sn1 67.18(7) . .
+Sn2 Rb1 Sn1 111.273(11) 35_454 .
+Sn2 Rb1 Sn1 68.727(11) 83 .
+Sn2 Rb1 Sn1 43.052(10) . .
+Sn2 Rb1 Sn1 42.916(10) 66_565 .
+Sn2 Rb1 Sn1 136.948(10) 49_565 .
+Sn2 Rb1 Sn1 137.084(10) 18 .
+Sn4A Rb1 Sn1 138.63(5) 49_565 .
+Sn4A Rb1 Sn1 41.37(5) . .
+Sn4A Rb1 Sn1 72.76(6) 66_565 .
+Sn4A Rb1 Sn1 107.24(6) 18 .
+Sn4A Rb1 Sn1 110.08(5) 83 .
+Sn4A Rb1 Sn1 69.92(5) 35_454 .
+Sn1 Rb1 Sn1 71.558(8) 83 .
+Sn1 Rb1 Sn1 108.442(8) 35_454 .
+Sn1 Rb1 Sn1 108.442(8) 18 .
+Sn1 Rb1 Sn1 71.558(8) 66_565 .
+Sn1 Rb1 Sn1 180.000(14) 49_565 .
+Sn4B Rb2 Sn4B 177.1(3) 4 29_544
+Sn4B Rb2 Sn4B 126.00(7) 4 32_554
+Sn4B Rb2 Sn4B 56.3(3) 29_544 32_554
+Sn4B Rb2 Sn4B 56.3(3) 4 .
+Sn4B Rb2 Sn4B 126.00(7) 29_544 .
+Sn4B Rb2 Sn4B 100.23(12) 32_554 .
+Sn4B Rb2 Sn1 44.45(10) 4 4
+Sn4B Rb2 Sn1 133.01(15) 29_544 4
+Sn4B Rb2 Sn1 167.70(14) 32_554 4
+Sn4B Rb2 Sn1 80.31(9) . 4
+Sn4B Rb2 Sn1 133.01(15) 4 29_544
+Sn4B Rb2 Sn1 44.45(10) 29_544 29_544
+Sn4B Rb2 Sn1 80.31(9) 32_554 29_544
+Sn4B Rb2 Sn1 167.70(14) . 29_544
+Sn1 Rb2 Sn1 101.82(4) 4 29_544
+Sn4B Rb2 Sn1 100.39(3) 4 32_554
+Sn4B Rb2 Sn1 80.16(7) 29_544 32_554
+Sn4B Rb2 Sn1 44.34(10) 32_554 32_554
+Sn4B Rb2 Sn1 118.34(7) . 32_554
+Sn1 Rb2 Sn1 124.64(2) 4 32_554
+Sn1 Rb2 Sn1 70.607(15) 29_544 32_554
+Sn4B Rb2 Sn1 80.16(7) 4 .
+Sn4B Rb2 Sn1 100.39(3) 29_544 .
+Sn4B Rb2 Sn1 118.34(7) 32_554 .
+Sn4B Rb2 Sn1 44.34(10) . .
+Sn1 Rb2 Sn1 70.607(15) 4 .
+Sn1 Rb2 Sn1 124.64(2) 29_544 .
+Sn1 Rb2 Sn1 158.39(5) 32_554 .
+Sn4B Rb2 Sn4A 118.38(14) 4 32_554
+Sn4B Rb2 Sn4A 63.8(3) 29_544 32_554
+Sn4B Rb2 Sn4A 7.78(7) 32_554 32_554
+Sn4B Rb2 Sn4A 97.19(14) . 32_554
+Sn1 Rb2 Sn4A 160.3(2) 4 32_554
+Sn1 Rb2 Sn4A 84.81(14) 29_544 32_554
+Sn1 Rb2 Sn4A 40.02(11) 32_554 32_554
+Sn1 Rb2 Sn4A 120.85(8) . 32_554
+Sn4B Rb2 Sn4A 63.8(3) 4 .
+Sn4B Rb2 Sn4A 118.38(14) 29_544 .
+Sn4B Rb2 Sn4A 97.19(14) 32_554 .
+Sn4B Rb2 Sn4A 7.78(7) . .
+Sn1 Rb2 Sn4A 84.81(14) 4 .
+Sn1 Rb2 Sn4A 160.3(2) 29_544 .
+Sn1 Rb2 Sn4A 120.85(8) 32_554 .
+Sn1 Rb2 Sn4A 40.02(11) . .
+Sn4A Rb2 Sn4A 95.09(17) 32_554 .
+Sn4B Rb2 Sn4A 169.9(3) 4 29_544
+Sn4B Rb2 Sn4A 7.36(7) 29_544 29_544
+Sn4B Rb2 Sn4A 63.2(3) 32_554 29_544
+Sn4B Rb2 Sn4A 129.68(8) . 29_544
+Sn1 Rb2 Sn4A 125.7(2) 4 29_544
+Sn1 Rb2 Sn4A 39.75(12) 29_544 29_544
+Sn1 Rb2 Sn4A 83.85(12) 32_554 29_544
+Sn1 Rb2 Sn4A 99.33(6) . 29_544
+Sn4A Rb2 Sn4A 70.7(4) 32_554 29_544
+Sn4A Rb2 Sn4A 121.92(14) . 29_544
+Sn4B Rb2 Sn4A 7.36(7) 4 4
+Sn4B Rb2 Sn4A 169.9(3) 29_544 4
+Sn4B Rb2 Sn4A 129.68(8) 32_554 4
+Sn4B Rb2 Sn4A 63.2(3) . 4
+Sn1 Rb2 Sn4A 39.75(12) 4 4
+Sn1 Rb2 Sn4A 125.7(2) 29_544 4
+Sn1 Rb2 Sn4A 99.33(6) 32_554 4
+Sn1 Rb2 Sn4A 83.85(12) . 4
+Sn4A Rb2 Sn4A 121.92(14) 32_554 4
+Sn4A Rb2 Sn4A 70.7(4) . 4
+Sn4A Rb2 Sn4A 163.1(4) 29_544 4
+Sn4B Rb2 Sn5 103.12(11) 4 29_544
+Sn4B Rb2 Sn5 75.42(4) 29_544 29_544
+Sn4B Rb2 Sn5 75.40(3) 32_554 29_544
+Sn4B Rb2 Sn5 151.62(13) . 29_544
+Sn1 Rb2 Sn5 98.21(3) 4 29_544
+Sn1 Rb2 Sn5 40.536(11) 29_544 29_544
+Sn1 Rb2 Sn5 40.476(8) 32_554 29_544
+Sn1 Rb2 Sn5 160.77(4) . 29_544
+Sn4A Rb2 Sn5 74.68(5) 32_554 29_544
+Sn4A Rb2 Sn5 157.65(15) . 29_544
+Sn4A Rb2 Sn5 74.07(5) 29_544 29_544
+Sn4A Rb2 Sn5 97.53(16) 4 29_544
+Sn4B Rb2 Sn5 75.42(4) 4 .
+Sn4B Rb2 Sn5 103.12(11) 29_544 .
+Sn4B Rb2 Sn5 151.62(13) 32_554 .
+Sn4B Rb2 Sn5 75.40(3) . .
+Sn1 Rb2 Sn5 40.536(11) 4 .
+Sn1 Rb2 Sn5 98.21(3) 29_544 .
+Sn1 Rb2 Sn5 160.77(4) 32_554 .
+Sn1 Rb2 Sn5 40.476(8) . .
+Sn4A Rb2 Sn5 157.65(15) 32_554 .
+Sn4A Rb2 Sn5 74.68(5) . .
+Sn4A Rb2 Sn5 97.53(16) 29_544 .
+Sn4A Rb2 Sn5 74.07(5) 4 .
+Sn5 Rb2 Sn5 121.39(4) 29_544 .
+Sn4B Rb2 Sn6 150.57(14) 4 29_544
+Sn4B Rb2 Sn6 32.31(14) 29_544 29_544
+Sn4B Rb2 Sn6 32.30(15) 32_554 29_544
+Sn4B Rb2 Sn6 101.00(13) . 29_544
+Sn1 Rb2 Sn6 159.899(16) 4 29_544
+Sn1 Rb2 Sn6 72.813(7) 29_544 29_544
+Sn1 Rb2 Sn6 72.675(13) 32_554 29_544
+Sn1 Rb2 Sn6 96.109(18) . 29_544
+Sn4A Rb2 Sn6 39.8(2) 32_554 29_544
+Sn4A Rb2 Sn6 94.57(19) . 29_544
+Sn4A Rb2 Sn6 39.5(2) 29_544 29_544
+Sn4A Rb2 Sn6 157.08(17) 4 29_544
+Sn5 Rb2 Sn6 89.989(1) 29_544 29_544
+Sn5 Rb2 Sn6 119.984(1) . 29_544
+Sn4B Rb2 Sn6 32.31(14) 4 .
+Sn4B Rb2 Sn6 150.57(14) 29_544 .
+Sn4B Rb2 Sn6 101.00(13) 32_554 .
+Sn4B Rb2 Sn6 32.30(15) . .
+Sn1 Rb2 Sn6 72.813(7) 4 .
+Sn1 Rb2 Sn6 159.899(16) 29_544 .
+Sn1 Rb2 Sn6 96.109(18) 32_554 .
+Sn1 Rb2 Sn6 72.675(13) . .
+Sn4A Rb2 Sn6 94.57(19) 32_554 .
+Sn4A Rb2 Sn6 39.8(2) . .
+Sn4A Rb2 Sn6 157.08(17) 29_544 .
+Sn4A Rb2 Sn6 39.5(2) 4 .
+Sn5 Rb2 Sn6 119.984(1) 29_544 .
+Sn5 Rb2 Sn6 89.989(1) . .
+Sn6 Rb2 Sn6 118.63(3) 29_544 .
+Sn4B Rb2 Sn3 89.33(15) 4 32_554
+Sn4B Rb2 Sn3 93.41(17) 29_544 32_554
+Sn4B Rb2 Sn3 41.33(14) 32_554 32_554
+Sn4B Rb2 Sn3 62.44(8) . 32_554
+Sn1 Rb2 Sn3 132.90(9) 4 32_554
+Sn1 Rb2 Sn3 120.83(8) 29_544 32_554
+Sn1 Rb2 Sn3 61.19(4) 32_554 32_554
+Sn1 Rb2 Sn3 97.30(4) . 32_554
+Sn4A Rb2 Sn3 36.07(17) 32_554 32_554
+Sn4A Rb2 Sn3 62.02(8) . 32_554
+Sn4A Rb2 Sn3 100.8(2) 29_544 32_554
+Sn4A Rb2 Sn3 95.19(18) 4 32_554
+Sn5 Rb2 Sn3 101.66(4) 29_544 32_554
+Sn5 Rb2 Sn3 136.40(5) . 32_554
+Sn6 Rb2 Sn3 62.00(9) 29_544 32_554
+Sn6 Rb2 Sn3 60.24(9) . 32_554
+Sn4B Rb2 Sn3 93.41(17) 4 .
+Sn4B Rb2 Sn3 89.33(15) 29_544 .
+Sn4B Rb2 Sn3 62.44(8) 32_554 .
+Sn4B Rb2 Sn3 41.33(14) . .
+Sn1 Rb2 Sn3 120.83(8) 4 .
+Sn1 Rb2 Sn3 132.90(9) 29_544 .
+Sn1 Rb2 Sn3 97.30(4) 32_554 .
+Sn1 Rb2 Sn3 61.19(4) . .
+Sn4A Rb2 Sn3 62.02(8) 32_554 .
+Sn4A Rb2 Sn3 36.07(17) . .
+Sn4A Rb2 Sn3 95.19(18) 29_544 .
+Sn4A Rb2 Sn3 100.8(2) 4 .
+Sn5 Rb2 Sn3 136.40(5) 29_544 .
+Sn5 Rb2 Sn3 101.66(4) . .
+Sn6 Rb2 Sn3 60.24(9) 29_544 .
+Sn6 Rb2 Sn3 62.00(9) . .
+Sn3 Rb2 Sn3 37.75(4) 32_554 .
+Sn4A Sn1 Sn2 105.2(2) . 66_565
+Sn4A Sn1 Sn2 109.37(18) . .
+Sn2 Sn1 Sn2 103.12(2) 66_565 .
+Sn4A Sn1 Sn5 126.9(3) . .
+Sn2 Sn1 Sn5 105.87(2) 66_565 .
+Sn2 Sn1 Sn5 104.03(2) . .
+Sn4A Sn1 Sn4B 10.52(17) . .
+Sn2 Sn1 Sn4B 111.77(11) 66_565 .
+Sn2 Sn1 Sn4B 114.34(8) . .
+Sn5 Sn1 Sn4B 116.45(18) . .
+Sn4A Sn1 Rb1 69.0(3) . .
+Sn2 Sn1 Rb1 66.277(16) 66_565 .
+Sn2 Sn1 Rb1 66.217(16) . .
+Sn5 Sn1 Rb1 164.090(18) . .
+Sn4B Sn1 Rb1 79.44(18) . .
+Sn4A Sn1 Rb2 72.7(2) . 4
+Sn2 Sn1 Rb2 176.58(3) 66_565 4
+Sn2 Sn1 Rb2 80.20(2) . 4
+Sn5 Sn1 Rb2 73.845(11) . 4
+Sn4B Sn1 Rb2 65.75(12) . 4
+Rb1 Sn1 Rb2 114.850(13) . 4
+Sn4A Sn1 Rb2 71.1(2) . .
+Sn2 Sn1 Rb2 79.593(16) 66_565 .
+Sn2 Sn1 Rb2 176.89(3) . .
+Sn5 Sn1 Rb2 73.61(2) . .
+Sn4B Sn1 Rb2 65.59(9) . .
+Rb1 Sn1 Rb2 116.55(2) . .
+Rb2 Sn1 Rb2 97.110(17) 4 .
+Sn4A Sn2 Sn2 110.0(3) 66_565 30_444
+Sn4A Sn2 Sn1 108.1(2) 66_565 83
+Sn2 Sn2 Sn1 107.17(3) 30_444 83
+Sn4A Sn2 Sn1 113.54(15) 66_565 .
+Sn2 Sn2 Sn1 109.74(2) 30_444 .
+Sn1 Sn2 Sn1 108.13(2) 83 .
+Sn4A Sn2 Sn4B 10.57(16) 66_565 66_565
+Sn2 Sn2 Sn4B 99.49(18) 30_444 66_565
+Sn1 Sn2 Sn4B 113.77(9) 83 66_565
+Sn1 Sn2 Sn4B 117.75(8) . 66_565
+Sn4A Sn2 Rb1 71.4(3) 66_565 .
+Sn2 Sn2 Rb1 177.91(2) 30_444 .
+Sn1 Sn2 Rb1 70.807(16) 83 .
+Sn1 Sn2 Rb1 70.731(16) . .
+Sn4B Sn2 Rb1 81.94(18) 66_565 .
+Sn3 Sn3 Sn3 60.000(6) 35_454 18
+Sn3 Sn3 Sn4A 99(2) 35_454 35_454
+Sn3 Sn3 Sn4A 152.6(16) 18 35_454
+Sn3 Sn3 Sn4A 130(2) 35_454 .
+Sn3 Sn3 Sn4A 74(2) 18 .
+Sn4A Sn3 Sn4A 116.5(3) 35_454 .
+Sn3 Sn3 Sn3 90.44(7) 35_454 32_554
+Sn3 Sn3 Sn3 87.8(3) 18 32_554
+Sn4A Sn3 Sn3 111.5(4) 35_454 32_554
+Sn4A Sn3 Sn3 106.0(4) . 32_554
+Sn3 Sn3 Sn3 85.4(3) 35_454 22_554
+Sn3 Sn3 Sn3 89.2(2) 18 22_554
+Sn4A Sn3 Sn3 107.8(3) 35_454 22_554
+Sn4A Sn3 Sn3 112.7(4) . 22_554
+Sn3 Sn3 Sn3 6.75(9) 32_554 22_554
+Sn3 Sn3 Sn3 84.1(2) 35_454 15_564
+Sn3 Sn3 Sn3 82.84(12) 18 15_564
+Sn4A Sn3 Sn3 114.5(3) 35_454 15_564
+Sn4A Sn3 Sn3 108.6(3) . 15_564
+Sn3 Sn3 Sn3 6.72(9) 32_554 15_564
+Sn3 Sn3 Sn3 6.71(9) 22_554 15_564
+Sn3 Sn3 Sn4A 24.3(14) 35_454 18
+Sn3 Sn3 Sn4A 44.8(18) 18 18
+Sn4A Sn3 Sn4A 109.0(4) 35_454 18
+Sn4A Sn3 Sn4A 106.9(3) . 18
+Sn3 Sn3 Sn4A 106.4(3) 32_554 18
+Sn3 Sn3 Sn4A 103.0(4) 22_554 18
+Sn3 Sn3 Sn4A 99.7(3) 15_564 18
+Sn3 Sn3 Sn4B 100(2) 35_454 35_454
+Sn3 Sn3 Sn4B 158(2) 18 35_454
+Sn4A Sn3 Sn4B 10.06(18) 35_454 35_454
+Sn4A Sn3 Sn4B 121.1(2) . 35_454
+Sn3 Sn3 Sn4B 101.4(3) 32_554 35_454
+Sn3 Sn3 Sn4B 97.88(18) 22_554 35_454
+Sn3 Sn3 Sn4B 104.59(19) 15_564 35_454
+Sn4A Sn3 Sn4B 113.7(3) 18 35_454
+Sn3 Sn3 Sn4B 133(2) 35_454 .
+Sn3 Sn3 Sn4B 73(2) 18 .
+Sn4A Sn3 Sn4B 121.0(2) 35_454 .
+Sn4A Sn3 Sn4B 9.74(17) . .
+Sn3 Sn3 Sn4B 96.3(3) 32_554 .
+Sn3 Sn3 Sn4B 103.0(3) 22_554 .
+Sn3 Sn3 Sn4B 99.05(16) 15_564 .
+Sn4A Sn3 Sn4B 111.3(2) 18 .
+Sn4B Sn3 Sn4B 123.90(13) 35_454 .
+Sn3 Sn3 Sn4B 19.3(19) 35_454 18
+Sn3 Sn3 Sn4B 43(2) 18 18
+Sn4A Sn3 Sn4B 112.7(3) 35_454 18
+Sn4A Sn3 Sn4B 110.8(3) . 18
+Sn3 Sn3 Sn4B 97.52(16) 32_554 18
+Sn3 Sn3 Sn4B 94.1(2) 22_554 18
+Sn3 Sn3 Sn4B 90.80(19) 15_564 18
+Sn4A Sn3 Sn4B 8.87(15) 18 18
+Sn4B Sn3 Sn4B 116.0(2) 35_454 18
+Sn4B Sn3 Sn4B 113.73(18) . 18
+Sn3 Sn3 Rb1 87.49(4) 35_454 .
+Sn3 Sn3 Rb1 87.49(3) 18 .
+Sn4A Sn3 Rb1 73.0(3) 35_454 .
+Sn4A Sn3 Rb1 72.4(3) . .
+Sn3 Sn3 Rb1 175.3(3) 32_554 .
+Sn3 Sn3 Rb1 172.9(3) 22_554 .
+Sn3 Sn3 Rb1 169.47(16) 15_564 .
+Sn4A Sn3 Rb1 70.4(3) 18 .
+Sn4B Sn3 Rb1 83.07(18) 35_454 .
+Sn4B Sn3 Rb1 82.10(18) . .
+Sn4B Sn3 Rb1 79.23(15) 18 .
+Sn3 Sn3 Rb2 159.5(9) 35_454 .
+Sn3 Sn3 Rb2 126(2) 18 .
+Sn4A Sn3 Rb2 80.17(17) 35_454 .
+Sn4A Sn3 Rb2 65.9(2) . .
+Sn3 Sn3 Rb2 71.126(19) 32_554 .
+Sn3 Sn3 Rb2 75.46(19) 22_554 .
+Sn3 Sn3 Rb2 77.76(9) 15_564 .
+Sn4A Sn3 Rb2 170.6(2) 18 .
+Sn4B Sn3 Rb2 75.72(10) 35_454 .
+Sn4B Sn3 Rb2 60.68(11) . .
+Sn4B Sn3 Rb2 165.72(17) 18 .
+Rb1 Sn3 Rb2 111.54(7) . .
+Sn4B Sn4A Sn3 118.5(6) . 18
+Sn4B Sn4A Sn3 119.1(6) . .
+Sn3 Sn4A Sn3 7.18(12) 18 .
+Sn4B Sn4A Sn2 108.6(6) . 83
+Sn3 Sn4A Sn2 105.3(4) 18 83
+Sn3 Sn4A Sn2 110.9(4) . 83
+Sn4B Sn4A Sn1 107.0(7) . .
+Sn3 Sn4A Sn1 111.2(4) 18 .
+Sn3 Sn4A Sn1 104.8(4) . .
+Sn2 Sn4A Sn1 105.5(3) 83 .
+Sn4B Sn4A Sn6 15.6(4) . .
+Sn3 Sn4A Sn6 106.7(3) 18 .
+Sn3 Sn4A Sn6 108.8(3) . .
+Sn2 Sn4A Sn6 104.4(3) 83 .
+Sn1 Sn4A Sn6 122.3(5) . .
+Sn4B Sn4A Sn3 120.6(6) . 35_454
+Sn3 Sn4A Sn3 3.08(17) 18 35_454
+Sn3 Sn4A Sn3 5.12(17) . 35_454
+Sn2 Sn4A Sn3 106.0(4) 83 35_454
+Sn1 Sn4A Sn3 108.1(4) . 35_454
+Sn6 Sn4A Sn3 109.3(2) . 35_454
+Sn4B Sn4A Rb1 173.1(5) . .
+Sn3 Sn4A Rb1 68.3(4) 18 .
+Sn3 Sn4A Rb1 67.8(4) . .
+Sn2 Sn4A Rb1 67.4(3) 83 .
+Sn1 Sn4A Rb1 69.7(3) . .
+Sn6 Sn4A Rb1 167.67(16) . .
+Sn3 Sn4A Rb1 66.2(3) 35_454 .
+Sn4B Sn4A Rb2 67.5(5) . .
+Sn3 Sn4A Rb2 83.77(14) 18 .
+Sn3 Sn4A Rb2 78.01(10) . .
+Sn2 Sn4A Rb2 170.8(3) 83 .
+Sn1 Sn4A Rb2 68.89(11) . .
+Sn6 Sn4A Rb2 74.0(3) . .
+Sn3 Sn4A Rb2 82.95(14) 35_454 .
+Rb1 Sn4A Rb2 115.6(2) . .
+Sn4B Sn4A Rb2 60.9(5) . 4
+Sn3 Sn4A Rb2 177.9(2) 18 4
+Sn3 Sn4A Rb2 170.87(13) . 4
+Sn2 Sn4A Rb2 76.77(13) 83 4
+Sn1 Sn4A Rb2 67.57(13) . 4
+Sn6 Sn4A Rb2 73.0(3) . 4
+Sn3 Sn4A Rb2 175.5(2) 35_454 4
+Rb1 Sn4A Rb2 112.33(18) . 4
+Rb2 Sn4A Rb2 94.2(2) . 4
+Sn4A Sn4B Sn6 160.6(5) . .
+Sn4A Sn4B Sn3 51.4(5) . 18
+Sn6 Sn4B Sn3 113.54(12) . 18
+Sn4A Sn4B Sn3 51.2(5) . .
+Sn6 Sn4B Sn3 115.48(12) . .
+Sn3 Sn4B Sn3 6.38(11) 18 .
+Sn4A Sn4B Sn2 60.8(5) . 83
+Sn6 Sn4B Sn2 113.10(16) . 83
+Sn3 Sn4B Sn2 92.1(2) 18 83
+Sn3 Sn4B Sn2 96.6(3) . 83
+Sn4A Sn4B Sn1 62.4(5) . .
+Sn6 Sn4B Sn1 136.6(3) . .
+Sn3 Sn4B Sn1 97.2(3) 18 .
+Sn3 Sn4B Sn1 92.2(2) . .
+Sn2 Sn4B Sn1 94.8(2) 83 .
+Sn4A Sn4B Sn3 50.5(5) . 35_454
+Sn6 Sn4B Sn3 114.96(11) . 35_454
+Sn3 Sn4B Sn3 2.2(2) 18 35_454
+Sn3 Sn4B Sn3 4.41(17) . 35_454
+Sn2 Sn4B Sn3 93.0(2) 83 35_454
+Sn1 Sn4B Sn3 95.1(3) . 35_454
+Sn4A Sn4B Rb2 111.8(5) . 4
+Sn6 Sn4B Rb2 83.2(2) . 4
+Sn3 Sn4B Rb2 163.1(3) 18 4
+Sn3 Sn4B Rb2 160.8(3) . 4
+Sn2 Sn4B Rb2 78.72(4) 83 4
+Sn1 Sn4B Rb2 69.81(4) . 4
+Sn3 Sn4B Rb2 161.8(3) 35_454 4
+Sn4A Sn4B Rb2 104.8(5) . .
+Sn6 Sn4B Rb2 83.19(18) . .
+Sn3 Sn4B Rb2 83.53(11) 18 .
+Sn3 Sn4B Rb2 77.99(7) . .
+Sn2 Sn4B Rb2 163.4(3) 83 .
+Sn1 Sn4B Rb2 70.07(4) . .
+Sn3 Sn4B Rb2 82.15(12) 35_454 .
+Rb2 Sn4B Rb2 101.20(12) 4 .
+Sn1 Sn5 Sn1 109.982(11) 88_565 4
+Sn1 Sn5 Sn1 109.982(11) 88_565 .
+Sn1 Sn5 Sn1 108.46(2) 4 .
+Sn1 Sn5 Sn1 108.46(2) 88_565 85_565
+Sn1 Sn5 Sn1 109.982(11) 4 85_565
+Sn1 Sn5 Sn1 109.982(11) . 85_565
+Sn1 Sn5 Rb2 65.619(13) 88_565 85_565
+Sn1 Sn5 Rb2 171.175(15) 4 85_565
+Sn1 Sn5 Rb2 80.368(15) . 85_565
+Sn1 Sn5 Rb2 65.92(2) 85_565 85_565
+Sn1 Sn5 Rb2 171.175(15) 88_565 4
+Sn1 Sn5 Rb2 65.92(2) 4 4
+Sn1 Sn5 Rb2 65.619(13) . 4
+Sn1 Sn5 Rb2 80.368(15) 85_565 4
+Rb2 Sn5 Rb2 119.534(12) 85_565 4
+Sn1 Sn5 Rb2 80.368(15) 88_565 .
+Sn1 Sn5 Rb2 65.619(13) 4 .
+Sn1 Sn5 Rb2 65.92(2) . .
+Sn1 Sn5 Rb2 171.175(15) 85_565 .
+Rb2 Sn5 Rb2 119.534(12) 85_565 .
+Rb2 Sn5 Rb2 90.81(2) 4 .
+Sn1 Sn5 Rb2 65.92(2) 88_565 88_565
+Sn1 Sn5 Rb2 80.368(15) 4 88_565
+Sn1 Sn5 Rb2 171.175(15) . 88_565
+Sn1 Sn5 Rb2 65.619(13) 85_565 88_565
+Rb2 Sn5 Rb2 90.81(2) 85_565 88_565
+Rb2 Sn5 Rb2 119.534(12) 4 88_565
+Rb2 Sn5 Rb2 119.534(12) . 88_565
+Sn4B Sn6 Sn4B 112.51(9) 14_565 .
+Sn4B Sn6 Sn4B 110.47(14) 14_565 4
+Sn4B Sn6 Sn4B 105.50(17) . 4
+Sn4B Sn6 Sn4B 105.50(17) 14_565 15_564
+Sn4B Sn6 Sn4B 110.47(14) . 15_564
+Sn4B Sn6 Sn4B 112.51(9) 4 15_564
+Sn4B Sn6 Sn4A 111.33(7) 14_565 .
+Sn4B Sn6 Sn4A 3.81(10) . .
+Sn4B Sn6 Sn4A 109.21(18) 4 .
+Sn4B Sn6 Sn4A 107.76(13) 15_564 .
+Sn4B Sn6 Sn4A 3.81(10) 14_565 14_565
+Sn4B Sn6 Sn4A 111.33(7) . 14_565
+Sn4B Sn6 Sn4A 107.76(13) 4 14_565
+Sn4B Sn6 Sn4A 109.21(18) 15_564 14_565
+Sn4A Sn6 Sn4A 110.40(14) . 14_565
+Sn4B Sn6 Sn4A 109.21(18) 14_565 15_564
+Sn4B Sn6 Sn4A 107.76(13) . 15_564
+Sn4B Sn6 Sn4A 111.33(6) 4 15_564
+Sn4B Sn6 Sn4A 3.81(10) 15_564 15_564
+Sn4A Sn6 Sn4A 105.17(19) . 15_564
+Sn4A Sn6 Sn4A 112.9(2) 14_565 15_564
+Sn4B Sn6 Sn4A 107.76(13) 14_565 4
+Sn4B Sn6 Sn4A 109.21(18) . 4
+Sn4B Sn6 Sn4A 3.81(10) 4 4
+Sn4B Sn6 Sn4A 111.33(7) 15_564 4
+Sn4A Sn6 Sn4A 112.9(2) . 4
+Sn4A Sn6 Sn4A 105.17(19) 14_565 4
+Sn4A Sn6 Sn4A 110.40(14) 15_564 4
+Sn4B Sn6 Rb2 64.50(5) 14_565 14_565
+Sn4B Sn6 Rb2 171.77(9) . 14_565
+Sn4B Sn6 Rb2 82.65(9) 4 14_565
+Sn4B Sn6 Rb2 64.44(8) 15_564 14_565
+Sn4A Sn6 Rb2 167.98(12) . 14_565
+Sn4A Sn6 Rb2 66.21(8) 14_565 14_565
+Sn4A Sn6 Rb2 67.47(11) 15_564 14_565
+Sn4A Sn6 Rb2 78.96(12) 4 14_565
+Sn4B Sn6 Rb2 171.77(9) 14_565 .
+Sn4B Sn6 Rb2 64.50(5) . .
+Sn4B Sn6 Rb2 64.44(8) 4 .
+Sn4B Sn6 Rb2 82.65(9) 15_564 .
+Sn4A Sn6 Rb2 66.21(8) . .
+Sn4A Sn6 Rb2 167.98(12) 14_565 .
+Sn4A Sn6 Rb2 78.96(12) 15_564 .
+Sn4A Sn6 Rb2 67.47(10) 4 .
+Rb2 Sn6 Rb2 119.547(11) 14_565 .
+Sn4B Sn6 Rb2 82.65(9) 14_565 4
+Sn4B Sn6 Rb2 64.44(8) . 4
+Sn4B Sn6 Rb2 64.50(5) 4 4
+Sn4B Sn6 Rb2 171.77(9) 15_564 4
+Sn4A Sn6 Rb2 67.47(10) . 4
+Sn4A Sn6 Rb2 78.96(12) 14_565 4
+Sn4A Sn6 Rb2 167.98(12) 15_564 4
+Sn4A Sn6 Rb2 66.21(8) 4 4
+Rb2 Sn6 Rb2 121.37(3) 14_565 4
+Rb2 Sn6 Rb2 89.21(2) . 4
+Sn4B Sn6 Rb2 64.44(8) 14_565 15_564
+Sn4B Sn6 Rb2 82.65(9) . 15_564
+Sn4B Sn6 Rb2 171.77(9) 4 15_564
+Sn4B Sn6 Rb2 64.50(5) 15_564 15_564
+Sn4A Sn6 Rb2 78.96(12) . 15_564
+Sn4A Sn6 Rb2 67.47(10) 14_565 15_564
+Sn4A Sn6 Rb2 66.21(8) 15_564 15_564
+Sn4A Sn6 Rb2 167.98(12) 4 15_564
+Rb2 Sn6 Rb2 89.21(2) 14_565 15_564
+Rb2 Sn6 Rb2 121.37(3) . 15_564
+Rb2 Sn6 Rb2 119.547(11) 4 15_564
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb1 Sn3 3.8117(10) 66_565
+Rb1 Sn3 3.8117(10) 18
+Rb1 Sn3 3.8117(10) 83
+Rb1 Sn3 3.8117(10) 35_454
+Rb1 Sn3 3.8117(10) 49_565
+Rb1 Sn3 3.8117(10) .
+Rb1 Sn2 3.8191(6) 35_454
+Rb1 Sn2 3.8191(6) 83
+Rb1 Sn2 3.8191(6) .
+Rb1 Sn2 3.8191(6) 66_565
+Rb1 Sn2 3.8191(6) 49_565
+Rb1 Sn2 3.8191(6) 18
+Rb1 Sn4A 3.922(17) 49_565
+Rb1 Sn4A 3.922(17) .
+Rb1 Sn4A 3.922(17) 66_565
+Rb1 Sn4A 3.922(17) 18
+Rb1 Sn4A 3.922(17) 83
+Rb1 Sn4A 3.922(17) 35_454
+Rb1 Sn1 3.9398(6) 83
+Rb1 Sn1 3.9398(6) 35_454
+Rb1 Sn1 3.9398(6) 18
+Rb1 Sn1 3.9398(6) 66_565
+Rb1 Sn1 3.9398(6) 49_565
+Rb1 Sn1 3.9398(6) .
+Rb2 Sn4B 3.900(4) 4
+Rb2 Sn4B 3.900(4) 29_544
+Rb2 Sn4B 3.903(3) 32_554
+Rb2 Sn4B 3.903(3) .
+Rb2 Sn1 4.0147(11) 4
+Rb2 Sn1 4.0148(11) 29_544
+Rb2 Sn1 4.0291(6) 32_554
+Rb2 Sn1 4.0291(6) .
+Rb2 Sn4A 4.086(8) 32_554
+Rb2 Sn4A 4.086(8) .
+Rb2 Sn4A 4.147(9) 29_544
+Rb2 Sn4A 4.147(9) 4
+Rb2 Sn5 4.2338(7) 29_544
+Rb2 Sn5 4.2338(7) .
+Rb2 Sn6 4.2932(8) 29_544
+Rb2 Sn6 4.2932(8) .
+Rb2 Sn3 4.378(4) 32_554
+Rb2 Sn3 4.378(4) .
+Sn1 Sn4A 2.777(5) .
+Sn1 Sn2 2.8405(7) 66_565
+Sn1 Sn2 2.8491(7) .
+Sn1 Sn5 2.8648(5) .
+Sn1 Sn4B 2.995(6) .
+Sn1 Rb2 4.0148(11) 4
+Sn2 Sn4A 2.725(6) 66_565
+Sn2 Sn2 2.8070(12) 30_444
+Sn2 Sn1 2.8405(7) 83
+Sn2 Sn4B 2.958(5) 66_565
+Sn3 Sn3 0.334(5) 35_454
+Sn3 Sn3 0.334(5) 18
+Sn3 Sn4A 2.561(10) 35_454
+Sn3 Sn4A 2.635(11) .
+Sn3 Sn3 2.832(2) 32_554
+Sn3 Sn3 2.839(2) 22_554
+Sn3 Sn3 2.855(2) 15_564
+Sn3 Sn4A 2.862(10) 18
+Sn3 Sn4B 2.879(9) 35_454
+Sn3 Sn4B 2.956(10) .
+Sn3 Sn4B 3.191(7) 18
+Sn4A Sn4B 0.572(7) .
+Sn4A Sn3 2.561(10) 18
+Sn4A Sn2 2.725(6) 83
+Sn4A Sn6 2.857(16) .
+Sn4A Sn3 2.862(10) 35_454
+Sn4A Rb2 4.147(9) 4
+Sn4B Sn6 2.311(10) .
+Sn4B Sn3 2.879(9) 18
+Sn4B Sn2 2.958(5) 83
+Sn4B Sn3 3.191(7) 35_454
+Sn4B Rb2 3.900(4) 4
+Sn5 Sn1 2.8648(5) 88_565
+Sn5 Sn1 2.8648(5) 4
+Sn5 Sn1 2.8648(5) 85_565
+Sn5 Rb2 4.2338(7) 85_565
+Sn5 Rb2 4.2338(7) 4
+Sn5 Rb2 4.2338(7) 88_565
+Sn6 Sn4B 2.311(10) 14_565
+Sn6 Sn4B 2.311(10) 4
+Sn6 Sn4B 2.311(10) 15_564
+Sn6 Sn4A 2.857(16) 14_565
+Sn6 Sn4A 2.857(16) 15_564
+Sn6 Sn4A 2.857(16) 4
+Sn6 Rb2 4.2932(8) 14_565
+Sn6 Rb2 4.2932(8) 4
+Sn6 Rb2 4.2932(8) 15_564

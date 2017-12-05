@@ -1,0 +1,110 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/15/1511566.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1511566
+loop_
+_publ_author_name
+'Callmer, B.'
+'Tergenius, L.E.'
+'Thomas, J.O.'
+_publ_section_title
+;
+ X-ray powder profile refinement of zirconium in beta-rhombohedral boron
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              275
+_journal_page_last               279
+_journal_paper_doi               10.1016/0022-4596(78)90162-7
+_journal_volume                  26
+_journal_year                    1978
+_chemical_formula_sum            'B51.519 Zr1.018'
+_chemical_name_systematic        'Zr B51'
+_space_group_IT_number           166
+_symmetry_space_group_name_Hall  '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            6
+_cell_length_a                   10.9564
+_cell_length_b                   10.9564
+_cell_length_c                   24.0201
+_cell_volume                     2497.130
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            boron4-x_208.cif
+_cod_data_source_block           B51.519Zr1.018
+_cod_original_cell_volume        2497.13
+_cod_database_code               1511566
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+y,x,-z
+-x,-x+y,-z
+x-y,-y,-z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-y,-x,z
+x,x-y,z
+-x+y,y,z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+y+2/3,x+1/3,-z+1/3
+-x+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,-y+1/3,-z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+-y+2/3,-x+1/3,z+1/3
+x+2/3,x-y+1/3,z+1/3
+-x+y+2/3,y+1/3,z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+y+1/3,x+2/3,-z+2/3
+-x+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,-y+2/3,-z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+-y+1/3,-x+2/3,z+2/3
+x+1/3,x-y+2/3,z+2/3
+-x+y+1/3,y+2/3,z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zr1 Zr 0.20108 0.40215 0.17628 0.279 0.0
+B3 B 0.26165 0.21766 0.41974 1 0.0
+B8 B 0.17017 0.34034 0.02778 1 0.0
+B5 B 0.05436 0.10872 0.94389 1 0.0
+B2 B 0.31887 0.29536 0.12935 1 0.0
+B13 B 0.05784 0.11568 0.55385 0.528 0.0
+B4 B 0.23496 0.25151 0.34689 1 0.0
+B1 B 0.17302 0.174 0.17661 1 0.0
+B9 B 0.12873 0.25746 0.76625 1 0.0
+B16 B 0.0521 0.1043 0.1371 0.145 0.0
+B11 B 0.05652 0.11304 0.32659 1 0.0
+B7 B 0.10981 0.21962 0.88617 1 0.0
+B6 B 0.0864 0.1728 0.01309 1 0.0
+B10 B 0.10211 0.20422 0.69851 1 0.0
+Zr2 Zr 0 0 0.23441 0.181 0.0
+B14 B 0 0 0.38535 1 0.0
+B15 B 0 0 0.5 1 0.0
+B12 B 0.08962 0.17924 0.39902 1 0.0

@@ -1,0 +1,103 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-08 20:33:11 +0300 (Wed, 08 Jul 2015) $
+#$Revision: 141263 $
+#$URL: svn://www.crystallography.net/cod/cif/2/02/00/2020031.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2020031
+loop_
+_publ_author_name
+'Cenzual, K.'
+'Parthe, E.'
+'Waterstrat, R.M.'
+_publ_section_title
+;
+ Zr21 Re25, a new rhombohedral structure type containing 1.2 nm thick
+ infinite Mg Zn2 (Laves) phases
+;
+_journal_name_full               'Acta Crystallographica C (39,1983-)'
+_journal_page_first              261
+_journal_page_last               266
+_journal_volume                  42
+_journal_year                    1986
+_chemical_formula_sum            'Re25 Zr21'
+_chemical_name_systematic        'Re25 Zr21'
+_space_group_IT_number           167
+_symmetry_space_group_name_Hall  '-R 3 2"c'
+_symmetry_space_group_name_H-M   'R -3 c :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            6
+_cell_length_a                   25.847
+_cell_length_b                   25.847
+_cell_length_c                   8.771
+_cell_volume                     5074.579
+_citation_journal_id_ASTM        ACSCEE
+_cod_data_source_file            Cenzual_ACSCEE_1986_1937.cif
+_cod_data_source_block           Re25Zr21
+_cod_database_code               2020031
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+y,x,-z+1/2
+-x,-x+y,-z+1/2
+x-y,-y,-z+1/2
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-y,-x,z-1/2
+x,x-y,z-1/2
+-x+y,y,z-1/2
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+y+2/3,x+1/3,-z+5/6
+-x+2/3,-x+y+1/3,-z+5/6
+x-y+2/3,-y+1/3,-z+5/6
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+-y+2/3,-x+1/3,z-1/6
+x+2/3,x-y+1/3,z-1/6
+-x+y+2/3,y+1/3,z-1/6
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+y+1/3,x+2/3,-z+7/6
+-x+1/3,-x+y+2/3,-z+7/6
+x-y+1/3,-y+2/3,-z+7/6
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+-y+1/3,-x+2/3,z+1/6
+x+1/3,x-y+2/3,z+1/6
+-x+y+1/3,y+2/3,z+1/6
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Re6 Re 0.235 0.1163 0 1 0.0
+Zr4 Zr 0.3129 0.1084 0.2481 1 0.0
+Re3 Re 0.4446 0 0.25 1 0.0
+Re2 Re 0.061 0 0.25 1 0.0
+Re5 Re 0.2342 0.1754 0.2477 1 0.0
+Zr1 Zr 0.6943 0 0.25 1 0.0
+Zr2 Zr 0.0021 0.2306 0.0424 1 0.0
+Zr3 Zr 0.1161 0.1164 0.0659 1 0.0
+Re1 Re 0 0 0 1 0.0
+Re4 Re 0.0582 0.1778 0.248 1 0.0

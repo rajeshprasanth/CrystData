@@ -1,0 +1,83 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-11 17:33:56 +0300 (Sat, 11 Jul 2015) $
+#$Revision: 145325 $
+#$URL: svn://www.crystallography.net/cod/cif/4/34/36/4343664.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4343664
+loop_
+_publ_author_name
+'Hershaft, A.'
+'Corbett, J.D.'
+_publ_section_title
+;
+ The crystal structure of bismuth subchloride. Identification of the ion
+ (Bi9)(5+)
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              979
+_journal_page_last               985
+_journal_volume                  2
+_journal_year                    1963
+_chemical_formula_sum            'Bi48 Cl56'
+_chemical_name_systematic        '(Bi9)4 (Bi Cl5)8 (Bi2 Cl8)2'
+_space_group_IT_number           58
+_symmetry_space_group_name_Hall  '-P 2 2n'
+_symmetry_space_group_name_H-M   'P n n m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   23.057
+_cell_length_b                   15.04
+_cell_length_c                   8.761
+_cell_volume                     3038.116
+_citation_journal_id_ASTM        INOCAJ
+_cod_data_source_file            Hershaft_INOCAJ_1963_1134.cif
+_cod_data_source_block           Bi48Cl56
+_cod_original_cell_volume        3038.115
+_cod_database_code               4343664
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+x+1/2,-y+1/2,-z+1/2
+-x+1/2,y+1/2,-z+1/2
+-x,-y,-z
+x,y,-z
+-x-1/2,y-1/2,z-1/2
+x-1/2,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi5 Bi 0.0723 0.3982 0 1 0.0
+Cl11 Cl 0.466 0.274 0 1 0.0
+Cl5 Cl 0.29 0.044 0.5 1 0.0
+Bi7 Bi 0.3578 0.193 0.5 1 0.0
+Cl6 Cl 0.315 0.01 0 1 0.0
+Bi9 Bi 0.1525 0.3425 0.2669 1 0.0
+Bi1 Bi 0.0459 0.2229 0.1876 1 0.0
+Cl4 Cl 0.264 0.291 0.5 1 0.0
+Cl8 Cl 0.332 0.449 0.216 1 0.0
+Cl9 Cl 0.433 0.337 0.5 1 0.0
+Bi8 Bi 0.239 0.3296 0 1 0.0
+Bi2 Bi 0.2002 0.1544 0.1815 1 0.0
+Bi3 Bi 0.4101 0.455 0 1 0.0
+Cl10 Cl 0.445 0.086 0.302 1 0.0
+Cl7 Cl 0.338 0.216 0.194 1 0.0
+Bi6 Bi 0.4139 0.1009 0 1 0.0
+Cl2 Cl 0.109 0.126 0.5 1 0.0
+Cl3 Cl 0.052 0.418 0.5 1 0.0
+Cl1 Cl 0 0 0.288 1 0.0
+Bi4 Bi 0.0984 0.0692 0 1 0.0

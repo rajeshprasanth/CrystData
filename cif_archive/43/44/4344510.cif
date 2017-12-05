@@ -1,0 +1,93 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/4/34/45/4344510.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4344510
+loop_
+_publ_author_name
+'Huffman, J.C.'
+'Moody, D.C.'
+'Schaeffer, R.'
+_publ_section_title
+;
+ Studies of boranes. XLV. Crystal and molecular structure, improved
+ synthesis, and reactions of tridecaborane(19)
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              227
+_journal_page_last               232
+_journal_volume                  15
+_journal_year                    1976
+_chemical_formula_sum            'B13 H19'
+_chemical_name_systematic        'B13 H19'
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 97.69
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   9.217
+_cell_length_b                   6.498
+_cell_length_c                   19.719
+_cell_volume                     1170.390
+_citation_journal_id_ASTM        INOCAJ
+_cod_data_source_file            Huffman_INOCAJ_1976_1599.cif
+_cod_data_source_block           H19B13
+_cod_original_cell_volume        1170.39
+_cod_original_formula_sum        'H19 B13'
+_cod_database_code               4344510
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z+1/2
+-x,-y,-z
+x,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B11 B 0.5966 0.464 0.4077 1 0.0
+H19 H 0.713 0.461 0.3776 1 0.0
+B1 B 0.2877 0.3484 0.311 1 0.0
+B9 B 0.4455 0.3099 0.365 1 0.0
+H17 H 0.2449 -0.061 0.301 1 0.0
+B8 B 0.2662 0.3378 0.3992 1 0.0
+B3 B 0.5132 0.0449 0.3582 1 0.0
+B12 B 0.7562 0.31 0.4131 1 0.0
+H15 H 0.6291 0.0169 0.3302 1 0.0
+B6 B 0.1376 -0.0258 0.3367 1 0.0
+B5 B 0.2276 0.1081 0.2746 1 0.0
+H16 H 0.7758 0.2096 0.3611 1 0.0
+H7 H 0.0998 0.0903 0.4561 1 0.0
+H8 H 0.2558 0.4693 0.4323 1 0.0
+H3 H 0.4653 -0.0956 0.3788 1 0.0
+B10 B 0.593 0.2055 0.4302 1 0.0
+B7 B 0.1675 0.1096 0.4135 1 0.0
+H4 H 0.4744 0.2087 0.245 1 0.0
+H10 H 0.5964 0.5942 0.4429 1 0.0
+H13 H 0.5211 0.4858 0.355 1 0.0
+H2 H 0.0302 0.3194 0.3225 1 0.0
+B2 B 0.127 0.2352 0.3366 1 0.0
+H18 H 0.2079 -0.07 0.3905 1 0.0
+H1 H 0.2692 0.4954 0.2843 1 0.0
+H11 H 0.8534 0.3536 0.4506 1 0.0
+H14 H 0.2969 0.175 0.4353 1 0.0
+B4 B 0.4177 0.1788 0.2897 1 0.0
+B13 B 0.7066 0.0592 0.3867 1 0.0
+H6 H 0.0417 -0.1463 0.3239 1 0.0
+H5 H 0.1748 0.0962 0.2192 1 0.0
+H9 H 0.5788 0.1652 0.4829 1 0.0
+H12 H 0.7659 -0.0676 0.4054 1 0.0

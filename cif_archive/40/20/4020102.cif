@@ -1,0 +1,179 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/4/02/01/4020102.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4020102
+loop_
+_publ_author_name
+'Ichiro Hisaki'
+'Takeshi Eda'
+'Motohiro Sonoda'
+'Hiroyuki Niino'
+'Tadatake Sato'
+'Tomonari Wakabayashi'
+'Yoshito Tobe'
+_journal_name_full               'Journal of Organic Chemistry'
+_journal_page_first              1853
+_journal_page_last               1864
+_journal_paper_doi               10.1021/jo047857p
+_journal_volume                  70
+_journal_year                    2005
+_chemical_formula_moiety         'C29 H18'
+_chemical_formula_sum            'C29 H18'
+_chemical_formula_weight         366.43
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_atom_sites_solution_hydrogens   difmap
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha                90.00
+_cell_angle_beta                 135.9079(2)
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   15.87156(3)
+_cell_length_b                   11.15139(4)
+_cell_length_c                   15.78242(1)
+_cell_measurement_reflns_used    66469
+_cell_measurement_temperature    173(1)
+_cell_measurement_theta_max      31.5
+_cell_measurement_theta_min      1.4
+_cell_volume                     1943.637(8)
+_diffrn_ambient_temperature      173(1)
+_diffrn_detector_area_resol_mean 10.00
+_diffrn_measurement_device_type  'Rigaku R-AXIS RAPID'
+_diffrn_measurement_method       \w
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'normal-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.0985
+_diffrn_reflns_av_sigmaI/netI    0.0423
+_diffrn_reflns_limit_h_max       20
+_diffrn_reflns_limit_h_min       -20
+_diffrn_reflns_limit_k_max       14
+_diffrn_reflns_limit_k_min       -14
+_diffrn_reflns_limit_l_max       20
+_diffrn_reflns_limit_l_min       -20
+_diffrn_reflns_number            39478
+_diffrn_reflns_theta_max         27.50
+_diffrn_reflns_theta_min         2.60
+_diffrn_standards_decay_%        ?
+_diffrn_standards_interval_count ?
+_diffrn_standards_interval_time  ?
+_diffrn_standards_number         ?
+_exptl_absorpt_coefficient_mu    0.071
+_exptl_absorpt_correction_T_max  ?
+_exptl_absorpt_correction_T_min  ?
+_exptl_absorpt_correction_type   none
+_exptl_absorpt_process_details   ?
+_exptl_crystal_colour            platelet
+_exptl_crystal_density_diffrn    1.252
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       yellow
+_exptl_crystal_F_000             768
+_exptl_crystal_size_max          0.50
+_exptl_crystal_size_mid          0.50
+_exptl_crystal_size_min          0.20
+_refine_ls_extinction_coef       ?
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.145
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     316
+_refine_ls_number_reflns         4469
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.145
+_refine_ls_R_factor_all          0.1101
+_refine_ls_R_factor_gt           0.0812
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0567P)^2^+1.8324P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1597
+_refine_ls_wR_factor_ref         0.1713
+_reflns_number_gt                3407
+_reflns_number_total             4469
+_reflns_threshold_expression     >2sigma(I)
+_cod_original_sg_symbol_Hall     '-P 2YN'
+_cod_original_sg_symbol_H-M      'P 21/n'
+_cod_database_code               4020102
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x-1/2, -y-1/2, z-1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+C1 C 0.4509(2) 0.1702(2) 0.1893(2) 0.0226(5) Uani 1 1 d . . .
+C2 C 0.3657(2) 0.2162(2) 0.1869(2) 0.0229(5) Uani 1 1 d . . .
+C3 C 0.2819(2) 0.2474(2) 0.1689(2) 0.0243(5) Uani 1 1 d . . .
+C4 C 0.1748(2) 0.2871(2) 0.1348(2) 0.0243(5) Uani 1 1 d . . .
+C5 C 0.1791(2) 0.3825(2) 0.1951(2) 0.0286(6) Uani 1 1 d . . .
+H5 H 0.257(3) 0.418(3) 0.263(3) 0.034 Uiso 1 1 d . . .
+C6 C 0.0748(3) 0.4245(3) 0.1575(3) 0.0354(6) Uani 1 1 d . . .
+H6 H 0.080(3) 0.488(3) 0.202(3) 0.043 Uiso 1 1 d . . .
+C7 C -0.0359(3) 0.3721(3) 0.0588(3) 0.0385(7) Uani 1 1 d . . .
+H7 H -0.109(3) 0.406(3) 0.029(3) 0.046 Uiso 1 1 d . . .
+C8 C -0.0423(2) 0.2771(3) -0.0012(2) 0.0320(6) Uani 1 1 d . . .
+H8 H -0.117(3) 0.238(3) -0.070(3) 0.038 Uiso 1 1 d . . .
+C9 C 0.0621(2) 0.2319(2) 0.0351(2) 0.0247(5) Uani 1 1 d . . .
+C10 C 0.0535(2) 0.1321(2) -0.0283(2) 0.0254(5) Uani 1 1 d . . .
+C11 C 0.0419(2) 0.0499(2) -0.0854(2) 0.0246(5) Uani 1 1 d . . .
+C12 C 0.0227(2) -0.0449(2) -0.1594(2) 0.0245(5) Uani 1 1 d . . .
+C13 C -0.0928(2) -0.0933(3) -0.2547(2) 0.0311(6) Uani 1 1 d . . .
+H13 H -0.161(3) -0.063(3) -0.272(3) 0.037 Uiso 1 1 d . . .
+C14 C -0.1133(2) -0.1828(3) -0.3285(3) 0.0361(6) Uani 1 1 d . . .
+H14 H -0.193(3) -0.216(3) -0.394(3) 0.043 Uiso 1 1 d . . .
+C15 C -0.0189(3) -0.2268(3) -0.3087(3) 0.0401(7) Uani 1 1 d . . .
+H15 H -0.031(3) -0.293(3) -0.358(3) 0.048 Uiso 1 1 d . . .
+C16 C 0.0965(3) -0.1804(3) -0.2143(3) 0.0369(7) Uani 1 1 d . . .
+H16 H 0.163(3) -0.213(3) -0.196(3) 0.044 Uiso 1 1 d . . .
+C17 C 0.1191(2) -0.0900(2) -0.1395(2) 0.0252(5) Uani 1 1 d . . .
+C18 C 0.2381(2) -0.0393(2) -0.0444(2) 0.0248(5) Uani 1 1 d . . .
+C19 C 0.3341(2) 0.0093(2) 0.0318(2) 0.0234(5) Uani 1 1 d . . .
+C20 C 0.4377(2) 0.0808(2) 0.1230(2) 0.0215(5) Uani 1 1 d . . .
+C21 C 0.5641(2) 0.0973(2) 0.1759(2) 0.0272(5) Uani 1 1 d . . .
+C22 C 0.6499(2) -0.0053(3) 0.2505(3) 0.0386(7) Uani 1 1 d . . .
+H22 H 0.646(3) -0.070(3) 0.207(3) 0.046 Uiso 1 1 d . . .
+C23 C 0.7239(3) -0.0109(3) 0.3711(3) 0.0503(8) Uani 1 1 d . . .
+H23 H 0.783(3) -0.084(3) 0.423(3) 0.060 Uiso 1 1 d . . .
+C24 C 0.7366(3) 0.0854(3) 0.4404(3) 0.0495(8) Uani 1 1 d . . .
+H24 H 0.810(3) 0.078(3) 0.546(3) 0.059 Uiso 1 1 d . . .
+C25 C 0.6730(2) 0.1837(3) 0.3883(3) 0.0379(7) Uani 1 1 d . . .
+H25 H 0.683(3) 0.253(3) 0.443(3) 0.045 Uiso 1 1 d . . .
+C26 C 0.5793(2) 0.2025(2) 0.2543(2) 0.0245(5) Uani 1 1 d . . .
+C27 C 0.5886(3) 0.3195(3) 0.2099(3) 0.0423(7) Uani 1 1 d . . .
+H27A H 0.673(3) 0.336(3) 0.260(3) 0.051 Uiso 1 1 d . . .
+H27B H 0.554(3) 0.385(3) 0.212(3) 0.051 Uiso 1 1 d . . .
+C28 C 0.5311(3) 0.2854(3) 0.0802(3) 0.0497(8) Uani 1 1 d . . .
+H28A H 0.434(3) 0.289(3) 0.016(3) 0.060 Uiso 1 1 d . . .
+H28B H 0.555(3) 0.321(3) 0.050(3) 0.060 Uiso 1 1 d . . .
+C29 C 0.5642(3) 0.1553(3) 0.0887(3) 0.0390(7) Uani 1 1 d . . .
+H29A H 0.646(3) 0.151(3) 0.130(3) 0.047 Uiso 1 1 d . . .
+H29B H 0.514(3) 0.112(3) 0.010(3) 0.047 Uiso 1 1 d . . .

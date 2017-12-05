@@ -1,0 +1,260 @@
+#------------------------------------------------------------------------------
+#$Date: 2014-03-04 09:26:38 +0200 (Tue, 04 Mar 2014) $
+#$Revision: 103378 $
+#$URL: svn://www.crystallography.net/cod/cif/8/10/08/8100815.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_8100815
+loop_
+_publ_author_name
+'H\"onle, Wolfgang'
+'Buresch, Juta'
+'Wolf, Juliane'
+'Peters, Karl'
+'Chang, Jen-Hui'
+'von Schnering, Hans Georg'
+_publ_section_title
+;
+Crystal structure of the low-temperature modification of trirubidium 
+heptaarsenide, LT-Rb~3~As~7~
+;
+_journal_issue                   4
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first              489
+_journal_page_last               490
+_journal_volume                  217
+_journal_year                    2002
+_chemical_formula_moiety         'Rb3 As7'
+_chemical_formula_sum            'As7 Rb3'
+_chemical_formula_weight         694.09
+_space_group_IT_number           61
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            16
+_cell_length_a                   13.194(3)
+_cell_length_b                   25.878(5)
+_cell_length_c                   15.881(3)
+_cell_measurement_temperature    293(2)
+_cell_volume                     5422.3(19)
+_diffrn_ambient_temperature      293(2)
+_exptl_crystal_density_diffrn    3.826
+_cod_depositor_comments
+;
+Fixing incorrect coordinate table colums. For the correct values, the
+original paper at
+ftp://ftp.oldenbourg.de/pub/download/frei/ncs/217-4/409655.pdf was
+consulted.
+
+Antanas Vaitkus
+2013-03-01
+;
+_cod_database_code               8100815
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, -y, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x-1/2, y, -z-1/2'
+'x, -y-1/2, z-1/2'
+'-x-1/2, y-1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+As(301) As 0.2056(5) 0.2593(3) 0.0655(7) ? Uani 1 8 c d . . .
+As(211) As 0.2288(6) 0.3139(3) 0.1836(7) ? Uani 1 8 c d . . .
+As(221) As 0.1308(6) 0.1853(3) 0.1293(7) ? Uani 1 8 c d . . .
+As(231) As 0.0575(6) 0.2981(3) 0.0023(6) ? Uani 1 8 c d . . .
+As(311) As 0.0651(6) 0.3132(3) 0.2405(6) ? Uani 1 8 c d . . .
+As(321) As -0.0009(6) 0.2242(3) 0.2072(6) ? Uani 1 8 c d . . .
+As(331) As -0.0499(5) 0.3000(2) 0.1173(6) ? Uani 1 8 c d . . .
+As(302) As 0.3163(5) 0.5414(3) -0.0485(6) ? Uani 1 8 c d . . .
+As(212) As 0.1373(5) 0.5301(3) -0.0531(6) ? Uani 1 8 c d . . .
+As(222) As 0.3661(5) 0.5357(3) -0.1922(7) ? Uani 1 8 c d . . .
+As(232) As 0.3644(5) 0.4576(3) 0.0083(6) ? Uani 1 8 c d . . .
+As(312) As 0.1272(6) 0.4550(3) -0.1360(6) ? Uani 1 8 c d . . .
+As(322) As 0.2858(6) 0.4572(3) -0.2253(6) ? Uani 1 8 c d . . .
+As(332) As 0.2825(6) 0.4057(3) -0.0926(6) ? Uani 1 8 c d . . .
+Rb1 Rb 0.1260(5) 0.5832(2) -0.2545(7) 0.048(2) Uani 1 8 c d . . .
+Rb2 Rb 0.0514(6) 0.4410(3) -0.3554(5) 0.0433(19) Uani 1 8 c d . . .
+Rb3 Rb 0.1153(5) 0.4249(3) 0.0885(6) 0.047(2) Uani 1 8 c d . . .
+Rb4 Rb 0.2303(5) 0.2823(3) -0.1627(6) 0.051(2) Uani 1 8 c d . . .
+Rb5 Rb 0.3764(6) 0.1297(3) 0.1065(8) 0.074(3) Uani 1 8 c d . . .
+Rb6 Rb -0.0351(6) 0.1750(3) -0.0445(7) 0.066(3) Uani 1 8 c d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+As(301) 0.040(4) 0.042(4) 0.045(6) 0.003(5) -0.004(5) 0.006(3)
+As(211) 0.052(5) 0.036(4) 0.056(7) 0.019(5) 0.001(5) -0.012(3)
+As(221) 0.060(5) 0.025(4) 0.050(7) -0.015(4) -0.022(5) 0.003(3)
+As(231) 0.046(4) 0.041(4) 0.030(5) 0.007(4) 0.000(5) 0.005(3)
+As(311) 0.063(5) 0.041(4) 0.040(6) 0.001(5) -0.017(5) 0.014(4)
+As(321) 0.046(4) 0.041(4) 0.052(7) 0.014(5) -0.020(5) -0.010(3)
+As(331) 0.039(4) 0.032(4) 0.038(6) 0.003(4) -0.003(5) 0.002(3)
+As(302) 0.049(4) 0.027(4) 0.040(6) -0.013(4) -0.010(5) 0.005(3)
+As(212) 0.035(4) 0.050(4) 0.037(6) -0.003(5) 0.012(5) 0.012(3)
+As(222) 0.036(4) 0.054(5) 0.012(5) 0.012(5) -0.004(5) 0.004(4)
+As(232) 0.046(4) 0.040(4) 0.036(6) 0.013(5) -0.007(5) 0.000(3)
+As(312) 0.047(5) 0.051(5) 0.034(6) 0.001(5) 0.010(5) -0.011(4)
+As(322) 0.049(4) 0.044(4) 0.039(6) -0.011(5) -0.002(5) 0.005(3)
+As(332) 0.060(5) 0.025(4) 0.042(6) -0.004(4) -0.002(5) 0.002(3)
+Rb1 0.052(4) 0.032(3) 0.052(6) 0.002(5) 0.002(5) -0.005(3)
+Rb2 0.052(4) 0.046(4) 0.019(5) -0.003(4) 0.008(4) 0.003(3)
+Rb3 0.051(5) 0.048(4) 0.035(5) 0.007(4) -0.020(5) 0.010(3)
+Rb4 0.053(5) 0.039(4) 0.051(6) -0.012(4) 0.003(5) -0.005(3)
+Rb5 0.070(6) 0.061(5) 0.085(9) 0.005(6) 0.041(7) -0.008(4)
+Rb6 0.082(6) 0.049(4) 0.058(7) 0.003(5) -0.004(6) -0.027(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+As(301) As(211) 2.363(12) . ?
+As(301) As(221) 2.371(10) . ?
+As(301) As(231) 2.416(10) . ?
+As(301) Rb4 3.688(13) . ?
+As(301) Rb6 3.841(10) 4 ?
+As(301) Rb5 4.096(10) . ?
+As(211) As(311) 2.341(11) . ?
+As(211) Rb1 3.433(9) 2_565 ?
+As(211) Rb4 3.494(11) 7_566 ?
+As(211) Rb3 3.563(9) . ?
+As(211) Rb6 3.829(12) 4 ?
+As(221) As(321) 2.367(11) . ?
+As(221) Rb2 3.444(9) 7_566 ?
+As(221) Rb6 3.540(12) . ?
+As(221) Rb5 3.558(10) . ?
+As(221) Rb4 3.661(12) 7_566 ?
+As(231) As(331) 2.328(11) . ?
+As(231) Rb6 3.486(9) . ?
+As(231) Rb5 3.489(10) 4_455 ?
+As(231) Rb4 3.491(11) . ?
+As(231) Rb3 3.633(10) . ?
+As(311) As(331) 2.498(12) . ?
+As(311) As(321) 2.513(10) . ?
+As(311) Rb4 3.640(10) 7_566 ?
+As(311) Rb6 3.665(13) 7_566 ?
+As(311) Rb1 3.688(8) 5_565 ?
+As(311) Rb3 3.830(11) . ?
+As(321) As(331) 2.516(10) . ?
+As(321) Rb4 3.615(9) 4_455 ?
+As(321) Rb4 3.694(11) 7_566 ?
+As(321) Rb5 4.163(12) 6_556 ?
+As(331) Rb4 3.652(9) 4_455 ?
+As(331) Rb1 3.855(10) 5_565 ?
+As(331) Rb3 3.932(9) . ?
+As(331) Rb5 4.111(12) 4_455 ?
+As(331) Rb6 4.139(11) . ?
+As(302) As(212) 2.380(9) . ?
+As(302) As(222) 2.400(13) . ?
+As(302) As(232) 2.433(9) . ?
+As(302) Rb2 3.554(11) 2_565 ?
+As(212) As(312) 2.355(10) . ?
+As(212) Rb1 3.470(12) . ?
+As(212) Rb3 3.548(10) . ?
+As(212) Rb3 3.574(9) 5_565 ?
+As(212) Rb5 3.622(12) 8_665 ?
+As(222) As(322) 2.353(9) . ?
+As(222) Rb2 3.537(9) 6_655 ?
+As(222) Rb1 3.543(9) . ?
+As(222) Rb3 3.642(12) 2_564 ?
+As(222) Rb1 3.730(9) 6_655 ?
+As(232) As(332) 2.340(11) . ?
+As(232) Rb2 3.483(11) 6_655 ?
+As(232) Rb2 3.594(10) 2_565 ?
+As(232) Rb3 3.613(9) . ?
+As(232) Rb6 3.727(9) 4 ?
+As(232) Rb1 3.922(13) 2_565 ?
+As(312) As(332) 2.510(10) . ?
+As(312) As(322) 2.521(10) . ?
+As(312) Rb2 3.635(12) . ?
+As(312) Rb3 3.653(13) . ?
+As(312) Rb1 3.808(9) . ?
+As(312) Rb5 3.996(9) 4_455 ?
+As(322) As(332) 2.487(12) . ?
+As(322) Rb5 3.690(12) 7_565 ?
+As(322) Rb2 3.745(11) . ?
+As(322) Rb2 3.751(10) 6_655 ?
+As(322) Rb1 3.906(9) . ?
+As(332) Rb4 3.455(9) . ?
+As(332) Rb3 3.655(11) . ?
+As(332) Rb2 3.742(10) 6_655 ?
+As(332) Rb6 3.871(11) 4 ?
+Rb1 As(211) 3.433(9) 2_564 ?
+Rb1 As(311) 3.688(8) 5_565 ?
+Rb1 As(222) 3.730(9) 6 ?
+Rb1 As(331) 3.855(10) 5_565 ?
+Rb1 As(232) 3.922(13) 2_564 ?
+Rb1 Rb2 4.130(9) . ?
+Rb1 Rb3 4.144(11) 5_565 ?
+Rb1 Rb6 4.157(12) 3_554 ?
+Rb2 As(221) 3.444(9) 7_565 ?
+Rb2 As(232) 3.483(11) 6 ?
+Rb2 As(222) 3.537(9) 6 ?
+Rb2 As(302) 3.554(11) 2_564 ?
+Rb2 As(232) 3.594(10) 2_564 ?
+Rb2 As(332) 3.742(10) 6 ?
+Rb2 As(322) 3.751(10) 6 ?
+Rb2 Rb6 4.405(11) 7_565 ?
+Rb2 Rb5 4.704(9) 7_565 ?
+Rb3 As(212) 3.574(9) 5_565 ?
+Rb3 As(222) 3.642(12) 2_565 ?
+Rb3 Rb1 4.144(11) 5_565 ?
+Rb3 Rb1 4.236(10) 2_565 ?
+Rb4 As(211) 3.494(11) 7_565 ?
+Rb4 As(321) 3.615(9) 4 ?
+Rb4 As(311) 3.640(10) 7_565 ?
+Rb4 As(331) 3.652(9) 4 ?
+Rb4 As(221) 3.661(12) 7_565 ?
+Rb4 As(321) 3.694(11) 7_565 ?
+Rb4 Rb6 4.650(12) 4 ?
+Rb4 Rb5 4.731(12) 7_565 ?
+Rb4 Rb6 4.839(10) . ?
+Rb5 As(231) 3.489(10) 4 ?
+Rb5 As(212) 3.622(12) 8_655 ?
+Rb5 As(322) 3.690(12) 7_566 ?
+Rb5 As(312) 3.996(9) 4 ?
+Rb5 As(331) 4.111(12) 4 ?
+Rb5 As(321) 4.163(12) 6_656 ?
+Rb5 Rb3 4.637(11) 4 ?
+Rb5 Rb2 4.704(9) 7_566 ?
+Rb5 Rb4 4.731(12) 7_566 ?
+Rb5 Rb2 4.926(13) 4 ?
+Rb6 As(311) 3.665(13) 7_565 ?
+Rb6 As(232) 3.727(9) 4_455 ?
+Rb6 As(211) 3.829(12) 4_455 ?
+Rb6 As(301) 3.841(10) 4_455 ?
+Rb6 As(332) 3.871(11) 4_455 ?
+Rb6 Rb1 4.157(12) 3_544 ?
+Rb6 Rb2 4.405(11) 7_566 ?
+Rb6 Rb4 4.650(12) 4_455 ?

@@ -1,0 +1,88 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/60/2106090.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2106090
+loop_
+_publ_author_name
+'Cromer, D.T.'
+_publ_section_title
+;
+ The crystal structure of theta-Pu Zr, ideal formula Pu28 Zr
+;
+_journal_name_full               'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first              14
+_journal_page_last               19
+_journal_volume                  35
+_journal_year                    1979
+_chemical_formula_sum            'Pu28 Zr'
+_chemical_name_systematic        'Pu28 Zr'
+_space_group_IT_number           88
+_symmetry_space_group_name_Hall  'I 4bw -1bw'
+_symmetry_space_group_name_H-M   'I 41/a :1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   18.1899
+_cell_length_b                   18.1899
+_cell_length_c                   7.8576
+_cell_volume                     2599.863
+_citation_journal_id_ASTM        ACBCAR
+_cod_data_source_file            Cromer_ACBCAR_1979_1914.cif
+_cod_data_source_block           Pu28Zr1
+_cod_original_sg_symbol_Hall     '-I 4ad (x,y+1/4,z+1/8)'
+_cod_original_formula_sum        'Pu28 Zr1'
+_cod_database_code               2106090
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x+1/2,z+1/4
+-x+1/2,-y+1/2,z+1/2
+y+1/2,-x,z+3/4
+-x,-y+1/2,-z+1/4
+y,-x,-z
+x-1/2,y,-z-1/4
+-y-1/2,x+1/2,-z-1/2
+x+1/2,y+1/2,z+1/2
+-y+1/2,x+1,z+3/4
+-x+1,-y+1,z+1
+y+1,-x+1/2,z+5/4
+-x+1/2,-y+1,-z+3/4
+y+1/2,-x+1/2,-z+1/2
+x,y+1/2,-z+1/4
+-y,x+1,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zr4 Zr 0.1175 0.423 0.5098 0.0345 0.0
+Zr5 Zr 0.248 0.6665 0.9641 0.0345 0.0
+Pu3 Pu 0.2119 0.5377 0.2453 0.9655 0.0
+Zr7 Zr 0.2015 0.3442 0.1826 0.0345 0.0
+Pu4 Pu 0.1175 0.423 0.5098 0.9655 0.0
+Pu8 Pu 0.9761 0.8144 0.6343 0.9655 0.0
+Zr3 Zr 0.2119 0.5377 0.2453 0.0345 0.0
+Zr8 Zr 0.9761 0.8144 0.6343 0.0345 0.0
+Zr2 Zr 0.3434 0.4177 0.1351 0.0345 0.0
+Pu7 Pu 0.2015 0.3442 0.1826 0.9655 0.0
+Pu2 Pu 0.3434 0.4177 0.1351 0.9655 0.0
+Pu6 Pu 0.4501 0.4288 0.3608 0.9655 0.0
+Pu5 Pu 0.248 0.6665 0.9641 0.9655 0.0
+Zr6 Zr 0.4501 0.4288 0.3608 0.0345 0.0
+Zr1 Zr 0 0 0.5 0.0345 0.0
+Pu1 Pu 0 0 0.5 0.9655 0.0

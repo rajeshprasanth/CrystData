@@ -1,0 +1,369 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-02-20 02:44:01 +0200 (Mon, 20 Feb 2017) $
+#$Revision: 192337 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/7/10/21/7102180.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7102180
+loop_
+_publ_author_name
+'Checi\'nska, Lilianna'
+'Troyanov, Sergey I'
+'Mebs, Stefan'
+'H\"ubschle, Christian B'
+'Luger, Peter'
+_publ_section_title
+;
+ Examination of intermolecular electronic interactions in the crystal
+ structure of C60(CF3)12 by experimental electron density
+ determination.
+;
+_journal_issue                   39
+_journal_name_full
+'Chemical communications (Cambridge, England)'
+_journal_page_first              4003
+_journal_page_last               4005
+_journal_paper_doi               10.1039/b712694h
+_journal_year                    2007
+_chemical_formula_moiety         'C72 F36'
+_chemical_formula_sum            'C72 F36'
+_chemical_formula_weight         1548.72
+_space_group_IT_number           148
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_Hall  '-R 3'
+_symmetry_space_group_name_H-M   'R -3 :H'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                120.00
+_cell_formula_units_Z            3
+_cell_length_a                   20.720(3)
+_cell_length_b                   20.720(3)
+_cell_length_c                   9.729(2)
+_cell_measurement_temperature    20(2)
+_cell_volume                     3617.3(2)
+_computing_cell_refinement       'SMART (Bruker, 1997-2001)'
+_computing_data_collection       'SMART (Bruker, 1997-2001)'
+_computing_data_reduction        'SAINT and SADABS (Bruker, 1997-2001)'
+_computing_molecular_graphics    'Koritsanszky et al, (2003)'
+_computing_publication_material  'Koritsanszky et al, (2003)'
+_computing_structure_refinement  'Koritsanszky et al, (2003)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1997)'
+_diffrn_detector_type            'Bruker SMART Apex CCD detector'
+_diffrn_measured_fraction_theta_full 0.920
+_diffrn_measured_fraction_theta_max 0.920
+_diffrn_measurement_device_type  'four-circle Huber diffractometer'
+_diffrn_measurement_method       '\f scan'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71068
+_diffrn_reflns_limit_h_max       26
+_diffrn_reflns_limit_h_min       -54
+_diffrn_reflns_limit_k_max       54
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       25
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            235064
+_diffrn_reflns_theta_full        71.04
+_diffrn_reflns_theta_max         71.04
+_diffrn_reflns_theta_min         2.38
+_exptl_absorpt_coefficient_mu    0.222
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn    2.133
+_exptl_crystal_F_000             2268
+_exptl_crystal_size_max          0.5
+_exptl_crystal_size_mid          0.5
+_exptl_crystal_size_min          0.4
+_refine_diff_density_max         0.301
+_refine_diff_density_min         -0.302
+_refine_diff_density_rms         0.061
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   2.0539
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     465
+_refine_ls_number_reflns         12688
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0305
+_refine_ls_R_factor_gt           0.0237
+_refine_ls_shift/su_max          0.0085
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details
+;
+calc w1 = 1/[s^2^(Fo)]
+;
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.0221
+_reflns_number_gt                12688
+_reflns_number_total             14587
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            b712694h.txt
+_cod_data_source_block           I
+_cod_depositor_comments
+;
+ Marking atom 'DUM0' as a dummy atom.
+
+ Antanas Vaitkus,
+ 2017-02-20
+
+ Adding the _atom_site_type_symbol data item.
+
+ Antanas Vaitkus,
+ 2017-02-20
+
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Rhombohedral' changed to 'rhombohedral'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_original_sg_symbol_H-M      R-3
+_cod_database_code               7102180
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 +X,+Y,+Z
+2 -Y,+X-Y,+Z
+3 -X+Y,-X,+Z
+4 -X,-Y,-Z
+5 +Y,-X+Y,-Z
+6 +X-Y,+X,-Z
+7 1/3+X,2/3+Y,2/3+Z
+8 1/3-X,2/3-Y,2/3-Z
+9 1/3-Y,2/3+X-Y,2/3+Z
+10 1/3+Y,2/3-X+Y,2/3-Z
+11 1/3-X+Y,2/3-X,2/3+Z
+12 1/3+X-Y,2/3+X,2/3-Z
+13 2/3+X,1/3+Y,1/3+Z
+14 2/3-X,1/3-Y,1/3-Z
+15 2/3-Y,1/3+X-Y,1/3+Z
+16 2/3+Y,1/3-X+Y,1/3-Z
+17 2/3-X+Y,1/3-X,1/3+Z
+18 2/3+X-Y,1/3+X,1/3-Z
+loop_
+_atom_local_axes_atom0
+_atom_local_axes_ax1
+_atom_local_axes_atom1
+_atom_local_axes_atom2
+_atom_local_axes_ax2
+C(1) Z C(1) C(4) Y
+C(1) Z C(1) C(4) Y
+C(1) Z C(1) C(4) Y
+C(2) Z C(2) C(6) Y
+C(2) Z C(2) C(6) Y
+C(2) Z C(2) C(6) Y
+C(4) Z C(1) F(1) Y
+C(6) Z C(2) F(4) Y
+C(4) Z C(3) C(12) Y
+C(5) Z C(4) C(12) Y
+C(6) Z C(5) C(4) Y
+C(7) Z C(6) C(5) Y
+C(8) Z C(7) C(6) Y
+C(9) Z C(8) C(7) Y
+C(10) Z C(9) C(8) Y
+C(11) Z C(10) C(9) Y
+C(12) Z C(11) C(10) Y
+C(4) Z C(12) C(11) Y
+loop_
+_atom_rho_multipole_coeff_Pv
+_atom_rho_multipole_coeff_P00
+_atom_rho_multipole_coeff_P11
+_atom_rho_multipole_coeff_P1-1
+_atom_rho_multipole_coeff_P10
+_atom_rho_multipole_coeff_P20
+_atom_rho_multipole_coeff_P21
+_atom_rho_multipole_coeff_P2-1
+_atom_rho_multipole_coeff_P22
+_atom_rho_multipole_coeff_P2-2
+_atom_rho_multipole_coeff_P30
+_atom_rho_multipole_coeff_P31
+_atom_rho_multipole_coeff_P3-1
+_atom_rho_multipole_coeff_P32
+_atom_rho_multipole_coeff_P3-2
+_atom_rho_multipole_coeff_P33
+_atom_rho_multipole_coeff_P3-3
+_atom_rho_multipole_coeff_P40
+_atom_rho_multipole_coeff_P41
+_atom_rho_multipole_coeff_P4-1
+_atom_rho_multipole_coeff_P42
+_atom_rho_multipole_coeff_P4-2
+_atom_rho_multipole_coeff_P43
+_atom_rho_multipole_coeff_P4-3
+_atom_rho_multipole_coeff_P44
+_atom_rho_multipole_coeff_P4-4
+7.037(17) 0.00 0.00 0.00 -0.041(6) -0.059(7) 0.00 0.00 0.00 0.00 0.025(6) 0.00
+0.00 0.00 0.00 0.00 0.00 0.014(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+7.077(17) 0.00 0.00 0.00 -0.010(6) -0.075(7) 0.00 0.00 0.00 0.00 0.006(6) 0.00
+0.00 0.00 0.00 0.00 0.00 0.003(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+7.039(18) 0.00 0.00 0.00 -0.054(6) -0.112(7) 0.00 0.00 0.00 0.00 0.004(6) 0.00
+0.00 0.00 0.00 0.00 0.00 0.022(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+7.002(17) 0.00 0.00 0.00 -0.043(6) -0.061(7) 0.00 0.00 0.00 0.00 0.008(6) 0.00
+0.00 0.00 0.00 0.00 0.00 -0.009(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+7.029(17) 0.00 0.00 0.00 -0.016(6) -0.097(7) 0.00 0.00 0.00 0.00 0.004(6) 0.00
+0.00 0.00 0.00 0.00 0.00 0.005(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+6.995(17) 0.00 0.00 0.00 -0.043(6) -0.114(7) 0.00 0.00 0.00 0.00 0.031(6) 0.00
+0.00 0.00 0.00 0.00 0.00 0.021(8) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+4.01(4) 0.00 0.00 0.00 0.065(9) 0.067(9) 0.00 0.00 0.00 0.00 0.337(12) 0.00
+0.00 0.00 0.00 0.002(9) -0.256(11) 0.027(15) 0.00 0.00 0.00 0.00 0.030(12)
+0.155(14) 0.00 0.00
+4.04(4) 0.00 0.00 0.00 0.076(9) 0.048(9) 0.00 0.00 0.00 0.00 0.365(12) 0.00
+0.00 0.00 0.00 -0.033(10) -0.262(11) 0.077(14) 0.00 0.00 0.00 0.00 0.048(12)
+0.172(14) 0.00 0.00
+4.00(3) 0.00 -0.048(11) 0.028(11) -0.023(11) 0.054(10) 0.007(9) -0.029(10)
+-0.030(10) 0.146(9) 0.164(13) 0.036(12) 0.034(12) 0.015(12) -0.087(12)
+0.030(12) -0.038(11) 0.012(16) -0.013(15) -0.001(16) -0.022(16) -0.005(15)
+-0.011(15) 0.011(14) 0.015(13) -0.025(13)
+3.94(4) 0.00 -0.056(10) -0.004(10) 0.047(10) 0.010(9) 0.020(9) -0.011(9)
+0.010(9) 0.027(9) 0.202(12) 0.043(11) 0.015(11) 0.011(11) 0.003(11) -0.043(11)
+-0.170(11) 0.050(15) -0.004(14) -0.009(15) -0.030(15) 0.008(14) -0.008(14)
+0.044(14) -0.022(14) 0.014(13)
+4.03(3) 0.00 -0.073(10) -0.067(11) -0.037(11) 0.081(10) 0.048(9) 0.052(10)
+-0.091(9) 0.074(9) 0.190(13) 0.019(11) 0.001(12) 0.090(12) -0.060(11)
+-0.002(11) -0.049(11) -0.009(16) -0.025(14) 0.000(16) 0.008(16) 0.004(15)
+-0.015(14) 0.024(14) 0.003(13) 0.018(13)
+3.79(4) 0.00 0.042(10) 0.040(10) 0.045(10) 0.008(9) -0.001(9) -0.023(9)
+-0.015(9) -0.023(9) 0.207(13) -0.059(11) 0.020(11) 0.020(11) -0.018(11)
+0.049(11) -0.140(11) 0.005(16) -0.010(14) 0.008(15) -0.032(15) 0.025(14)
+0.017(14) 0.025(14) 0.002(13) -0.009(13)
+4.05(3) 0.00 -0.056(11) -0.038(12) -0.001(12) 0.097(10) 0.067(9) 0.035(10)
+-0.103(9) 0.080(9) 0.196(13) 0.039(12) -0.026(13) 0.111(12) -0.074(12)
+-0.002(11) -0.046(11) 0.025(17) -0.027(14) -0.012(16) -0.006(16) 0.002(16)
+-0.023(14) 0.030(14) -0.008(13) 0.012(13)
+3.95(3) 0.00 -0.070(11) 0.001(12) 0.004(12) 0.056(10) 0.079(9) 0.001(10)
+-0.109(9) 0.072(9) 0.170(13) 0.016(12) -0.052(14) 0.089(12) -0.045(12)
+0.042(11) -0.057(11) 0.026(18) 0.013(15) -0.003(17) -0.005(18) -0.008(17)
+0.008(16) 0.011(15) -0.011(14) 0.011(13)
+3.97(3) 0.00 -0.065(11) -0.004(12) 0.017(12) 0.069(10) 0.044(9) 0.021(10)
+-0.109(9) 0.071(9) 0.189(13) 0.002(12) -0.055(14) 0.143(13) -0.089(12)
+0.010(12) -0.071(11) 0.043(17) -0.009(15) 0.004(18) -0.008(17) 0.007(17)
+-0.004(16) 0.020(15) 0.016(14) 0.009(14)
+3.99(3) 0.00 0.049(10) 0.007(11) 0.035(12) 0.110(11) -0.009(9) -0.045(10)
+-0.092(9) -0.053(9) 0.160(13) -0.001(11) -0.027(13) 0.126(12) 0.109(12)
+-0.056(11) -0.019(11) -0.011(17) 0.008(14) 0.006(17) -0.013(16) 0.003(16)
+0.032(14) 0.035(14) 0.007(13) 0.015(13)
+4.04(3) 0.00 -0.075(11) 0.034(12) -0.003(11) 0.095(10) 0.046(9) -0.057(10)
+-0.115(10) 0.070(10) 0.168(13) 0.037(11) 0.043(13) 0.100(12) -0.078(12)
+0.035(11) -0.027(12) 0.037(16) -0.025(14) -0.023(16) -0.019(16) 0.009(16)
+-0.038(14) 0.015(15) 0.002(14) 0.015(14)
+4.01(3) 0.00 -0.039(10) -0.031(11) 0.001(12) 0.074(10) 0.034(9) 0.018(10)
+-0.144(9) 0.081(9) 0.235(13) 0.037(12) -0.011(13) 0.075(12) -0.050(12)
+-0.004(11) -0.050(11) 0.031(16) 0.020(14) -0.012(16) -0.009(16) -0.019(16)
+0.022(14) -0.009(14) 0.005(13) -0.009(13)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+F(1) 0.01593(5) 0.00742(4) 0.01240(4) 0.00450(4) 0.00183(4) 0.00303(4)
+F(2) 0.00907(4) 0.00755(4) 0.01415(4) 0.00365(3) -0.00349(4) -0.00353(3)
+F(3) 0.00850(4) 0.00853(4) 0.02060(5) 0.00551(3) 0.00083(4) -0.00221(3)
+F(4) 0.01694(5) 0.01197(4) 0.00762(4) 0.00825(4) -0.00153(3) 0.00126(3)
+F(5) 0.00871(4) 0.00771(4) 0.01570(5) 0.00220(4) -0.00031(3) 0.00422(3)
+F(6) 0.01131(4) 0.01184(5) 0.01450(4) 0.00845(4) 0.00222(3) 0.00390(3)
+C(1) 0.00665(4) 0.00528(4) 0.01018(4) 0.00299(3) 0.00002(3) -0.00025(3)
+C(2) 0.00743(4) 0.00700(4) 0.00840(4) 0.00389(4) -0.00002(3) 0.00177(3)
+C(3) 0.00546(4) 0.00582(4) 0.00677(4) 0.00270(4) -0.00017(3) -0.00016(3)
+C(4) 0.00543(4) 0.00502(4) 0.00720(4) 0.00259(3) -0.00002(3) -0.00004(3)
+C(5) 0.00533(4) 0.00560(4) 0.00676(4) 0.00242(3) 0.00007(3) 0.00035(3)
+C(6) 0.00609(4) 0.00575(4) 0.00670(4) 0.00307(4) -0.00004(3) 0.00079(3)
+C(7) 0.00605(4) 0.00592(4) 0.00658(4) 0.00293(4) 0.00002(3) 0.00041(3)
+C(8) 0.00650(4) 0.00636(4) 0.00615(3) 0.00316(4) -0.00009(3) 0.00018(3)
+C(9) 0.00656(4) 0.00663(4) 0.00612(3) 0.00342(4) 0.00010(3) 0.00027(3)
+C(10) 0.00606(4) 0.00626(4) 0.00649(4) 0.00321(4) -0.00011(3) 0.00038(3)
+C(11) 0.00585(4) 0.00610(4) 0.00657(4) 0.00320(4) -0.00005(3) 0.00014(3)
+C(12) 0.00566(4) 0.00590(4) 0.00673(4) 0.00319(4) -0.00011(3) -0.00012(3)
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+_atom_site_calc_flag
+F(1) F 0.111370(9) 0.327247(8) 0.430586(19) 1.0000 0.014 ?
+F(2) F 0.140837(9) 0.320675(8) 0.640721(16) 1.0000 0.011 ?
+F(3) F 0.02983(1) 0.29862(1) 0.59230(2) 1.0000 0.013 ?
+F(4) F -0.022392(9) 0.186344(9) 0.059677(17) 1.0000 0.014 ?
+F(5) F 0.05775(1) 0.27467(1) 0.18885(1) 1.0000 0.012 ?
+F(6) F -0.05974(1) 0.23026(1) 0.22431(1) 1.0000 0.013 ?
+C(1) C 0.086000(9) 0.289658(9) 0.548388(16) 1.0000 0.008 ?
+C(2) C -0.008608(9) 0.212334(9) 0.189449(16) 1.0000 0.008 ?
+C(3) C 0.031982(9) 0.165472(9) 0.667665(15) 1.0000 0.007 ?
+C(4) C 0.060026(9) 0.206043(9) 0.530756(15) 1.0000 0.006 ?
+C(5) C -0.010914(9) 0.165035(9) 0.439947(15) 1.0000 0.007 ?
+C(6) C -0.008979(9) 0.152589(9) 0.286152(15) 1.0000 0.007 ?
+C(7) C -0.072714(9) 0.073555(9) 0.249849(15) 1.0000 0.007 ?
+C(8) C -0.043865(9) 0.035618(9) 0.169733(15) 1.0000 0.007 ?
+C(9) C 0.037040(9) 0.079256(9) 0.170601(15) 1.0000 0.007 ?
+C(10) C 0.058987(9) 0.143925(9) 0.252687(15) 1.0000 0.007 ?
+C(11) C 0.119967(9) 0.167537(9) 0.337808(15) 1.0000 0.007 ?
+C(12) C 0.121470(9) 0.192578(9) 0.479601(15) 1.0000 0.007 ?
+DUM0 . 0.00000 0.00000 0.00000 . . dum
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+F(1) C(1) F(2) 107.727(15) 1_555 1_555 1_555 yes
+F(1) C(1) F(3) 108.007(15) 1_555 1_555 1_555 yes
+F(2) C(1) F(3) 107.980(14) 1_555 1_555 1_555 yes
+F(4) C(2) F(5) 107.025(14) 1_555 1_555 1_555 yes
+F(4) C(2) F(6) 108.155(14) 1_555 1_555 1_555 yes
+F(5) C(2) F(6) 108.047(15) 1_555 1_555 1_555 yes
+C(4) C(3) C(7) 123.238(14) 1_555 1_555 5_556 yes
+C(4) C(3) C(11) 109.010(13) 1_555 1_555 6_556 yes
+C(7) C(3) C(11) 120.834(15) 5_556 1_555 6_556 yes
+C(3) C(4) C(12) 107.961(13) 1_555 1_555 1_555 yes
+C(6) C(5) C(12) 123.042(14) 1_555 1_555 6_556 yes
+C(3) C(7) C(8) 118.485(15) 6_556 1_555 1_555 yes
+C(7) C(8) C(9) 108.868(14) 1_555 1_555 1_555 yes
+C(7) C(8) C(9) 120.486(15) 1_555 1_555 2_555 yes
+C(9) C(8) C(9) 119.605(17) 1_555 1_555 2_555 yes
+C(8) C(9) C(8) 120.388(17) 1_555 1_555 3_555 yes
+C(8) C(9) C(10) 108.348(14) 1_555 1_555 1_555 yes
+C(8) C(9) C(10) 120.511(15) 3_555 1_555 1_555 yes
+C(9) C(10) C(11) 118.355(15) 1_555 1_555 1_555 yes
+C(3) C(11) C(10) 120.951(14) 5_556 1_555 1_555 yes
+C(3) C(11) C(12) 107.805(13) 5_556 1_555 1_555 yes
+C(10) C(11) C(12) 122.887(15) 1_555 1_555 1_555 yes
+C(4) C(12) C(5) 125.514(13) 1_555 1_555 5_556 yes
+C(4) C(12) C(11) 120.105(13) 1_555 1_555 1_555 yes
+C(5) C(12) C(11) 110.481(14) 5_556 1_555 1_555 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+F(1) C(1) 1.3368(2) 1_555 1_555 yes
+F(2) C(1) 1.3345(2) 1_555 1_555 yes
+F(3) C(1) 1.3370(2) 1_555 1_555 yes
+F(4) C(2) 1.3461(2) 1_555 1_555 yes
+F(5) C(2) 1.3352(3) 1_555 1_555 yes
+F(6) C(2) 1.3300(3) 1_555 1_555 yes
+C(3) C(4) 1.5265(2) 1_555 1_555 yes
+C(3) C(7) 1.3737(2) 1_555 5_556 yes
+C(3) C(11) 1.4334(2) 1_555 6_556 yes
+C(4) C(12) 1.5171(2) 1_555 1_555 yes
+C(5) C(6) 1.5223(2) 1_555 1_555 yes
+C(5) C(12) 1.3628(2) 1_555 6_556 yes
+C(7) C(8) 1.4327(2) 1_555 1_555 yes
+C(8) C(9) 1.4533(2) 1_555 1_555 yes
+C(8) C(9) 1.3986(2) 1_555 2_555 yes
+C(9) C(10) 1.4250(2) 1_555 1_555 yes
+C(10) C(11) 1.3797(2) 1_555 1_555 yes
+C(11) C(12) 1.4687(2) 1_555 1_555 yes

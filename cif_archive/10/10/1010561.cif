@@ -1,0 +1,48 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-01-25 02:45:24 +0200 (Mon, 25 Jan 2016) $
+#$Revision: 174981 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/05/1010561.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010561
+loop_
+_publ_author_name
+'Zintl, E.'
+'Harder, A.'
+_publ_section_title              'Konstitution der Erdalkalihydride'
+_journal_coden_ASTM              ZEELAI
+_journal_issue                   1
+_journal_name_full
+;
+ Zeitschrift f\"ur Elektrochemie und angewandte physikalische Chemie
+;
+_journal_page_first              33
+_journal_page_last               52
+_journal_paper_doi               10.1002/bbpc.19350410110
+_journal_volume                  41
+_journal_year                    1935
+_chemical_formula_structural     'Ca H2'
+_chemical_formula_sum            'H2 Ca'
+_chemical_name_systematic        'Calcium hydride'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   5.936
+_cell_length_b                   6.838
+_cell_length_c                   3.6
+_cell_volume                     146.1
+_exptl_crystal_density_meas      1.7
+_cod_database_code               1010561
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

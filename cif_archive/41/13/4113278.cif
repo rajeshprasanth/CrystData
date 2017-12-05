@@ -1,0 +1,370 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/4/11/32/4113278.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4113278
+loop_
+_publ_author_name
+'Johanna Nyl\'en'
+'Magnus Andersson'
+'Sven Lidin'
+'Ulrich H\"aussermann'
+_publ_contact_author
+;
+      Ulrich H\"aussermann
+      Department of Inorganic Chemistry
+      Stockholm University
+      S-10691 Stockholm
+      Sweden
+;
+_publ_contact_author_email       ulrich@inorg.su.se
+_publ_contact_author_fax         '046 8 152187'
+_publ_contact_author_phone       '046 8 162363'
+_publ_section_title
+;
+ The Structure of \a-Zn4Sb3: Ordering of the Phonon-Glass Thermoelectric
+ Material \b-Zn4Sb3
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              16306
+_journal_page_last               16307
+_journal_paper_doi               10.1021/ja044980p
+_journal_volume                  126
+_journal_year                    2004
+_chemical_formula_sum            'Sb10 Zn13'
+_chemical_formula_weight         2067.4
+_chemical_name_common            \alpha-Zn4Sb3
+_chemical_name_systematic        ' ?'
+_space_group_IT_number           2
+_symmetry_cell_setting           'triclinic (monoclinic cell)'
+_symmetry_space_group_name_Hall  '-P 1 (1/2*x+1/2*y,1/2*x-1/2*y,-z)'
+_symmetry_space_group_name_H-M   'C -1'
+_audit_creation_method           'Jana2000 Version : 23/03/2004'
+_cell_angle_alpha                90
+_cell_angle_beta                 98.77(2)
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   32.536(5)
+_cell_length_b                   12.237(2)
+_cell_length_c                   10.852(2)
+_cell_measurement_reflns_used    5000
+_cell_measurement_temperature    150
+_cell_measurement_theta_max      24
+_cell_measurement_theta_min      2
+_cell_volume                     4270.1(13)
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      150
+_diffrn_measured_fraction_theta_full 0.95
+_diffrn_measurement_device_type  'STOE IPDS'
+_diffrn_measurement_method       '\f scan'
+_diffrn_radiation_monochromator  Graphite
+_diffrn_radiation_source         'Rotating anode'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.0738
+_diffrn_reflns_av_sigmaI/netI    0.0110
+_diffrn_reflns_limit_h_max       36
+_diffrn_reflns_limit_h_min       -37
+_diffrn_reflns_limit_k_max       13
+_diffrn_reflns_limit_k_min       -13
+_diffrn_reflns_limit_l_max       12
+_diffrn_reflns_limit_l_min       -12
+_diffrn_reflns_number            10012
+_diffrn_reflns_theta_full        19.76
+_diffrn_reflns_theta_max         24.02
+_diffrn_reflns_theta_min         1.78
+_exptl_absorpt_coefficient_mu    13.348
+_exptl_absorpt_correction_T_max  0.56
+_exptl_absorpt_correction_T_min  0.16
+_exptl_absorpt_correction_type   'numerical from shape'
+_exptl_crystal_colour            'grey, metallic'
+_exptl_crystal_density_diffrn    6.434
+_exptl_crystal_F_000             7200
+_exptl_crystal_size_max          0.10
+_exptl_crystal_size_mid          0.08
+_exptl_crystal_size_min          0.05
+_refine_diff_density_max         3.10
+_refine_diff_density_min         -3.33
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_gt    5.35
+_refine_ls_goodness_of_fit_ref   4.91
+_refine_ls_number_parameters     320
+_refine_ls_number_reflns         6132
+_refine_ls_R_factor_all          0.0502
+_refine_ls_R_factor_gt           0.0443
+_refine_ls_shift/su_max          0.0065
+_refine_ls_shift/su_mean         0.0015
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     w=1/(\s^2^(F)+0.0001F^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0513
+_refine_ls_wR_factor_ref         0.0515
+_reflns_number_gt                5185
+_reflns_number_total             6132
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ja044980psi20040903_091427.cif
+_cod_data_source_block           zn13sb10
+_cod_original_cell_volume        4270(1.5)
+_cod_original_sg_symbol_Hall     '-I 4bd;2ab;3'
+_cod_database_code               4113278
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,-z
+3 1/2+x,1/2+y,z
+4 1/2-x,1/2-y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+Sb1 Sb 0.31038(4) -0.86339(9) 0.56542(11) Uiso 0.0033(2) 4 1 d
+Sb2 Sb 0.31264(4) -0.35635(9) 0.05795(11) Uiso 0.0029(2) 4 1 d
+Sb3 Sb -0.43730(4) -0.85239(9) -0.18823(11) Uiso 0.0028(2) 4 1 d
+Sb4 Sb -0.43486(4) -0.34914(9) 0.30943(11) Uiso 0.0028(2) 4 1 d
+Sb5 Sb 0.27589(4) -0.68005(9) 0.20315(11) Uiso 0.0033(2) 4 1 d
+Sb6 Sb 0.27282(4) -1.17973(9) 0.70307(11) Uiso 0.0034(2) 4 1 d
+Sb7 Sb -0.40214(4) -0.66997(9) 0.16248(11) Uiso 0.0028(2) 4 1 d
+Sb8 Sb -0.39810(4) -1.17154(9) -0.32137(12) Uiso 0.0038(2) 4 1 d
+Sb9 Sb 0.40716(4) -0.50482(9) 0.26525(12) Uiso 0.0036(2) 4 1 d
+Sb10 Sb 0.58693(4) -0.00469(9) 0.21862(11) Uiso 0.0031(2) 4 1 d
+Sb11 Sb -0.53264(4) -0.50446(9) 0.10589(11) Uiso 0.0027(2) 4 1 d
+Sb12 Sb 0.34700(4) -0.68174(9) -0.08297(11) Uiso 0.0026(2) 4 1 d
+Sb13 Sb 0.34703(4) -1.18550(9) 0.41580(11) Uiso 0.0037(2) 4 1 d
+Sb14 Sb -0.46870(4) -0.69257(9) 0.44928(12) Uiso 0.0060(3) 4 1 d
+Sb15 Sb -0.47303(4) -1.17822(8) -0.04057(11) Uiso 0.0026(2) 4 1 d
+Sb16 Sb 0.21617(4) -0.99592(9) 0.35108(11) Uiso 0.0034(2) 4 1 d
+Sb17 Sb -0.34185(4) -0.99987(9) 0.01953(11) Uiso 0.0021(2) 4 1 d
+Sb18 Sb -0.71629(4) -0.00158(8) 0.14568(11) Uiso 0.0030(2) 4 1 d
+Sb19 Sb 0.33684(4) -0.51343(9) 0.46597(11) Uiso 0.0032(2) 4 1 d
+Sb20 Sb 0.53062(4) -0.01439(9) 0.39687(12) Uiso 0.0036(2) 4 1 d
+Zn1 Zn -0.32951(7) -1.03401(17) -0.3656(2) Uani 0.0093(7) 4 1 d
+Zn2 Zn 0.41601(7) -1.03931(16) 0.3836(2) Uani 0.0079(7) 4 1 d
+Zn3 Zn -0.53820(6) -1.04394(15) -0.0051(2) Uani 0.0057(7) 4 1 d
+Zn4 Zn 0.35536(7) -0.66400(16) 0.1722(2) Uani 0.0071(7) 4 1 d
+Zn5 Zn -0.48267(7) -0.66819(16) 0.1928(2) Uani 0.0071(7) 4 1 d
+Zn6 Zn -0.58657(7) -0.55027(16) -0.0970(2) Uani 0.0070(7) 4 1 d
+Zn7 Zn 0.21060(7) -0.54151(16) 0.2290(2) Uani 0.0068(7) 4 1 d
+Zn8 Zn -0.33384(6) -0.53673(15) 0.1369(2) Uani 0.0055(6) 4 1 d
+Zn9 Zn 0.26605(7) -0.66181(16) -0.0531(2) Uani 0.0068(7) 4 1 d
+Zn10 Zn -0.36426(8) -0.65927(17) 0.3978(2) Uani 0.0181(8) 4 1 d
+Zn11 Zn 0.37793(6) -0.29798(15) 0.2409(2) Uani 0.0052(6) 4 1 d
+Zn12 Zn -0.50523(7) -0.30193(15) 0.1266(2) Uani 0.0065(7) 4 1 d
+Zn13 Zn 0.24633(7) -0.79272(15) 0.3816(2) Uani 0.0058(6) 4 1 d
+Zn14 Zn -0.37058(6) -0.79359(15) -0.0128(2) Uani 0.0051(6) 4 1 d
+Zn15 Zn -0.48121(7) -1.14489(17) -0.2893(2) Uani 0.0098(7) 4 1 d
+Zn16 Zn 0.50180(6) -0.22014(16) 0.3608(2) Uani 0.0059(7) 4 1 d
+Zn17 Zn 0.21076(7) -1.03916(16) 0.7498(2) Uani 0.0060(7) 4 1 d
+Zn18 Zn 0.39250(6) -0.83625(16) 0.0625(2) Uani 0.0062(6) 4 1 d
+Zn19 Zn 0.36638(7) -0.71701(15) 0.5075(2) Uani 0.0057(7) 4 1 d
+Zn20 Zn 0.62396(7) -0.20063(15) 0.2593(2) Uani 0.0051(6) 4 1 d
+Zn21 Zn -0.74480(6) -0.20397(15) 0.1170(2) Uani 0.0058(6) 4 1 d
+Zn22 Zn 0.76620(7) 0.34508(16) 0.4525(2) Uani 0.0088(7) 4 1 d
+Zn23 Zn 0.14710(7) -1.34974(17) 0.2429(3) Uani 0.0177(8) 4 1 d
+Zn24 Zn -0.41189(7) -0.84383(18) 0.4025(2) Uani 0.0144(7) 4 1 d
+Zn25 Zn -0.44868(7) -0.33407(17) 0.5781(2) Uani 0.0140(7) 4 1 d
+Zn26 Zn 0.42527(7) -0.48611(16) 0.5277(2) Uani 0.0128(7) 4 1 d
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn 0.0099(12) 0.0096(10) 0.0073(13) -0.0010(9) -0.0019(9) -0.0044(9)
+Zn2 Zn 0.0092(11) 0.0058(9) 0.0085(13) 0.0000(8) 0.0008(9) -0.0025(9)
+Zn3 Zn 0.0036(11) 0.0054(9) 0.0082(12) -0.0014(8) 0.0014(9) 0.0006(9)
+Zn4 Zn 0.0033(11) 0.0100(10) 0.0074(12) -0.0018(8) -0.0005(9) -0.0034(9)
+Zn5 Zn 0.0039(11) 0.0068(9) 0.0099(13) -0.0009(8) -0.0007(9) -0.0007(9)
+Zn6 Zn 0.0032(11) 0.0071(9) 0.0102(13) -0.0030(8) -0.0011(9) -0.0040(9)
+Zn7 Zn 0.0046(11) 0.0081(10) 0.0073(12) -0.0018(8) 0.0000(9) 0.0005(9)
+Zn8 Zn 0.0054(11) 0.0039(9) 0.0069(12) -0.0024(8) 0.0002(9) -0.0026(9)
+Zn9 Zn 0.0042(11) 0.0069(9) 0.0088(12) -0.0001(8) -0.0001(9) -0.0009(9)
+Zn10 Zn 0.0267(15) 0.0095(10) 0.0138(14) -0.0057(10) -0.0105(11) -0.0052(10)
+Zn11 Zn 0.0045(11) 0.0055(9) 0.0051(12) -0.0014(8) -0.0008(9) -0.0016(9)
+Zn12 Zn 0.0060(11) 0.0048(9) 0.0086(12) -0.0026(8) 0.0007(9) -0.0018(9)
+Zn13 Zn 0.0044(11) 0.0052(9) 0.0073(12) -0.0018(8) -0.0004(9) 0.0003(9)
+Zn14 Zn 0.0039(11) 0.0038(9) 0.0072(12) -0.0019(8) 0.0000(9) -0.0010(9)
+Zn15 Zn 0.0074(12) 0.0117(10) 0.0099(13) 0.0019(9) -0.0003(9) -0.0008(9)
+Zn16 Zn 0.0031(11) 0.0073(9) 0.0069(12) -0.0007(8) -0.0002(9) 0.0000(9)
+Zn17 Zn 0.0042(11) 0.0069(9) 0.0069(12) -0.0023(8) 0.0010(9) -0.0001(9)
+Zn18 Zn 0.0014(11) 0.0073(9) 0.0093(13) -0.0022(8) -0.0015(9) -0.0021(9)
+Zn19 Zn 0.0052(11) 0.0044(9) 0.0078(12) -0.0027(8) 0.0022(9) -0.0001(9)
+Zn20 Zn 0.0051(11) 0.0041(9) 0.0058(12) -0.0010(8) -0.0001(9) -0.0013(9)
+Zn21 Zn 0.0041(11) 0.0054(9) 0.0073(12) -0.0021(8) -0.0007(9) -0.0012(9)
+Zn22 Zn 0.0066(12) 0.0090(10) 0.0104(13) -0.0010(8) 0.0004(9) -0.0001(9)
+Zn23 Zn 0.0048(12) 0.0112(10) 0.0357(17) -0.0051(9) -0.0015(11) 0.0014(11)
+Zn24 Zn 0.0076(12) 0.0153(10) 0.0186(14) -0.0073(9) -0.0034(10) -0.0074(10)
+Zn25 Zn 0.0045(12) 0.0120(10) 0.0237(15) -0.0016(9) -0.0030(10) -0.0036(10)
+Zn26 Zn 0.0108(12) 0.0090(10) 0.0172(14) -0.0068(9) -0.0023(10) -0.0005(10)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+Sb -0.587 1.546 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4'
+19.6418 5.3034 19.0455 0.4607 5.0371 27.9074 2.6827 75.282501 4.5909
+Zn 0.284 1.430 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4' 14.0743
+3.2655 7.0318 0.2333 5.1652 10.3163 2.41 58.709702 1.3041
+Ce 0.284 1.430 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4'
+21.167101 2.81219 19.769501 0.226836 11.8513 17.608299 3.33049 127.112999
+1.8626
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Sb1 Zn1 2_535 2.661(3) yes
+Sb1 Zn7 4_536 2.695(3) yes
+Sb1 Zn13 . 2.790(2) yes
+Sb1 Zn13 4_536 2.778(2) yes
+Sb1 Zn19 . 2.699(2) yes
+Sb1 Zn20 2_646 2.746(2) yes
+Sb2 Zn8 2_545 2.666(3) yes
+Sb2 Zn11 . 2.768(2) yes
+Sb2 Zn14 2_545 2.730(2) yes
+Sb2 Zn17 4_536 2.657(3) yes
+Sb2 Zn21 1_655 2.785(2) yes
+Sb2 Zn21 4_445 2.779(2) yes
+Sb3 Zn2 2_535 2.680(3) yes
+Sb3 Zn3 2_435 2.676(3) yes
+Sb3 Zn11 2_545 2.792(2) yes
+Sb3 Zn12 2_445 2.811(2) yes
+Sb3 Zn14 . 2.753(2) yes
+Sb3 Zn16 2_545 2.736(2) yes
+Sb4 Zn6 2_445 2.795(3) yes
+Sb4 Zn12 . 2.848(2) yes
+Sb4 Zn16 1_455 2.723(2) yes
+Sb4 Zn19 2_546 2.863(2) yes
+Sb4 Zn20 1_455 2.754(2) yes
+Sb4 Zn26 2_546 2.667(3) yes
+Sb5 Zn4 . 2.667(3) yes
+Sb5 Zn7 . 2.767(2) yes
+Sb5 Zn9 . 2.758(3) yes
+Sb5 Zn9 4_535 2.751(2) yes
+Sb5 Zn13 . 2.674(3) yes
+Sb5 Zn17 4_536 2.752(2) yes
+Sb6 Zn7 4_536 2.835(2) yes
+Sb6 Zn17 . 2.760(2) yes
+Sb6 Zn21 4_436 2.687(3) yes
+Sb6 Zn22 3_435 2.711(3) yes
+Sb6 Zn22 2_646 2.809(2) yes
+Sb6 Zn23 4_526 2.607(3) yes
+Sb7 Zn5 . 2.693(3) yes
+Sb7 Zn6 2_445 2.796(2) yes
+Sb7 Zn8 . 2.806(2) yes
+Sb7 Zn10 . 2.661(3) yes
+Sb7 Zn14 . 2.750(3) yes
+Sb7 Zn23 3_455 2.781(2) yes
+Sb8 Zn1 . 2.895(3) yes
+Sb8 Zn2 2_535 2.707(2) yes
+Sb8 Zn4 2_535 2.812(2) yes
+Sb8 Zn15 . 2.800(3) yes
+Sb8 Zn18 2_535 2.788(3) yes
+Sb8 Zn19 2_535 2.766(3) yes
+Sb8 Zn25 1_544 2.702(2) yes
+Sb9 Sb11 1_655 2.8072(18) yes
+Sb9 Zn4 . 2.670(2) yes
+Sb9 Zn11 . 2.703(2) yes
+Sb9 Zn25 2_546 2.809(2) yes
+Sb9 Zn26 . 2.826(3) yes
+Sb10 Sb20 . 2.8661(19) yes
+Sb10 Zn3 2_545 2.664(2) yes
+Sb10 Zn20 . 2.689(2) yes
+Sb10 Zn23 3_565 2.710(3) yes
+Sb10 Zn24 1_665 2.799(3) yes
+Sb11 Zn5 . 2.659(2) yes
+Sb11 Zn6 . 2.654(2) yes
+Sb11 Zn12 . 2.632(2) yes
+Sb12 Zn4 . 2.748(3) yes
+Sb12 Zn6 1_655 2.719(2) yes
+Sb12 Zn8 2_545 2.756(2) yes
+Sb12 Zn9 . 2.716(3) yes
+Sb12 Zn18 . 2.745(2) yes
+Sb12 Zn20 2_645 2.681(3) yes
+Sb13 Zn1 2_535 2.782(2) yes
+Sb13 Zn2 . 2.934(3) yes
+Sb13 Zn10 2_536 2.767(3) yes
+Sb13 Zn11 1_545 2.664(3) yes
+Sb13 Zn22 3_435 2.748(3) yes
+Sb13 Zn24 2_536 2.680(3) yes
+Sb14 Zn5 . 2.765(3) yes
+Sb14 Zn15 2_435 2.958(2) yes
+Sb14 Zn16 2_546 2.690(3) yes
+Sb14 Zn24 . 2.719(3) yes
+Sb14 Zn25 2_446 2.680(3) yes
+Sb14 Zn26 2_546 2.595(2) yes
+Sb15 Zn3 . 2.757(2) yes
+Sb15 Zn3 2_435 2.777(2) yes
+Sb15 Zn5 2_435 2.757(2) yes
+Sb15 Zn12 1_545 2.696(3) yes
+Sb15 Zn15 . 2.700(3) yes
+Sb15 Zn18 2_535 2.675(3) yes
+Sb16 Sb19 4_536 2.8273(18) yes
+Sb16 Zn8 3_545 2.669(2) yes
+Sb16 Zn13 . 2.675(2) yes
+Sb16 Zn22 3_435 2.663(2) yes
+Sb17 Sb18 2_445 2.8012(18) yes
+Sb17 Zn7 3_445 2.671(2) yes
+Sb17 Zn14 . 2.696(2) yes
+Sb17 Zn18 2_535 2.660(2) yes
+Sb18 Zn1 2_445 2.646(2) yes
+Sb18 Zn9 4_445 2.669(2) yes
+Sb18 Zn21 . 2.646(2) yes
+Sb19 Zn10 2_546 2.653(2) yes
+Sb19 Zn17 4_536 2.678(2) yes
+Sb19 Zn19 . 2.683(2) yes
+Sb19 Zn26 . 2.873(3) yes
+Sb20 Zn2 2_646 2.800(2) yes
+Sb20 Zn15 2_545 2.677(2) yes
+Sb20 Zn16 . 2.694(2) yes
+Sb20 Zn24 1_665 2.798(3) yes
+Zn1 Zn2 2_535 2.933(3) yes
+Zn2 Zn24 2_536 2.746(3) yes
+Zn3 Zn3 2_435 2.697(3) yes
+Zn4 Zn18 . 2.787(3) yes
+Zn5 Zn15 2_435 2.845(3) yes
+Zn6 Zn8 2_445 2.773(3) yes
+Zn7 Zn17 4_536 2.720(3) yes
+Zn9 Zn9 4_535 2.730(3) yes
+Zn10 Zn23 3_455 2.930(3) yes
+Zn10 Zn24 . 2.744(3) yes
+Zn10 Zn26 2_546 2.874(3) yes
+Zn11 Zn14 2_545 2.693(3) yes
+Zn12 Zn16 1_455 2.707(3) yes
+Zn13 Zn13 4_536 2.750(3) yes
+Zn14 Zn23 3_455 2.828(3) yes
+Zn16 Zn25 1_655 2.987(3) yes
+Zn19 Zn20 2_646 2.695(3) yes
+Zn21 Zn21 4_345 2.750(3) yes
+Zn22 Zn22 4_656 2.816(3) yes
+Zn23 Zn24 3_545 2.779(4) yes
+Zn25 Zn26 2_546 2.648(3) yes

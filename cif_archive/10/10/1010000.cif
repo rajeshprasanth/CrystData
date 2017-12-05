@@ -1,0 +1,53 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-13 02:32:00 +0300 (Fri, 13 Oct 2017) $
+#$Revision: 201954 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/01/00/1010000.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010000
+loop_
+_publ_author_name
+'Lunde, G'
+_publ_section_title
+;
+Ueber Existenz und Darstellung einiger Oxyde der Platinmetalle
+;
+_journal_coden_ASTM              ZAACAB
+_journal_name_full
+;
+Zeitschrift fuer Anorganische und Allgemeine Chemie
+;
+_journal_page_first              345
+_journal_page_last               354
+_journal_paper_doi               10.1002/zaac.19271630130
+_journal_volume                  163
+_journal_year                    1927
+_chemical_formula_structural     'Pd O'
+_chemical_formula_sum            'O Pd'
+_chemical_name_systematic        'Palladium oxide'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   3.029(5)
+_cell_length_b                   3.029(5)
+_cell_length_c                   5.314(5)
+_cell_volume                     48.8
+_cod_database_code               1010000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+loop_
+_cod_related_entry_id
+_cod_related_entry_code
+_cod_related_entry_database
+1 66602 ChemSpider

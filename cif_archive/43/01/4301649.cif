@@ -1,0 +1,961 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-16 22:30:59 +0200 (Tue, 16 Feb 2016) $
+#$Revision: 176467 $
+#$URL: svn://www.crystallography.net/cod/cif/4/30/16/4301649.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4301649
+loop_
+_publ_author_name
+'Monique Tillard'
+'David Zitoun'
+'Claude Belin'
+_publ_contact_author_address
+;
+Agr\'egats, Interfaces, Mat\'eriaux pour l'\'Energie
+Institut Charles Gerhardt, UMR 5253 CNRS UM2, CC015,
+Universit\'e de Montpellier 2, Sciences et Techniques du Languedoc, 
+2 Place Eug\`ene Bataillon, 34095 Montpellier Cedex 5 
+France
+;
+_publ_contact_author_email       mtillard@univ-montp2.fr
+_publ_contact_author_fax         '33 (0)467 14 33 04  '
+_publ_contact_author_name        'Monique TILLARD'
+_publ_contact_author_phone       '33 (0)467 14 48 97  '
+_publ_section_title
+;
+Structural Versatility of the \e-SmGax Phase: X-Ray, Electron Diffraction,
+and DFT Studies
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              2399
+_journal_page_last               2406
+_journal_paper_doi               10.1021/ic801379c
+_journal_volume                  48
+_journal_year                    2009
+_chemical_formula_moiety         'Sm0.98 Ga3.57'
+_chemical_formula_sum            'Ga3.57 Sm0.98'
+_chemical_formula_weight         396.53
+_chemical_name_common            'Sm Ga3.64'
+_chemical_name_systematic        samarium-gallium
+_space_group_IT_number           69
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      69
+_symmetry_space_group_name_Hall  '-F 2 2'
+_symmetry_space_group_name_H-M   'F m m m'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            24
+_cell_length_a                   8.4929(10)
+_cell_length_b                   14.912(2)
+_cell_length_c                   17.080(2)
+_cell_measurement_reflns_used    37159
+_cell_measurement_temperature    293(2)
+_cell_measurement_theta_max      31.99
+_cell_measurement_theta_min      3.01
+_cell_volume                     2163.1(5)
+_computing_cell_refinement       'CrysAlisRed 171 Oxford Diffraction, 2004'
+_computing_data_collection       'CrysAlis 171 Oxford Diffraction, 2004'
+_computing_data_reduction        'CrysAlisRed 171 Oxford Diffraction, 2004'
+_computing_molecular_graphics    'ORTEP-3 for Windows v.1.075, Farrugia 2002'
+_computing_publication_material  'WinGX, Farrugia 1999'
+_computing_structure_refinement  'SHELXL-97, Sheldrick, 1997'
+_computing_structure_solution    'SHELXS-97, Sheldrick, 1997'
+_diffrn_ambient_temperature      293(2)
+_diffrn_measured_fraction_theta_full 0.935
+_diffrn_measured_fraction_theta_max 0.935
+_diffrn_measurement_device_type  'Oxford Diffraction Xcalibur CCD'
+_diffrn_measurement_method       'omega scan'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71070
+_diffrn_reflns_av_R_equivalents  0.0384
+_diffrn_reflns_av_sigmaI/netI    0.0231
+_diffrn_reflns_limit_h_max       12
+_diffrn_reflns_limit_h_min       -12
+_diffrn_reflns_limit_k_max       20
+_diffrn_reflns_limit_k_min       -21
+_diffrn_reflns_limit_l_max       24
+_diffrn_reflns_limit_l_min       -24
+_diffrn_reflns_number            9183
+_diffrn_reflns_theta_full        32.48
+_diffrn_reflns_theta_max         32.48
+_diffrn_reflns_theta_min         2.73
+_diffrn_source                   'fine-focus sealed tube'
+_diffrn_standards_decay_%        0
+_exptl_absorpt_coefficient_mu    41.829
+_exptl_absorpt_correction_T_max  0.665
+_exptl_absorpt_correction_T_min  0.303
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details
+;
+The reflections were corrected for absorption effects using the SCALE3ABS 
+numerical procedure included in the CrysAlis RED software.
+;
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    7.305
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       parallelepiped
+_exptl_crystal_F_000             4118
+_exptl_crystal_size_max          0.10
+_exptl_crystal_size_mid          0.08
+_exptl_crystal_size_min          0.07
+_refine_diff_density_max         5.367
+_refine_diff_density_min         -3.175
+_refine_diff_density_rms         0.514
+_refine_ls_extinction_coef       0.00011(1)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_ref   1.092
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     52
+_refine_ls_number_reflns         1033
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.092
+_refine_ls_R_factor_all          0.0502
+_refine_ls_R_factor_gt           0.0394
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0374P)^2^+425.8884P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1036
+_refine_ls_wR_factor_ref         0.1064
+_reflns_number_gt                860
+_reflns_number_total             1033
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            ic801379c_si_001_2.cif
+_cod_data_source_block           SmGa3.64_Fmmm
+_cod_original_cell_volume        2163.2(5)
+_cod_original_formula_sum        'Sm0.98 Ga3.57'
+_cod_database_code               4301649
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'-x, y, -z'
+'x, -y, -z'
+'x, y+1/2, z+1/2'
+'-x, -y+1/2, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x, -y+1/2, -z+1/2'
+'x+1/2, y, z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, y, -z+1/2'
+'x+1/2, -y, -z+1/2'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y+1/2, z'
+'-x+1/2, y+1/2, -z'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x, y, -z'
+'x, -y, z'
+'-x, y, z'
+'-x, -y+1/2, -z+1/2'
+'x, y+1/2, -z+1/2'
+'x, -y+1/2, z+1/2'
+'-x, y+1/2, z+1/2'
+'-x+1/2, -y, -z+1/2'
+'x+1/2, y, -z+1/2'
+'x+1/2, -y, z+1/2'
+'-x+1/2, y, z+1/2'
+'-x+1/2, -y+1/2, -z'
+'x+1/2, y+1/2, -z'
+'x+1/2, -y+1/2, z'
+'-x+1/2, y+1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Ga1 Ga 0.22677(13) -0.16880(7) -0.12517(5) 0.0102(3) Uani 1 1 d . . .
+Ga2 Ga -0.2500 0.08325(10) -0.2500 0.0155(4) Uani 1 2 d S . .
+Ga3 Ga 0.2186(2) 0.08410(10) 0.0000 0.0133(3) Uani 1 2 d S . .
+Ga4 Ga 0.5000 -0.08481(12) -0.14151(13) 0.0195(5) Uani 0.910(6) 2 d SP . .
+Ga5 Ga 0.5000 0.0000 0.0000 0.0241(9) Uani 0.910(6) 8 d SP . .
+Ga6 Ga 0.0000 -0.0869(15) -0.0936(13) 0.053(5) Uiso 0.144(5) 2 d SP . .
+Ga7 Ga 0.0000 0.0000 -0.2360(16) 0.046(6) Uiso 0.144(5) 4 d SP . .
+Sm4 Sm 0.5000 0.0000 -0.1136(11) 0.036(5) Uiso 0.090(6) 4 d SP . .
+Sm1 Sm 0.0000 0.0000 -0.13136(6) 0.0051(3) Uani 0.856(5) 4 d SP . .
+Sm2 Sm 0.0000 0.2500 -0.2500 0.0055(2) Uani 1 4 d S . .
+Sm3 Sm 0.5000 0.24032(6) 0.0000 0.0057(2) Uani 1 4 d S . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Ga1 0.0184(5) 0.0065(4) 0.0057(4) 0.0001(4) 0.0009(4) 0.0007(4)
+Ga2 0.0335(9) 0.0070(6) 0.0062(6) 0.000 -0.0035(6) 0.000
+Ga3 0.0267(8) 0.0068(6) 0.0064(6) 0.000 0.000 -0.0005(6)
+Ga4 0.0093(7) 0.0092(8) 0.0399(12) -0.0059(7) 0.000 0.000
+Ga5 0.0107(16) 0.027(2) 0.034(2) 0.000 0.000 0.000
+Sm1 0.0029(4) 0.0035(5) 0.0088(5) 0.000 0.000 0.000
+Sm2 0.0021(4) 0.0093(4) 0.0052(4) -0.0014(3) 0.000 0.000
+Sm3 0.0022(4) 0.0099(4) 0.0050(4) 0.000 0.000 0.000
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Ga Ga 0.2307 1.6083 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Sm Sm -0.1638 3.4418 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+Ga6 Ga1 Ga1 130.3(5) . 14_545 ?
+Ga6 Ga1 Ga3 60.9(5) . 19 ?
+Ga1 Ga1 Ga3 120.40(4) 14_545 19 ?
+Ga6 Ga1 Ga2 89.7(5) . 2 ?
+Ga1 Ga1 Ga2 119.48(4) 14_545 2 ?
+Ga3 Ga1 Ga2 118.61(6) 19 2 ?
+Ga6 Ga1 Ga4 119.8(5) . . ?
+Ga1 Ga1 Ga4 108.98(7) 14_545 . ?
+Ga3 Ga1 Ga4 82.84(7) 19 . ?
+Ga2 Ga1 Ga4 66.36(5) 2 . ?
+Ga6 Ga1 Sm2 81.5(5) . 2 ?
+Ga1 Ga1 Sm2 73.51(4) 14_545 2 ?
+Ga3 Ga1 Sm2 140.24(6) 19 2 ?
+Ga2 Ga1 Sm2 70.25(3) 2 2 ?
+Ga4 Ga1 Sm2 130.67(6) . 2 ?
+Ga6 Ga1 Sm1 25.1(5) . . ?
+Ga1 Ga1 Sm1 151.77(7) 14_545 . ?
+Ga3 Ga1 Sm1 66.95(4) 19 . ?
+Ga2 Ga1 Sm1 67.27(4) 2 . ?
+Ga4 Ga1 Sm1 98.82(5) . . ?
+Sm2 Ga1 Sm1 84.84(3) 2 . ?
+Ga6 Ga1 Sm3 64.5(5) . 13_445 ?
+Ga1 Ga1 Sm3 71.16(4) 14_545 13_445 ?
+Ga3 Ga1 Sm3 67.70(4) 19 13_445 ?
+Ga2 Ga1 Sm3 147.25(4) 2 13_445 ?
+Ga4 Ga1 Sm3 143.30(6) . 13_445 ?
+Sm2 Ga1 Sm3 85.45(3) 2 13_445 ?
+Sm1 Ga1 Sm3 89.58(3) . 13_445 ?
+Ga6 Ga1 Sm3 126.3(5) . 17_655 ?
+Ga1 Ga1 Sm3 64.66(4) 14_545 17_655 ?
+Ga3 Ga1 Sm3 68.25(4) 19 17_655 ?
+Ga2 Ga1 Sm3 131.15(4) 2 17_655 ?
+Ga4 Ga1 Sm3 66.99(5) . 17_655 ?
+Sm2 Ga1 Sm3 138.18(4) 2 17_655 ?
+Sm1 Ga1 Sm3 134.32(4) . 17_655 ?
+Sm3 Ga1 Sm3 81.59(2) 13_445 17_655 ?
+Ga6 Ga1 Sm2 153.8(5) . 13_545 ?
+Ga1 Ga1 Sm2 62.33(4) 14_545 13_545 ?
+Ga3 Ga1 Sm2 138.19(6) 19 13_545 ?
+Ga2 Ga1 Sm2 65.70(3) 2 13_545 ?
+Ga4 Ga1 Sm2 60.08(4) . 13_545 ?
+Sm2 Ga1 Sm2 81.55(2) 2 13_545 ?
+Sm1 Ga1 Sm2 132.92(4) . 13_545 ?
+Sm3 Ga1 Sm2 133.49(3) 13_445 13_545 ?
+Sm3 Ga1 Sm2 79.17(2) 17_655 13_545 ?
+Ga6 Ga1 Sm4 99.2(5) . . ?
+Ga1 Ga1 Sm4 127.99(7) 14_545 . ?
+Ga3 Ga1 Sm4 66.2(3) 19 . ?
+Ga2 Ga1 Sm4 67.7(3) 2 . ?
+Ga4 Ga1 Sm4 21.13(14) . . ?
+Sm2 Ga1 Sm4 137.9(3) 2 . ?
+Sm1 Ga1 Sm4 80.25(3) . . ?
+Sm3 Ga1 Sm4 133.1(3) 13_445 . ?
+Sm3 Ga1 Sm4 74.1(2) 17_655 . ?
+Sm2 Ga1 Sm4 80.5(2) 13_545 . ?
+Ga7 Ga2 Ga7 119.71(10) 25_454 . ?
+Ga7 Ga2 Ga2 59.85(5) 25_454 25_454 ?
+Ga7 Ga2 Ga2 59.85(5) . 25_454 ?
+Ga7 Ga2 Ga1 114.1(6) 25_454 2 ?
+Ga7 Ga2 Ga1 96.1(6) . 2 ?
+Ga2 Ga2 Ga1 120.77(4) 25_454 2 ?
+Ga7 Ga2 Ga1 96.1(6) 25_454 12_454 ?
+Ga7 Ga2 Ga1 114.1(6) . 12_454 ?
+Ga2 Ga2 Ga1 120.77(4) 25_454 12_454 ?
+Ga1 Ga2 Ga1 118.47(8) 2 12_454 ?
+Ga7 Ga2 Ga4 54.6(6) 25_454 2 ?
+Ga7 Ga2 Ga4 126.0(6) . 2 ?
+Ga2 Ga2 Ga4 90.47(5) 25_454 2 ?
+Ga1 Ga2 Ga4 59.51(4) 2 2 ?
+Ga1 Ga2 Ga4 119.93(5) 12_454 2 ?
+Ga7 Ga2 Ga4 126.0(6) 25_454 25_554 ?
+Ga7 Ga2 Ga4 54.6(6) . 25_554 ?
+Ga2 Ga2 Ga4 90.47(5) 25_454 25_554 ?
+Ga1 Ga2 Ga4 119.93(5) 2 25_554 ?
+Ga1 Ga2 Ga4 59.51(4) 12_454 25_554 ?
+Ga4 Ga2 Ga4 179.05(10) 2 25_554 ?
+Ga7 Ga2 Sm1 33.9(6) 25_454 25_454 ?
+Ga7 Ga2 Sm1 116.0(4) . 25_454 ?
+Ga2 Ga2 Sm1 67.09(3) 25_454 25_454 ?
+Ga1 Ga2 Sm1 142.76(3) 2 25_454 ?
+Ga1 Ga2 Sm1 66.56(3) 12_454 25_454 ?
+Ga4 Ga2 Sm1 85.40(4) 2 25_454 ?
+Ga4 Ga2 Sm1 94.97(4) 25_554 25_454 ?
+Ga7 Ga2 Sm1 116.0(4) 25_454 . ?
+Ga7 Ga2 Sm1 33.9(6) . . ?
+Ga2 Ga2 Sm1 67.09(3) 25_454 . ?
+Ga1 Ga2 Sm1 66.56(3) 2 . ?
+Ga1 Ga2 Sm1 142.76(3) 12_454 . ?
+Ga4 Ga2 Sm1 94.97(4) 2 . ?
+Ga4 Ga2 Sm1 85.40(4) 25_554 . ?
+Sm1 Ga2 Sm1 134.17(5) 25_454 . ?
+Ga7 Ga2 Sm2 160.04(18) 25_454 . ?
+Ga7 Ga2 Sm2 79.852(18) . . ?
+Ga2 Ga2 Sm2 139.498(18) 25_454 . ?
+Ga1 Ga2 Sm2 63.87(4) 2 . ?
+Ga1 Ga2 Sm2 70.27(4) 12_454 . ?
+Ga4 Ga2 Sm2 118.88(5) 2 . ?
+Ga4 Ga2 Sm2 60.30(4) 25_554 . ?
+Sm1 Ga2 Sm2 136.78(3) 25_454 . ?
+Sm1 Ga2 Sm2 82.149(10) . . ?
+Ga7 Ga2 Sm2 79.852(17) 25_454 14_455 ?
+Ga7 Ga2 Sm2 160.04(18) . 14_455 ?
+Ga2 Ga2 Sm2 139.498(18) 25_454 14_455 ?
+Ga1 Ga2 Sm2 70.27(4) 2 14_455 ?
+Ga1 Ga2 Sm2 63.87(4) 12_454 14_455 ?
+Ga4 Ga2 Sm2 60.30(4) 2 14_455 ?
+Ga4 Ga2 Sm2 118.88(5) 25_554 14_455 ?
+Sm1 Ga2 Sm2 82.149(10) 25_454 14_455 ?
+Sm1 Ga2 Sm2 136.78(3) . 14_455 ?
+Sm2 Ga2 Sm2 81.00(4) . 14_455 ?
+Ga7 Ga2 Sm4 106.7(5) 25_454 25_554 ?
+Ga7 Ga2 Sm4 49.0(7) . 25_554 ?
+Ga2 Ga2 Sm4 68.52(9) 25_454 25_554 ?
+Ga1 Ga2 Sm4 136.59(16) 2 25_554 ?
+Ga1 Ga2 Sm4 69.4(2) 12_454 25_554 ?
+Ga4 Ga2 Sm4 158.04(7) 2 25_554 ?
+Ga4 Ga2 Sm4 22.87(4) 25_554 25_554 ?
+Sm1 Ga2 Sm4 80.63(17) 25_454 25_554 ?
+Sm1 Ga2 Sm4 83.0(2) . 25_554 ?
+Sm2 Ga2 Sm4 82.62(3) . 25_554 ?
+Sm2 Ga2 Sm4 133.3(2) 14_455 25_554 ?
+Ga6 Ga3 Ga6 81.5(8) 2 17 ?
+Ga6 Ga3 Ga1 56.7(4) 2 19 ?
+Ga6 Ga3 Ga1 125.1(4) 17 19 ?
+Ga6 Ga3 Ga1 125.1(4) 2 4 ?
+Ga6 Ga3 Ga1 56.7(4) 17 4 ?
+Ga1 Ga3 Ga1 118.82(7) 19 4 ?
+Ga6 Ga3 Ga3 91.0(5) 2 19 ?
+Ga6 Ga3 Ga3 91.0(5) 17 19 ?
+Ga1 Ga3 Ga3 120.54(4) 19 19 ?
+Ga1 Ga3 Ga3 120.54(4) 4 19 ?
+Ga6 Ga3 Ga5 132.7(4) 2 . ?
+Ga6 Ga3 Ga5 132.7(4) 17 . ?
+Ga1 Ga3 Ga5 102.19(5) 19 . ?
+Ga1 Ga3 Ga5 102.19(5) 4 . ?
+Ga3 Ga3 Ga5 62.32(3) 19 . ?
+Ga6 Ga3 Sm1 26.0(5) 2 . ?
+Ga6 Ga3 Sm1 91.5(4) 17 . ?
+Ga1 Ga3 Sm1 66.92(3) 19 . ?
+Ga1 Ga3 Sm1 145.76(7) 4 . ?
+Ga3 Ga3 Sm1 66.71(3) 19 . ?
+Ga5 Ga3 Sm1 109.56(4) . . ?
+Ga6 Ga3 Sm1 91.5(4) 2 17 ?
+Ga6 Ga3 Sm1 26.0(5) 17 17 ?
+Ga1 Ga3 Sm1 145.76(7) 19 17 ?
+Ga1 Ga3 Sm1 66.92(3) 4 17 ?
+Ga3 Ga3 Sm1 66.71(3) 19 17 ?
+Ga5 Ga3 Sm1 109.56(4) . 17 ?
+Sm1 Ga3 Sm1 90.12(5) . 17 ?
+Ga6 Ga3 Sm3 63.1(5) 2 29 ?
+Ga6 Ga3 Sm3 63.1(5) 17 29 ?
+Ga1 Ga3 Sm3 66.53(4) 19 29 ?
+Ga1 Ga3 Sm3 66.53(4) 4 29 ?
+Ga3 Ga3 Sm3 144.66(3) 19 29 ?
+Ga5 Ga3 Sm3 153.02(6) . 29 ?
+Sm1 Ga3 Sm3 89.07(4) . 29 ?
+Sm1 Ga3 Sm3 89.07(4) 17 29 ?
+Ga6 Ga3 Sm4 158.7(5) 2 17_655 ?
+Ga6 Ga3 Sm4 99.8(5) 17 17_655 ?
+Ga1 Ga3 Sm4 132.4(2) 19 17_655 ?
+Ga1 Ga3 Sm4 70.7(2) 4 17_655 ?
+Ga3 Ga3 Sm4 67.84(8) 19 17_655 ?
+Ga5 Ga3 Sm4 35.7(3) . 17_655 ?
+Sm1 Ga3 Sm4 133.23(15) . 17_655 ?
+Sm1 Ga3 Sm4 81.9(2) 17 17_655 ?
+Sm3 Ga3 Sm4 136.4(2) 29 17_655 ?
+Ga6 Ga3 Sm4 99.8(5) 2 . ?
+Ga6 Ga3 Sm4 158.7(5) 17 . ?
+Ga1 Ga3 Sm4 70.7(2) 19 . ?
+Ga1 Ga3 Sm4 132.4(2) 4 . ?
+Ga3 Ga3 Sm4 67.84(8) 19 . ?
+Ga5 Ga3 Sm4 35.7(3) . . ?
+Sm1 Ga3 Sm4 81.9(2) . . ?
+Sm1 Ga3 Sm4 133.23(15) 17 . ?
+Sm3 Ga3 Sm4 136.4(2) 29 . ?
+Sm4 Ga3 Sm4 71.4(5) 17_655 . ?
+Ga6 Ga3 Sm3 122.1(5) 2 . ?
+Ga6 Ga3 Sm3 122.1(5) 17 . ?
+Ga1 Ga3 Sm3 67.99(4) 19 . ?
+Ga1 Ga3 Sm3 67.99(4) 4 . ?
+Ga3 Ga3 Sm3 134.25(3) 19 . ?
+Ga5 Ga3 Sm3 71.93(4) . . ?
+Sm1 Ga3 Sm3 134.04(2) . . ?
+Sm1 Ga3 Sm3 134.04(2) 17 . ?
+Sm3 Ga3 Sm3 81.09(3) 29 . ?
+Sm4 Ga3 Sm3 75.41(6) 17_655 . ?
+Sm4 Ga3 Sm3 75.41(6) . . ?
+Sm4 Ga4 Ga7 79.6(8) . 25_554 ?
+Sm4 Ga4 Ga4 20.7(7) . 2_655 ?
+Ga7 Ga4 Ga4 58.9(3) 25_554 2_655 ?
+Sm4 Ga4 Ga1 113.9(2) . . ?
+Ga7 Ga4 Ga1 109.53(13) 25_554 . ?
+Ga4 Ga4 Ga1 118.18(4) 2_655 . ?
+Sm4 Ga4 Ga1 113.9(2) . 20_655 ?
+Ga7 Ga4 Ga1 109.53(13) 25_554 20_655 ?
+Ga4 Ga4 Ga1 118.18(4) 2_655 20_655 ?
+Ga1 Ga4 Ga1 122.13(8) . 20_655 ?
+Sm4 Ga4 Ga5 41.7(7) . . ?
+Ga7 Ga4 Ga5 121.3(3) 25_554 . ?
+Ga4 Ga4 Ga5 62.40(4) 2_655 . ?
+Ga1 Ga4 Ga5 97.20(6) . . ?
+Ga1 Ga4 Ga5 97.20(6) 20_655 . ?
+Sm4 Ga4 Ga2 103.0(5) . 2 ?
+Ga7 Ga4 Ga2 55.44(14) 25_554 2 ?
+Ga4 Ga4 Ga2 89.53(5) 2_655 2 ?
+Ga1 Ga4 Ga2 54.12(3) . 2 ?
+Ga1 Ga4 Ga2 137.09(8) 20_655 2 ?
+Ga5 Ga4 Ga2 125.38(4) . 2 ?
+Sm4 Ga4 Ga2 103.0(5) . 25_554 ?
+Ga7 Ga4 Ga2 55.44(14) 25_554 25_554 ?
+Ga4 Ga4 Ga2 89.53(5) 2_655 25_554 ?
+Ga1 Ga4 Ga2 137.09(8) . 25_554 ?
+Ga1 Ga4 Ga2 54.12(3) 20_655 25_554 ?
+Ga5 Ga4 Ga2 125.38(4) . 25_554 ?
+Ga2 Ga4 Ga2 97.75(7) 2 25_554 ?
+Sm4 Ga4 Sm2 163.7(8) . 13_545 ?
+Ga7 Ga4 Sm2 84.1(3) 25_554 13_545 ?
+Ga4 Ga4 Sm2 143.03(4) 2_655 13_545 ?
+Ga1 Ga4 Sm2 71.71(4) . 13_545 ?
+Ga1 Ga4 Sm2 71.71(4) 20_655 13_545 ?
+Ga5 Ga4 Sm2 154.58(8) . 13_545 ?
+Ga2 Ga4 Sm2 67.11(5) 2 13_545 ?
+Ga2 Ga4 Sm2 67.11(5) 25_554 13_545 ?
+Sm4 Ga4 Sm3 113.1(8) . 17_655 ?
+Ga7 Ga4 Sm3 167.3(3) 25_554 17_655 ?
+Ga4 Ga4 Sm3 133.79(3) 2_655 17_655 ?
+Ga1 Ga4 Sm3 66.25(5) . 17_655 ?
+Ga1 Ga4 Sm3 66.25(5) 20_655 17_655 ?
+Ga5 Ga4 Sm3 71.39(5) . 17_655 ?
+Ga2 Ga4 Sm3 118.72(5) 2 17_655 ?
+Ga2 Ga4 Sm3 118.72(5) 25_554 17_655 ?
+Sm2 Ga4 Sm3 83.19(4) 13_545 17_655 ?
+Sm4 Ga5 Sm4 180.0 17_655 . ?
+Sm4 Ga5 Ga3 90.0 17_655 19 ?
+Sm4 Ga5 Ga3 90.0 . 19 ?
+Sm4 Ga5 Ga3 90.0 17_655 3_655 ?
+Sm4 Ga5 Ga3 90.0 . 3_655 ?
+Ga3 Ga5 Ga3 180.00(6) 19 3_655 ?
+Sm4 Ga5 Ga3 90.0 17_655 17_655 ?
+Sm4 Ga5 Ga3 90.0 . 17_655 ?
+Ga3 Ga5 Ga3 124.64(7) 19 17_655 ?
+Ga3 Ga5 Ga3 55.36(7) 3_655 17_655 ?
+Sm4 Ga5 Ga3 90.0 17_655 . ?
+Sm4 Ga5 Ga3 90.0 . . ?
+Ga3 Ga5 Ga3 55.36(7) 19 . ?
+Ga3 Ga5 Ga3 124.64(7) 3_655 . ?
+Ga3 Ga5 Ga3 180.00(6) 17_655 . ?
+Sm4 Ga5 Ga4 27.60(4) 17_655 17_655 ?
+Sm4 Ga5 Ga4 152.40(4) . 17_655 ?
+Ga3 Ga5 Ga4 102.43(2) 19 17_655 ?
+Ga3 Ga5 Ga4 77.57(2) 3_655 17_655 ?
+Ga3 Ga5 Ga4 102.43(2) 17_655 17_655 ?
+Ga3 Ga5 Ga4 77.57(2) . 17_655 ?
+Sm4 Ga5 Ga4 27.60(4) 17_655 18 ?
+Sm4 Ga5 Ga4 152.40(4) . 18 ?
+Ga3 Ga5 Ga4 77.57(2) 19 18 ?
+Ga3 Ga5 Ga4 102.43(2) 3_655 18 ?
+Ga3 Ga5 Ga4 77.57(2) 17_655 18 ?
+Ga3 Ga5 Ga4 102.43(2) . 18 ?
+Ga4 Ga5 Ga4 55.20(8) 17_655 18 ?
+Sm4 Ga5 Ga4 152.40(4) 17_655 . ?
+Sm4 Ga5 Ga4 27.60(4) . . ?
+Ga3 Ga5 Ga4 77.57(2) 19 . ?
+Ga3 Ga5 Ga4 102.43(2) 3_655 . ?
+Ga3 Ga5 Ga4 77.57(2) 17_655 . ?
+Ga3 Ga5 Ga4 102.43(2) . . ?
+Ga4 Ga5 Ga4 180.00(4) 17_655 . ?
+Ga4 Ga5 Ga4 124.80(8) 18 . ?
+Sm4 Ga5 Ga4 152.40(4) 17_655 2_655 ?
+Sm4 Ga5 Ga4 27.60(4) . 2_655 ?
+Ga3 Ga5 Ga4 102.43(2) 19 2_655 ?
+Ga3 Ga5 Ga4 77.57(2) 3_655 2_655 ?
+Ga3 Ga5 Ga4 102.43(2) 17_655 2_655 ?
+Ga3 Ga5 Ga4 77.57(2) . 2_655 ?
+Ga4 Ga5 Ga4 124.80(8) 17_655 2_655 ?
+Ga4 Ga5 Ga4 180.00(8) 18 2_655 ?
+Ga4 Ga5 Ga4 55.20(8) . 2_655 ?
+Sm1 Ga6 Ga1 111.3(7) . 20 ?
+Sm1 Ga6 Ga1 111.3(7) . . ?
+Ga1 Ga6 Ga1 110.5(9) 20 . ?
+Sm1 Ga6 Ga3 106.0(8) . 19 ?
+Ga1 Ga6 Ga3 141.4(10) 20 19 ?
+Ga1 Ga6 Ga3 62.4(2) . 19 ?
+Sm1 Ga6 Ga3 106.0(8) . 17 ?
+Ga1 Ga6 Ga3 62.4(2) 20 17 ?
+Ga1 Ga6 Ga3 141.4(10) . 17 ?
+Ga3 Ga6 Ga3 98.5(8) 19 17 ?
+Sm1 Ga6 Ga6 26.5(9) . 2 ?
+Ga1 Ga6 Ga6 121.4(5) 20 2 ?
+Ga1 Ga6 Ga6 121.4(5) . 2 ?
+Ga3 Ga6 Ga6 89.0(5) 19 2 ?
+Ga3 Ga6 Ga6 89.0(5) 17 2 ?
+Sm1 Ga6 Ga7 35.5(6) . . ?
+Ga1 Ga6 Ga7 92.4(6) 20 . ?
+Ga1 Ga6 Ga7 92.4(6) . . ?
+Ga3 Ga6 Ga7 124.6(5) 19 . ?
+Ga3 Ga6 Ga7 124.6(5) 17 . ?
+Ga6 Ga6 Ga7 62.0(5) 2 . ?
+Sm1 Ga6 Sm3 174.6(13) . 13_445 ?
+Ga1 Ga6 Sm3 71.3(5) 20 13_445 ?
+Ga1 Ga6 Sm3 71.3(5) . 13_445 ?
+Ga3 Ga6 Sm3 70.7(5) 19 13_445 ?
+Ga3 Ga6 Sm3 70.7(5) 17 13_445 ?
+Ga6 Ga6 Sm3 148.2(4) 2 13_445 ?
+Ga7 Ga6 Sm3 149.9(9) . 13_445 ?
+Sm1 Ga7 Ga4 148.9(3) . 26_454 ?
+Sm1 Ga7 Ga4 148.9(3) . 25_554 ?
+Ga4 Ga7 Ga4 62.2(7) 26_454 25_554 ?
+Sm1 Ga7 Ga2 95.6(6) . 25_454 ?
+Ga4 Ga7 Ga2 70.0(4) 26_454 25_454 ?
+Ga4 Ga7 Ga2 100.2(7) 25_554 25_454 ?
+Sm1 Ga7 Ga2 95.6(6) . 26_554 ?
+Ga4 Ga7 Ga2 100.2(7) 26_454 26_554 ?
+Ga4 Ga7 Ga2 70.0(4) 25_554 26_554 ?
+Ga2 Ga7 Ga2 168.8(13) 25_454 26_554 ?
+Sm1 Ga7 Ga2 95.6(6) . 2 ?
+Ga4 Ga7 Ga2 70.0(4) 26_454 2 ?
+Ga4 Ga7 Ga2 100.2(7) 25_554 2 ?
+Ga2 Ga7 Ga2 118.5(2) 25_454 2 ?
+Ga2 Ga7 Ga2 60.29(10) 26_554 2 ?
+Sm1 Ga7 Ga2 95.6(6) . . ?
+Ga4 Ga7 Ga2 100.2(7) 26_454 . ?
+Ga4 Ga7 Ga2 70.0(4) 25_554 . ?
+Ga2 Ga7 Ga2 60.29(10) 25_454 . ?
+Ga2 Ga7 Ga2 118.5(2) 26_554 . ?
+Ga2 Ga7 Ga2 168.8(13) 2 . ?
+Sm1 Ga7 Sm4 180.000(1) . 25_554 ?
+Ga4 Ga7 Sm4 31.1(3) 26_454 25_554 ?
+Ga4 Ga7 Sm4 31.1(3) 25_554 25_554 ?
+Ga2 Ga7 Sm4 84.4(6) 25_454 25_554 ?
+Ga2 Ga7 Sm4 84.4(6) 26_554 25_554 ?
+Ga2 Ga7 Sm4 84.4(6) 2 25_554 ?
+Ga2 Ga7 Sm4 84.4(6) . 25_554 ?
+Sm1 Ga7 Ga6 28.0(5) . 2 ?
+Ga4 Ga7 Ga6 176.9(7) 26_454 2 ?
+Ga4 Ga7 Ga6 120.8(5) 25_554 2 ?
+Ga2 Ga7 Ga6 108.8(7) 25_454 2 ?
+Ga2 Ga7 Ga6 81.4(5) 26_554 2 ?
+Ga2 Ga7 Ga6 108.8(7) 2 2 ?
+Ga2 Ga7 Ga6 81.4(5) . 2 ?
+Sm4 Ga7 Ga6 152.0(5) 25_554 2 ?
+Sm1 Ga7 Ga6 28.0(5) . . ?
+Ga4 Ga7 Ga6 120.8(5) 26_454 . ?
+Ga4 Ga7 Ga6 176.9(7) 25_554 . ?
+Ga2 Ga7 Ga6 81.4(5) 25_454 . ?
+Ga2 Ga7 Ga6 108.8(7) 26_554 . ?
+Ga2 Ga7 Ga6 81.4(5) 2 . ?
+Ga2 Ga7 Ga6 108.8(7) . . ?
+Sm4 Ga7 Ga6 152.0(5) 25_554 . ?
+Ga6 Ga7 Ga6 56.1(10) 2 . ?
+Ga4 Sm4 Ga4 138.6(15) . 2_655 ?
+Ga4 Sm4 Ga5 110.7(7) . . ?
+Ga4 Sm4 Ga5 110.7(7) 2_655 . ?
+Ga4 Sm4 Ga7 69.3(7) . 25_554 ?
+Ga4 Sm4 Ga7 69.3(7) 2_655 25_554 ?
+Ga5 Sm4 Ga7 180.000(1) . 25_554 ?
+Ga4 Sm4 Ga3 124.0(4) . 3_655 ?
+Ga4 Sm4 Ga3 81.6(4) 2_655 3_655 ?
+Ga5 Sm4 Ga3 54.3(3) . 3_655 ?
+Ga7 Sm4 Ga3 125.7(3) 25_554 3_655 ?
+Ga4 Sm4 Ga3 81.6(4) . 19 ?
+Ga4 Sm4 Ga3 124.0(4) 2_655 19 ?
+Ga5 Sm4 Ga3 54.3(3) . 19 ?
+Ga7 Sm4 Ga3 125.7(3) 25_554 19 ?
+Ga3 Sm4 Ga3 108.6(5) 3_655 19 ?
+Ga4 Sm4 Ga3 81.6(4) . 17_655 ?
+Ga4 Sm4 Ga3 124.0(4) 2_655 17_655 ?
+Ga5 Sm4 Ga3 54.3(3) . 17_655 ?
+Ga7 Sm4 Ga3 125.7(3) 25_554 17_655 ?
+Ga3 Sm4 Ga3 44.31(16) 3_655 17_655 ?
+Ga3 Sm4 Ga3 91.9(4) 19 17_655 ?
+Ga4 Sm4 Ga3 124.0(4) . . ?
+Ga4 Sm4 Ga3 81.6(4) 2_655 . ?
+Ga5 Sm4 Ga3 54.3(3) . . ?
+Ga7 Sm4 Ga3 125.7(3) 25_554 . ?
+Ga3 Sm4 Ga3 91.9(4) 3_655 . ?
+Ga3 Sm4 Ga3 44.31(16) 19 . ?
+Ga3 Sm4 Ga3 108.6(5) 17_655 . ?
+Ga4 Sm4 Ga2 54.1(5) . 2 ?
+Ga4 Sm4 Ga2 95.7(7) 2_655 2 ?
+Ga5 Sm4 Ga2 133.5(2) . 2 ?
+Ga7 Sm4 Ga2 46.5(2) 25_554 2 ?
+Ga3 Sm4 Ga2 172.0(5) 3_655 2 ?
+Ga3 Sm4 Ga2 79.22(4) 19 2 ?
+Ga3 Sm4 Ga2 135.56(9) 17_655 2 ?
+Ga3 Sm4 Ga2 95.12(5) . 2 ?
+Ga4 Sm4 Ga2 95.7(7) . 26_554 ?
+Ga4 Sm4 Ga2 54.1(5) 2_655 26_554 ?
+Ga5 Sm4 Ga2 133.5(2) . 26_554 ?
+Ga7 Sm4 Ga2 46.5(2) 25_554 26_554 ?
+Ga3 Sm4 Ga2 135.56(9) 3_655 26_554 ?
+Ga3 Sm4 Ga2 95.12(5) 19 26_554 ?
+Ga3 Sm4 Ga2 172.0(5) 17_655 26_554 ?
+Ga3 Sm4 Ga2 79.22(4) . 26_554 ?
+Ga2 Sm4 Ga2 42.96(18) 2 26_554 ?
+Ga4 Sm4 Ga2 54.1(5) . 25_554 ?
+Ga4 Sm4 Ga2 95.7(7) 2_655 25_554 ?
+Ga5 Sm4 Ga2 133.5(2) . 25_554 ?
+Ga7 Sm4 Ga2 46.5(2) 25_554 25_554 ?
+Ga3 Sm4 Ga2 95.12(5) 3_655 25_554 ?
+Ga3 Sm4 Ga2 135.56(9) 19 25_554 ?
+Ga3 Sm4 Ga2 79.22(4) 17_655 25_554 ?
+Ga3 Sm4 Ga2 172.0(5) . 25_554 ?
+Ga2 Sm4 Ga2 77.6(3) 2 25_554 ?
+Ga2 Sm4 Ga2 93.1(5) 26_554 25_554 ?
+Ga4 Sm4 Ga2 95.7(7) . 1_655 ?
+Ga4 Sm4 Ga2 54.1(5) 2_655 1_655 ?
+Ga5 Sm4 Ga2 133.5(2) . 1_655 ?
+Ga7 Sm4 Ga2 46.5(2) 25_554 1_655 ?
+Ga3 Sm4 Ga2 79.22(4) 3_655 1_655 ?
+Ga3 Sm4 Ga2 172.0(5) 19 1_655 ?
+Ga3 Sm4 Ga2 95.12(5) 17_655 1_655 ?
+Ga3 Sm4 Ga2 135.56(9) . 1_655 ?
+Ga2 Sm4 Ga2 93.1(5) 2 1_655 ?
+Ga2 Sm4 Ga2 77.6(3) 26_554 1_655 ?
+Ga2 Sm4 Ga2 42.96(18) 25_554 1_655 ?
+Ga6 Sm1 Ga6 127.1(17) . 2 ?
+Ga6 Sm1 Ga7 116.5(9) . . ?
+Ga6 Sm1 Ga7 116.5(9) 2 . ?
+Ga6 Sm1 Ga1 43.5(4) . 20 ?
+Ga6 Sm1 Ga1 134.1(5) 2 20 ?
+Ga7 Sm1 Ga1 91.91(3) . 20 ?
+Ga6 Sm1 Ga1 134.1(5) . 19 ?
+Ga6 Sm1 Ga1 43.5(4) 2 19 ?
+Ga7 Sm1 Ga1 91.91(3) . 19 ?
+Ga1 Sm1 Ga1 176.18(5) 20 19 ?
+Ga6 Sm1 Ga1 43.5(4) . . ?
+Ga6 Sm1 Ga1 134.1(5) 2 . ?
+Ga7 Sm1 Ga1 91.91(3) . . ?
+Ga1 Sm1 Ga1 74.81(4) 20 . ?
+Ga1 Sm1 Ga1 105.06(4) 19 . ?
+Ga6 Sm1 Ga1 134.1(5) . 2 ?
+Ga6 Sm1 Ga1 43.5(4) 2 2 ?
+Ga7 Sm1 Ga1 91.91(3) . 2 ?
+Ga1 Sm1 Ga1 105.06(4) 20 2 ?
+Ga1 Sm1 Ga1 74.81(4) 19 2 ?
+Ga1 Sm1 Ga1 176.18(5) . 2 ?
+Ga6 Sm1 Ga3 92.2(7) . . ?
+Ga6 Sm1 Ga3 48.0(5) 2 . ?
+Ga7 Sm1 Ga3 135.06(3) . . ?
+Ga1 Sm1 Ga3 130.22(4) 20 . ?
+Ga1 Sm1 Ga3 46.13(3) 19 . ?
+Ga1 Sm1 Ga3 86.25(4) . . ?
+Ga1 Sm1 Ga3 91.04(4) 2 . ?
+Ga6 Sm1 Ga3 48.0(5) . 19 ?
+Ga6 Sm1 Ga3 92.2(7) 2 19 ?
+Ga7 Sm1 Ga3 135.06(3) . 19 ?
+Ga1 Sm1 Ga3 91.04(4) 20 19 ?
+Ga1 Sm1 Ga3 86.25(4) 19 19 ?
+Ga1 Sm1 Ga3 46.13(3) . 19 ?
+Ga1 Sm1 Ga3 130.22(4) 2 19 ?
+Ga3 Sm1 Ga3 46.58(5) . 19 ?
+Ga6 Sm1 Ga3 48.0(5) . 17 ?
+Ga6 Sm1 Ga3 92.2(7) 2 17 ?
+Ga7 Sm1 Ga3 135.06(3) . 17 ?
+Ga1 Sm1 Ga3 46.13(3) 20 17 ?
+Ga1 Sm1 Ga3 130.22(4) 19 17 ?
+Ga1 Sm1 Ga3 91.04(4) . 17 ?
+Ga1 Sm1 Ga3 86.25(4) 2 17 ?
+Ga3 Sm1 Ga3 89.88(5) . 17 ?
+Ga3 Sm1 Ga3 71.66(6) 19 17 ?
+Ga6 Sm1 Ga3 92.2(7) . 3 ?
+Ga6 Sm1 Ga3 48.0(5) 2 3 ?
+Ga7 Sm1 Ga3 135.06(3) . 3 ?
+Ga1 Sm1 Ga3 86.25(4) 20 3 ?
+Ga1 Sm1 Ga3 91.04(4) 19 3 ?
+Ga1 Sm1 Ga3 130.22(4) . 3 ?
+Ga1 Sm1 Ga3 46.13(3) 2 3 ?
+Ga3 Sm1 Ga3 71.66(6) . 3 ?
+Ga3 Sm1 Ga3 89.88(5) 19 3 ?
+Ga3 Sm1 Ga3 46.58(5) 17 3 ?
+Ga6 Sm1 Ga2 86.3(7) . 25_454 ?
+Ga6 Sm1 Ga2 129.2(4) 2 25_454 ?
+Ga7 Sm1 Ga2 50.498(17) . 25_454 ?
+Ga1 Sm1 Ga2 46.17(3) 20 25_454 ?
+Ga1 Sm1 Ga2 137.30(4) 19 25_454 ?
+Ga1 Sm1 Ga2 96.71(3) . 25_454 ?
+Ga1 Sm1 Ga2 85.73(3) 2 25_454 ?
+Ga3 Sm1 Ga2 173.80(4) . 25_454 ?
+Ga3 Sm1 Ga2 133.34(4) 19 25_454 ?
+Ga3 Sm1 Ga2 84.63(2) 17 25_454 ?
+Ga3 Sm1 Ga2 102.37(3) 3 25_454 ?
+Ga4 Sm2 Ga4 180.00(4) 25_554 13_455 ?
+Ga4 Sm2 Ga1 95.82(4) 25_554 19 ?
+Ga4 Sm2 Ga1 84.18(4) 13_455 19 ?
+Ga4 Sm2 Ga1 84.18(4) 25_554 7_554 ?
+Ga4 Sm2 Ga1 95.82(4) 13_455 7_554 ?
+Ga1 Sm2 Ga1 180.00(4) 19 7_554 ?
+Ga4 Sm2 Ga1 95.82(4) 25_554 2 ?
+Ga4 Sm2 Ga1 84.18(4) 13_455 2 ?
+Ga1 Sm2 Ga1 76.28(4) 19 2 ?
+Ga1 Sm2 Ga1 103.72(4) 7_554 2 ?
+Ga4 Sm2 Ga1 84.18(4) 25_554 22_554 ?
+Ga4 Sm2 Ga1 95.82(4) 13_455 22_554 ?
+Ga1 Sm2 Ga1 103.72(4) 19 22_554 ?
+Ga1 Sm2 Ga1 76.28(4) 7_554 22_554 ?
+Ga1 Sm2 Ga1 180.00(4) 2 22_554 ?
+Ga4 Sm2 Ga2 52.59(3) 25_554 . ?
+Ga4 Sm2 Ga2 127.41(3) 13_455 . ?
+Ga1 Sm2 Ga2 96.08(2) 19 . ?
+Ga1 Sm2 Ga2 83.92(2) 7_554 . ?
+Ga1 Sm2 Ga2 45.872(19) 2 . ?
+Ga1 Sm2 Ga2 134.128(19) 22_554 . ?
+Ga4 Sm2 Ga2 127.41(3) 25_554 21_554 ?
+Ga4 Sm2 Ga2 52.59(3) 13_455 21_554 ?
+Ga1 Sm2 Ga2 83.92(2) 19 21_554 ?
+Ga1 Sm2 Ga2 96.08(2) 7_554 21_554 ?
+Ga1 Sm2 Ga2 134.128(19) 2 21_554 ?
+Ga1 Sm2 Ga2 45.872(19) 22_554 21_554 ?
+Ga2 Sm2 Ga2 180.00(4) . 21_554 ?
+Ga4 Sm2 Ga2 52.59(3) 25_554 26_554 ?
+Ga4 Sm2 Ga2 127.41(3) 13_455 26_554 ?
+Ga1 Sm2 Ga2 45.872(19) 19 26_554 ?
+Ga1 Sm2 Ga2 134.128(19) 7_554 26_554 ?
+Ga1 Sm2 Ga2 96.08(2) 2 26_554 ?
+Ga1 Sm2 Ga2 83.92(2) 22_554 26_554 ?
+Ga2 Sm2 Ga2 81.00(4) . 26_554 ?
+Ga2 Sm2 Ga2 99.00(4) 21_554 26_554 ?
+Ga4 Sm2 Ga2 127.41(3) 25_554 14_455 ?
+Ga4 Sm2 Ga2 52.59(3) 13_455 14_455 ?
+Ga1 Sm2 Ga2 134.128(19) 19 14_455 ?
+Ga1 Sm2 Ga2 45.872(19) 7_554 14_455 ?
+Ga1 Sm2 Ga2 83.92(2) 2 14_455 ?
+Ga1 Sm2 Ga2 96.08(2) 22_554 14_455 ?
+Ga2 Sm2 Ga2 99.00(4) . 14_455 ?
+Ga2 Sm2 Ga2 81.00(4) 21_554 14_455 ?
+Ga2 Sm2 Ga2 180.0 26_554 14_455 ?
+Ga4 Sm2 Ga1 48.21(2) 25_554 12_454 ?
+Ga4 Sm2 Ga1 131.79(2) 13_455 12_454 ?
+Ga1 Sm2 Ga1 135.84(3) 19 12_454 ?
+Ga1 Sm2 Ga1 44.16(3) 7_554 12_454 ?
+Ga1 Sm2 Ga1 82.45(3) 2 12_454 ?
+Ga1 Sm2 Ga1 97.55(3) 22_554 12_454 ?
+Ga2 Sm2 Ga1 44.031(18) . 12_454 ?
+Ga2 Sm2 Ga1 135.969(18) 21_554 12_454 ?
+Ga2 Sm2 Ga1 100.01(2) 26_554 12_454 ?
+Ga2 Sm2 Ga1 79.99(2) 14_455 12_454 ?
+Ga4 Sm2 Ga1 131.79(2) 25_554 32 ?
+Ga4 Sm2 Ga1 48.21(2) 13_455 32 ?
+Ga1 Sm2 Ga1 44.16(3) 19 32 ?
+Ga1 Sm2 Ga1 135.84(3) 7_554 32 ?
+Ga1 Sm2 Ga1 97.55(3) 2 32 ?
+Ga1 Sm2 Ga1 82.45(3) 22_554 32 ?
+Ga2 Sm2 Ga1 135.969(18) . 32 ?
+Ga2 Sm2 Ga1 44.031(18) 21_554 32 ?
+Ga2 Sm2 Ga1 79.99(2) 26_554 32 ?
+Ga2 Sm2 Ga1 100.01(2) 14_455 32 ?
+Ga1 Sm2 Ga1 180.00(4) 12_454 32 ?
+Ga6 Sm3 Ga6 63.7(8) 30 13 ?
+Ga6 Sm3 Ga1 44.2(2) 30 30 ?
+Ga6 Sm3 Ga1 89.6(3) 13 30 ?
+Ga6 Sm3 Ga1 89.6(3) 30 32 ?
+Ga6 Sm3 Ga1 44.2(2) 13 32 ?
+Ga1 Sm3 Ga1 129.59(5) 30 32 ?
+Ga6 Sm3 Ga1 89.6(3) 30 13 ?
+Ga6 Sm3 Ga1 44.2(2) 13 13 ?
+Ga1 Sm3 Ga1 84.50(4) 30 13 ?
+Ga1 Sm3 Ga1 74.52(4) 32 13 ?
+Ga6 Sm3 Ga1 44.2(2) 30 15 ?
+Ga6 Sm3 Ga1 89.6(3) 13 15 ?
+Ga1 Sm3 Ga1 74.52(4) 30 15 ?
+Ga1 Sm3 Ga1 84.50(4) 32 15 ?
+Ga1 Sm3 Ga1 129.59(5) 13 15 ?
+Ga6 Sm3 Ga3 46.1(3) 30 31 ?
+Ga6 Sm3 Ga3 46.1(3) 13 31 ?
+Ga1 Sm3 Ga3 45.76(2) 30 31 ?
+Ga1 Sm3 Ga3 90.16(4) 32 31 ?
+Ga1 Sm3 Ga3 45.76(2) 13 31 ?
+Ga1 Sm3 Ga3 90.16(4) 15 31 ?
+Ga6 Sm3 Ga3 46.1(3) 30 29 ?
+Ga6 Sm3 Ga3 46.1(3) 13 29 ?
+Ga1 Sm3 Ga3 90.16(4) 30 29 ?
+Ga1 Sm3 Ga3 45.76(2) 32 29 ?
+Ga1 Sm3 Ga3 90.16(4) 13 29 ?
+Ga1 Sm3 Ga3 45.76(2) 15 29 ?
+Ga3 Sm3 Ga3 70.69(6) 31 29 ?
+Ga6 Sm3 Ga1 127.6(2) 30 19 ?
+Ga6 Sm3 Ga1 86.2(3) 13 19 ?
+Ga1 Sm3 Ga1 171.80(4) 30 19 ?
+Ga1 Sm3 Ga1 44.18(3) 32 19 ?
+Ga1 Sm3 Ga1 97.26(3) 13 19 ?
+Ga1 Sm3 Ga1 98.41(2) 15 19 ?
+Ga3 Sm3 Ga1 131.61(3) 31 19 ?
+Ga3 Sm3 Ga1 81.84(3) 29 19 ?
+Ga6 Sm3 Ga1 127.6(2) 30 2_655 ?
+Ga6 Sm3 Ga1 86.2(3) 13 2_655 ?
+Ga1 Sm3 Ga1 98.41(2) 30 2_655 ?
+Ga1 Sm3 Ga1 97.26(3) 32 2_655 ?
+Ga1 Sm3 Ga1 44.18(3) 13 2_655 ?
+Ga1 Sm3 Ga1 171.80(4) 15 2_655 ?
+Ga3 Sm3 Ga1 81.84(3) 31 2_655 ?
+Ga3 Sm3 Ga1 131.61(3) 29 2_655 ?
+Ga1 Sm3 Ga1 88.31(4) 19 2_655 ?
+Ga6 Sm3 Ga1 86.2(3) 30 17_655 ?
+Ga6 Sm3 Ga1 127.6(2) 13 17_655 ?
+Ga1 Sm3 Ga1 44.18(3) 30 17_655 ?
+Ga1 Sm3 Ga1 171.80(4) 32 17_655 ?
+Ga1 Sm3 Ga1 98.41(2) 13 17_655 ?
+Ga1 Sm3 Ga1 97.26(3) 15 17_655 ?
+Ga3 Sm3 Ga1 81.84(3) 31 17_655 ?
+Ga3 Sm3 Ga1 131.61(3) 29 17_655 ?
+Ga1 Sm3 Ga1 142.67(5) 19 17_655 ?
+Ga1 Sm3 Ga1 79.90(3) 2_655 17_655 ?
+Ga6 Sm3 Ga1 86.2(3) 30 4 ?
+Ga6 Sm3 Ga1 127.6(2) 13 4 ?
+Ga1 Sm3 Ga1 97.26(3) 30 4 ?
+Ga1 Sm3 Ga1 98.41(2) 32 4 ?
+Ga1 Sm3 Ga1 171.80(4) 13 4 ?
+Ga1 Sm3 Ga1 44.18(3) 15 4 ?
+Ga3 Sm3 Ga1 131.61(3) 31 4 ?
+Ga3 Sm3 Ga1 81.84(3) 29 4 ?
+Ga1 Sm3 Ga1 79.90(3) 19 4 ?
+Ga1 Sm3 Ga1 142.67(5) 2_655 4 ?
+Ga1 Sm3 Ga1 88.31(4) 17_655 4 ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Ga1 Ga6 2.344(13) . ?
+Ga1 Ga1 2.454(2) 14_545 ?
+Ga1 Ga3 2.4856(12) 19 ?
+Ga1 Ga2 2.4941(13) 2 ?
+Ga1 Ga4 2.6524(14) . ?
+Ga1 Sm2 3.1196(10) 2 ?
+Ga1 Sm1 3.1717(10) . ?
+Ga1 Sm3 3.1823(11) 13_445 ?
+Ga1 Sm3 3.3323(11) 17_655 ?
+Ga1 Sm2 3.3777(10) 13_545 ?
+Ga1 Sm4 3.4299(16) . ?
+Ga2 Ga7 2.472(3) 25_454 ?
+Ga2 Ga7 2.472(3) . ?
+Ga2 Ga2 2.483(3) 25_454 ?
+Ga2 Ga1 2.4941(13) 2 ?
+Ga2 Ga1 2.4941(13) 12_454 ?
+Ga2 Ga4 2.8198(14) 2 ?
+Ga2 Ga4 2.8198(14) 25_554 ?
+Ga2 Sm1 3.1884(9) 25_454 ?
+Ga2 Sm1 3.1884(9) . ?
+Ga2 Sm2 3.2703(12) . ?
+Ga2 Sm2 3.2703(12) 14_455 ?
+Ga2 Sm4 3.390(13) 25_554 ?
+Ga3 Ga6 2.452(15) 2 ?
+Ga3 Ga6 2.452(15) 17 ?
+Ga3 Ga1 2.4856(12) 19 ?
+Ga3 Ga1 2.4856(12) 4 ?
+Ga3 Ga3 2.508(3) 19 ?
+Ga3 Ga5 2.7000(18) . ?
+Ga3 Sm1 3.1723(14) . ?
+Ga3 Sm1 3.1723(14) 17 ?
+Ga3 Sm3 3.2099(18) 29 ?
+Ga3 Sm4 3.325(11) 17_655 ?
+Ga3 Sm4 3.325(11) . ?
+Ga3 Sm3 3.3383(18) . ?
+Ga4 Sm4 1.352(7) . ?
+Ga4 Ga7 2.45(2) 25_554 ?
+Ga4 Ga4 2.530(4) 2_655 ?
+Ga4 Ga1 2.6524(14) 20_655 ?
+Ga4 Ga5 2.730(2) . ?
+Ga4 Ga2 2.8198(14) 2 ?
+Ga4 Ga2 2.8198(14) 25_554 ?
+Ga4 Sm2 3.0834(18) 13_545 ?
+Ga4 Sm3 3.351(2) 17_655 ?
+Ga5 Sm4 1.941(19) 17_655 ?
+Ga5 Sm4 1.941(19) . ?
+Ga5 Ga3 2.7000(18) 19 ?
+Ga5 Ga3 2.7000(18) 3_655 ?
+Ga5 Ga3 2.7000(18) 17_655 ?
+Ga5 Ga4 2.730(2) 17_655 ?
+Ga5 Ga4 2.730(2) 18 ?
+Ga5 Ga4 2.730(2) 2_655 ?
+Ga6 Sm1 1.45(2) . ?
+Ga6 Ga1 2.344(13) 20 ?
+Ga6 Ga3 2.452(15) 19 ?
+Ga6 Ga3 2.452(15) 17 ?
+Ga6 Ga6 2.59(4) 2 ?
+Ga6 Ga7 2.76(3) . ?
+Ga6 Sm3 3.03(2) 13_445 ?
+Ga7 Sm1 1.79(3) . ?
+Ga7 Ga4 2.45(2) 26_454 ?
+Ga7 Ga4 2.45(2) 25_554 ?
+Ga7 Ga2 2.472(3) 25_454 ?
+Ga7 Ga2 2.472(3) 26_554 ?
+Ga7 Ga2 2.472(3) 2 ?
+Ga7 Sm4 2.57(3) 25_554 ?
+Ga7 Ga6 2.76(3) 2 ?
+Sm4 Ga4 1.352(7) 2_655 ?
+Sm4 Ga7 2.57(3) 25_554 ?
+Sm4 Ga3 3.325(11) 3_655 ?
+Sm4 Ga3 3.325(11) 19 ?
+Sm4 Ga3 3.325(11) 17_655 ?
+Sm4 Ga2 3.390(13) 2 ?
+Sm4 Ga2 3.390(13) 26_554 ?
+Sm4 Ga2 3.390(13) 25_554 ?
+Sm4 Ga2 3.390(13) 1_655 ?
+Sm1 Ga6 1.45(2) 2 ?
+Sm1 Ga1 3.1717(10) 20 ?
+Sm1 Ga1 3.1717(10) 19 ?
+Sm1 Ga1 3.1717(10) 2 ?
+Sm1 Ga3 3.1723(14) 19 ?
+Sm1 Ga3 3.1723(14) 17 ?
+Sm1 Ga3 3.1723(14) 3 ?
+Sm1 Ga2 3.1884(9) 25_454 ?
+Sm2 Ga4 3.0834(18) 25_554 ?
+Sm2 Ga4 3.0834(18) 13_455 ?
+Sm2 Ga1 3.1196(10) 19 ?
+Sm2 Ga1 3.1196(10) 7_554 ?
+Sm2 Ga1 3.1196(10) 2 ?
+Sm2 Ga1 3.1196(10) 22_554 ?
+Sm2 Ga2 3.2703(12) 21_554 ?
+Sm2 Ga2 3.2703(12) 26_554 ?
+Sm2 Ga2 3.2703(12) 14_455 ?
+Sm2 Ga1 3.3777(10) 12_454 ?
+Sm2 Ga1 3.3777(10) 32 ?
+Sm3 Ga6 3.03(2) 30 ?
+Sm3 Ga6 3.03(2) 13 ?
+Sm3 Ga1 3.1823(11) 30 ?
+Sm3 Ga1 3.1823(11) 32 ?
+Sm3 Ga1 3.1823(11) 13 ?
+Sm3 Ga1 3.1823(11) 15 ?
+Sm3 Ga3 3.2099(18) 31 ?
+Sm3 Ga3 3.2099(18) 29 ?
+Sm3 Ga1 3.3323(11) 19 ?
+Sm3 Ga1 3.3323(11) 2_655 ?
+Sm3 Ga1 3.3323(11) 17_655 ?
+Sm3 Ga1 3.3323(11) 4 ?

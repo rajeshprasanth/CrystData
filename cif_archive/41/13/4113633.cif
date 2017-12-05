@@ -1,0 +1,308 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-22 11:36:53 +0200 (Tue, 22 Mar 2016) $
+#$Revision: 178907 $
+#$URL: svn://www.crystallography.net/cod/cif/4/11/36/4113633.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4113633
+loop_
+_publ_author_name
+'Ivor Bull'
+'Philip Lightfoot'
+'Luis A. Villaescusa'
+'Lucy M. Bull'
+'Richard K. B. Gover'
+'John S. O. Evans'
+'Russell E. Morris'
+_publ_section_title
+;
+ An X-ray Diffraction and MAS NMR Study of the Thermal Expansion
+ Properties of Calcined Siliceous Ferrierite
+;
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              4342
+_journal_page_last               4349
+_journal_paper_doi               10.1021/ja0292400
+_journal_volume                  125
+_journal_year                    2003
+_chemical_formula_sum            'O72 Si36'
+_chemical_formula_weight         2163.24
+_chemical_name_systematic
+;
+ ?
+;
+_space_group_IT_number           58
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2 2n'
+_symmetry_space_group_name_H-M   'P n n m'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_conform_dict_location     ftp://ftp.iucr.org/pub/cif_core.dic
+_audit_conform_dict_name         cif_core.dic
+_audit_conform_dict_version      2.2
+_audit_creation_date             2002-08-30T15:42:30-00:00
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   7.4105(6)
+_cell_length_b                   14.0764(11)
+_cell_length_c                   18.6746(14)
+_cell_measurement_temperature    133(2)
+_cell_volume                     1948.0(3)
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      133(2)
+_diffrn_measured_fraction_theta_full 0.944
+_diffrn_measured_fraction_theta_max 0.944
+_diffrn_radiation_monochromator  silicon
+_diffrn_radiation_wavelength     0.6892
+_diffrn_reflns_av_R_equivalents  0.0519
+_diffrn_reflns_av_unetI/netI     0.0404
+_diffrn_reflns_limit_h_max       10
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       19
+_diffrn_reflns_limit_k_min       -20
+_diffrn_reflns_limit_l_max       25
+_diffrn_reflns_limit_l_min       -22
+_diffrn_reflns_number            13725
+_diffrn_reflns_theta_full        29.5
+_diffrn_reflns_theta_max         29.5
+_diffrn_reflns_theta_min         2.54
+_exptl_absorpt_coefficient_mu    0.69
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn    1.841
+_exptl_crystal_F_000             1080
+_exptl_crystal_size_max          0.05
+_exptl_crystal_size_mid          0.02
+_exptl_crystal_size_min          0.02
+_refine_diff_density_max         0.665
+_refine_diff_density_min         -0.535
+_refine_diff_density_rms         0.125
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.108
+_refine_ls_hydrogen_treatment    mixed
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     126
+_refine_ls_number_reflns         2898
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.108
+_refine_ls_R_factor_all          0.068
+_refine_ls_R_factor_gt           0.0511
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0476P)^2^+4.6925P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1107
+_refine_ls_wR_factor_ref         0.1158
+_reflns_number_gt                2382
+_reflns_number_total             2898
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            ja0292400si20030117_034916.cif
+_cod_data_source_block           133
+_cod_database_code               4113633
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'x+1/2, -y+1/2, -z+1/2'
+'-x+1/2, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x, y, -z'
+'-x-1/2, y-1/2, z-1/2'
+'x-1/2, -y-1/2, z-1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Si1 Si 0.22273(10) 0.69694(5) 0.33331(4) 0.00767(16) Uani 1 1 d .
+Si2 Si 0.18973(10) 0.29184(5) 0.31684(4) 0.00705(15) Uani 1 1 d .
+Si3 Si 0.51205(10) 0.79932(5) 0.41694(4) 0.00628(15) Uani 1 1 d .
+Si4 Si 0.5 1 0.34763(6) 0.0075(2) Uani 1 2 d S
+Si5 Si 0.29187(10) 0.49921(6) 0.27320(4) 0.00885(16) Uani 1 1 d .
+O1 O 0.5590(4) 0.7899(2) 0.5 0.0113(5) Uani 1 2 d S
+O2 O 0.5 0.5 0.25019(18) 0.0185(6) Uani 1 2 d S
+O3 O 0.2419(3) 0.40193(15) 0.31277(13) 0.0195(5) Uani 1 1 d .
+O4 O 0.4758(3) 0.90864(15) 0.39729(12) 0.0149(4) Uani 1 1 d .
+O5 O 0.2514(3) 0.58441(15) 0.32821(11) 0.0156(4) Uani 1 1 d .
+O6 O 0.3340(3) 0.73803(15) 0.40006(10) 0.0110(4) Uani 1 1 d .
+O7 O 0.3205(3) 0.23868(15) 0.37115(11) 0.0138(4) Uani 1 1 d .
+O8 O 0.0135(3) 0.72018(17) 0.34499(13) 0.0188(5) Uani 1 1 d .
+O9 O 0.2970(3) 0.74658(17) 0.26152(11) 0.0176(5) Uani 1 1 d .
+O10 O 0.6750(3) 0.98676(17) 0.29830(13) 0.0206(5) Uani 1 1 d .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Si1 0.0065(3) 0.0085(3) 0.0081(3) -0.0013(3) -0.0021(3) 0.0005(3)
+Si2 0.0061(3) 0.0082(3) 0.0068(3) 0.0005(3) -0.0005(3) 0.0003(3)
+Si3 0.0070(3) 0.0072(3) 0.0047(3) -0.0001(2) 0.0006(2) -0.0002(3)
+Si4 0.0067(4) 0.0077(5) 0.0081(5) 0 0 0.0005(4)
+Si5 0.0070(3) 0.0083(3) 0.0113(3) -0.0007(3) -0.0013(3) 0.0005(3)
+O1 0.0127(13) 0.0160(14) 0.0053(11) 0 0 -0.0032(11)
+O2 0.0098(13) 0.0288(17) 0.0170(15) 0 0 0.0029(13)
+O3 0.0296(12) 0.0075(10) 0.0213(11) 0.0007(8) 0.0037(10) -0.0029(8)
+O4 0.0208(11) 0.0076(9) 0.0164(10) 0.0039(8) 0.0032(8) 0.0002(8)
+O5 0.0210(11) 0.0087(9) 0.0170(10) -0.0034(8) 0.0034(9) 0.0011(8)
+O6 0.0110(9) 0.0153(10) 0.0067(9) -0.0005(7) -0.0006(7) -0.0050(8)
+O7 0.0109(9) 0.0185(11) 0.0120(9) 0.0035(8) -0.0054(8) 0.0011(8)
+O8 0.0073(9) 0.0253(12) 0.0237(11) -0.0078(10) -0.0023(8) 0.0037(8)
+O9 0.0238(11) 0.0199(11) 0.0091(10) 0.0049(8) -0.0023(9) 0.0003(9)
+O10 0.0151(10) 0.0266(13) 0.0202(11) 0.0019(9) 0.0107(9) 0.0034(9)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+O O 0.0106 0.006 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Si Si 0.0817 0.0704 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+O8 Si1 O5 109.82(13) . .
+O8 Si1 O6 108.59(12) . .
+O5 Si1 O6 109.58(12) . .
+O8 Si1 O9 110.89(13) . .
+O5 Si1 O9 109.56(12) . .
+O6 Si1 O9 108.38(12) . .
+O7 Si2 O3 109.82(13) . .
+O7 Si2 O9 111.03(12) . 4_545
+O3 Si2 O9 109.13(13) . 4_545
+O7 Si2 O8 108.28(12) . 2_565
+O3 Si2 O8 110.17(13) . 2_565
+O9 Si2 O8 108.39(13) 4_545 2_565
+O1 Si3 O7 108.84(14) . 2_665
+O1 Si3 O4 109.81(14) . .
+O7 Si3 O4 109.16(12) 2_665 .
+O1 Si3 O6 108.97(13) . .
+O7 Si3 O6 110.63(12) 2_665 .
+O4 Si3 O6 109.42(12) . .
+O4 Si4 O4 108.93(17) 2_675 .
+O4 Si4 O10 109.35(12) 2_675 2_675
+O4 Si4 O10 109.71(12) . 2_675
+O4 Si4 O10 109.71(12) 2_675 .
+O4 Si4 O10 109.35(12) . .
+O10 Si4 O10 109.76(19) 2_675 .
+O3 Si5 O2 110.67(11) . .
+O3 Si5 O10 111.40(13) . 3_465
+O2 Si5 O10 107.22(15) . 3_465
+O3 Si5 O5 107.48(12) . .
+O2 Si5 O5 110.26(12) . .
+O10 Si5 O5 109.84(13) 3_465 .
+Si3 O1 Si3 153.0(2) 6_556 .
+Si5 O2 Si5 148.9(2) . 2_665
+Si2 O3 Si5 155.19(17) . .
+Si4 O4 Si3 152.52(15) . .
+Si1 O5 Si5 143.22(15) . .
+Si1 O6 Si3 140.22(14) . .
+Si2 O7 Si3 166.32(16) . 2_665
+Si1 O8 Si2 147.54(16) . 2_565
+Si2 O9 Si1 163.05(17) 4 .
+Si4 O10 Si5 154.42(17) . 3_565
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si1 O8 1.599(2) .
+Si1 O5 1.601(2) .
+Si1 O6 1.603(2) .
+Si1 O9 1.609(2) .
+Si2 O7 1.590(2) .
+Si2 O3 1.599(2) .
+Si2 O9 1.599(2) 4_545
+Si2 O8 1.604(2) 2_565
+Si3 O1 1.5951(10) .
+Si3 O7 1.599(2) 2_665
+Si3 O4 1.604(2) .
+Si3 O6 1.608(2) .
+Si4 O4 1.596(2) 2_675
+Si4 O4 1.596(2) .
+Si4 O10 1.601(2) 2_675
+Si4 O10 1.601(2) .
+Si5 O3 1.600(2) .
+Si5 O2 1.6011(12) .
+Si5 O10 1.604(2) 3_465
+Si5 O5 1.607(2) .
+O1 Si3 1.5951(10) 6_556
+O2 Si5 1.6011(12) 2_665
+O7 Si3 1.599(2) 2_665
+O8 Si2 1.604(2) 2_565
+O9 Si2 1.599(2) 4
+O10 Si5 1.604(2) 3_565
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_4
+O7 Si3 O1 Si3 -177.9(4) 2_665 6_556
+O4 Si3 O1 Si3 62.7(5) . 6_556
+O6 Si3 O1 Si3 -57.1(5) . 6_556
+O3 Si5 O2 Si5 -65.96(10) . 2_665
+O10 Si5 O2 Si5 172.36(10) 3_465 2_665
+O5 Si5 O2 Si5 52.82(10) . 2_665
+O7 Si2 O3 Si5 129.0(4) . .
+O9 Si2 O3 Si5 7.1(5) 4_545 .
+O8 Si2 O3 Si5 -111.8(4) 2_565 .
+O2 Si5 O3 Si2 -80.0(4) . .
+O10 Si5 O3 Si2 39.2(5) 3_465 .
+O5 Si5 O3 Si2 159.5(4) . .
+O4 Si4 O4 Si3 -139.8(4) 2_675 .
+O10 Si4 O4 Si3 100.5(3) 2_675 .
+O10 Si4 O4 Si3 -19.9(4) . .
+O1 Si3 O4 Si4 135.0(3) . .
+O7 Si3 O4 Si4 15.8(4) 2_665 .
+O6 Si3 O4 Si4 -105.4(3) . .
+O8 Si1 O5 Si5 105.4(3) . .
+O6 Si1 O5 Si5 -135.4(2) . .
+O9 Si1 O5 Si5 -16.7(3) . .
+O3 Si5 O5 Si1 -163.8(2) . .
+O2 Si5 O5 Si1 75.5(3) . .
+O10 Si5 O5 Si1 -42.4(3) 3_465 .
+O8 Si1 O6 Si3 -133.0(2) . .
+O5 Si1 O6 Si3 107.0(2) . .
+O9 Si1 O6 Si3 -12.5(3) . .
+O1 Si3 O6 Si1 -166.6(2) . .
+O7 Si3 O6 Si1 -47.0(3) 2_665 .
+O4 Si3 O6 Si1 73.3(2) . .
+O3 Si2 O7 Si3 -41.2(7) . 2_665
+O9 Si2 O7 Si3 79.5(7) 4_545 2_665
+O8 Si2 O7 Si3 -161.6(7) 2_565 2_665
+O5 Si1 O8 Si2 -55.6(4) . 2_565
+O6 Si1 O8 Si2 -175.4(3) . 2_565
+O9 Si1 O8 Si2 65.6(4) . 2_565
+O8 Si1 O9 Si2 -29.0(6) . 4
+O5 Si1 O9 Si2 92.4(6) . 4
+O6 Si1 O9 Si2 -148.1(6) . 4
+O4 Si4 O10 Si5 -92.8(4) 2_675 3_565
+O4 Si4 O10 Si5 147.8(4) . 3_565
+O10 Si4 O10 Si5 27.4(3) 2_675 3_565

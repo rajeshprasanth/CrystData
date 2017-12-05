@@ -1,0 +1,87 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-10 01:30:32 +0300 (Sat, 10 Oct 2015) $
+#$Revision: 163664 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/60/1536078.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1536078
+loop_
+_publ_author_name
+'Viklund, P.'
+'Svensson, C.'
+'Haeussermann, U.'
+'Simak, S.I.'
+'Hull, S.'
+'Berastegui, P.'
+_publ_section_title
+;
+ The compounds V8 Ga36.9 Zn4.1, Cr8 Ga29.8 Zn11.2 and Mn8 Ga27.4 Zn13.6: A
+ remarkable segregation of Zn and Ga in an intermetallic framework
+;
+_journal_name_full               'Chemistry - A European Journal'
+_journal_page_first              5143
+_journal_page_last               5152
+_journal_volume                  7
+_journal_year                    2001
+_chemical_formula_sum            'Ga41 V8'
+_chemical_name_systematic        'Ga41 V8'
+_space_group_IT_number           148
+_symmetry_space_group_name_Hall  '-R 3'
+_symmetry_space_group_name_H-M   'R -3 :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            3
+_cell_length_a                   13.9351
+_cell_length_b                   13.9351
+_cell_length_c                   14.8828
+_cell_volume                     2502.854
+_citation_journal_id_ASTM        CEUJED
+_cod_data_source_file            Viklund_CEUJED_2001_240.cif
+_cod_data_source_block           Ga41V8
+_cod_database_code               1536078
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ga7 Ga 0.44879 -0.20976 0.33158 1 0.0
+Ga8 Ga 0.6667 0.3333 0.3333 1 0.0
+Ga9 Ga 0.3333 -0.3333 0.1667 1 0.0
+Ga4 Ga 0.1667 -0.1667 0.3333 1 0.0
+Ga5 Ga 0.49681 0.17667 0.44706 1 0.0
+Ga1 Ga 0.48404 0.01451 0.33961 1 0.0
+V1 V 0.30981 0.01452 0.40118 1 0.0
+Ga6 Ga 0.44475 -0.0906 0.17051 1 0.0
+Ga2 Ga 0.31951 0.00916 0.23276 1 0.0
+Ga3 Ga 0.33386 -0.1506 0.45131 1 0.0
+V2 V 0.6667 0.3333 0.5195 1 0.0

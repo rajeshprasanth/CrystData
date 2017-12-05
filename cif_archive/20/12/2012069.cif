@@ -1,0 +1,397 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 00:18:51 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176760 $
+#$URL: svn://www.crystallography.net/cod/cif/2/01/20/2012069.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2012069
+loop_
+_publ_author_name
+'Bould, Jonathan'
+'William Clegg'
+'Kennedy, John D.'
+'Simon J. Teat'
+_publ_section_title
+;
+ Isomeric icosaboranes B~20~H~26~: the synchrotron structure of
+ 1,1'-bis(<i>nido</i>-decaboranyl)
+;
+_journal_issue                   7
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              779
+_journal_page_last               780
+_journal_paper_doi               10.1107/S0108270101003407
+_journal_volume                  57
+_journal_year                    2001
+_chemical_formula_moiety         'B20 H26'
+_chemical_formula_sum            'B20 H26'
+_chemical_formula_weight         242.41
+_chemical_name_systematic
+;
+1,1'-bis(nido-decaboranyl)
+;
+_space_group_IT_number           61
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   10.6601(5)
+_cell_length_b                   10.5515(5)
+_cell_length_c                   14.5604(6)
+_cell_measurement_reflns_used    5421
+_cell_measurement_temperature    150(2)
+_cell_measurement_theta_max      29.4
+_cell_measurement_theta_min      2.7
+_cell_volume                     1637.75(13)
+_computing_cell_refinement       'SAINT (Siemens, 1997)'
+_computing_data_collection       'SMART (Siemens, 1997)'
+_computing_data_reduction        SAINT
+_computing_molecular_graphics    SHELXTL
+_computing_publication_material  'SHELXTL and local programs'
+_computing_structure_refinement  SHELXTL
+_computing_structure_solution    'SHELXTL (Sheldrick, 1998)'
+_diffrn_ambient_temperature      150(2)
+_diffrn_measured_fraction_theta_full 1.000
+_diffrn_measured_fraction_theta_max .934
+_diffrn_measurement_device_type  'Siemens SMART CCD'
+_diffrn_measurement_method       '\w rotation with narrow frames'
+_diffrn_radiation_monochromator  'silicon 111'
+_diffrn_radiation_source         'Daresbury SRS station 9.8'
+_diffrn_radiation_type           synchrotron
+_diffrn_radiation_wavelength     .6890
+_diffrn_reflns_av_R_equivalents  .0558
+_diffrn_reflns_av_sigmaI/netI    .0466
+_diffrn_reflns_limit_h_max       14
+_diffrn_reflns_limit_h_min       -14
+_diffrn_reflns_limit_k_max       7
+_diffrn_reflns_limit_k_min       -14
+_diffrn_reflns_limit_l_max       20
+_diffrn_reflns_limit_l_min       -20
+_diffrn_reflns_number            10589
+_diffrn_reflns_theta_full        26.0
+_diffrn_reflns_theta_max         29.4
+_diffrn_reflns_theta_min         2.7
+_diffrn_standards_decay_%        20
+_diffrn_standards_number         0
+_exptl_absorpt_coefficient_mu    .036
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    .983
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       cuboid
+_exptl_crystal_F_000             504
+_exptl_crystal_size_max          .03
+_exptl_crystal_size_mid          .03
+_exptl_crystal_size_min          .03
+_refine_diff_density_max         .38
+_refine_diff_density_min         -.18
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.086
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     143
+_refine_ls_number_reflns         2301
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.086
+_refine_ls_R_factor_all          .0781
+_refine_ls_R_factor_gt           .0558
+_refine_ls_shift/su_max          <0.001
+_refine_ls_shift/su_mean         <0.001
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w = 1/[\s^2^(Fo^2^)+(0.0740P)^2^+0.3725P] where P = (Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         .1503
+_reflns_number_gt                1746
+_reflns_number_total             2301
+_reflns_threshold_expression     I>2\s(I)
+_cod_data_source_file            br1315.cif
+_cod_data_source_block           I
+_cod_database_code               2012069
+_cod_database_fobs_code          2012069
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, -y, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x-1/2, y, -z-1/2'
+'x, -y-1/2, z-1/2'
+'-x-1/2, y-1/2, z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+_atom_site_type_symbol
+B1 .46647(12) .55218(12) .46270(9) .0164(3) Uani d . 1 . . B
+B2 .55859(14) .67977(13) .41826(10) .0202(3) Uani d . 1 . . B
+H2 .6587(16) .6820(15) .4308(11) .031(4) Uiso d . 1 . . H
+B3 .49222(14) .56719(14) .34216(9) .0203(3) Uani d . 1 . . B
+H3 .5547(17) .5096(18) .3019(11) .038(5) Uiso d . 1 . . H
+B4 .35058(13) .49886(13) .38247(9) .0187(3) Uani d . 1 . . B
+H4 .3340(15) .3996(15) .3736(10) .023(4) Uiso d . 1 . . H
+B5 .44334(14) .70690(14) .50513(10) .0216(3) Uani d . 1 . . B
+H5 .4615(15) .7348(16) .5758(11) .028(4) Uiso d . 1 . . H
+B6 .47698(15) .81984(15) .41677(12) .0271(3) Uani d . 1 . . B
+H6 .5098(16) .9159(16) .4290(12) .035(5) Uiso d . 1 . . H
+B7 .48766(15) .72877(15) .31286(11) .0258(3) Uani d . 1 . . B
+H7 .5337(16) .7655(16) .2549(12) .033(4) Uiso d . 1 . . H
+B8 .34977(16) .60858(15) .28909(11) .0269(3) Uani d . 1 . . B
+H8 .3291(16) .5832(15) .2190(12) .036(5) Uiso d . 1 . . H
+B9 .22848(14) .60423(15) .37348(11) .0257(3) Uani d . 1 . . B
+H9 .1329(15) .5890(15) .3596(11) .030(4) Uiso d . 1 . . H
+B10 .30692(13) .58756(14) .48119(10) .0210(3) Uani d . 1 . . B
+H10 .2541(14) .5530(14) .5389(10) .023(4) Uiso d . 1 . . H
+H11 .3832(18) .7963(17) .4698(13) .044(5) Uiso d . 1 . . H
+H12 .4106(16) .8139(16) .3396(12) .035(5) Uiso d . 1 . . H
+H13 .2693(17) .6912(16) .3154(11) .038(5) Uiso d . 1 . . H
+H14 .2419(18) .6740(16) .4456(12) .043(5) Uiso d . 1 . . H
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+B1 .0164(6) .0165(6) .0164(6) .0014(5) .0010(4) -.0013(5)
+B2 .0209(7) .0161(6) .0235(7) -.0002(5) -.0003(5) .0009(5)
+B3 .0240(7) .0198(7) .0170(6) .0006(5) .0017(5) .0004(5)
+B4 .0201(6) .0168(6) .0192(6) .0008(5) -.0027(5) -.0008(5)
+B5 .0236(7) .0190(7) .0224(7) .0047(5) -.0022(5) -.0042(5)
+B6 .0267(7) .0194(7) .0351(8) .0013(6) -.0033(6) .0002(6)
+B7 .0272(7) .0227(8) .0275(7) .0002(6) .0012(6) .0075(6)
+B8 .0315(8) .0261(8) .0232(7) -.0015(6) -.0077(6) .0036(6)
+B9 .0219(7) .0221(7) .0333(8) .0021(5) -.0073(6) .0001(6)
+B10 .0190(6) .0219(7) .0221(6) .0031(5) .0005(5) .0004(5)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+B B .0013 .0007 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H .0000 .0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle
+_geom_angle_publ_flag
+B1 B1 B10 5_666 116.40(12) y
+B1 B1 B5 5_666 115.71(12) y
+B10 B1 B5 . 67.37(8) ?
+B1 B1 B3 5_666 128.32(12) y
+B10 B1 B3 . 106.26(9) ?
+B5 B1 B3 . 106.51(10) ?
+B1 B1 B2 5_666 119.14(13) y
+B10 B1 B2 . 115.21(10) ?
+B5 B1 B2 . 60.42(8) ?
+B3 B1 B2 . 59.49(8) ?
+B1 B1 B4 5_666 120.14(13) y
+B10 B1 B4 . 60.02(8) ?
+B5 B1 B4 . 115.02(10) ?
+B3 B1 B4 . 59.48(8) ?
+B2 B1 B4 . 112.29(9) ?
+B6 B2 B3 . 111.54(11) ?
+B6 B2 B5 . 61.45(9) ?
+B3 B2 B5 . 106.00(10) ?
+B6 B2 B7 . 61.65(9) ?
+B3 B2 B7 . 59.21(8) ?
+B5 B2 B7 . 105.70(10) ?
+B6 B2 B1 . 112.02(11) ?
+B3 B2 B1 . 60.14(8) ?
+B5 B2 B1 . 59.10(8) ?
+B7 B2 B1 . 107.24(10) ?
+B6 B2 H2 . 118.9(8) ?
+B3 B2 H2 . 120.9(8) ?
+B5 B2 H2 . 123.7(8) ?
+B7 B2 H2 . 123.7(8) ?
+B1 B2 H2 . 119.8(8) ?
+B7 B3 B8 . 68.21(9) ?
+B7 B3 B2 . 60.83(8) ?
+B8 B3 B2 . 116.94(11) ?
+B7 B3 B4 . 116.81(11) ?
+B8 B3 B4 . 60.74(8) ?
+B2 B3 B4 . 113.93(10) ?
+B7 B3 B1 . 108.70(10) ?
+B8 B3 B1 . 108.75(10) ?
+B2 B3 B1 . 60.37(8) ?
+B4 B3 B1 . 60.47(7) ?
+B7 B3 H3 . 115.6(10) ?
+B8 B3 H3 . 115.8(9) ?
+B2 B3 H3 . 118.2(10) ?
+B4 B3 H3 . 118.6(10) ?
+B1 B3 H3 . 125.6(9) ?
+B9 B4 B3 . 110.92(10) ?
+B9 B4 B10 . 61.45(8) ?
+B3 B4 B10 . 106.06(10) ?
+B9 B4 B8 . 61.21(9) ?
+B3 B4 B8 . 59.23(8) ?
+B10 B4 B8 . 105.85(10) ?
+B9 B4 B1 . 111.67(10) ?
+B3 B4 B1 . 60.05(8) ?
+B10 B4 B1 . 59.18(7) ?
+B8 B4 B1 . 107.23(10) ?
+B9 B4 H4 . 120.0(8) ?
+B3 B4 H4 . 119.9(8) ?
+B10 B4 H4 . 124.7(8) ?
+B8 B4 H4 . 122.8(8) ?
+B1 B4 H4 . 120.0(8) ?
+B1 B5 B2 . 60.48(8) ?
+B1 B5 B6 . 109.67(10) ?
+B2 B5 B6 . 57.31(8) ?
+B1 B5 B10 . 56.29(7) ?
+B2 B5 B10 . 106.38(9) ?
+B6 B5 B10 . 116.72(10) ?
+B1 B5 H5 . 123.9(9) ?
+B2 B5 H5 . 126.2(9) ?
+B6 B5 H5 . 117.7(9) ?
+B10 B5 H5 . 118.4(9) ?
+B1 B5 H11 . 128.7(9) ?
+B2 B5 H11 . 100.5(9) ?
+B6 B5 H11 . 46.0(9) ?
+B10 B5 H11 . 91.8(9) ?
+H5 B5 H11 . 106.0(12) ?
+B2 B6 B5 . 61.24(8) ?
+B2 B6 B7 . 61.15(9) ?
+B5 B6 B7 . 105.19(10) ?
+B2 B6 H6 . 129.6(9) ?
+B5 B6 H6 . 124.6(9) ?
+B7 B6 H6 . 128.1(9) ?
+B2 B6 H11 . 102.7(8) ?
+B5 B6 H11 . 44.3(8) ?
+B7 B6 H11 . 116.8(8) ?
+H6 B6 H11 . 109.4(12) ?
+B2 B6 H12 . 103.9(7) ?
+B5 B6 H12 . 118.0(7) ?
+B7 B6 H12 . 45.3(7) ?
+H6 B6 H12 . 110.8(11) ?
+H11 B6 H12 . 94.8(11) ?
+B3 B7 B2 . 59.96(8) ?
+B3 B7 B6 . 108.43(11) ?
+B2 B7 B6 . 57.20(8) ?
+B3 B7 B8 . 55.91(8) ?
+B2 B7 B8 . 106.26(10) ?
+B6 B7 B8 . 116.40(11) ?
+B3 B7 H7 . 122.6(9) ?
+B2 B7 H7 . 126.8(9) ?
+B6 B7 H7 . 120.6(9) ?
+B8 B7 H7 . 116.4(9) ?
+B3 B7 H12 . 128.7(8) ?
+B2 B7 H12 . 102.3(8) ?
+B6 B7 H12 . 47.7(8) ?
+B8 B7 H12 . 91.5(8) ?
+H7 B7 H12 . 106.6(12) ?
+B3 B8 B9 . 108.47(10) ?
+B3 B8 B4 . 60.03(8) ?
+B9 B8 B4 . 57.49(8) ?
+B3 B8 B7 . 55.88(8) ?
+B9 B8 B7 . 115.84(11) ?
+B4 B8 B7 . 106.24(10) ?
+B3 B8 H8 . 122.1(9) ?
+B9 B8 H8 . 119.8(9) ?
+B4 B8 H8 . 124.1(9) ?
+B7 B8 H8 . 118.6(9) ?
+B3 B8 H13 . 128.0(8) ?
+B9 B8 H13 . 47.7(8) ?
+B4 B8 H13 . 102.5(7) ?
+B7 B8 H13 . 90.5(8) ?
+H8 B8 H13 . 108.4(12) ?
+B4 B9 B8 . 61.30(9) ?
+B4 B9 B10 . 60.94(8) ?
+B8 B9 B10 . 105.54(10) ?
+B4 B9 H9 . 130.6(9) ?
+B8 B9 H9 . 125.0(9) ?
+B10 B9 H9 . 127.4(9) ?
+B4 B9 H13 . 104.4(8) ?
+B8 B9 H13 . 45.8(8) ?
+B10 B9 H13 . 118.4(8) ?
+H9 B9 H13 . 107.6(12) ?
+B4 B9 H14 . 102.9(8) ?
+B8 B9 H14 . 117.7(9) ?
+B10 B9 H14 . 44.7(8) ?
+H9 B9 H14 . 110.6(13) ?
+H13 B9 H14 . 95.0(11) ?
+B1 B10 B4 . 60.80(8) ?
+B1 B10 B9 . 109.80(10) ?
+B4 B10 B9 . 57.61(8) ?
+B1 B10 B5 . 56.34(7) ?
+B4 B10 B5 . 106.78(9) ?
+B9 B10 B5 . 116.20(10) ?
+B1 B10 H10 . 123.6(8) ?
+B4 B10 H10 . 126.2(8) ?
+B9 B10 H10 . 118.3(8) ?
+B5 B10 H10 . 118.0(8) ?
+B1 B10 H14 . 128.5(9) ?
+B4 B10 H14 . 101.1(8) ?
+B9 B10 H14 . 46.2(8) ?
+B5 B10 H14 . 90.9(8) ?
+H10 B10 H14 . 106.3(12) ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+B1 B1 5_666 1.704(3) y
+B1 B10 . 1.7620(19) y
+B1 B5 . 1.7628(19) y
+B1 B3 . 1.7836(19) y
+B1 B2 . 1.788(2) y
+B1 B4 . 1.7910(19) y
+B2 B6 . 1.715(2) y
+B2 B3 . 1.772(2) y
+B2 B5 . 1.787(2) y
+B2 B7 . 1.787(2) y
+B2 H2 . 1.083(17) ?
+B3 B7 . 1.758(2) y
+B3 B8 . 1.759(2) y
+B3 B4 . 1.773(2) y
+B3 H3 . 1.075(18) ?
+B4 B9 . 1.717(2) y
+B4 B10 . 1.777(2) y
+B4 B8 . 1.786(2) y
+B4 H4 . 1.070(15) ?
+B5 B6 . 1.790(2) y
+B5 B10 . 1.955(2) y
+B5 H5 . 1.088(16) ?
+B5 H11 . 1.251(18) ?
+B6 B7 . 1.796(2) y
+B6 H6 . 1.087(17) ?
+B6 H11 . 1.288(19) ?
+B6 H12 . 1.329(17) ?
+B7 B8 . 1.972(2) y
+B7 H7 . 1.051(18) ?
+B7 H12 . 1.278(17) ?
+B8 B9 . 1.784(2) y
+B8 H8 . 1.077(17) ?
+B8 H13 . 1.282(17) ?
+B9 B10 . 1.786(2) y
+B9 H9 . 1.051(16) ?
+B9 H13 . 1.321(17) ?
+B9 H14 . 1.290(17) ?
+B10 H10 . 1.075(15) ?
+B10 H14 . 1.258(18) ?

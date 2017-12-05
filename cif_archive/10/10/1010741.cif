@@ -1,0 +1,38 @@
+#------------------------------------------------------------------------------
+#$Date: 2014-07-11 17:35:18 +0300 (Fri, 11 Jul 2014) $
+#$Revision: 120071 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/07/1010741.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010741
+_chemical_name_systematic          'Cobalt phosphide (1/1)'
+_chemical_formula_structural       'Co P'
+_chemical_formula_sum              'Co P'
+_publ_section_title                'Ueber die Phosphide des Kobalts'
+loop_
+_publ_author_name
+  'Biltz, W'
+  'Heimbrecht, M'
+_journal_name_full
+;
+Zeitschrift fuer Anorganische und Allgemeine Chemie
+;
+_journal_coden_ASTM                ZAACAB
+_journal_volume                    241
+_journal_year                      1939
+_journal_page_first                349
+_journal_page_last                 360
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010741
+_journal_paper_doi 10.1002/zaac.19392410404

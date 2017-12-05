@@ -1,0 +1,109 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-09 10:43:25 +0300 (Fri, 09 Oct 2015) $
+#$Revision: 161201 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/44/1534451.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1534451
+loop_
+_publ_author_name
+'Ackermann, R.'
+'Hirschle, C.'
+'Rotter, H.W.'
+'Thiele, G.'
+_publ_section_title
+;
+ Mixed-valence thallium(I,III) bromides. The crystal structure of
+ alpha-Tl2 Br3
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first              2675
+_journal_page_last               2682
+_journal_volume                  628
+_journal_year                    2002
+_chemical_formula_sum            'Br6 Tl4'
+_chemical_name_systematic        'Tl3 (Tl Br6)'
+_space_group_IT_number           15
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 108.63
+_cell_angle_gamma                90
+_cell_formula_units_Z            32
+_cell_length_a                   26.763
+_cell_length_b                   15.311
+_cell_length_c                   27.375
+_cell_volume                     10629.629
+_citation_journal_id_ASTM        ZAACAB
+_cod_data_source_file            Ackermann_ZAACAB_2002_817.cif
+_cod_data_source_block           Br6Tl4
+_cod_original_cell_volume        10629.63
+_cod_database_code               1534451
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z+1/2
+-x,-y,-z
+x,-y,z-1/2
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z+1/2
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl3 Tl+3 -0.24006 0.50085 0.2486 1 0.0
+Br14 Br-1 0.16219 0.1558 -0.00194 1 0.0
+Tl10 Tl+1 -0.42926 0.77767 -0.09165 1 0.0
+Br7 Br-1 0.31493 0.9625 0.17912 1 0.0
+Tl6 Tl+3 0.5 0.5 0 1 0.0
+Br16 Br-1 0.34247 0.7387 0.07663 1 0.0
+Br19 Br-1 0.05878 0.0213 0.09976 1 0.0
+Tl9 Tl+1 -0.17517 0.46395 -0.09019 1 0.0
+Br10 Br-1 0.20201 1.0326 0.31562 1 0.0
+Br9 Br-1 0.20526 1.1275 0.18443 1 0.0
+Tl11 Tl+1 -0.02441 0.21555 0.09201 1 0.0
+Tl19 Tl+1 0.3157 0.25031 0.19042 1 0.0
+Tl4 Tl+3 0.25 0.25 0 1 0.0
+Br5 Br-1 0.55181 0.2645 0.18674 1 0.0
+Br2 Br-1 0.4522 0.8532 0.18249 1 0.0
+Br12 Br-1 0.31797 -0.1219 0.31272 1 0.0
+Br23 Br-1 0.43049 0.862 0.00039 1 0.0
+Tl8 Tl+1 0.12054 0.46142 0.41586 1 0.0
+Tl15 Tl+1 0.0937 0.79331 0.08896 1 0.0
+Tl18 Tl+1 0.12447 0.23634 0.09147 1 0.0
+Tl12 Tl+1 -0.07449 0.46171 0.28036 1 0.0
+Br3 Br-1 0.45139 0.5971 0.18137 1 0.0
+Tl13 Tl+1 0.34693 0.49833 0.0923 1 0.0
+Br1 Br-1 0.08087 0.2247 0.20902 1 0.0
+Br11 Br-1 0.33123 0.122 0.29761 1 0.0
+Br13 Br-1 0.23839 0.3502 0.07758 1 0.0
+Br6 Br-1 0.42056 0.359 0.18124 1 0.0
+Br8 Br-1 0.18699 0.88 0.2004 1 0.0
+Tl1 Tl+3 0 0.22383 0.25 1 0.0
+Br18 Br-1 0.20619 0.7616 0.07831 1 0.0
+Tl2 Tl+3 0.5 0.23408 0.25 1 0.0
+Tl5 Tl+3 0.25 0.75 0 1 0.0
+Br24 Br-1 0.5207 1.0257 0.0991 1 0.0
+Br4 Br-1 0.43516 0.1081 0.19461 1 0.0
+Tl14 Tl+1 0.29815 0.74988 0.19743 1 0.0
+Br22 Br-1 0.08881 0.3978 0.01447 1 0.0
+Tl17 Tl+1 0.08162 -0.005 0.22486 1 0.0
+Br17 Br-1 0.23903 0.57028 0.00096 1 0.0
+Tl16 Tl+1 0.20281 -0.01042 0.08502 1 0.0
+Tl7 Tl+3 0.5 0 0 1 0.0
+Br20 Br-1 -0.02295 -0.1689 0.01439 1 0.0
+Br15 Br-1 0.30854 0.1422 0.07694 1 0.0
+Br21 Br-1 -0.09051 0.0672 0.01419 1 0.0

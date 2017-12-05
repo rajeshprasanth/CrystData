@@ -1,0 +1,254 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-08 21:14:57 +0300 (Wed, 08 Jul 2015) $
+#$Revision: 141300 $
+#$URL: svn://www.crystallography.net/cod/cif/2/31/01/2310193.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2310193
+loop_
+_publ_author_name
+'Florio, J.V.'
+'Rundle, R.E.'
+'Snow, A.I.'
+_publ_section_title
+;
+ Compounds of thorium with transition metals. I. The thorium-manganese
+ system
+;
+_journal_name_full               'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first              449
+_journal_page_last               457
+_journal_volume                  5
+_journal_year                    1952
+_chemical_formula_sum            'Mn23 Th6'
+_chemical_name_systematic        'Mn23 Th6'
+_space_group_IT_number           225
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   12.523
+_cell_length_b                   12.523
+_cell_length_c                   12.523
+_cell_volume                     1963.926
+_citation_journal_id_ASTM        ACCRA9
+_cod_data_source_file            Florio_ACCRA9_1952_1178.cif
+_cod_data_source_block           Mn23Th6
+_cod_database_code               2310193
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x,z
+-x,-y,z
+y,-x,z
+x,-y,-z
+y,x,-z
+-x,y,-z
+-y,-x,-z
+z,x,y
+-x,z,y
+-z,-x,y
+x,-z,y
+z,-x,-y
+x,z,-y
+-z,x,-y
+-x,-z,-y
+y,z,x
+y,-z,-x
+z,y,-x
+-y,z,-x
+-z,-y,-x
+-y,-z,x
+z,-y,x
+-z,y,x
+-x,-y,-z
+y,-x,-z
+x,y,-z
+-y,x,-z
+-x,y,z
+-y,-x,z
+x,-y,z
+y,x,z
+-z,-x,-y
+x,-z,-y
+z,x,-y
+-x,z,-y
+-z,x,y
+-x,-z,y
+z,-x,y
+x,z,y
+-y,-z,-x
+-y,z,x
+-z,-y,x
+y,-z,x
+z,y,x
+y,z,-x
+-z,y,-x
+z,-y,-x
+x,y+1/2,z+1/2
+-y,x+1/2,z+1/2
+-x,-y+1/2,z+1/2
+y,-x+1/2,z+1/2
+x,-y+1/2,-z+1/2
+y,x+1/2,-z+1/2
+-x,y+1/2,-z+1/2
+-y,-x+1/2,-z+1/2
+z,x+1/2,y+1/2
+-x,z+1/2,y+1/2
+-z,-x+1/2,y+1/2
+x,-z+1/2,y+1/2
+z,-x+1/2,-y+1/2
+x,z+1/2,-y+1/2
+-z,x+1/2,-y+1/2
+-x,-z+1/2,-y+1/2
+y,z+1/2,x+1/2
+y,-z+1/2,-x+1/2
+z,y+1/2,-x+1/2
+-y,z+1/2,-x+1/2
+-z,-y+1/2,-x+1/2
+-y,-z+1/2,x+1/2
+z,-y+1/2,x+1/2
+-z,y+1/2,x+1/2
+-x,-y+1/2,-z+1/2
+y,-x+1/2,-z+1/2
+x,y+1/2,-z+1/2
+-y,x+1/2,-z+1/2
+-x,y+1/2,z+1/2
+-y,-x+1/2,z+1/2
+x,-y+1/2,z+1/2
+y,x+1/2,z+1/2
+-z,-x+1/2,-y+1/2
+x,-z+1/2,-y+1/2
+z,x+1/2,-y+1/2
+-x,z+1/2,-y+1/2
+-z,x+1/2,y+1/2
+-x,-z+1/2,y+1/2
+z,-x+1/2,y+1/2
+x,z+1/2,y+1/2
+-y,-z+1/2,-x+1/2
+-y,z+1/2,x+1/2
+-z,-y+1/2,x+1/2
+y,-z+1/2,x+1/2
+z,y+1/2,x+1/2
+y,z+1/2,-x+1/2
+-z,y+1/2,-x+1/2
+z,-y+1/2,-x+1/2
+x+1/2,y,z+1/2
+-y+1/2,x,z+1/2
+-x+1/2,-y,z+1/2
+y+1/2,-x,z+1/2
+x+1/2,-y,-z+1/2
+y+1/2,x,-z+1/2
+-x+1/2,y,-z+1/2
+-y+1/2,-x,-z+1/2
+z+1/2,x,y+1/2
+-x+1/2,z,y+1/2
+-z+1/2,-x,y+1/2
+x+1/2,-z,y+1/2
+z+1/2,-x,-y+1/2
+x+1/2,z,-y+1/2
+-z+1/2,x,-y+1/2
+-x+1/2,-z,-y+1/2
+y+1/2,z,x+1/2
+y+1/2,-z,-x+1/2
+z+1/2,y,-x+1/2
+-y+1/2,z,-x+1/2
+-z+1/2,-y,-x+1/2
+-y+1/2,-z,x+1/2
+z+1/2,-y,x+1/2
+-z+1/2,y,x+1/2
+-x+1/2,-y,-z+1/2
+y+1/2,-x,-z+1/2
+x+1/2,y,-z+1/2
+-y+1/2,x,-z+1/2
+-x+1/2,y,z+1/2
+-y+1/2,-x,z+1/2
+x+1/2,-y,z+1/2
+y+1/2,x,z+1/2
+-z+1/2,-x,-y+1/2
+x+1/2,-z,-y+1/2
+z+1/2,x,-y+1/2
+-x+1/2,z,-y+1/2
+-z+1/2,x,y+1/2
+-x+1/2,-z,y+1/2
+z+1/2,-x,y+1/2
+x+1/2,z,y+1/2
+-y+1/2,-z,-x+1/2
+-y+1/2,z,x+1/2
+-z+1/2,-y,x+1/2
+y+1/2,-z,x+1/2
+z+1/2,y,x+1/2
+y+1/2,z,-x+1/2
+-z+1/2,y,-x+1/2
+z+1/2,-y,-x+1/2
+x+1/2,y+1/2,z
+-y+1/2,x+1/2,z
+-x+1/2,-y+1/2,z
+y+1/2,-x+1/2,z
+x+1/2,-y+1/2,-z
+y+1/2,x+1/2,-z
+-x+1/2,y+1/2,-z
+-y+1/2,-x+1/2,-z
+z+1/2,x+1/2,y
+-x+1/2,z+1/2,y
+-z+1/2,-x+1/2,y
+x+1/2,-z+1/2,y
+z+1/2,-x+1/2,-y
+x+1/2,z+1/2,-y
+-z+1/2,x+1/2,-y
+-x+1/2,-z+1/2,-y
+y+1/2,z+1/2,x
+y+1/2,-z+1/2,-x
+z+1/2,y+1/2,-x
+-y+1/2,z+1/2,-x
+-z+1/2,-y+1/2,-x
+-y+1/2,-z+1/2,x
+z+1/2,-y+1/2,x
+-z+1/2,y+1/2,x
+-x+1/2,-y+1/2,-z
+y+1/2,-x+1/2,-z
+x+1/2,y+1/2,-z
+-y+1/2,x+1/2,-z
+-x+1/2,y+1/2,z
+-y+1/2,-x+1/2,z
+x+1/2,-y+1/2,z
+y+1/2,x+1/2,z
+-z+1/2,-x+1/2,-y
+x+1/2,-z+1/2,-y
+z+1/2,x+1/2,-y
+-x+1/2,z+1/2,-y
+-z+1/2,x+1/2,y
+-x+1/2,-z+1/2,y
+z+1/2,-x+1/2,y
+x+1/2,z+1/2,y
+-y+1/2,-z+1/2,-x
+-y+1/2,z+1/2,x
+-z+1/2,-y+1/2,x
+y+1/2,-z+1/2,x
+z+1/2,y+1/2,x
+y+1/2,z+1/2,-x
+-z+1/2,y+1/2,-x
+z+1/2,-y+1/2,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Th1 Th 0.297 0 0 1 0.0
+Mn4 Mn 0.322 0.322 0.322 1 0.0
+Mn3 Mn 0.122 0.122 0.122 1 0.0
+Mn2 Mn 0 0.25 0.25 1 0.0
+Mn1 Mn 0 0 0 1 0.0

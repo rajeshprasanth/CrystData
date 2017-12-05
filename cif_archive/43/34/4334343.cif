@@ -1,0 +1,1274 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-23 21:18:00 +0200 (Wed, 23 Mar 2016) $
+#$Revision: 179446 $
+#$URL: svn://www.crystallography.net/cod/cif/4/33/43/4334343.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4334343
+loop_
+_publ_author_name
+'Shidong Ji'
+'Motoharu Imai'
+'Haikui Zhu'
+'Shoji Yamanaka'
+_publ_contact_author_address
+'Hiroshima University, Higashi-Hiroshima Japan'
+_publ_contact_author_email       syamana@hiroshima-u.ac.jp
+_publ_contact_author_name        'Shoji Yamanaka'
+_publ_section_title
+;
+ Structural Characterization of Magnesium-Based Compounds Mg9Si5 and
+ Mg4Si3Al (Superconductor) Synthesized under High Pressure and High
+ Temperature Conditions
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              3953
+_journal_page_last               3961
+_journal_paper_doi               10.1021/ic3027539
+_journal_volume                  52
+_journal_year                    2013
+_chemical_absolute_configuration unk
+_chemical_compound_source        'synthesis as described'
+_chemical_formula_moiety         'Mg9 Si5'
+_chemical_formula_sum            'Mg9 Si5'
+_chemical_formula_weight         359.24
+_chemical_name_systematic
+;
+ ?
+;
+_space_group_IT_number           173
+_symmetry_cell_setting           hexagonal
+_symmetry_Int_Tables_number      173
+_symmetry_space_group_name_Hall  'P 6c'
+_symmetry_space_group_name_H-M   'P 63'
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_conform_dict_location     ftp://ftp.iucr.org/pub/cif_core.dic
+_audit_conform_dict_name         cif_core.dic
+_audit_conform_dict_version      2.3
+_audit_creation_date             2012-07-16T16:34:03-00:00
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            6
+_cell_length_a                   12.411(1)
+_cell_length_b                   12.411(1)
+_cell_length_c                   12.345(1)
+_cell_measurement_reflns_used    0
+_cell_measurement_temperature    293
+_cell_measurement_theta_max      0
+_cell_measurement_theta_min      0
+_cell_measurement_wavelength     0.71073
+_cell_volume                     1646.8(2)
+_computing_cell_refinement       'Bruker SAINT'
+_computing_data_collection       'Bruker APEX2'
+_computing_data_reduction        'Bruker SAINT'
+_computing_molecular_graphics    'Ortep-3 for Windows (Farrugia, 1997)'
+_computing_publication_material  'WinGX publication routines (Farrugia, 1999)'
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution    'SIR97 (Giacovazzo et al, 1997)'
+_diffrn_ambient_temperature      293
+_diffrn_detector_area_resol_mean 'not relevant'
+_diffrn_measured_fraction_theta_full 0.982
+_diffrn_measured_fraction_theta_max 0.982
+_diffrn_measurement_device_type  'Brucker SMART CCD'
+_diffrn_measurement_method       'phi and omega scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_source         'Bruker TXS fine-focus rotating anode'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_av_R_equivalents  0.0235
+_diffrn_reflns_av_unetI/netI     0.0104
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       -16
+_diffrn_reflns_limit_k_max       16
+_diffrn_reflns_limit_k_min       -16
+_diffrn_reflns_limit_l_max       16
+_diffrn_reflns_limit_l_min       -16
+_diffrn_reflns_number            19989
+_diffrn_reflns_theta_full        29.04
+_diffrn_reflns_theta_max         29.04
+_diffrn_reflns_theta_min         1.89
+_exptl_absorpt_coefficient_mu    1.106
+_exptl_absorpt_correction_T_max  0.895
+_exptl_absorpt_correction_T_min  0.895
+_exptl_absorpt_correction_type   empirical
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    2.173
+_exptl_crystal_description       prism
+_exptl_crystal_F_000             1068
+_exptl_crystal_size_max          0.1
+_exptl_crystal_size_mid          0.1
+_exptl_crystal_size_min          0.1
+_refine_diff_density_max         0.248
+_refine_diff_density_min         -0.212
+_refine_diff_density_rms         0.049
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   10(10)
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.134
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     132
+_refine_ls_number_reflns         1502
+_refine_ls_number_restraints     1
+_refine_ls_restrained_S_all      1.133
+_refine_ls_R_factor_all          0.0198
+_refine_ls_R_factor_gt           0.0149
+_refine_ls_shift/su_max          0
+_refine_ls_shift/su_mean         0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0182P)^2^+0.0304P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0345
+_refine_ls_wR_factor_ref         0.0364
+_reflns_number_gt                1324
+_reflns_number_total             1502
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            ic3027539_si_001.cif
+_cod_data_source_block           struct
+_cod_database_code               4334343
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z+1/2'
+'-y, x-y, z'
+'-x+y, -x, z'
+'x-y, x, z+1/2'
+'y, -x+y, z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Si1 Si 0 0 0.0436(2) 0.0122(6) Uani 0.840(8) 3 d SP
+Si11 Si 0 0 -0.0338(16) 0.039(5) Uani 0.165(8) 3 d SP
+Si2 Si 0 0 0.24926(15) 0.0155(2) Uani 1 3 d S
+Si3 Si 0.33101(3) 0.00368(3) 0.25563(12) 0.00936(10) Uani 1 1 d .
+Si4 Si 0.3333 0.6667 -0.09512(12) 0.0153(3) Uani 1 3 d S
+Si5 Si 0.33633(6) 0.33537(6) 0.41953(9) 0.0094(3) Uani 1 1 d .
+Si6 Si 0.33580(7) 0.33586(7) 0.08964(10) 0.0098(2) Uani 1 1 d .
+Si7 Si 0.3333 0.6667 0.10800(13) 0.0153(3) Uani 1 3 d S
+Si8 Si 0.6667 0.3333 -0.09707(12) 0.0147(3) Uani 1 3 d S
+Si9 Si 0.6667 0.3333 0.10576(13) 0.0151(3) Uani 1 3 d S
+Mg1 Mg 0.24337(5) 0.16983(5) 0.25260(10) 0.01220(12) Uani 1 1 d .
+Mg2 Mg 0.53356(4) 0.40469(4) 0.25416(9) 0.01510(11) Uani 1 1 d .
+Mg3 Mg 0.07734(9) 0.23316(14) 0.09398(6) 0.0161(2) Uani 1 1 d .
+Mg4 Mg 0.82706(11) 0.25280(9) 0.07934(7) 0.0129(2) Uani 1 1 d .
+Mg5 Mg 0.49822(10) 0.58945(9) 0.09015(7) 0.0128(2) Uani 1 1 d .
+Mg6 Mg 0.26560(5) 0.45660(5) 0.25581(10) 0.01528(11) Uani 1 1 d .
+Mg7 Mg 0.25391(10) 0.42593(11) -0.07303(7) 0.0128(2) Uani 1 1 d .
+Mg8 Mg 0.49959(11) 0.40890(10) -0.08112(6) 0.0128(2) Uani 1 1 d .
+Mg9 Mg 0.07211(10) 0.21322(14) 0.41414(6) 0.0183(2) Uani 1 1 d .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Si1 0.0079(4) 0.0079(4) 0.0207(14) 0 0 0.00396(19)
+Si11 0.024(3) 0.024(3) 0.068(15) 0 0 0.0119(13)
+Si2 0.0104(2) 0.0104(2) 0.0255(5) 0 0 0.00521(11)
+Si3 0.01005(19) 0.00986(19) 0.00854(17) -0.0003(2) 0.0000(3) 0.00525(14)
+Si4 0.0100(4) 0.0100(4) 0.0259(8) 0 0 0.00500(19)
+Si5 0.0097(4) 0.0095(4) 0.0089(5) -0.00113(19) -0.00065(18) 0.0049(3)
+Si6 0.0099(4) 0.0095(4) 0.0099(4) 0.00116(16) 0.00070(15) 0.0048(3)
+Si7 0.0108(4) 0.0108(4) 0.0242(7) 0 0 0.00542(18)
+Si8 0.0096(4) 0.0096(4) 0.0251(8) 0 0 0.00479(18)
+Si9 0.0111(4) 0.0111(4) 0.0230(7) 0 0 0.00556(19)
+Mg1 0.0120(2) 0.0119(2) 0.0126(2) 0.0011(4) 0.0010(4) 0.0059(2)
+Mg2 0.0159(2) 0.0125(2) 0.0154(2) 0.0002(4) 0.0009(4) 0.00595(17)
+Mg3 0.0129(4) 0.0202(5) 0.0153(4) -0.0024(3) 0.0004(3) 0.0085(3)
+Mg4 0.0120(4) 0.0118(4) 0.0145(5) -0.0001(3) 0.0018(3) 0.0057(4)
+Mg5 0.0114(4) 0.0116(5) 0.0148(4) -0.0008(3) 0.0015(3) 0.0053(4)
+Mg6 0.0137(2) 0.0159(2) 0.0155(2) 0.0003(5) -0.0004(4) 0.00687(18)
+Mg7 0.0114(4) 0.0130(5) 0.0141(5) 0.0015(3) -0.0002(3) 0.0062(3)
+Mg8 0.0123(5) 0.0127(5) 0.0138(4) -0.0007(3) 0.0007(3) 0.0065(4)
+Mg9 0.0128(4) 0.0256(6) 0.0158(5) 0.0029(4) 0.0003(3) 0.0091(3)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_number_in_cell
+Mg Mg 0.0486 0.0363 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 54
+Si Si 0.0817 0.0704 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 30
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+Si11 Si1 Si2 180 . .
+Si11 Si1 Mg3 103.69(7) . 4
+Si2 Si1 Mg3 76.31(7) . 4
+Si11 Si1 Mg3 103.69(7) . .
+Si2 Si1 Mg3 76.31(7) . .
+Mg3 Si1 Mg3 114.58(5) 4 .
+Si11 Si1 Mg3 103.69(7) . 3
+Si2 Si1 Mg3 76.31(7) . 3
+Mg3 Si1 Mg3 114.58(5) 4 3
+Mg3 Si1 Mg3 114.58(5) . 3
+Si11 Si1 Mg9 55.57(5) . 2_554
+Si2 Si1 Mg9 124.43(5) . 2_554
+Mg3 Si1 Mg9 74.82(4) 4 2_554
+Mg3 Si1 Mg9 159.25(12) . 2_554
+Mg3 Si1 Mg9 74.22(4) 3 2_554
+Si11 Si1 Mg9 55.57(5) . 5_554
+Si2 Si1 Mg9 124.43(5) . 5_554
+Mg3 Si1 Mg9 159.25(12) 4 5_554
+Mg3 Si1 Mg9 74.22(4) . 5_554
+Mg3 Si1 Mg9 74.82(4) 3 5_554
+Mg9 Si1 Mg9 91.17(7) 2_554 5_554
+Si11 Si1 Mg9 55.57(5) . 6_554
+Si2 Si1 Mg9 124.43(5) . 6_554
+Mg3 Si1 Mg9 74.22(4) 4 6_554
+Mg3 Si1 Mg9 74.82(4) . 6_554
+Mg3 Si1 Mg9 159.25(12) 3 6_554
+Mg9 Si1 Mg9 91.17(7) 2_554 6_554
+Mg9 Si1 Mg9 91.17(7) 5_554 6_554
+Si1 Si11 Mg9 105.4(4) . 2_554
+Si1 Si11 Mg9 105.4(4) . 5_554
+Mg9 Si11 Mg9 113.2(4) 2_554 5_554
+Si1 Si11 Mg9 105.4(4) . 6_554
+Mg9 Si11 Mg9 113.2(4) 2_554 6_554
+Mg9 Si11 Mg9 113.2(4) 5_554 6_554
+Si1 Si11 Si2 180 . 2_554
+Mg9 Si11 Si2 74.6(4) 2_554 2_554
+Mg9 Si11 Si2 74.6(4) 5_554 2_554
+Mg9 Si11 Si2 74.6(4) 6_554 2_554
+Si1 Si11 Mg3 58.3(3) . 4
+Mg9 Si11 Mg3 74.62(13) 2_554 4
+Mg9 Si11 Mg3 163.7(8) 5_554 4
+Mg9 Si11 Mg3 74.01(13) 6_554 4
+Si2 Si11 Mg3 121.7(3) 2_554 4
+Si1 Si11 Mg3 58.3(3) . .
+Mg9 Si11 Mg3 163.7(8) 2_554 .
+Mg9 Si11 Mg3 74.01(13) 5_554 .
+Mg9 Si11 Mg3 74.62(13) 6_554 .
+Si2 Si11 Mg3 121.7(3) 2_554 .
+Mg3 Si11 Mg3 94.9(4) 4 .
+Si1 Si11 Mg3 58.3(3) . 3
+Mg9 Si11 Mg3 74.01(13) 2_554 3
+Mg9 Si11 Mg3 74.62(13) 5_554 3
+Mg9 Si11 Mg3 163.7(8) 6_554 3
+Si2 Si11 Mg3 121.7(3) 2_554 3
+Mg3 Si11 Mg3 94.9(4) 4 3
+Mg3 Si11 Mg3 94.9(4) . 3
+Si1 Si2 Si11 180.000(2) . 2
+Si1 Si2 Mg1 90.88(5) . .
+Si11 Si2 Mg1 89.12(5) 2 .
+Si1 Si2 Mg1 90.88(5) . 4
+Si11 Si2 Mg1 89.12(5) 2 4
+Mg1 Si2 Mg1 119.977(3) . 4
+Si1 Si2 Mg1 90.88(5) . 3
+Si11 Si2 Mg1 89.12(5) 2 3
+Mg1 Si2 Mg1 119.977(3) . 3
+Mg1 Si2 Mg1 119.977(3) 4 3
+Si1 Si2 Mg9 131.12(3) . .
+Si11 Si2 Mg9 48.88(3) 2 .
+Mg1 Si2 Mg9 65.64(4) . .
+Mg1 Si2 Mg9 137.95(7) 4 .
+Mg1 Si2 Mg9 68.87(4) 3 .
+Si1 Si2 Mg9 131.12(3) . 4
+Si11 Si2 Mg9 48.88(3) 2 4
+Mg1 Si2 Mg9 68.87(4) . 4
+Mg1 Si2 Mg9 65.64(4) 4 4
+Mg1 Si2 Mg9 137.95(7) 3 4
+Mg9 Si2 Mg9 81.44(4) . 4
+Si1 Si2 Mg9 131.12(3) . 3
+Si11 Si2 Mg9 48.88(3) 2 3
+Mg1 Si2 Mg9 137.95(7) . 3
+Mg1 Si2 Mg9 68.87(4) 4 3
+Mg1 Si2 Mg9 65.64(4) 3 3
+Mg9 Si2 Mg9 81.44(4) . 3
+Mg9 Si2 Mg9 81.44(4) 4 3
+Si1 Si2 Mg3 53.10(3) . 3
+Si11 Si2 Mg3 126.90(3) 2 3
+Mg1 Si2 Mg3 143.94(7) . 3
+Mg1 Si2 Mg3 68.42(4) 4 3
+Mg1 Si2 Mg3 65.61(3) 3 3
+Mg9 Si2 Mg3 134.42(3) . 3
+Mg9 Si2 Mg3 133.81(3) 4 3
+Mg9 Si2 Mg3 78.025(16) 3 3
+Si1 Si2 Mg3 53.10(3) . .
+Si11 Si2 Mg3 126.90(3) 2 .
+Mg1 Si2 Mg3 65.61(3) . .
+Mg1 Si2 Mg3 143.94(7) 4 .
+Mg1 Si2 Mg3 68.42(4) 3 .
+Mg9 Si2 Mg3 78.025(16) . .
+Mg9 Si2 Mg3 134.42(3) 4 .
+Mg9 Si2 Mg3 133.81(3) 3 .
+Mg3 Si2 Mg3 87.66(4) 3 .
+Si1 Si2 Mg3 53.10(3) . 4
+Si11 Si2 Mg3 126.90(3) 2 4
+Mg1 Si2 Mg3 68.42(4) . 4
+Mg1 Si2 Mg3 65.61(3) 4 4
+Mg1 Si2 Mg3 143.94(7) 3 4
+Mg9 Si2 Mg3 133.81(3) . 4
+Mg9 Si2 Mg3 78.025(16) 4 4
+Mg9 Si2 Mg3 134.42(3) 3 4
+Mg3 Si2 Mg3 87.66(4) 3 4
+Mg3 Si2 Mg3 87.66(4) . 4
+Mg8 Si3 Mg3 139.69(4) 6 4
+Mg8 Si3 Mg1 133.00(6) 6 .
+Mg3 Si3 Mg1 74.28(4) 4 .
+Mg8 Si3 Mg5 94.796(17) 6 3_655
+Mg3 Si3 Mg5 72.18(5) 4 3_655
+Mg1 Si3 Mg5 131.40(6) . 3_655
+Mg8 Si3 Mg7 69.81(5) 6 6
+Mg3 Si3 Mg7 141.90(4) 4 6
+Mg1 Si3 Mg7 68.19(3) . 6
+Mg5 Si3 Mg7 140.39(4) 3_655 6
+Mg8 Si3 Mg9 76.29(5) 6 4
+Mg3 Si3 Mg9 90.31(2) 4 4
+Mg1 Si3 Mg9 71.70(4) . 4
+Mg5 Si3 Mg9 141.25(4) 3_655 4
+Mg7 Si3 Mg9 72.23(4) 6 4
+Mg8 Si3 Mg4 140.93(4) 6 4_665
+Mg3 Si3 Mg4 70.91(5) 4 4_665
+Mg1 Si3 Mg4 67.08(3) . 4_665
+Mg5 Si3 Mg4 69.28(5) 3_655 4_665
+Mg7 Si3 Mg4 99.421(18) 6 4_665
+Mg9 Si3 Mg4 137.89(4) 4 4_665
+Mg8 Si3 Mg2 71.38(3) 6 3_655
+Mg3 Si3 Mg2 133.00(6) 4 3_655
+Mg1 Si3 Mg2 111.610(19) . 3_655
+Mg5 Si3 Mg2 70.67(3) 3_655 3_655
+Mg7 Si3 Mg2 69.84(4) 6 3_655
+Mg9 Si3 Mg2 136.55(6) 4 3_655
+Mg4 Si3 Mg2 69.69(4) 4_665 3_655
+Mg8 Si3 Mg6 69.03(4) 6 4
+Mg3 Si3 Mg6 70.69(3) 4 4
+Mg1 Si3 Mg6 128.80(2) . 4
+Mg5 Si3 Mg6 69.27(4) 3_655 4
+Mg7 Si3 Mg6 130.51(6) 6 4
+Mg9 Si3 Mg6 72.37(3) 4 4
+Mg4 Si3 Mg6 129.95(6) 4_665 4
+Mg2 Si3 Mg6 119.575(16) 3_655 4
+Si7 Si4 Mg7 84.10(4) . 4_565
+Si7 Si4 Mg7 84.10(4) . 3_665
+Mg7 Si4 Mg7 118.955(15) 4_565 3_665
+Si7 Si4 Mg7 84.10(4) . .
+Mg7 Si4 Mg7 118.955(15) 4_565 .
+Mg7 Si4 Mg7 118.955(15) 3_665 .
+Si7 Si4 Mg2 129.83(3) . 5_554
+Mg7 Si4 Mg2 70.73(3) 4_565 5_554
+Mg7 Si4 Mg2 146.06(7) 3_665 5_554
+Mg7 Si4 Mg2 72.43(3) . 5_554
+Si7 Si4 Mg2 129.83(3) . 6_564
+Mg7 Si4 Mg2 72.43(3) 4_565 6_564
+Mg7 Si4 Mg2 70.73(3) 3_665 6_564
+Mg7 Si4 Mg2 146.06(7) . 6_564
+Mg2 Si4 Mg2 83.37(4) 5_554 6_564
+Si7 Si4 Mg2 129.83(3) . 2_664
+Mg7 Si4 Mg2 146.06(7) 4_565 2_664
+Mg7 Si4 Mg2 72.43(3) 3_665 2_664
+Mg7 Si4 Mg2 70.73(3) . 2_664
+Mg2 Si4 Mg2 83.37(4) 5_554 2_664
+Mg2 Si4 Mg2 83.37(4) 6_564 2_664
+Mg4 Si5 Mg1 139.01(3) 6_565 .
+Mg4 Si5 Mg5 71.28(5) 6_565 2_665
+Mg1 Si5 Mg5 142.69(3) . 2_665
+Mg4 Si5 Mg7 131.01(6) 6_565 6
+Mg1 Si5 Mg7 69.23(3) . 6
+Mg5 Si5 Mg7 73.60(4) 2_665 6
+Mg4 Si5 Mg8 75.18(3) 6_565 2_665
+Mg1 Si5 Mg8 130.51(6) . 2_665
+Mg5 Si5 Mg8 67.68(3) 2_665 2_665
+Mg7 Si5 Mg8 120.26(3) 6 2_665
+Mg4 Si5 Mg9 70.18(3) 6_565 .
+Mg1 Si5 Mg9 68.88(3) . .
+Mg5 Si5 Mg9 131.55(6) 2_665 .
+Mg7 Si5 Mg9 112.97(5) 6 .
+Mg8 Si5 Mg9 126.78(4) 2_665 .
+Mg4 Si5 Mg3 70.41(4) 6_565 6
+Mg1 Si5 Mg3 97.16(4) . 6
+Mg5 Si5 Mg3 70.15(5) 2_665 6
+Mg7 Si5 Mg3 66.13(3) 6 6
+Mg8 Si5 Mg3 131.98(6) 2_665 6
+Mg9 Si5 Mg3 70.05(3) . 6
+Mg4 Si5 Mg6 90.85(4) 6_565 .
+Mg1 Si5 Mg6 74.98(4) . .
+Mg5 Si5 Mg6 136.28(3) 2_665 .
+Mg7 Si5 Mg6 137.82(5) 6 .
+Mg8 Si5 Mg6 69.26(3) 2_665 .
+Mg9 Si5 Mg6 72.14(3) . .
+Mg3 Si5 Mg6 141.62(3) 6 .
+Mg4 Si5 Mg2 144.07(3) 6_565 .
+Mg1 Si5 Mg2 71.04(4) . .
+Mg5 Si5 Mg2 93.48(3) 2_665 .
+Mg7 Si5 Mg2 70.04(3) 6 .
+Mg8 Si5 Mg2 68.91(3) 2_665 .
+Mg9 Si5 Mg2 134.69(5) . .
+Mg3 Si5 Mg2 135.91(3) 6 .
+Mg6 Si5 Mg2 77.89(4) . .
+Mg1 Si6 Mg7 139.45(4) . .
+Mg1 Si6 Mg8 141.95(4) . .
+Mg7 Si6 Mg8 70.50(5) . .
+Mg1 Si6 Mg4 69.33(3) . 4_665
+Mg7 Si6 Mg4 129.52(7) . 4_665
+Mg8 Si6 Mg4 72.71(4) . 4_665
+Mg1 Si6 Mg5 131.28(6) . .
+Mg7 Si6 Mg5 75.17(4) . .
+Mg8 Si6 Mg5 68.15(4) . .
+Mg4 Si6 Mg5 120.22(4) 4_665 .
+Mg1 Si6 Mg3 71.59(4) . .
+Mg7 Si6 Mg3 67.90(4) . .
+Mg8 Si6 Mg3 130.94(6) . .
+Mg4 Si6 Mg3 117.32(5) 4_665 .
+Mg5 Si6 Mg3 122.44(5) . .
+Mg1 Si6 Mg6 75.25(4) . .
+Mg7 Si6 Mg6 92.23(4) . .
+Mg8 Si6 Mg6 136.98(4) . .
+Mg4 Si6 Mg6 137.98(6) 4_665 .
+Mg5 Si6 Mg6 69.41(3) . .
+Mg3 Si6 Mg6 69.63(3) . .
+Mg1 Si6 Mg2 71.52(4) . .
+Mg7 Si6 Mg2 144.13(4) . .
+Mg8 Si6 Mg2 93.51(3) . .
+Mg4 Si6 Mg2 70.28(3) 4_665 .
+Mg5 Si6 Mg2 69.05(3) . .
+Mg3 Si6 Mg2 135.55(6) . .
+Mg6 Si6 Mg2 77.71(4) . .
+Mg1 Si6 Mg9 94.13(4) . 6_554
+Mg7 Si6 Mg9 70.08(5) . 6_554
+Mg8 Si6 Mg9 73.03(5) . 6_554
+Mg4 Si6 Mg9 66.92(4) 4_665 6_554
+Mg5 Si6 Mg9 134.46(7) . 6_554
+Mg3 Si6 Mg9 69.28(3) . 6_554
+Mg6 Si6 Mg9 138.82(4) . 6_554
+Mg2 Si6 Mg9 137.18(4) . 6_554
+Si4 Si7 Mg5 85.26(4) . 3_665
+Si4 Si7 Mg5 85.26(4) . 4_565
+Mg5 Si7 Mg5 119.325(12) 3_665 4_565
+Si4 Si7 Mg5 85.26(4) . .
+Mg5 Si7 Mg5 119.325(12) 3_665 .
+Mg5 Si7 Mg5 119.325(12) 4_565 .
+Si4 Si7 Mg6 128.37(3) . 4_565
+Mg5 Si7 Mg6 70.00(3) 3_665 4_565
+Mg5 Si7 Mg6 70.32(3) 4_565 4_565
+Mg5 Si7 Mg6 146.37(7) . 4_565
+Si4 Si7 Mg6 128.37(3) . 3_665
+Mg5 Si7 Mg6 70.32(3) 3_665 3_665
+Mg5 Si7 Mg6 146.37(7) 4_565 3_665
+Mg5 Si7 Mg6 70.00(3) . 3_665
+Mg6 Si7 Mg6 85.53(4) 4_565 3_665
+Si4 Si7 Mg6 128.37(3) . .
+Mg5 Si7 Mg6 146.37(7) 3_665 .
+Mg5 Si7 Mg6 70.00(3) 4_565 .
+Mg5 Si7 Mg6 70.32(3) . .
+Mg6 Si7 Mg6 85.53(4) 4_565 .
+Mg6 Si7 Mg6 85.53(4) 3_665 .
+Si9 Si8 Mg8 85.78(4) . 4_665
+Si9 Si8 Mg8 85.78(4) . 3_655
+Mg8 Si8 Mg8 119.465(9) 4_665 3_655
+Si9 Si8 Mg8 85.78(4) . .
+Mg8 Si8 Mg8 119.465(9) 4_665 .
+Mg8 Si8 Mg8 119.465(9) 3_655 .
+Si9 Si8 Mg6 128.24(3) . 5_654
+Mg8 Si8 Mg6 70.25(3) 4_665 5_654
+Mg8 Si8 Mg6 69.25(3) 3_655 5_654
+Mg8 Si8 Mg6 145.97(6) . 5_654
+Si9 Si8 Mg6 128.24(3) . 6_554
+Mg8 Si8 Mg6 145.97(6) 4_665 6_554
+Mg8 Si8 Mg6 70.25(3) 3_655 6_554
+Mg8 Si8 Mg6 69.25(3) . 6_554
+Mg6 Si8 Mg6 85.72(4) 5_654 6_554
+Si9 Si8 Mg6 128.24(3) . 2_664
+Mg8 Si8 Mg6 69.25(3) 4_665 2_664
+Mg8 Si8 Mg6 145.97(6) 3_655 2_664
+Mg8 Si8 Mg6 70.25(3) . 2_664
+Mg6 Si8 Mg6 85.72(4) 5_654 2_664
+Mg6 Si8 Mg6 85.72(4) 6_554 2_664
+Si8 Si9 Mg4 82.95(4) . .
+Si8 Si9 Mg4 82.95(4) . 4_665
+Mg4 Si9 Mg4 118.515(18) . 4_665
+Si8 Si9 Mg4 82.95(4) . 3_655
+Mg4 Si9 Mg4 118.515(18) . 3_655
+Mg4 Si9 Mg4 118.515(18) 4_665 3_655
+Si8 Si9 Mg2 129.39(3) . 4_665
+Mg4 Si9 Mg2 71.55(3) . 4_665
+Mg4 Si9 Mg2 147.65(7) 4_665 4_665
+Mg4 Si9 Mg2 72.87(3) 3_655 4_665
+Si8 Si9 Mg2 129.39(3) . 3_655
+Mg4 Si9 Mg2 72.87(3) . 3_655
+Mg4 Si9 Mg2 71.55(3) 4_665 3_655
+Mg4 Si9 Mg2 147.65(7) 3_655 3_655
+Mg2 Si9 Mg2 84.02(5) 4_665 3_655
+Si8 Si9 Mg2 129.39(3) . .
+Mg4 Si9 Mg2 147.65(7) . .
+Mg4 Si9 Mg2 72.87(3) 4_665 .
+Mg4 Si9 Mg2 71.55(3) 3_655 .
+Mg2 Si9 Mg2 84.02(5) 4_665 .
+Mg2 Si9 Mg2 84.02(5) 3_655 .
+Si2 Mg1 Si6 118.12(5) . .
+Si2 Mg1 Si5 119.32(5) . .
+Si6 Mg1 Si5 97.49(2) . .
+Si2 Mg1 Si3 97.018(18) . .
+Si6 Mg1 Si3 113.83(5) . .
+Si5 Mg1 Si3 112.03(5) . .
+Si2 Mg1 Mg4 121.82(6) . 4_665
+Si6 Mg1 Mg4 56.34(3) . 4_665
+Si5 Mg1 Mg4 118.75(4) . 4_665
+Si3 Mg1 Mg4 57.51(4) . 4_665
+Si2 Mg1 Mg7 123.06(5) . 6
+Si6 Mg1 Mg7 118.68(3) . 6
+Si5 Mg1 Mg7 55.88(3) . 6
+Si3 Mg1 Mg7 56.14(4) . 6
+Mg4 Mg1 Mg7 87.326(18) 4_665 6
+Si2 Mg1 Mg9 63.48(5) . .
+Si6 Mg1 Mg9 114.07(4) . .
+Si5 Mg1 Mg9 57.33(3) . .
+Si3 Mg1 Mg9 131.90(5) . .
+Mg4 Mg1 Mg9 170.10(5) 4_665 .
+Mg7 Mg1 Mg9 96.37(4) 6 .
+Si2 Mg1 Mg3 64.85(5) . .
+Si6 Mg1 Mg3 55.74(3) . .
+Si5 Mg1 Mg3 110.98(3) . .
+Si3 Mg1 Mg3 136.79(6) . .
+Mg4 Mg1 Mg3 97.47(4) 4_665 .
+Mg7 Mg1 Mg3 166.35(4) 6 .
+Mg9 Mg1 Mg3 76.934(19) . .
+Si2 Mg1 Mg9 61.49(4) . 4
+Si6 Mg1 Mg9 167.26(5) . 4
+Si5 Mg1 Mg9 93.13(4) . 4
+Si3 Mg1 Mg9 55.09(4) . 4
+Mg4 Mg1 Mg9 112.10(4) 4_665 4
+Mg7 Mg1 Mg9 62.32(4) 6 4
+Mg9 Mg1 Mg9 77.68(6) . 4
+Mg3 Mg1 Mg9 126.28(3) . 4
+Si2 Mg1 Mg2 173.19(2) . .
+Si6 Mg1 Mg2 58.06(3) . .
+Si5 Mg1 Mg2 57.86(3) . .
+Si3 Mg1 Mg2 89.779(18) . .
+Mg4 Mg1 Mg2 61.79(3) 4_665 .
+Mg7 Mg1 Mg2 61.46(3) 6 .
+Mg9 Mg1 Mg2 112.06(3) . .
+Mg3 Mg1 Mg2 109.66(3) . .
+Mg9 Mg1 Mg2 123.64(3) 4 .
+Si2 Mg1 Mg3 63.05(5) . 4
+Si6 Mg1 Mg3 94.79(5) . 4
+Si5 Mg1 Mg3 163.55(4) . 4
+Si3 Mg1 Mg3 52.50(4) . 4
+Mg4 Mg1 Mg3 60.38(3) 4_665 4
+Mg7 Mg1 Mg3 108.37(3) 6 4
+Mg9 Mg1 Mg3 126.31(3) . 4
+Mg3 Mg1 Mg3 85.02(6) . 4
+Mg9 Mg1 Mg3 73.501(18) 4 4
+Mg2 Mg1 Mg3 121.63(3) . 4
+Si2 Mg1 Mg6 106.868(19) . .
+Si6 Mg1 Mg6 55.38(3) . .
+Si5 Mg1 Mg6 54.89(3) . .
+Si3 Mg1 Mg6 156.09(2) . .
+Mg4 Mg1 Mg6 108.40(3) 4_665 .
+Mg7 Mg1 Mg6 107.59(3) 6 .
+Mg9 Mg1 Mg6 61.74(3) . .
+Mg3 Mg1 Mg6 58.78(3) . .
+Mg9 Mg1 Mg6 137.33(5) 4 .
+Mg2 Mg1 Mg6 66.346(15) . .
+Mg3 Mg1 Mg6 141.49(5) 4 .
+Si3 Mg2 Si9 104.33(3) 4_665 .
+Si3 Mg2 Si4 103.76(3) 4_665 2_665
+Si9 Mg2 Si4 79.22(2) . 2_665
+Si3 Mg2 Si6 105.95(4) 4_665 .
+Si9 Mg2 Si6 89.72(4) . .
+Si4 Mg2 Si6 150.04(2) 2_665 .
+Si3 Mg2 Si5 105.51(4) 4_665 .
+Si9 Mg2 Si5 149.76(2) . .
+Si4 Mg2 Si5 89.05(4) 2_665 .
+Si6 Mg2 Si5 86.769(18) . .
+Si3 Mg2 Mg7 54.27(4) 4_665 2_665
+Si9 Mg2 Mg7 102.30(3) . 2_665
+Si4 Mg2 Mg7 50.95(2) 2_665 2_665
+Si6 Mg2 Mg7 158.69(3) . 2_665
+Si5 Mg2 Mg7 91.22(4) . 2_665
+Si3 Mg2 Mg4 55.11(4) 4_665 3_655
+Si9 Mg2 Mg4 50.93(2) . 3_655
+Si4 Mg2 Mg4 102.64(3) 2_665 3_655
+Si6 Mg2 Mg4 91.23(4) . 3_655
+Si5 Mg2 Mg4 159.07(3) . 3_655
+Mg7 Mg2 Mg4 83.130(18) 2_665 3_655
+Si3 Mg2 Mg5 53.69(3) 4_665 .
+Si9 Mg2 Mg5 96.95(4) . .
+Si4 Mg2 Mg5 155.84(3) 2_665 .
+Si6 Mg2 Mg5 52.54(3) . .
+Si5 Mg2 Mg5 104.52(3) . .
+Mg7 Mg2 Mg5 107.91(3) 2_665 .
+Mg4 Mg2 Mg5 58.86(4) 3_655 .
+Si3 Mg2 Mg8 52.83(3) 4_665 2_665
+Si9 Mg2 Mg8 155.38(3) . 2_665
+Si4 Mg2 Mg8 96.30(4) 2_665 2_665
+Si6 Mg2 Mg8 104.60(3) . 2_665
+Si5 Mg2 Mg8 52.93(3) . 2_665
+Mg7 Mg2 Mg8 58.41(4) 2_665 2_665
+Mg4 Mg2 Mg8 107.87(3) 3_655 2_665
+Mg5 Mg2 Mg8 77.183(15) . 2_665
+Si3 Mg2 Mg7 139.01(5) 4_665 6
+Si9 Mg2 Mg7 100.71(3) . 6
+Si4 Mg2 Mg7 50.21(2) 2_665 6
+Si6 Mg2 Mg7 106.09(3) . 6
+Si5 Mg2 Mg7 52.03(3) . 6
+Mg7 Mg2 Mg7 89.08(4) 2_665 6
+Mg4 Mg2 Mg7 147.35(3) 3_655 6
+Mg5 Mg2 Mg7 152.26(3) . 6
+Mg8 Mg2 Mg7 94.51(4) 2_665 6
+Si3 Mg2 Mg4 139.32(5) 4_665 4_665
+Si9 Mg2 Mg4 50.35(2) . 4_665
+Si4 Mg2 Mg4 101.41(3) 2_665 4_665
+Si6 Mg2 Mg4 51.94(3) . 4_665
+Si5 Mg2 Mg4 106.34(3) . 4_665
+Mg7 Mg2 Mg4 147.69(3) 2_665 4_665
+Mg4 Mg2 Mg4 88.51(4) 3_655 4_665
+Mg5 Mg2 Mg4 93.94(4) . 4_665
+Mg8 Mg2 Mg4 152.61(3) 2_665 4_665
+Mg7 Mg2 Mg4 81.323(18) 6 4_665
+Si3 Mg2 Mg1 141.40(2) 4_665 .
+Si9 Mg2 Mg1 105.28(2) . .
+Si4 Mg2 Mg1 105.62(2) 2_665 .
+Si6 Mg2 Mg1 50.42(3) . .
+Si5 Mg2 Mg1 51.10(3) . .
+Mg7 Mg2 Mg1 138.87(4) 2_665 .
+Mg4 Mg2 Mg1 137.99(4) 3_655 .
+Mg5 Mg2 Mg1 98.42(3) . .
+Mg8 Mg2 Mg1 99.25(3) 2_665 .
+Mg7 Mg2 Mg1 56.32(2) 6 .
+Mg4 Mg2 Mg1 55.95(3) 4_665 .
+Si1 Mg3 Si3 129.13(7) . 3
+Si1 Mg3 Si6 101.62(5) . .
+Si3 Mg3 Si6 113.62(5) 3 .
+Si1 Mg3 Si5 106.90(6) . 5_554
+Si3 Mg3 Si5 94.69(5) 3 5_554
+Si6 Mg3 Si5 109.78(5) . 5_554
+Si1 Mg3 Si11 18.0(3) . .
+Si3 Mg3 Si11 141.6(2) 3 .
+Si6 Mg3 Si11 99.80(5) . .
+Si5 Mg3 Si11 91.0(3) 5_554 .
+Si1 Mg3 Mg7 114.98(6) . .
+Si3 Mg3 Mg7 115.13(6) 3 .
+Si6 Mg3 Mg7 55.00(4) . .
+Si5 Mg3 Mg7 54.79(3) 5_554 .
+Si11 Mg3 Mg7 99.0(3) . .
+Si1 Mg3 Si2 50.59(7) . .
+Si3 Mg3 Si2 86.63(4) 3 .
+Si6 Mg3 Si2 100.43(4) . .
+Si5 Mg3 Si2 146.16(4) 5_554 .
+Si11 Mg3 Si2 68.6(3) . .
+Mg7 Mg3 Si2 151.46(4) . .
+Si1 Mg3 Mg1 78.50(6) . .
+Si3 Mg3 Mg1 94.44(4) 3 .
+Si6 Mg3 Mg1 52.67(3) . .
+Si5 Mg3 Mg1 162.40(4) 5_554 .
+Si11 Mg3 Mg1 91.1(2) . .
+Mg7 Mg3 Mg1 107.64(3) . .
+Si2 Mg3 Mg1 49.54(3) . .
+Si1 Mg3 Mg4 103.51(4) . 1_455
+Si3 Mg3 Mg4 55.90(3) 3 1_455
+Si6 Mg3 Mg4 152.69(6) . 1_455
+Si5 Mg3 Mg4 52.21(3) 5_554 1_455
+Si11 Mg3 Mg4 100.76(6) . 1_455
+Mg7 Mg3 Mg4 103.89(5) . 1_455
+Si2 Mg3 Mg4 103.69(3) . 1_455
+Mg1 Mg3 Mg4 143.98(3) . 1_455
+Si1 Mg3 Mg5 158.23(6) . 4_565
+Si3 Mg3 Mg5 54.33(4) 3 4_565
+Si6 Mg3 Mg5 94.11(5) . 4_565
+Si5 Mg3 Mg5 52.93(3) 5_554 4_565
+Si11 Mg3 Mg5 143.9(3) . 4_565
+Mg7 Mg3 Mg5 62.78(4) . 4_565
+Si2 Mg3 Mg5 140.89(3) . 4_565
+Mg1 Mg3 Mg5 123.24(4) . 4_565
+Mg4 Mg3 Mg5 58.89(3) 1_455 4_565
+Si1 Mg3 Mg6 142.41(7) . .
+Si3 Mg3 Mg6 56.80(3) 3 .
+Si6 Mg3 Mg6 56.93(4) . .
+Si5 Mg3 Mg6 109.44(6) 5_554 .
+Si11 Mg3 Mg6 152.70(14) . .
+Mg7 Mg3 Mg6 79.70(5) . .
+Si2 Mg3 Mg6 99.53(4) . .
+Mg1 Mg3 Mg6 63.94(3) . .
+Mg4 Mg3 Mg6 106.03(5) 1_455 .
+Mg5 Mg3 Mg6 59.30(4) 4_565 .
+Si1 Mg3 Mg9 55.65(6) . 5_554
+Si3 Mg3 Mg9 112.50(5) 3 5_554
+Si6 Mg3 Mg9 132.19(6) . 5_554
+Si5 Mg3 Mg9 54.21(2) 5_554 5_554
+Si11 Mg3 Mg9 44.88(15) . 5_554
+Mg7 Mg3 Mg9 94.02(3) . 5_554
+Si2 Mg3 Mg9 94.10(5) . 5_554
+Mg1 Mg3 Mg9 134.13(7) . 5_554
+Mg4 Mg3 Mg9 58.60(3) 1_455 5_554
+Mg5 Mg3 Mg9 102.59(5) 4_565 5_554
+Mg6 Mg3 Mg9 161.78(7) . 5_554
+Si9 Mg4 Si5 123.17(6) . 5_654
+Si9 Mg4 Si6 99.29(4) . 3_655
+Si5 Mg4 Si6 117.26(5) 5_654 3_655
+Si9 Mg4 Si3 110.78(5) . 3_655
+Si5 Mg4 Si3 96.61(4) 5_654 3_655
+Si6 Mg4 Si3 109.72(5) 3_655 3_655
+Si9 Mg4 Mg1 117.76(4) . 3_655
+Si5 Mg4 Mg1 118.82(5) 5_654 3_655
+Si6 Mg4 Mg1 54.32(4) 3_655 3_655
+Si3 Mg4 Mg1 55.41(3) 3_655 3_655
+Si9 Mg4 Mg5 103.35(4) . 4_665
+Si5 Mg4 Mg5 54.94(3) 5_654 4_665
+Si6 Mg4 Mg5 156.00(5) 3_655 4_665
+Si3 Mg4 Mg5 54.41(3) 3_655 4_665
+Mg1 Mg4 Mg5 106.89(4) 3_655 4_665
+Si9 Mg4 Mg9 136.10(6) . 5_654
+Si5 Mg4 Mg9 56.75(3) 5_654 5_654
+Si6 Mg4 Mg9 60.59(4) 3_655 5_654
+Si3 Mg4 Mg9 112.74(5) 3_655 5_654
+Mg1 Mg4 Mg9 83.49(4) 3_655 5_654
+Mg5 Mg4 Mg9 106.16(4) 4_665 5_654
+Si9 Mg4 Mg3 161.50(5) . 1_655
+Si5 Mg4 Mg3 57.38(3) 5_654 1_655
+Si6 Mg4 Mg3 95.56(4) 3_655 1_655
+Si3 Mg4 Mg3 53.19(3) 3_655 1_655
+Mg1 Mg4 Mg3 63.33(3) 3_655 1_655
+Mg5 Mg4 Mg3 60.73(4) 4_665 1_655
+Mg9 Mg4 Mg3 61.55(2) 5_654 1_655
+Si9 Mg4 Mg2 57.52(3) . 4_665
+Si5 Mg4 Mg2 113.18(4) 5_654 4_665
+Si6 Mg4 Mg2 128.83(5) 3_655 4_665
+Si3 Mg4 Mg2 55.20(2) 3_655 4_665
+Mg1 Mg4 Mg2 94.01(3) 3_655 4_665
+Mg5 Mg4 Mg2 60.62(3) 4_665 4_665
+Mg9 Mg4 Mg2 165.28(5) 5_654 4_665
+Mg3 Mg4 Mg2 104.36(4) 1_655 4_665
+Si9 Mg4 Mg8 72.32(5) . 3_655
+Si5 Mg4 Mg8 95.23(4) 5_654 3_655
+Si6 Mg4 Mg8 53.51(4) 3_655 3_655
+Si3 Mg4 Mg8 162.85(5) 3_655 3_655
+Mg1 Mg4 Mg8 107.79(4) 3_655 3_655
+Mg5 Mg4 Mg8 142.46(4) 4_665 3_655
+Mg9 Mg4 Mg8 64.42(3) 5_654 3_655
+Mg3 Mg4 Mg8 125.86(4) 1_655 3_655
+Mg2 Mg4 Mg8 129.77(5) 4_665 3_655
+Si9 Mg4 Mg2 56.78(3) . 3_655
+Si5 Mg4 Mg2 173.77(5) 5_654 3_655
+Si6 Mg4 Mg2 57.78(3) 3_655 3_655
+Si3 Mg4 Mg2 88.91(4) 3_655 3_655
+Mg1 Mg4 Mg2 62.27(3) 3_655 3_655
+Mg5 Mg4 Mg2 131.19(3) 4_665 3_655
+Mg9 Mg4 Mg2 118.36(3) 5_654 3_655
+Mg3 Mg4 Mg2 125.02(3) 1_655 3_655
+Mg2 Mg4 Mg2 72.38(3) 4_665 3_655
+Mg8 Mg4 Mg2 78.77(3) 3_655 3_655
+Si9 Mg4 Mg8 70.74(5) . 4_665
+Si5 Mg4 Mg8 53.32(2) 5_654 4_665
+Si6 Mg4 Mg8 141.54(5) 3_655 4_665
+Si3 Mg4 Mg8 108.50(4) 3_655 4_665
+Mg1 Mg4 Mg8 163.07(5) 3_655 4_665
+Mg5 Mg4 Mg8 56.18(3) 4_665 4_665
+Mg9 Mg4 Mg8 100.25(3) 5_654 4_665
+Mg3 Mg4 Mg8 103.75(4) 1_655 4_665
+Mg2 Mg4 Mg8 78.15(3) 4_665 4_665
+Mg8 Mg4 Mg8 88.54(5) 3_655 4_665
+Mg2 Mg4 Mg8 127.46(4) 3_655 4_665
+Si7 Mg5 Si5 121.11(5) . 2_664
+Si7 Mg5 Si6 98.96(4) . .
+Si5 Mg5 Si6 112.31(5) 2_664 .
+Si7 Mg5 Si3 114.44(5) . 4_665
+Si5 Mg5 Si3 97.20(4) 2_664 4_665
+Si6 Mg5 Si3 113.72(5) . 4_665
+Si7 Mg5 Mg8 126.94(4) . .
+Si5 Mg5 Mg8 56.57(3) 2_664 .
+Si6 Mg5 Mg8 55.73(4) . .
+Si3 Mg5 Mg8 118.42(3) 4_665 .
+Si7 Mg5 Mg4 164.60(4) . 3_655
+Si5 Mg5 Mg4 53.77(3) 2_664 3_655
+Si6 Mg5 Mg4 96.27(4) . 3_655
+Si3 Mg5 Mg4 56.32(3) 4_665 3_655
+Mg8 Mg5 Mg4 64.63(2) . 3_655
+Si7 Mg5 Mg6 58.97(3) . 3_665
+Si5 Mg5 Mg6 114.40(4) 2_664 3_665
+Si6 Mg5 Mg6 133.17(5) . 3_665
+Si3 Mg5 Mg6 57.13(3) 4_665 3_665
+Mg8 Mg5 Mg6 170.47(3) . 3_665
+Mg4 Mg5 Mg6 108.19(3) 3_655 3_665
+Si7 Mg5 Mg6 58.78(3) . .
+Si5 Mg5 Mg6 168.07(4) 2_664 .
+Si6 Mg5 Mg6 57.58(3) . .
+Si3 Mg5 Mg6 93.13(4) 4_665 .
+Mg8 Mg5 Mg6 112.97(2) . .
+Mg4 Mg5 Mg6 129.77(3) 3_655 .
+Mg6 Mg5 Mg6 76.33(3) 3_665 .
+Si7 Mg5 Mg2 126.91(5) . .
+Si5 Mg5 Mg2 111.98(4) 2_664 .
+Si6 Mg5 Mg2 58.41(3) . .
+Si3 Mg5 Mg2 55.64(3) 4_665 .
+Mg8 Mg5 Mg2 82.12(2) . .
+Mg4 Mg5 Mg2 60.53(3) 3_655 .
+Mg6 Mg5 Mg2 99.98(3) 3_665 .
+Mg6 Mg5 Mg2 69.36(3) . .
+Si7 Mg5 Mg3 104.32(4) . 3_665
+Si5 Mg5 Mg3 56.92(3) 2_664 3_665
+Si6 Mg5 Mg3 156.57(5) . 3_665
+Si3 Mg5 Mg3 53.49(3) 4_665 3_665
+Mg8 Mg5 Mg3 109.92(3) . 3_665
+Mg4 Mg5 Mg3 60.38(3) 3_655 3_665
+Mg6 Mg5 Mg3 60.56(3) 3_665 3_665
+Mg6 Mg5 Mg3 134.90(3) . 3_665
+Mg2 Mg5 Mg3 104.04(3) . 3_665
+Si7 Mg5 Mg7 69.80(5) . 3_665
+Si5 Mg5 Mg7 53.20(2) 2_664 3_665
+Si6 Mg5 Mg7 137.59(5) . 3_665
+Si3 Mg5 Mg7 107.94(4) 4_665 3_665
+Mg8 Mg5 Mg7 97.48(3) . 3_665
+Mg4 Mg5 Mg7 100.19(3) 3_655 3_665
+Mg6 Mg5 Mg7 77.19(3) 3_665 3_665
+Mg6 Mg5 Mg7 128.57(5) . 3_665
+Mg2 Mg5 Mg7 159.00(5) . 3_665
+Mg3 Mg5 Mg7 56.19(3) 3_665 3_665
+Si7 Mg5 Mg7 69.06(5) . .
+Si5 Mg5 Mg7 92.35(3) 2_664 .
+Si6 Mg5 Mg7 51.99(4) . .
+Si3 Mg5 Mg7 165.34(5) 4_665 .
+Mg8 Mg5 Mg7 58.67(3) . .
+Mg4 Mg5 Mg7 123.30(4) 3_655 .
+Mg6 Mg5 Mg7 128.02(5) 3_665 .
+Mg6 Mg5 Mg7 76.39(4) . .
+Mg2 Mg5 Mg7 110.36(4) . .
+Mg3 Mg5 Mg7 140.84(3) 3_665 .
+Mg7 Mg5 Mg7 86.69(4) 3_665 .
+Si3 Mg6 Si5 106.11(4) 3 .
+Si3 Mg6 Si6 105.85(4) 3 .
+Si5 Mg6 Si6 88.74(2) . .
+Si3 Mg6 Si8 103.38(3) 3 2_665
+Si5 Mg6 Si8 90.17(4) . 2_665
+Si6 Mg6 Si8 149.85(3) . 2_665
+Si3 Mg6 Si7 103.30(3) 3 .
+Si5 Mg6 Si7 149.84(3) . .
+Si6 Mg6 Si7 89.58(5) . .
+Si8 Mg6 Si7 76.61(2) 2_665 .
+Si3 Mg6 Mg8 53.17(4) 3 5
+Si5 Mg6 Mg8 93.13(4) . 5
+Si6 Mg6 Mg8 158.56(3) . 5
+Si8 Mg6 Mg8 51.56(2) 2_665 5
+Si7 Mg6 Mg8 99.20(3) . 5
+Si3 Mg6 Mg5 53.60(4) 3 4_565
+Si5 Mg6 Mg5 159.12(3) . 4_565
+Si6 Mg6 Mg5 92.42(4) . 4_565
+Si8 Mg6 Mg5 99.04(3) 2_665 4_565
+Si7 Mg6 Mg5 51.03(2) . 4_565
+Mg8 Mg6 Mg5 78.430(17) 5 4_565
+Si3 Mg6 Mg8 141.16(5) 3 2_665
+Si5 Mg6 Mg8 53.62(3) . 2_665
+Si6 Mg6 Mg8 106.21(3) . 2_665
+Si8 Mg6 Mg8 51.13(2) 2_665 2_665
+Si7 Mg6 Mg8 98.29(3) . 2_665
+Mg8 Mg6 Mg8 91.93(4) 5 2_665
+Mg5 Mg6 Mg8 144.56(4) 4_565 2_665
+Si3 Mg6 Mg5 140.38(5) 3 .
+Si5 Mg6 Mg5 106.25(3) . .
+Si6 Mg6 Mg5 53.00(3) . .
+Si8 Mg6 Mg5 98.75(3) 2_665 .
+Si7 Mg6 Mg5 50.90(2) . .
+Mg8 Mg6 Mg5 145.13(3) 5 .
+Mg5 Mg6 Mg5 90.91(4) 4_565 .
+Mg8 Mg6 Mg5 77.665(18) 2_665 .
+Si3 Mg6 Mg3 52.50(3) 3 .
+Si5 Mg6 Mg3 105.01(4) . .
+Si6 Mg6 Mg3 53.45(3) . .
+Si8 Mg6 Mg3 153.99(3) 2_665 .
+Si7 Mg6 Mg3 98.01(5) . .
+Mg8 Mg6 Mg3 105.66(3) 5 .
+Mg5 Mg6 Mg3 60.14(4) 4_565 .
+Mg8 Mg6 Mg3 153.69(4) 2_665 .
+Mg5 Mg6 Mg3 97.08(4) . .
+Si3 Mg6 Mg9 53.03(3) 3 .
+Si5 Mg6 Mg9 53.08(3) . .
+Si6 Mg6 Mg9 102.03(3) . .
+Si8 Mg6 Mg9 101.29(4) 2_665 .
+Si7 Mg6 Mg9 155.582(19) . .
+Mg8 Mg6 Mg9 63.07(4) 5 .
+Mg5 Mg6 Mg9 106.45(3) 4_565 .
+Mg8 Mg6 Mg9 98.93(4) 2_665 .
+Mg5 Mg6 Mg9 150.88(3) . .
+Mg3 Mg6 Mg9 73.04(2) . .
+Si3 Mg6 Mg1 87.325(18) 3 .
+Si5 Mg6 Mg1 50.13(3) . .
+Si6 Mg6 Mg1 49.37(3) . .
+Si8 Mg6 Mg1 140.16(4) 2_665 .
+Si7 Mg6 Mg1 138.77(4) . .
+Mg8 Mg6 Mg1 118.15(4) 5 .
+Mg5 Mg6 Mg1 117.42(3) 4_565 .
+Mg8 Mg6 Mg1 97.29(3) 2_665 .
+Mg5 Mg6 Mg1 96.30(3) . .
+Mg3 Mg6 Mg1 57.28(3) . .
+Mg9 Mg6 Mg1 55.08(2) . .
+Si4 Mg7 Si6 122.17(6) . .
+Si4 Mg7 Si5 99.08(4) . 5_554
+Si6 Mg7 Si5 116.18(5) . 5_554
+Si4 Mg7 Si3 112.49(5) . 5_554
+Si6 Mg7 Si3 96.77(5) . 5_554
+Si5 Mg7 Si3 110.55(5) 5_554 5_554
+Si4 Mg7 Mg3 131.44(7) . .
+Si6 Mg7 Mg3 57.10(3) . .
+Si5 Mg7 Mg3 59.08(3) 5_554 .
+Si3 Mg7 Mg3 115.77(5) 5_554 .
+Si4 Mg7 Mg1 118.40(4) . 5_554
+Si6 Mg7 Mg1 119.32(4) . 5_554
+Si5 Mg7 Mg1 54.88(4) 5_554 5_554
+Si3 Mg7 Mg1 55.67(3) 5_554 5_554
+Mg3 Mg7 Mg1 85.66(4) . 5_554
+Si4 Mg7 Mg8 104.15(5) . .
+Si6 Mg7 Mg8 55.03(3) . .
+Si5 Mg7 Mg8 155.95(6) 5_554 .
+Si3 Mg7 Mg8 54.38(3) 5_554 .
+Mg3 Mg7 Mg8 107.69(4) . .
+Mg1 Mg7 Mg8 107.21(4) 5_554 .
+Si4 Mg7 Mg2 58.32(3) . 2_664
+Si6 Mg7 Mg2 113.78(5) . 2_664
+Si5 Mg7 Mg2 129.52(4) 5_554 2_664
+Si3 Mg7 Mg2 55.89(2) 5_554 2_664
+Mg3 Mg7 Mg2 168.49(5) . 2_664
+Mg1 Mg7 Mg2 94.19(3) 5_554 2_664
+Mg8 Mg7 Mg2 61.34(3) . 2_664
+Si4 Mg7 Mg2 57.36(3) . 5_554
+Si6 Mg7 Mg2 172.49(5) . 5_554
+Si5 Mg7 Mg2 57.93(3) 5_554 5_554
+Si3 Mg7 Mg2 89.99(4) 5_554 5_554
+Mg3 Mg7 Mg2 116.85(4) . 5_554
+Mg1 Mg7 Mg2 62.21(2) 5_554 5_554
+Mg8 Mg7 Mg2 132.32(4) . 5_554
+Mg2 Mg7 Mg2 72.79(3) 2_664 5_554
+Si4 Mg7 Mg5 71.19(5) . 4_565
+Si6 Mg7 Mg5 94.23(4) . 4_565
+Si5 Mg7 Mg5 53.20(3) 5_554 4_565
+Si3 Mg7 Mg5 163.45(5) 5_554 4_565
+Mg3 Mg7 Mg5 61.03(3) . 4_565
+Mg1 Mg7 Mg5 108.01(4) 5_554 4_565
+Mg8 Mg7 Mg5 141.75(4) . 4_565
+Mg2 Mg7 Mg5 129.43(5) 2_664 4_565
+Mg2 Mg7 Mg5 78.47(4) 5_554 4_565
+Si4 Mg7 Mg9 165.79(6) . 6_554
+Si6 Mg7 Mg9 59.20(3) . 6_554
+Si5 Mg7 Mg9 91.87(4) 5_554 6_554
+Si3 Mg7 Mg9 54.60(3) 5_554 6_554
+Mg3 Mg7 Mg9 62.29(3) . 6_554
+Mg1 Mg7 Mg9 61.35(3) 5_554 6_554
+Mg8 Mg7 Mg9 64.22(3) . 6_554
+Mg2 Mg7 Mg9 107.61(4) 2_664 6_554
+Mg2 Mg7 Mg9 123.42(4) 5_554 6_554
+Mg5 Mg7 Mg9 122.94(4) 4_565 6_554
+Si4 Mg7 Mg5 70.44(5) . .
+Si6 Mg7 Mg5 52.85(3) . .
+Si5 Mg7 Mg5 140.12(5) 5_554 .
+Si3 Mg7 Mg5 108.93(4) 5_554 .
+Mg3 Mg7 Mg5 98.32(3) . .
+Mg1 Mg7 Mg5 163.71(5) 5_554 .
+Mg8 Mg7 Mg5 56.52(3) . .
+Mg2 Mg7 Mg5 78.76(4) 2_664 .
+Mg2 Mg7 Mg5 127.74(4) 5_554 .
+Mg5 Mg7 Mg5 87.58(5) 4_565 .
+Mg9 Mg7 Mg5 106.50(4) 6_554 .
+Si8 Mg8 Si3 115.28(4) . 5_554
+Si8 Mg8 Si6 121.04(5) . .
+Si3 Mg8 Si6 97.46(5) 5_554 .
+Si8 Mg8 Si5 98.42(4) . 2_664
+Si3 Mg8 Si5 113.66(5) 5_554 2_664
+Si6 Mg8 Si5 111.86(5) . 2_664
+Si8 Mg8 Mg5 126.24(4) . .
+Si3 Mg8 Mg5 118.26(3) 5_554 .
+Si6 Mg8 Mg5 56.12(3) . .
+Si5 Mg8 Mg5 55.74(3) 2_664 .
+Si8 Mg8 Mg7 165.43(5) . .
+Si3 Mg8 Mg7 55.81(3) 5_554 .
+Si6 Mg8 Mg7 54.47(3) . .
+Si5 Mg8 Mg7 95.96(5) 2_664 .
+Mg5 Mg8 Mg7 64.81(3) . .
+Si8 Mg8 Mg6 59.19(3) . 6_554
+Si3 Mg8 Mg6 57.80(2) 5_554 6_554
+Si6 Mg8 Mg6 114.90(4) . 6_554
+Si5 Mg8 Mg6 133.15(4) 2_664 6_554
+Mg5 Mg8 Mg6 170.66(3) . 6_554
+Mg7 Mg8 Mg6 108.54(3) . 6_554
+Si8 Mg8 Mg6 58.61(3) . 2_664
+Si3 Mg8 Mg6 93.85(4) 5_554 2_664
+Si6 Mg8 Mg6 166.96(5) . 2_664
+Si5 Mg8 Mg6 57.12(3) 2_664 2_664
+Mg5 Mg8 Mg6 112.46(3) . 2_664
+Mg7 Mg8 Mg6 129.43(4) . 2_664
+Mg6 Mg8 Mg6 76.75(3) 6_554 2_664
+Si8 Mg8 Mg2 126.74(4) . 2_664
+Si3 Mg8 Mg2 55.79(3) 5_554 2_664
+Si6 Mg8 Mg2 112.20(4) . 2_664
+Si5 Mg8 Mg2 58.16(3) 2_664 2_664
+Mg5 Mg8 Mg2 82.15(3) . 2_664
+Mg7 Mg8 Mg2 60.24(3) . 2_664
+Mg6 Mg8 Mg2 100.42(3) 6_554 2_664
+Mg6 Mg8 Mg2 69.28(2) 2_664 2_664
+Si8 Mg8 Mg4 69.48(4) . 4_665
+Si3 Mg8 Mg4 108.09(4) 5_554 4_665
+Si6 Mg8 Mg4 53.78(3) . 4_665
+Si5 Mg8 Mg4 137.55(5) 2_664 4_665
+Mg5 Mg8 Mg4 97.73(2) . 4_665
+Mg7 Mg8 Mg4 101.14(3) . 4_665
+Mg6 Mg8 Mg4 76.69(4) 6_554 4_665
+Mg6 Mg8 Mg4 128.09(4) 2_664 4_665
+Mg2 Mg8 Mg4 159.64(5) 2_664 4_665
+Si8 Mg8 Mg4 67.97(5) . 3_655
+Si3 Mg8 Mg4 164.65(5) 5_554 3_655
+Si6 Mg8 Mg4 92.81(3) . 3_655
+Si5 Mg8 Mg4 51.50(3) 2_664 3_655
+Mg5 Mg8 Mg4 59.19(3) . 3_655
+Mg7 Mg8 Mg4 123.99(5) . 3_655
+Mg6 Mg8 Mg4 127.13(5) 6_554 3_655
+Mg6 Mg8 Mg4 74.85(4) 2_664 3_655
+Mg2 Mg8 Mg4 109.65(4) 2_664 3_655
+Mg4 Mg8 Mg4 87.19(4) 4_665 3_655
+Si8 Mg8 Mg9 105.49(5) . 6_554
+Si3 Mg8 Mg9 53.15(3) 5_554 6_554
+Si6 Mg8 Mg9 57.23(3) . 6_554
+Si5 Mg8 Mg9 155.95(5) 2_664 6_554
+Mg5 Mg8 Mg9 109.54(2) . 6_554
+Mg7 Mg8 Mg9 60.05(2) . 6_554
+Mg6 Mg8 Mg9 61.16(3) 6_554 6_554
+Mg6 Mg8 Mg9 135.71(4) 2_664 6_554
+Mg2 Mg8 Mg9 103.82(3) 2_664 6_554
+Mg4 Mg8 Mg9 56.86(3) 4_665 6_554
+Mg4 Mg8 Mg9 141.92(3) 3_655 6_554
+Si11 Mg9 Si1 19.0(4) 2 2
+Si11 Mg9 Si3 134.1(3) 2 3
+Si1 Mg9 Si3 145.93(5) 2 3
+Si11 Mg9 Si5 105.93(6) 2 .
+Si1 Mg9 Si5 103.11(4) 2 .
+Si3 Mg9 Si5 109.38(5) 3 .
+Si11 Mg9 Si6 108.6(4) 2 5
+Si1 Mg9 Si6 91.78(5) 2 5
+Si3 Mg9 Si6 89.28(5) 3 5
+Si5 Mg9 Si6 105.50(5) . 5
+Si11 Mg9 Si2 56.5(4) 2 .
+Si1 Mg9 Si2 75.56(6) 2 .
+Si3 Mg9 Si2 86.96(4) 3 .
+Si5 Mg9 Si2 103.57(4) . .
+Si6 Mg9 Si2 150.25(4) 5 .
+Si11 Mg9 Mg1 83.9(3) 2 .
+Si1 Mg9 Mg1 97.05(6) 2 .
+Si3 Mg9 Mg1 93.96(4) 3 .
+Si5 Mg9 Mg1 53.79(3) . .
+Si6 Mg9 Mg1 158.86(4) 5 .
+Si2 Mg9 Mg1 50.88(2) . .
+Si11 Mg9 Mg4 117.1(4) 2 6_565
+Si1 Mg9 Mg4 100.06(5) 2 6_565
+Si3 Mg9 Mg4 107.39(5) 3 6_565
+Si5 Mg9 Mg4 53.08(3) . 6_565
+Si6 Mg9 Mg4 52.49(3) 5 6_565
+Si2 Mg9 Mg4 155.26(4) . 6_565
+Mg1 Mg9 Mg4 106.84(3) . 6_565
+Si11 Mg9 Mg1 81.0(3) 2 3
+Si1 Mg9 Mg1 94.09(6) 2 3
+Si3 Mg9 Mg1 53.21(2) 3 3
+Si5 Mg9 Mg1 143.29(4) . 3
+Si6 Mg9 Mg1 106.11(4) 5 3
+Si2 Mg9 Mg1 49.64(2) . 3
+Mg1 Mg9 Mg1 92.43(4) . 3
+Mg4 Mg9 Mg1 154.31(5) 6_565 3
+Si11 Mg9 Mg3 61.1(3) 2 6
+Si1 Mg9 Mg3 50.13(5) 2 6
+Si3 Mg9 Mg3 163.93(7) 3 6
+Si5 Mg9 Mg3 55.73(3) . 6
+Si6 Mg9 Mg3 89.44(3) 5 6
+Si2 Mg9 Mg3 101.87(5) . 6
+Mg1 Mg9 Mg3 81.69(4) . 6
+Mg4 Mg9 Mg3 59.84(3) 6_565 6
+Mg1 Mg9 Mg3 142.02(7) 3 6
+Si11 Mg9 Mg7 106.72(7) 2 5
+Si1 Mg9 Mg7 103.29(4) 2 5
+Si3 Mg9 Mg7 53.17(3) 3 5
+Si5 Mg9 Mg7 144.67(6) . 5
+Si6 Mg9 Mg7 50.73(3) 5 5
+Si2 Mg9 Mg7 105.43(4) . 5
+Mg1 Mg9 Mg7 143.34(4) . 5
+Mg4 Mg9 Mg7 99.28(4) 6_565 5
+Mg1 Mg9 Mg7 56.33(3) 3 5
+Mg3 Mg9 Mg7 134.44(4) 6 5
+Si11 Mg9 Mg3 60.7(3) 2 5
+Si1 Mg9 Mg3 49.86(4) 2 5
+Si3 Mg9 Mg3 107.70(5) 3 5
+Si5 Mg9 Mg3 135.92(5) . 5
+Si6 Mg9 Mg3 52.08(2) 5 5
+Si2 Mg9 Mg3 101.36(5) . 5
+Mg1 Mg9 Mg3 144.42(7) . 5
+Mg4 Mg9 Mg3 93.47(3) 6_565 5
+Mg1 Mg9 Mg3 79.39(4) 3 5
+Mg3 Mg9 Mg3 83.94(6) 6 5
+Mg7 Mg9 Mg3 55.49(3) 5 5
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si1 Si11 0.956(17) .
+Si1 Si2 2.539(3) .
+Si1 Mg3 2.6276(16) 4
+Si1 Mg3 2.6276(16) .
+Si1 Mg3 2.6276(16) 3
+Si1 Mg9 2.827(2) 2_554
+Si1 Mg9 2.827(2) 5_554
+Si1 Mg9 2.827(2) 6_554
+Si11 Mg9 2.418(5) 2_554
+Si11 Mg9 2.418(5) 5_554
+Si11 Mg9 2.418(5) 6_554
+Si11 Si2 2.678(19) 2_554
+Si11 Mg3 3.001(10) 4
+Si11 Mg3 3.001(10) .
+Si11 Mg3 3.001(10) 3
+Si2 Si11 2.678(19) 2
+Si2 Mg1 2.6835(6) .
+Si2 Mg1 2.6835(6) 4
+Si2 Mg1 2.6835(6) 3
+Si2 Mg9 3.0948(19) .
+Si2 Mg9 3.0948(19) 4
+Si2 Mg9 3.0948(19) 3
+Si2 Mg3 3.193(2) 3
+Si2 Mg3 3.193(2) .
+Si2 Mg3 3.193(2) 4
+Si3 Mg8 2.7387(16) 6
+Si3 Mg3 2.7449(17) 4
+Si3 Mg1 2.7711(7) .
+Si3 Mg5 2.7746(17) 3_655
+Si3 Mg7 2.7867(18) 6
+Si3 Mg9 2.8376(17) 4
+Si3 Mg4 2.8393(18) 4_665
+Si3 Mg2 2.8421(6) 3_655
+Si3 Mg6 2.8951(7) 4
+Si4 Si7 2.5075(19) .
+Si4 Mg7 2.6510(12) 4_565
+Si4 Mg7 2.6510(12) 3_665
+Si4 Mg7 2.6510(12) .
+Si4 Mg2 2.9049(13) 5_554
+Si4 Mg2 2.9049(13) 6_564
+Si4 Mg2 2.9049(13) 2_664
+Si5 Mg4 2.7180(15) 6_565
+Si5 Mg1 2.7255(15) .
+Si5 Mg5 2.7582(15) 2_665
+Si5 Mg7 2.7586(12) 6
+Si5 Mg8 2.7852(13) 2_665
+Si5 Mg9 2.8433(13) .
+Si5 Mg3 2.8966(15) 6
+Si5 Mg6 2.9051(14) .
+Si5 Mg2 2.9654(13) .
+Si6 Mg1 2.6917(16) .
+Si6 Mg7 2.7298(17) .
+Si6 Mg8 2.7487(16) .
+Si6 Mg4 2.7581(12) 4_665
+Si6 Mg5 2.7613(13) .
+Si6 Mg3 2.7979(13) .
+Si6 Mg6 2.9186(15) .
+Si6 Mg2 2.9634(14) .
+Si6 Mg9 3.0288(16) 6_554
+Si7 Mg5 2.6675(11) 3_665
+Si7 Mg5 2.6675(11) 4_565
+Si7 Mg5 2.6675(11) .
+Si7 Mg6 2.9397(14) 4_565
+Si7 Mg6 2.9397(14) 3_665
+Si7 Mg6 2.9397(14) .
+Si8 Si9 2.5039(19) .
+Si8 Mg8 2.6763(11) 4_665
+Si8 Mg8 2.6763(11) 3_655
+Si8 Mg8 2.6763(11) .
+Si8 Mg6 2.9345(12) 5_654
+Si8 Mg6 2.9345(12) 6_554
+Si8 Mg6 2.9344(12) 2_664
+Si9 Mg4 2.6566(11) .
+Si9 Mg4 2.6566(11) 4_665
+Si9 Mg4 2.6566(11) 3_655
+Si9 Mg2 2.8866(13) 4_665
+Si9 Mg2 2.8866(13) 3_655
+Si9 Mg2 2.8866(13) .
+Mg1 Mg4 3.1003(13) 4_665
+Mg1 Mg7 3.1155(10) 6
+Mg1 Mg9 3.1510(13) .
+Mg1 Mg3 3.2121(12) .
+Mg1 Mg9 3.2853(12) 4
+Mg1 Mg2 3.3121(8) .
+Mg1 Mg3 3.3305(12) 4
+Mg1 Mg6 3.4297(8) .
+Mg2 Si3 2.8421(6) 4_665
+Mg2 Si4 2.9049(13) 2_665
+Mg2 Mg7 3.2222(13) 2_665
+Mg2 Mg4 3.2460(12) 3_655
+Mg2 Mg5 3.2489(13) .
+Mg2 Mg8 3.2571(12) 2_665
+Mg2 Mg7 3.2889(15) 6
+Mg2 Mg4 3.2973(13) 4_665
+Mg3 Si3 2.7449(17) 3
+Mg3 Si5 2.8966(15) 5_554
+Mg3 Mg7 3.0877(12) .
+Mg3 Mg4 3.2401(15) 1_455
+Mg3 Mg5 3.2514(18) 4_565
+Mg3 Mg6 3.2650(14) .
+Mg3 Mg9 3.2948(14) 5_554
+Mg4 Si5 2.7180(15) 5_654
+Mg4 Si6 2.7582(12) 3_655
+Mg4 Si3 2.8393(18) 3_655
+Mg4 Mg1 3.1003(13) 3_655
+Mg4 Mg5 3.1913(17) 4_665
+Mg4 Mg9 3.1985(13) 5_654
+Mg4 Mg3 3.2401(15) 1_655
+Mg4 Mg2 3.2460(12) 4_665
+Mg4 Mg8 3.2643(15) 3_655
+Mg4 Mg2 3.2973(13) 3_655
+Mg4 Mg8 3.3575(15) 4_665
+Mg5 Si5 2.7583(15) 2_664
+Mg5 Si3 2.7746(17) 4_665
+Mg5 Mg8 3.0872(7) .
+Mg5 Mg4 3.1913(17) 3_655
+Mg5 Mg6 3.2239(12) 3_665
+Mg5 Mg6 3.2367(12) .
+Mg5 Mg3 3.2514(18) 3_665
+Mg5 Mg7 3.3047(16) 3_665
+Mg5 Mg7 3.3492(14) .
+Mg6 Si3 2.8951(7) 3
+Mg6 Si8 2.9344(12) 2_665
+Mg6 Mg8 3.1949(13) 5
+Mg6 Mg5 3.2239(12) 4_565
+Mg6 Mg8 3.2353(14) 2_665
+Mg6 Mg9 3.3849(11) .
+Mg7 Si5 2.7586(12) 5_554
+Mg7 Si3 2.7867(18) 5_554
+Mg7 Mg1 3.1155(10) 5_554
+Mg7 Mg8 3.162(2) .
+Mg7 Mg2 3.2222(13) 2_664
+Mg7 Mg2 3.2889(15) 5_554
+Mg7 Mg5 3.3047(16) 4_565
+Mg7 Mg9 3.3152(19) 6_554
+Mg8 Si3 2.7387(16) 5_554
+Mg8 Si5 2.7852(13) 2_664
+Mg8 Mg6 3.1949(13) 6_554
+Mg8 Mg6 3.2353(14) 2_664
+Mg8 Mg2 3.2571(12) 2_664
+Mg8 Mg4 3.2643(15) 4_665
+Mg8 Mg4 3.3575(15) 3_655
+Mg8 Mg9 3.4452(19) 6_554
+Mg9 Si11 2.418(5) 2
+Mg9 Si1 2.827(2) 2
+Mg9 Si3 2.8376(17) 3
+Mg9 Si6 3.0288(16) 5
+Mg9 Mg4 3.1985(13) 6_565
+Mg9 Mg1 3.2853(12) 3
+Mg9 Mg3 3.2948(14) 6
+Mg9 Mg7 3.3152(19) 5
+Mg9 Mg3 3.3174(14) 5

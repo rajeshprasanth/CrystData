@@ -1,0 +1,148 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 16:26:36 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176435 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/80/1518051.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1518051
+loop_
+_publ_author_name
+'Belin, Claude'
+_publ_section_title
+;
+ Synthesis and crystal structure of thr nonstoichiometric phase LiGa3.42
+;
+_journal_name_full               'Revue de Chimie Minerale'
+_journal_page_first              263
+_journal_page_last               272
+_journal_volume                  21
+_journal_year                    1984
+_chemical_formula_sum            'Ga3.42 Li'
+_chemical_formula_weight         245.394
+_space_group_IT_number           63
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      63
+_symmetry_space_group_name_Hall  '-C 2c 2'
+_symmetry_space_group_name_H-M   'C m c m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            64
+_cell_length_a                   13.860(4)
+_cell_length_b                   30.519(7)
+_cell_length_c                   13.729(3)
+_cell_volume                     5807(2)
+_diffrn_ambient_temperature      293
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71069
+_exptl_absorpt_coefficient_mu    24.866
+_exptl_crystal_density_diffrn    4.488
+_exptl_crystal_F_000             6974
+_refine_ls_number_parameters     178
+_refine_ls_number_reflns         1639
+_refine_ls_R_factor_gt           0.066
+_refine_ls_wR_factor_gt          0.094
+_cod_data_source_file            RCM-1984-21-263-272.cif
+_cod_data_source_block           LiGa3.42
+_cod_original_formula_sum        'Li Ga3.42'
+_cod_database_code               1518051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 x,y,1/2-z
+7 -x,y,z
+8 x,-y,1/2+z
+9 1/2+x,1/2+y,z
+10 1/2-x,1/2-y,1/2+z
+11 1/2+x,1/2-y,-z
+12 1/2-x,1/2+y,1/2-z
+13 1/2-x,1/2-y,-z
+14 1/2+x,1/2+y,1/2-z
+15 1/2-x,1/2+y,z
+16 1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_thermal_displace_type
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ga2 Ga Uiso 0.1890(2) 0.11158(7) 0.3442(2) 1.000 0.0106(8)
+Ga4 Ga Uiso 0.0923(2) 0.05420(7) 0.4179(2) 1.000 0.0243(9)
+Ga11 Ga Uiso 0.50000 0.42540(10) 0.4150(3) 1.000 0.0203(9)
+Ga15 Ga Uiso 0.50000 0.4971(3) 0.3377(6) 0.392 0.010(3)
+Ga14 Ga Uiso 0.50000 0.9808(2) 0.4227(5) 0.537 0.0177(13)
+Ga10 Ga Uiso 0.0901(6) 0.3134(2) 0.3083(8) 0.384 0.049(3)
+Ga1 Ga Uiso 0.1851(2) 0.19197(7) 0.4072(2) 1.000 0.0109(8)
+Ga3 Ga Uiso 0.3499(2) 0.22414(7) 0.1572(2) 1.000 0.0114(8)
+Ga5 Ga Uiso 0.1447(2) 0.35666(7) 0.5963(2) 1.000 0.0124(8)
+Ga6 Ga Uiso 0.0932(2) 0.38680(9) 0.4300(2) 1.000 0.0244(10)
+Ga7 Ga Uiso 0.1824(2) 0.45169(8) 0.3482(2) 1.000 0.0141(10)
+Ga8 Ga Uiso 0.3448(2) 0.47551(8) 0.4146(2) 1.000 0.0237(10)
+Ga9 Ga Uiso 0.4064(2) 0.28859(7) 0.4412(2) 1.000 0.0108(8)
+Ga12 Ga Uiso 0.50000 0.34880(10) 0.3438(2) 1.000 0.0119(9)
+Ga13 Ga Uiso 0.50000 0.8228(2) 0.3507(5) 0.648 0.048(3)
+Ga16 Ga Uiso 0.3560(3) 0.09430(10) 0.25000 1.000 0.0129(9)
+Ga17 Ga Uiso 0.0886(2) 0.17030(10) 0.25000 1.000 0.0098(9)
+Ga18 Ga Uiso 0.6813(3) 0.74520(10) 0.25000 1.000 0.0215(11)
+Ga19 Ga Uiso 0.1990(4) 0.3725(2) 0.25000 1.000 0.051(3)
+Ga20 Ga Uiso 0.9012(2) 0.51320(10) 0.25000 1.000 0.0131(9)
+Li1 Li Uiso 0.195(5) 0.458(2) 0.546(6) 1.000 0.013(13)
+Li2 Li Uiso 0.50000 0.797(2) 0.532(4) 1.000 0.025(13)
+Li3 Li Uiso 0.50000 0.359(2) 0.554(4) 1.000 0.025(13)
+Li4 Li Uiso 0.50000 0.262(2) 0.633(4) 1.000 0.06(3)
+Li5 Li Uiso 0.347(4) 0.312(2) 0.25000 1.000 0.013(13)
+Li6 Li Uiso 0.712(6) 0.522(3) 0.25000 1.000 0.025(13)
+Li7 Li Uiso 0.00000 0.667(2) 0.25000 1.000 0.038(13)
+Li8 Li Uiso 0.00000 0.408(3) 0.25000 1.000 0.09(3)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Ga Ga 0.2307 1.6083 ' International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Li Li -0.0003 0.0001 ' International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+Ga2 Ga4 Ga15 128.4(2) . 9_445 yes
+Ga11 Ga15 Ga15 115.9(4) . 4_655 yes
+Ga4 Ga15 Ga11 116.6(3) 9_555 . yes
+Ga4 Ga15 Ga11 116.6(3) 15_555 . yes
+Ga4 Ga15 Ga15 117.0(4) 9_555 4_655 yes
+Ga4 Ga15 Ga15 117.0(4) 15_555 4_655 yes
+Ga4 Ga15 Ga4 63.7(2) 9_555 15_555 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Ga2 Ga4 2.426(4) . . yes
+Ga4 Ga15 2.426(8) 15_555 . yes
+Ga4 Ga15 2.426(8) 9_555 . yes
+Ga11 Ga15 2.432(10) . . yes
+Ga15 Ga15 2.408(12) . 4_655 yes
+Ga14 Ga14 2.425(9) . 3_576 yes
+Ga10 Ga10 1.601(16) . 6_555 yes

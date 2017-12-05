@@ -1,0 +1,69 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-13 03:08:28 +0300 (Fri, 13 Oct 2017) $
+#$Revision: 201955 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/2/00/74/2007414.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_2007414
+loop_
+_publ_author_name
+'Robert T. Downs'
+'M.S. Somayazulu'
+_publ_section_title
+;
+Carbon Dioxide at 1.0 GPa
+;
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              897
+_journal_page_last               898
+_journal_volume                  54
+_journal_year                    1998
+_chemical_formula_analytical     'C O2'
+_chemical_formula_moiety         'C O2'
+_chemical_formula_structural     'C O2'
+_chemical_formula_sum            'C O2'
+_chemical_formula_weight         44.01
+_chemical_name_common            'C O2'
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_Hall  '-P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P a -3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   5.4942(2)
+_cell_length_b                   5.4942(2)
+_cell_length_c                   5.4942(2)
+_cell_measurement_temperature    293
+_cell_volume                     165.85(2)
+_diffrn_ambient_temperature      293
+_exptl_crystal_density_diffrn    1.762
+_refine_ls_R_factor_obs          .041
+_refine_ls_wR_factor_obs         .018
+_cod_database_code               2007414
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C 0 0 0
+O .1207(3) .1207(3) .1207(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C O . . 1.1486(9) yes
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 274

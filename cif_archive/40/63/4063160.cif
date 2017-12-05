@@ -1,0 +1,197 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-13 14:42:48 +0300 (Fri, 13 Oct 2017) $
+#$Revision: 201982 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/4/06/31/4063160.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4063160
+loop_
+_publ_author_name
+'L. E. Harrington'
+'L. S. Cahill'
+'M. J. McGlinchey'
+_journal_name_full               Organometallics
+_journal_paper_doi               10.1021/om0499456
+_journal_year                    2004
+_chemical_formula_sum            'C23 H16'
+_chemical_formula_weight         292.36
+_chemical_melting_point          416.6(15)
+_chemical_name_common            '9-indenyl anthracene'
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 97.517(2)
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   8.1708(3)
+_cell_length_b                   7.4691(2)
+_cell_length_c                   25.9547(8)
+_cell_measurement_temperature    143(2)
+_cell_volume                     1570.36(9)
+_diffrn_ambient_temperature      143(2)
+_exptl_crystal_density_diffrn    1.237
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_chemical_melting_point' value '142-145C' was changed to '416.6(15)'
+- it was converted from degrees Celsius(C) to Kelvins(K), the average
+value was taken and precision was estimated.
+
+Automatic conversion script
+Id: cif_fix_values 1646 2011-03-28 12:23:43Z adriana 
+;
+_cod_original_sg_symbol_H-M      'P 21/n'
+_cod_database_code               4063160
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x-1/2, -y-1/2, z-1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+C1 C 0.33653(18) 0.32137(19) 0.09235(5) 0.0330(4) Uani 1 1 d . . .
+H1A H 0.2814 0.2178 0.0776 0.040 Uiso 1 1 calc R . .
+C2 C 0.48254(19) 0.3697(2) 0.07703(6) 0.0389(4) Uani 1 1 d . . .
+H2A H 0.5289 0.2992 0.0521 0.047 Uiso 1 1 calc R . .
+C3 C 0.56669(19) 0.5251(2) 0.09796(6) 0.0413(4) Uani 1 1 d . . .
+H3A H 0.6681 0.5591 0.0866 0.050 Uiso 1 1 calc R . .
+C4A C 0.35176(17) 0.57740(18) 0.15207(5) 0.0288(4) Uani 1 1 d . . .
+C4 C 0.50314(18) 0.6246(2) 0.13397(6) 0.0371(4) Uani 1 1 d . . .
+H4A H 0.5607 0.7284 0.1475 0.044 Uiso 1 1 calc R . .
+C5 C 0.08768(17) 0.70905(19) 0.25315(5) 0.0326(4) Uani 1 1 d . . .
+H5A H 0.1475 0.8090 0.2684 0.039 Uiso 1 1 calc R . .
+C6 C -0.04985(17) 0.6554(2) 0.27242(6) 0.0366(4) Uani 1 1 d . . .
+H6A H -0.0836 0.7148 0.3016 0.044 Uiso 1 1 calc R . .
+C7 C -0.14415(18) 0.5100(2) 0.24901(6) 0.0382(4) Uani 1 1 d . . .
+H7A H -0.2427 0.4747 0.2620 0.046 Uiso 1 1 calc R . .
+C8A C 0.05411(16) 0.46800(17) 0.18792(5) 0.0272(4) Uani 1 1 d . . .
+C8 C -0.09385(17) 0.42114(19) 0.20812(6) 0.0331(4) Uani 1 1 d . . .
+H8A H -0.1592 0.3253 0.1926 0.040 Uiso 1 1 calc R . .
+C9 C 0.11532(16) 0.37074(17) 0.14799(5) 0.0266(3) Uani 1 1 d . . .
+C9A C 0.26380(17) 0.42220(17) 0.13009(5) 0.0276(4) Uani 1 1 d . . .
+C10A C 0.14570(16) 0.61972(17) 0.21047(5) 0.0274(4) Uani 1 1 d . . .
+C10 C 0.28996(17) 0.67118(17) 0.19161(5) 0.0302(4) Uani 1 1 d . . .
+H10A H 0.3481 0.7733 0.2061 0.036 Uiso 1 1 calc R . .
+C11 C 0.02775(16) 0.20665(18) 0.12632(5) 0.0286(4) Uani 1 1 d . . .
+C12 C 0.02315(19) 0.04766(18) 0.14986(6) 0.0368(4) Uani 1 1 d . . .
+H12A H 0.0768 0.0224 0.1838 0.044 Uiso 1 1 calc R . .
+C13A C -0.13550(17) 0.02253(18) 0.06799(5) 0.0315(4) Uani 1 1 d . . .
+C13 C -0.0775(2) -0.08590(19) 0.11587(6) 0.0392(4) Uani 1 1 d . . .
+H13A H -0.1719 -0.1303 0.1326 0.047 Uiso 1 1 calc R . .
+H13B H -0.0093 -0.1888 0.1076 0.047 Uiso 1 1 calc R . .
+C14 C -0.23552(18) -0.0226(2) 0.02281(6) 0.0375(4) Uani 1 1 d . . .
+H14A H -0.2815 -0.1393 0.0184 0.045 Uiso 1 1 calc R . .
+C15 C -0.26785(18) 0.1057(2) -0.01613(6) 0.0391(4) Uani 1 1 d . . .
+H15A H -0.3367 0.0762 -0.0474 0.047 Uiso 1 1 calc R . .
+C16 C -0.20060(18) 0.2759(2) -0.00979(6) 0.0359(4) Uani 1 1 d . . .
+H16A H -0.2229 0.3614 -0.0369 0.043 Uiso 1 1 calc R . .
+C17A C -0.06974(16) 0.19593(17) 0.07468(5) 0.0266(3) Uani 1 1 d . . .
+C17 C -0.10098(17) 0.32290(18) 0.03576(5) 0.0310(4) Uani 1 1 d . . .
+H17A H -0.0552 0.4397 0.0401 0.037 Uiso 1 1 calc R . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+C1 0.0354(9) 0.0296(8) 0.0333(8) -0.0021(6) 0.0014(6) -0.0001(6)
+C2 0.0370(9) 0.0413(9) 0.0394(9) -0.0048(7) 0.0089(7) 0.0028(7)
+C3 0.0315(9) 0.0460(9) 0.0477(10) -0.0001(8) 0.0103(7) -0.0048(7)
+C4A 0.0278(8) 0.0262(7) 0.0309(8) 0.0024(6) -0.0013(6) -0.0015(6)
+C4 0.0336(9) 0.0350(8) 0.0421(9) -0.0018(7) 0.0030(6) -0.0087(6)
+C5 0.0300(8) 0.0296(7) 0.0357(8) -0.0041(6) -0.0051(6) 0.0030(6)
+C6 0.0327(9) 0.0387(9) 0.0376(9) -0.0079(7) 0.0020(6) 0.0075(6)
+C7 0.0269(8) 0.0430(9) 0.0447(9) -0.0018(7) 0.0046(7) 0.0012(6)
+C8A 0.0254(8) 0.0247(7) 0.0295(8) 0.0020(6) -0.0042(6) 0.0012(5)
+C8 0.0274(8) 0.0319(8) 0.0388(8) -0.0023(6) -0.0005(6) -0.0017(6)
+C9 0.0272(8) 0.0231(7) 0.0278(8) 0.0021(5) -0.0032(5) -0.0002(5)
+C9A 0.0292(8) 0.0245(7) 0.0276(7) 0.0012(6) -0.0016(6) 0.0008(6)
+C10A 0.0257(8) 0.0233(7) 0.0309(8) 0.0005(5) -0.0041(6) 0.0028(5)
+C10 0.0304(8) 0.0238(7) 0.0343(8) -0.0019(6) -0.0036(6) -0.0028(6)
+C11 0.0280(8) 0.0273(7) 0.0298(8) -0.0011(6) 0.0017(6) -0.0010(6)
+C12 0.0457(10) 0.0287(8) 0.0338(9) 0.0029(6) -0.0027(6) -0.0060(6)
+C13A 0.0319(8) 0.0265(7) 0.0359(8) -0.0013(6) 0.0033(6) -0.0033(6)
+C13 0.0491(10) 0.0276(8) 0.0390(9) 0.0015(6) -0.0009(7) -0.0071(7)
+C14 0.0384(9) 0.0312(8) 0.0410(9) -0.0078(7) -0.0015(7) -0.0056(6)
+C15 0.0388(9) 0.0413(9) 0.0345(9) -0.0080(7) -0.0058(6) -0.0001(7)
+C16 0.0384(9) 0.0368(8) 0.0315(8) 0.0014(6) 0.0002(6) 0.0029(6)
+C17A 0.0236(7) 0.0254(7) 0.0307(8) -0.0022(6) 0.0035(5) -0.0005(5)
+C17 0.0299(8) 0.0285(7) 0.0345(8) -0.0014(6) 0.0043(6) -0.0017(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+C1 C2 1.355(2) . ?
+C1 C9A 1.4254(19) . ?
+C1 H1A 0.9500 . ?
+C2 C3 1.420(2) . ?
+C2 H2A 0.9500 . ?
+C3 C4 1.350(2) . ?
+C3 H3A 0.9500 . ?
+C4A C10 1.391(2) . ?
+C4A C4 1.4237(19) . ?
+C4A C9A 1.4417(18) . ?
+C4 H4A 0.9500 . ?
+C5 C6 1.3493(19) . ?
+C5 C10A 1.4263(19) . ?
+C5 H5A 0.9500 . ?
+C6 C7 1.421(2) . ?
+C6 H6A 0.9500 . ?
+C7 C8 1.360(2) . ?
+C7 H7A 0.9500 . ?
+C8A C9 1.4098(19) . ?
+C8A C8 1.423(2) . ?
+C8A C10A 1.4396(18) . ?
+C8 H8A 0.9500 . ?
+C9 C9A 1.4082(19) . ?
+C9 C11 1.4917(18) . ?
+C10A C10 1.3884(19) . ?
+C10 H10A 0.9500 . ?
+C11 C12 1.3383(18) . ?
+C11 C17A 1.4690(18) . ?
+C12 C13 1.5032(18) . ?
+C12 H12A 0.9500 . ?
+C13A C14 1.3805(19) . ?
+C13A C17A 1.4042(18) . ?
+C13A C13 1.5070(19) . ?
+C13 H13A 0.9900 . ?
+C13 H13B 0.9900 . ?
+C14 C15 1.393(2) . ?
+C14 H14A 0.9500 . ?
+C15 C16 1.386(2) . ?
+C15 H15A 0.9500 . ?
+C16 C17 1.3898(19) . ?
+C16 H16A 0.9500 . ?
+C17A C17 1.3847(18) . ?
+C17 H17A 0.9500 . ?
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 17627777

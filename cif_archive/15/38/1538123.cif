@@ -1,0 +1,123 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-12 20:38:17 +0300 (Mon, 12 Oct 2015) $
+#$Revision: 166550 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/81/1538123.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1538123
+loop_
+_publ_author_name
+'Gladyshevskii, E.I.'
+'Oleksiv, G.I.'
+'Kripyakevich, P.I.'
+_publ_section_title
+;
+ New examples of the structural type Li22 Pb5
+;
+_journal_name_full
+'Soviet Physics, Crystallography (= Kristallografiya)'
+_journal_page_first              269
+_journal_page_last               271
+_journal_volume                  9
+_journal_year                    1964
+_chemical_formula_sum            'Li22 Si5'
+_chemical_name_systematic        'Li22 Si5'
+_space_group_IT_number           196
+_symmetry_space_group_name_Hall  'F 2 2 3'
+_symmetry_space_group_name_H-M   'F 2 3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   18.75
+_cell_length_b                   18.75
+_cell_length_c                   18.75
+_cell_volume                     6591.797
+_citation_journal_id_ASTM        SPHCA6
+_cod_data_source_file            Gladyshevskii_SPHCA6_1964_513.cif
+_cod_data_source_block           Li22Si5
+_cod_database_code               1538123
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+x,-y,-z
+-x,y,-z
+z,x,y
+-z,-x,y
+z,-x,-y
+-z,x,-y
+y,z,x
+y,-z,-x
+-y,z,-x
+-y,-z,x
+x,y+1/2,z+1/2
+-x,-y+1/2,z+1/2
+x,-y+1/2,-z+1/2
+-x,y+1/2,-z+1/2
+z,x+1/2,y+1/2
+-z,-x+1/2,y+1/2
+z,-x+1/2,-y+1/2
+-z,x+1/2,-y+1/2
+y,z+1/2,x+1/2
+y,-z+1/2,-x+1/2
+-y,z+1/2,-x+1/2
+-y,-z+1/2,x+1/2
+x+1/2,y,z+1/2
+-x+1/2,-y,z+1/2
+x+1/2,-y,-z+1/2
+-x+1/2,y,-z+1/2
+z+1/2,x,y+1/2
+-z+1/2,-x,y+1/2
+z+1/2,-x,-y+1/2
+-z+1/2,x,-y+1/2
+y+1/2,z,x+1/2
+y+1/2,-z,-x+1/2
+-y+1/2,z,-x+1/2
+-y+1/2,-z,x+1/2
+x+1/2,y+1/2,z
+-x+1/2,-y+1/2,z
+x+1/2,-y+1/2,-z
+-x+1/2,y+1/2,-z
+z+1/2,x+1/2,y
+-z+1/2,-x+1/2,y
+z+1/2,-x+1/2,-y
+-z+1/2,x+1/2,-y
+y+1/2,z+1/2,x
+y+1/2,-z+1/2,-x
+-y+1/2,z+1/2,-x
+-y+1/2,-z+1/2,x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Li13 Li 0.167 0.167 0.167 1 0.0
+Li11 Li 0.75 0.75 0.75 1 0.0
+Li14 Li 0.333 0.333 0.333 1 0.0
+Li9 Li 0.5 0.5 0.5 1 0.0
+Si1 Si 0.9141 0.9141 0.9141 1 0.0
+Li16 Li 0.583 0.583 0.583 1 0.0
+Si3 Si 0.3211 0 0 1 0.0
+Li7 Li 0.25 0.083 0.083 1 0.0
+Li12 Li 0.083 0.083 0.083 1 0.0
+Si2 Si 0.6641 0.6641 0.6641 1 0.0
+Li3 Li 0.167 0 0 1 0.0
+Li5 Li 0.833 0.167 0 1 0.0
+Li8 Li 0.75 0.083 0.083 1 0.0
+Li10 Li 0.25 0.25 0.25 1 0.0
+Li15 Li 0.417 0.417 0.417 1 0.0
+Li6 Li 0.667 0.167 0 1 0.0
+Si4 Si 0.0711 0.25 0.25 1 0.0
+Li2 Li 0.833 0.833 0.833 1 0.0
+Li4 Li 0.583 0.25 0.25 1 0.0
+Li1 Li 0 0 0 1 0.0

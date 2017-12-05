@@ -1,0 +1,374 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-22 23:53:12 +0200 (Tue, 22 Mar 2016) $
+#$Revision: 179082 $
+#$URL: svn://www.crystallography.net/cod/cif/4/30/44/4304465.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4304465
+loop_
+_publ_author_name
+'Shu Ying Piao'
+'Lukas Palatinus'
+'Sven Lidin'
+_publ_section_title
+;
+All the Disorder Mechanisms in the 13:58 Phases Come Together. Out of the
+Modulated Confusion Rises the Remarkable Phase Ce12.60Cd58.68(2)
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              1079
+_journal_page_last               1086
+_journal_paper_doi               10.1021/ic701962b
+_journal_volume                  47
+_journal_year                    2008
+_chemical_formula_sum            'Cd58.682 Ce12.599'
+_chemical_formula_weight         8361.8
+_chemical_name_systematic        ' ?'
+_space_group_ssg_name            Ccmm(\a00)00s
+_symmetry_cell_setting           orthorhombic
+_audit_creation_method           'Jana2000 Version : 22/12/2005'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   27.2789(14)
+_cell_length_b                   15.75920(10)
+_cell_length_c                   15.5816(4)
+_cell_modulation_dimension       1
+_cell_volume                     6698.4(4)
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      293
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71069
+_exptl_absorpt_coefficient_mu    26.503
+_exptl_absorpt_correction_T_max  1.26
+_exptl_absorpt_correction_T_min  0.35
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn    8.2889
+_exptl_crystal_F_000             14190
+_refine_diff_density_max         5.67
+_refine_diff_density_min         -4.89
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_gt    2.65
+_refine_ls_goodness_of_fit_ref   2.65
+_refine_ls_number_parameters     404
+_refine_ls_number_reflns         10494
+_refine_ls_R_factor_all          0.0554
+_refine_ls_R_factor_gt           0.0554
+_refine_ls_shift/su_max          0.0475
+_refine_ls_shift/su_mean         0.0013
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     w=1/(\s^2^(F)+0.0001F^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0574
+_refine_ls_wR_factor_ref         0.0574
+_reflns_number_gt                10494
+_reflns_number_total             19149
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ic701962b-file001.cif
+_cod_data_source_block           (I)
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_absorpt_correction_type' value 'None' changed to 'none' according
+to '/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_database_code               4304465
+loop_
+_space_group_symop_ssg_id
+_space_group_symop_ssg_operation_algebraic
+1 x1,x2,x3,x4
+2 x1,1/2-x2,x3,x4
+3 x1,x2,1/2-x3,1/2+x4
+4 x1,1/2-x2,1/2-x3,1/2+x4
+5 -x1,-x2,-x3,-x4
+6 -x1,1/2+x2,-x3,-x4
+7 -x1,-x2,1/2+x3,1/2-x4
+8 -x1,1/2+x2,1/2+x3,1/2-x4
+9 1/2+x1,1/2+x2,x3,x4
+10 1/2+x1,-x2,x3,x4
+11 1/2+x1,1/2+x2,1/2-x3,1/2+x4
+12 1/2+x1,-x2,1/2-x3,1/2+x4
+13 1/2-x1,1/2-x2,-x3,-x4
+14 1/2-x1,x2,-x3,-x4
+15 1/2-x1,1/2-x2,1/2+x3,1/2-x4
+16 1/2-x1,x2,1/2+x3,1/2-x4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Ce1a Ce -0.02061(3) 0.43447(5) -0.25 Uani 0.0137(3) 8 1 d . . .
+Ce1b Ce 0.29458(4) -0.25 -0.25 Uani 0.0124(4) 4 1 d . . .
+Ce2a Ce 0.14714(2) -0.06154(3) -0.05258(4) Uani 0.01186(18) 16 1 d . . .
+Ce2b Ce 0.45511(3) 0.25 -0.05447(6) Uani 0.0116(2) 8 1 d . . .
+Ce3a Ce -0.18734(4) -0.06062(6) -0.23197(13) Uani 0.0206(6) 16 0.5 d . . .
+Ce3b Ce 0.6267(3) -0.25 -0.2821(7) Uani 0.0179(5) 8 0.5 d . . .
+Ce4 Ce 0.25 0.25 0 Uani 0.0142(6) 4 0.5987(14) d . . .
+Cd1a Cd 0.56620(4) 0.90216(6) -0.09580(7) Uani 0.0205(4) 16 0.976(4) d . . .
+Cd1b Cd 0.26811(5) -0.0861(2) -0.10207(10) Uani 0.0390(6) 16 0.5987(14) d . . .
+Cd1b2 Cd 0.26795(5) -0.11022(15) -0.09900(11) Uani 0.0192(6) 16 0.4013(14) d .
+. .
+Cd1c Cd 0.0726(4) 0.4636(7) 1.0908(12) Uani 0.0277(8) 16 0.4013(14) d . . .
+Cd1c2 Cd 0.0889(2) 0.4471(3) 1.1017(4) Uani 0.0213(5) 16 0.5987(14) d . . .
+Cd2 Cd 0.08202(6) 0.75 -0.75 Uani 0.0181(5) 4 1 d . . .
+Cd3 Cd 0.08248(4) 0.75 -0.09481(8) Uani 0.0146(3) 8 1 d . . .
+Cd4a Cd 0.20114(4) 0.10194(6) -0.15644(7) Uani 0.0254(3) 16 1 d . . .
+Cd4b Cd 0.34777(5) 0.25 -0.15864(9) Uani 0.0220(5) 8 1 d . . .
+Cd5a Cd 0.15510(13) 0.3457(2) 0.9992(3) Uani 0.0244(5) 16 0.5987(14) d . . .
+Cd5a2 Cd 0.1654(5) 0.3854(9) 1.0582(13) Uani 0.0505(10) 16 0.4013(14) d . . .
+Cd5b Cd 0.2587(3) 0.0540(5) -0.0251(7) Uani 0.0292(6) 16 0.5 d . . .
+Cd6a Cd 0.20899(4) -0.07506(7) -0.25 Uani 0.0162(3) 8 1 d . . .
+Cd6b Cd 0.43161(4) 0.35502(7) -0.25 Uani 0.0193(4) 8 1 d . . .
+Cd6c Cd 0.39263(4) 0.47136(6) 0.25 Uani 0.0180(3) 8 1 d . . .
+Cd7a Cd 0.03052(3) -0.40872(5) -0.14002(6) Uani 0.0172(2) 16 1 d . . .
+Cd7b Cd 0.68816(4) 0.25 -0.14441(8) Uani 0.0154(3) 8 1 d . . .
+Cd8a Cd -0.04765(3) 0.35230(5) -0.05012(6) Uani 0.0214(3) 16 1 d . . .
+Cd8b Cd 0.35230(5) -0.25 -0.05273(8) Uani 0.0182(4) 8 1 d . . .
+Cd9a Cd -0.13135(3) 0.10111(5) -0.15821(5) Uani 0.0144(2) 16 1 d . . .
+Cd9b Cd 0.51721(4) -0.25 -0.15800(7) Uani 0.0141(3) 8 1 d . . .
+Cd10a Cd 0.11416(4) -0.15268(6) -0.25 Uani 0.0152(3) 8 1 d . . .
+Cd10b Cd 0.48241(6) 0.75 0.25 Uani 0.0156(5) 4 1 d . . .
+Cd11 Cd 0.24931(7) 0.25 -0.25 Uani 0.0334(9) 4 1 d . . .
+Cd12a Cd 0.5 0 0 Uani 0.0390(9) 8 0.585(6) d . . .
+Cd12b Cd 0.25 0.75 0 Uani 0.0414(10) 4 1 d . . .
+Cd13 Cd 0.24985(10) 0.25 -0.09140(19) Uani 0.0268(9) 8 0.4013(14) d . . .
+Cd14 Cd 0.86762(11) 0.75 0.0811(2) Uani 0.0676(16) 8 0.4013(14) d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ce1a Ce 0.0113(4) 0.0116(4) 0.0182(5) -0.0023(3) 0 0
+Ce1b Ce 0.0066(7) 0.0135(5) 0.0171(8) 0 0 0
+Ce2a Ce 0.0106(3) 0.0130(3) 0.0120(3) -0.0017(2) -0.0001(3) -0.0001(2)
+Ce2b Ce 0.0096(4) 0.0127(4) 0.0125(5) 0 0.0003(4) 0
+Ce3a Ce 0.0115(5) 0.0118(4) 0.0385(16) -0.0010(4) -0.0026(6) -0.0033(5)
+Ce3b Ce 0.0090(8) 0.0136(6) 0.0311(13) 0 -0.0064(8) 0
+Ce4 Ce 0.0117(12) 0.0107(8) 0.0202(12) 0 -0.0008(11) 0
+Cd1a Cd 0.0242(8) 0.0170(7) 0.0202(7) -0.0070(6) -0.0061(7) 0.0044(6)
+Cd1b Cd 0.0140(7) 0.0833(14) 0.0197(9) 0.0089(7) -0.0038(6) -0.0148(7)
+Cd1b2 Cd 0.0092(7) 0.0271(12) 0.0213(10) 0.0002(6) -0.0005(7) -0.0075(7)
+Cd1c Cd 0.0326(16) 0.0197(10) 0.0307(14) -0.0128(10) 0.0181(13) -0.0096(9)
+Cd1c2 Cd 0.0271(10) 0.0183(7) 0.0184(8) -0.0087(7) 0.0060(8) -0.0022(6)
+Cd2 Cd 0.0111(8) 0.0109(6) 0.0322(11) 0 0 0
+Cd3 Cd 0.0137(6) 0.0145(5) 0.0157(6) 0 -0.0003(5) 0
+Cd4a Cd 0.0286(7) 0.0230(5) 0.0245(6) -0.0023(5) 0.0026(6) 0.0052(4)
+Cd4b Cd 0.0169(9) 0.0275(6) 0.0215(8) 0 -0.0053(7) 0
+Cd5a Cd 0.0133(7) 0.0213(6) 0.0385(10) 0.0013(6) 0.0057(7) 0.0120(6)
+Cd5a2 Cd 0.0455(15) 0.0478(15) 0.058(2) 0.0123(12) 0.0179(15) 0.0316(15)
+Cd5b Cd 0.0253(10) 0.0215(7) 0.0409(14) 0.0019(7) -0.0181(9) 0.0020(7)
+Cd6a Cd 0.0117(6) 0.0206(5) 0.0162(7) -0.0009(5) 0 0
+Cd6b Cd 0.0181(6) 0.0195(5) 0.0203(7) 0.0004(5) 0 0
+Cd6c Cd 0.0169(6) 0.0180(5) 0.0192(7) 0.0017(5) 0 0
+Cd7a Cd 0.0139(4) 0.0152(4) 0.0226(5) -0.0020(3) 0.0000(4) -0.0030(3)
+Cd7b Cd 0.0109(6) 0.0175(5) 0.0179(6) 0 0.0002(5) 0
+Cd8a Cd 0.0181(5) 0.0286(4) 0.0174(5) 0.0092(4) 0.0022(4) 0.0045(4)
+Cd8b Cd 0.0233(9) 0.0129(5) 0.0184(7) 0 -0.0043(7) 0
+Cd9a Cd 0.0133(4) 0.0169(4) 0.0131(5) 0.0006(3) 0.0005(4) 0.0002(3)
+Cd9b Cd 0.0146(7) 0.0141(5) 0.0135(6) 0 -0.0010(5) 0
+Cd10a Cd 0.0148(6) 0.0153(5) 0.0154(6) -0.0023(5) 0 0
+Cd10b Cd 0.0118(8) 0.0193(7) 0.0158(9) 0 0 0
+Cd11 Cd 0.0124(9) 0.0143(8) 0.074(2) 0 0 0
+Cd12a Cd 0.0459(17) 0.0313(14) 0.0396(18) -0.0115(11) 0.0083(13) 0.0115(11)
+Cd12b Cd 0.0213(15) 0.0743(16) 0.029(2) 0 -0.0019(14) 0
+Cd13 Cd 0.0297(16) 0.0310(14) 0.0197(17) 0 -0.0009(14) 0
+Cd14 Cd 0.0180(16) 0.149(4) 0.036(2) 0 0.0075(16) 0
+loop_
+_atom_site_displace_Fourier_atom_site_label
+_atom_site_displace_Fourier_axis
+_atom_site_displace_Fourier_wave_vector_seq_id
+_atom_site_displace_Fourier_param_cos
+_atom_site_displace_Fourier_param_sin
+Ce1a x 1 0 0
+Ce1a y 1 0 0
+Ce1a z 1 0.00679(12) -0.00255(12)
+Ce1b x 1 0 0
+Ce1b y 1 0 0
+Ce1b z 1 -0.00147(18) 0.01020(17)
+Ce1b x 2 0.0013(2) -0.0015(2)
+Ce1b y 2 0 0
+Ce1b z 2 0 0
+Ce2a x 1 -0.00060(4) -0.00072(4)
+Ce2a y 1 0.00356(6) 0.00199(7)
+Ce2a z 1 0.00043(8) -0.00038(8)
+Ce2b x 1 0.00005(6) -0.00015(6)
+Ce2b y 1 0 0
+Ce2b z 1 0.00298(12) -0.00125(12)
+Ce3b x 1 -0.0015(2) 0.0008(3)
+Ce3b y 1 0 0
+Ce3b z 1 0.0043(6) 0.0051(9)
+Ce4 x 1 0 0.00732(14)
+Ce4 y 1 0 0
+Ce4 z 1 0 -0.0002(3)
+Cd1a x 1 0.00311(6) -0.00371(7)
+Cd1a y 1 -0.00630(9) 0.00301(10)
+Cd1a z 1 -0.00497(13) 0.00070(13)
+Cd1a x 2 -0.00413(15) -0.00410(15)
+Cd1a y 2 0.0070(3) 0.0057(3)
+Cd1a z 2 0.0021(4) 0.0036(4)
+Cd1c x 1 0.0043(6) 0.0019(3)
+Cd1c y 1 0.0030(9) 0.0014(5)
+Cd1c z 1 0.0030(15) -0.0013(7)
+Cd1c2 x 1 -0.0024(3) -0.0049(2)
+Cd1c2 y 1 0.0016(5) 0.0048(3)
+Cd1c2 z 1 -0.0009(6) -0.0048(3)
+Cd2 x 1 0 0
+Cd2 y 1 0 0
+Cd2 z 1 0.0020(2) 0.0016(2)
+Cd3 x 1 0.00127(7) 0.00085(7)
+Cd3 y 1 0 0
+Cd3 z 1 -0.00072(15) -0.00060(16)
+Cd4a x 1 0.00216(7) 0.01059(6)
+Cd4a y 1 -0.00396(10) -0.00721(9)
+Cd4a z 1 -0.00420(12) 0.00538(12)
+Cd4b x 1 0.00192(8) 0.00143(8)
+Cd4b y 1 0 0
+Cd4b z 1 -0.00067(17) -0.01025(16)
+Cd4b x 2 0.0039(2) 0.0010(2)
+Cd4b y 2 0 0
+Cd4b z 2 -0.0008(5) 0.0007(5)
+Cd5a x 1 0.00227(14) -0.00592(17)
+Cd5a y 1 -0.0019(3) 0.0023(3)
+Cd5a z 1 0.0001(3) -0.0078(4)
+Cd5a2 x 1 0.0046(4) 0.0026(6)
+Cd5a2 y 1 -0.0038(8) -0.0015(11)
+Cd5a2 z 1 0.0075(11) 0.0060(15)
+Cd5b x 1 -0.00142(12) 0.0023(5)
+Cd5b y 1 0.00481(17) 0.0016(7)
+Cd5b z 1 0.0014(2) -0.0004(11)
+Cd6a x 1 0 0
+Cd6a y 1 0 0
+Cd6a z 1 -0.00133(15) -0.00273(15)
+Cd6b x 1 0 0
+Cd6b y 1 0 0
+Cd6b z 1 -0.00547(16) -0.00193(16)
+Cd6c x 1 0 0
+Cd6c y 1 0 0
+Cd6c z 1 0.00367(15) 0.00076(15)
+Cd7a x 1 0.00008(6) 0.00003(5)
+Cd7a y 1 0.00426(9) -0.00006(8)
+Cd7a z 1 -0.00399(11) -0.00032(12)
+Cd7b x 1 -0.00093(7) -0.00125(8)
+Cd7b y 1 0 0
+Cd7b z 1 0.00039(15) -0.00175(15)
+Cd8a x 1 -0.00386(6) 0.00103(6)
+Cd8a y 1 -0.00511(9) 0.00384(10)
+Cd8a z 1 0.00071(11) -0.00005(12)
+Cd8b x 1 -0.00448(9) 0.00836(9)
+Cd8b y 1 0 0
+Cd8b z 1 0.00344(16) -0.00511(16)
+Cd8b x 2 -0.00005(16) -0.00270(17)
+Cd8b y 2 0 0
+Cd8b z 2 0.0001(5) 0.0014(4)
+Cd9a x 1 -0.00074(5) -0.00026(5)
+Cd9a y 1 0.00383(9) -0.00491(8)
+Cd9a z 1 0.00000(11) -0.00100(11)
+Cd9b x 1 -0.00423(8) -0.00240(8)
+Cd9b y 1 0 0
+Cd9b z 1 -0.00007(14) 0.00095(15)
+Cd9b x 2 0.00068(19) 0.00054(19)
+Cd9b y 2 0 0
+Cd9b z 2 -0.0001(6) -0.0011(6)
+Cd10a x 1 0 0
+Cd10a y 1 0 0
+Cd10a z 1 -0.00080(15) -0.00137(15)
+Cd10b x 1 0 0
+Cd10b y 1 0 0
+Cd10b z 1 0.0009(2) 0.0004(2)
+Cd11 x 1 0 0
+Cd11 y 1 0 0
+Cd11 z 1 -0.0268(3) -0.0024(3)
+Cd12a x 1 0 -0.00698(16)
+Cd12a y 1 0 0.0111(2)
+Cd12a z 1 0 0.0044(3)
+Cd12b x 1 0 0.01209(13)
+Cd12b y 1 0 0
+Cd12b z 1 0 -0.0245(3)
+loop_
+_atom_site_Fourier_wave_vector_seq_id
+_atom_site_Fourier_wave_vector_x
+_atom_site_Fourier_wave_vector_y
+_atom_site_Fourier_wave_vector_z
+1 0.66670 0.00000 0.00000
+2 1.33340 0.00000 0.00000
+loop_
+_atom_site_occ_Fourier_atom_site_label
+_atom_site_occ_Fourier_wave_vector_seq_id
+_atom_site_occ_Fourier_param_cos
+_atom_site_occ_Fourier_param_sin
+Ce3a 1 0.152(5) -0.557(7)
+Ce3b 1 -0.320(5) -0.509(5)
+Ce4 1 -0.434(4) 0
+Ce4 2 -0.021(11) 0
+Cd1a 1 0.031(4) 0.098(4)
+Cd1b 1 -0.017(5) 0.790(14)
+Cd1b2 1 0.016(5) -0.790(14)
+Cd1c 1 -0.565(10) -0.220(10)
+Cd1c2 1 0.549(10) 0.258(10)
+Cd5a 1 0.335(3) 0.456(3)
+Cd5a2 1 -0.315(3) -0.470(3)
+Cd5b 1 0.015(4) -0.609(6)
+Cd5b 2 0.043(12) 0.035(14)
+Cd12a 1 0.557(6) 0
+Cd13 1 0.434(4) 0
+Cd13 2 -0.021(11) 0
+Cd14 1 -0.425(7) 0.336(7)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_versus_stol_list
+Ce -0.249 2.633 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+;
+ stol     0.00    0.05    0.10    0.15    0.20    0.25    0.30    0.35    0.40  
+  f     58.000  56.385  53.047  49.579  46.233  43.042  40.104  37.474  35.139  
+ stol     0.45    0.50    0.55    0.60    0.65    0.70    0.75    0.80    0.85  
+  f     33.051  31.154  29.409  27.791  26.289  24.901  23.626  22.469  21.421  
+ stol     0.90    0.95    1.00    1.05    1.10    1.15    1.20    1.25    1.30  
+  f     20.481  19.637  18.881  18.201  17.583  17.018  16.491  15.997  15.526  
+ stol     1.35    1.40    1.45    1.50    1.55    1.60    1.65    1.70    1.75  
+  f     15.074  14.633  14.202  13.776  13.355  12.939  12.528  12.123  11.725  
+;
+Cd -0.808 1.202 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+;
+ stol     0.00    0.05    0.10    0.15    0.20    0.25    0.30    0.35    0.40  
+  f     48.000  47.085  44.797  41.923  38.930  36.007  33.251  30.725  28.468  
+ stol     0.45    0.50    0.55    0.60    0.65    0.70    0.75    0.80    0.85  
+  f     26.492  24.784  23.320  22.063  20.978  20.027  19.182  18.405  17.687  
+ stol     0.90    0.95    1.00    1.05    1.10    1.15    1.20    1.25    1.30  
+  f     17.000  16.342  15.698  15.069  14.451  13.846  13.253  12.675  12.116  
+ stol     1.35    1.40    1.45    1.50    1.55    1.60    1.65    1.70    1.75  
+  f     11.576  11.060  10.567  10.101   9.661   9.249   8.863   8.505   8.173  
+;
+loop_
+_cell_wave_vector_seq_id
+_cell_wave_vector_x
+_cell_wave_vector_y
+_cell_wave_vector_z
+1 0.66670 0.00000 0.00000

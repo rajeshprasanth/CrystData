@@ -1,0 +1,214 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-19 16:29:56 +0200 (Fri, 19 Feb 2016) $
+#$Revision: 176759 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/13/2001344.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2001344
+loop_
+_publ_author_name
+'Beddoes, R. L.'
+'Gorman, A. A.'
+'McNeeney, S. P.'
+_publ_section_title
+;
+ Structure of 2,3-diphenyl-2-norbornene: comparison with data for a
+ <i>cis</i>-stilbene
+;
+_journal_issue                   10
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              1811
+_journal_page_last               1813
+_journal_paper_doi               10.1107/S0108270193002914
+_journal_volume                  49
+_journal_year                    1993
+_chemical_formula_sum            'C19 H18'
+_chemical_formula_weight         246.35
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_atom_type_scat_source           'Cromer & Waber (1974)'
+_cell_angle_alpha                90.
+_cell_angle_beta                 90.
+_cell_angle_gamma                90.
+_cell_formula_units_Z            4
+_cell_length_a                   6.1030(10)
+_cell_length_b                   12.0400(10)
+_cell_length_c                   18.997(2)
+_cell_measurement_reflns_used    72
+_cell_measurement_temperature    294
+_cell_measurement_theta_max      14.03
+_cell_measurement_theta_min      12.25
+_cell_volume                     1395.9(3)
+_diffrn_measurement_device       'Enraf-Nonius CAD-4'
+_diffrn_measurement_method       \w/2\q
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71069
+_diffrn_reflns_limit_h_max       8
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       16
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       26
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            2383
+_diffrn_reflns_theta_max         30
+_diffrn_standards_decay_%        -9.2
+_diffrn_standards_interval_time  240
+_diffrn_standards_number         2
+_exptl_absorpt_coefficient_mu    0.076
+_exptl_absorpt_correction_T_max  1.04
+_exptl_absorpt_correction_T_min  0.80
+_exptl_absorpt_correction_type   empirical
+_exptl_crystal_colour            Colourless
+_exptl_crystal_density_diffrn    1.172
+_exptl_crystal_density_meas      ?
+_exptl_crystal_description       'Elongated tabular'
+_exptl_crystal_size_max          0.33
+_exptl_crystal_size_mid          0.17
+_exptl_crystal_size_min          0.05
+_refine_diff_density_max         0.15
+_refine_diff_density_min         -0.17
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_obs   0.83
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_number_parameters     172
+_refine_ls_number_reflns         952
+_refine_ls_R_factor_obs          0.050
+_refine_ls_shift/esd_max         <0.01
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     'w = 4F~o~^2^/\s^2^(F~o~^2^)'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_obs         0.051
+_reflns_number_observed          952
+_reflns_number_total             2383
+_reflns_observed_criterion       I>3\s(I)
+_cod_data_source_file            ha1041.cif
+_cod_data_source_block           ha1041_structure_1_of_1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_refine_ls_weighting_scheme' value '4F~o~^2^/\s^2^(F~o~^2^)' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was
+created. The value of the new tag was set to 'w =
+4F~o~^2^/\s^2^(F~o~^2^)'.
+
+Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas 
+;
+_cod_original_cell_volume        1395.9
+_cod_database_code               2001344
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 .5350(10) .3454(5) .1676(3)
+C2 .4390(10) .4280(4) .1155(3)
+C3 .3640(10) .5153(5) .1524(3)
+C4 .4040(10) .4885(6) .2296(3)
+C5 .6480(10) .5016(7) .2416(3)
+C6 .7440(10) .4020(6) .1984(3)
+C7 .3780(10) .3601(6) .2297(3)
+C8 .4490(10) .4127(4) .0391(3)
+C9 .2820(10) .4522(5) -.0041(3)
+C10 .2840(10) .4365(5) -.0757(3)
+C11 .4520(10) .3800(5) -.1065(3)
+C12 .6170(10) .3545(5) .0066(3)
+C13 .6180(10) .3394(5) -.0657(3)
+C14 .3130(10) .6266(5) .1280(2)
+C15 .1240(10) .6832(5) .1482(3)
+C16 .0820(10) .7903(5) .1249(4)
+C17 .2270(10) .8429(5) .0818(3)
+C18 .4140(10) .7905(5) .0613(3)
+C19 .4570(10) .6835(5) .0848(3)
+H1 .5533 .2716 .1509
+H4 .3126 .5271 .2619
+H51 .6836 .4954 .2901
+H52 .6995 .5708 .2241
+H61 .8376 .4274 .1618
+H62 .8226 .3523 .2279
+H71 .4289 .3261 .2718
+H72 .2335 .3358 .2200
+H9 .1626 .4910 .0167
+H10 .1678 .4651 -.1037
+H11 .4533 .3689 -.1560
+H12 .7318 .3245 .0343
+H13 .7365 .3006 -.0871
+H15 .0221 .6477 .1785
+H16 -.0483 .8270 .1390
+H17 .1976 .9162 .0662
+H18 .5154 .8269 .0311
+H19 .5886 .6482 .0707
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+C2 C1 C6 105.8(5) yes
+C2 C1 C7 100.8(5) yes
+C6 C1 C7 99.9(5) yes
+C1 C2 C3 107.6(4) yes
+C1 C2 C8 123.2(5) yes
+C3 C2 C8 129.0(5) yes
+C2 C3 C4 106.5(5) yes
+C2 C3 C14 128.9(4) yes
+C4 C3 C14 122.5(5) yes
+C3 C4 C5 106.1(6) yes
+C3 C4 C7 101.4(5) yes
+C5 C4 C7 101.6(6) yes
+C4 C5 C6 102.0(6) yes
+C1 C6 C5 103.1(5) yes
+C1 C7 C4 93.0(5) yes
+C2 C8 C9 120.6(5) yes
+C2 C8 C12 122.4(5) yes
+C9 C8 C12 116.9(5) yes
+C8 C9 C10 121.9(6) yes
+C9 C10 C11 120.0(6) yes
+C10 C11 C13 119.6(5) yes
+C8 C12 C13 120.9(6) yes
+C11 C13 C12 120.6(6) yes
+C3 C14 C15 122.7(6) yes
+C3 C14 C19 120.8(5) yes
+C15 C14 C19 116.4(5) yes
+C14 C15 C16 121.3(7) yes
+C15 C16 C17 120.3(7) yes
+C16 C17 C18 120.1(6) yes
+C17 C18 C19 119.6(7) yes
+C14 C19 C18 122.3(6) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 C2 1.521(7) yes
+C1 C6 1.559(9) yes
+C1 C7 1.529(8) yes
+C2 C3 1.344(7) yes
+C2 C8 1.465(7) yes
+C3 C4 1.521(7) yes
+C3 C14 1.451(7) yes
+C4 C5 1.520(9) yes
+C4 C7 1.554(9) yes
+C5 C6 1.570(10) yes
+C8 C9 1.395(7) yes
+C8 C12 1.382(8) yes
+C9 C10 1.373(8) yes
+C10 C11 1.364(8) yes
+C11 C13 1.369(9) yes
+C12 C13 1.386(8) yes
+C14 C15 1.395(9) yes
+C14 C19 1.381(8) yes
+C15 C16 1.388(9) yes
+C16 C17 1.360(9) yes
+C17 C18 1.363(9) yes
+C18 C19 1.388(8) yes

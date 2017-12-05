@@ -1,0 +1,45 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-09 20:42:54 +0200 (Tue, 09 Feb 2016) $
+#$Revision: 176292 $
+#$URL: svn://www.crystallography.net/cod/cif/6/00/02/6000269.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_6000269
+loop_
+_publ_author_name
+'Orlygsson, G.'
+'Harbrecht, B.'
+_publ_section_title
+;
+ Synthesis and crystal structure of Zr2Te. Distinctions in bonding to
+ isotypic Sc2Te and the relationship to the structures of congeneric Hf2Te
+ and Zr2Se
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              3377
+_journal_page_last               3383
+_journal_paper_doi               10.1021/ic990024a
+_journal_volume                  38
+_journal_year                    1999
+_chemical_formula_sum            'Te Zr2'
+_space_group_name_H-M_alt        'P n m a'
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                90.000
+_cell_length_a                   19.9500
+_cell_length_b                   3.8236
+_cell_length_c                   10.6563
+_cell_volume                     812.87
+_cod_database_code               6000269
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

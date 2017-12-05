@@ -1,0 +1,108 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-11 14:23:36 +0300 (Sun, 11 Oct 2015) $
+#$Revision: 165546 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/69/2106983.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2106983
+loop_
+_publ_author_name
+'Hilmer, W.'
+_publ_section_title
+;
+ Die Struktur eines Phosphor(III,V)-Sulfids der ungefaehren
+ Zusammensetzung P4 S9
+;
+_journal_name_full               'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first              1229
+_journal_page_last               1231
+_journal_volume                  25
+_journal_year                    1969
+_chemical_formula_sum            'P4 S9'
+_chemical_name_systematic        'P4 S9'
+_space_group_IT_number           206
+_symmetry_space_group_name_Hall  '-I 2b 2c 3'
+_symmetry_space_group_name_H-M   'I a -3'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            16
+_cell_length_a                   17.6
+_cell_length_b                   17.6
+_cell_length_c                   17.6
+_cell_volume                     5451.776
+_citation_journal_id_ASTM        ACBCAR
+_cod_data_source_file            Hilmer_ACBCAR_1969_1125.cif
+_cod_data_source_block           P4S9
+_cod_database_code               2106983
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y+1/2,z
+x,-y,-z+1/2
+-x,y+1/2,-z+1/2
+z,x,y
+-z,-x+1/2,y
+z,-x,-y+1/2
+-z,x+1/2,-y+1/2
+y,z,x
+y,-z,-x+1/2
+-y,z+1/2,-x+1/2
+-y+1/2,-z,x+1/2
+-x,-y,-z
+x,y-1/2,-z
+-x,y,z-1/2
+x,-y-1/2,z-1/2
+-z,-x,-y
+z,x-1/2,-y
+-z,x,y-1/2
+z,-x-1/2,y-1/2
+-y,-z,-x
+-y,z,x-1/2
+y,-z-1/2,x-1/2
+y-1/2,z,-x-1/2
+x+1/2,y+1/2,z+1/2
+-x+1/2,-y+1,z+1/2
+x+1/2,-y+1/2,-z+1
+-x+1/2,y+1,-z+1
+z+1/2,x+1/2,y+1/2
+-z+1/2,-x+1,y+1/2
+z+1/2,-x+1/2,-y+1
+-z+1/2,x+1,-y+1
+y+1/2,z+1/2,x+1/2
+y+1/2,-z+1/2,-x+1
+-y+1/2,z+1,-x+1
+-y+1,-z+1/2,x+1
+-x+1/2,-y+1/2,-z+1/2
+x+1/2,y,-z+1/2
+-x+1/2,y+1/2,z
+x+1/2,-y,z
+-z+1/2,-x+1/2,-y+1/2
+z+1/2,x,-y+1/2
+-z+1/2,x+1/2,y
+z+1/2,-x,y
+-y+1/2,-z+1/2,-x+1/2
+-y+1/2,z+1/2,x
+y+1/2,-z,x
+y,z+1/2,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+S1 S-2 0.0611 0.1684 0.2163 1 0.0
+S2 S-2 0.0347 -0.0126 0.1438 1 0.0
+S3 S-2 -0.1113 0.0995 0.1872 1 0.0
+P2 P+5 -0.0095 0.1005 0.146 1 0.0
+P1 P+3 0.1729 0.1729 0.1729 1 0.0

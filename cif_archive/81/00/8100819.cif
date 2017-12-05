@@ -1,0 +1,211 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-01-27 21:58:39 +0200 (Tue, 27 Jan 2015) $
+#$Revision: 130149 $
+#$URL: svn://www.crystallography.net/cod/cif/8/10/08/8100819.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_8100819
+loop_
+_publ_author_name
+'H\"onle, Wolfgang'
+'Buresch, Juta'
+'Peters, Karl'
+'Chang, Jen-Hui'
+'von Schnering, Hans Georg'
+_publ_section_title
+;
+Crystal structure of the low-temperature modification of trilithium 
+heptaarsenide, LT-Li~3~As~7~
+;
+_journal_issue                   4
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first              485
+_journal_page_last               486
+_journal_volume                  217
+_journal_year                    2002
+_chemical_formula_structural     'LT-Li3 As7'
+_chemical_formula_sum            'As7 Li3'
+_chemical_formula_weight         545.26
+_space_group_IT_number           61
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            16
+_cell_length_a                   12.466(3)
+_cell_length_b                   22.489(4)
+_cell_length_c                   12.592(2)
+_cell_measurement_temperature    293(2)
+_cell_volume                     3530.1(12)
+_diffrn_ambient_temperature      293(2)
+_exptl_crystal_density_diffrn    4.104
+_cod_database_code               8100819
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, -y, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x-1/2, y, -z-1/2'
+'x, -y-1/2, z-1/2'
+'-x-1/2, y-1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+As(301) As 0.01243(12) 0.21114(6) -0.01427(10) 0.0201(3) Uani 1 8 c d . . .
+As(211) As -0.13998(12) 0.22391(7) 0.87021(11) 0.0226(3) Uani 1 8 c d . . .
+As(221) As 0.02536(12) 0.31273(6) 0.04985(11) 0.0214(3) Uani 1 8 c d . . .
+As(231) As 0.15540(11) 0.21112(6) 0.85373(11) 0.0215(3) Uani 1 8 c d . . .
+As(311) As -0.08392(12) 0.30642(6) 0.76357(11) 0.0229(3) Uani 1 8 c d . . .
+As(321) As 0.02535(12) 0.36881(6) 0.88689(11) 0.0220(3) Uani 1 8 c d . . .
+As(331) As 0.11339(12) 0.30035(7) 0.75568(11) 0.0227(3) Uani 1 8 c d . . .
+As(302) As 0.15098(12) 0.48939(6) 0.03276(12) 0.0226(3) Uani 1 8 c d . . .
+As(212) As 0.26147(13) 0.57645(6) 0.05581(14) 0.0299(4) Uani 1 8 c d . . .
+As(222) As 0.14540(13) 0.45427(7) 0.21420(12) 0.0250(3) Uani 1 8 c d . . .
+As(232) As 0.28269(12) 0.41880(6) 0.96446(11) 0.0212(3) Uani 1 8 c d . . .
+As(312) As 0.40893(12) 0.53833(6) 0.15644(12) 0.0243(3) Uani 1 8 c d . . .
+As(322) As 0.33303(14) 0.45524(7) 0.26195(11) 0.0262(3) Uani 1 8 c d . . .
+As(332) As 0.42338(11) 0.43253(6) 0.09031(11) 0.0208(3) Uani 1 8 c d . . .
+Li1 Li 0.382(2) 0.5191(12) 0.917(2) 0.030(6) Uiso 1 8 c d . . .
+Li2 Li 0.487(3) 0.3518(13) 0.248(3) 0.042(7) Uiso 1 8 c d . . .
+Li3 Li -0.163(3) 0.4243(13) 0.755(3) 0.043(7) Uiso 1 8 c d . . .
+Li4 Li 0.223(3) 0.3047(13) 0.955(2) 0.040(7) Uiso 1 8 c d . . .
+Li5 Li 0.184(3) 0.6851(14) 0.994(3) 0.044(7) Uiso 1 8 c d . . .
+Li6 Li 0.201(3) 0.3487(16) 0.166(3) 0.055(9) Uiso 1 8 c d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+As(301) 0.0213(7) 0.0204(6) 0.0185(6) 0.0012(5) -0.0014(6) -0.0020(6)
+As(211) 0.0168(7) 0.0268(7) 0.0243(7) 0.0016(6) -0.0026(6) -0.0063(6)
+As(221) 0.0227(7) 0.0246(7) 0.0170(6) -0.0031(5) 0.0004(6) -0.0015(6)
+As(231) 0.0178(7) 0.0249(7) 0.0218(7) -0.0040(5) -0.0017(6) 0.0014(6)
+As(311) 0.0184(7) 0.0272(7) 0.0230(7) 0.0045(6) -0.0040(6) 0.0001(6)
+As(321) 0.0226(7) 0.0191(6) 0.0244(7) 0.0016(5) 0.0002(6) -0.0006(6)
+As(331) 0.0187(7) 0.0289(7) 0.0206(6) 0.0023(6) 0.0040(6) -0.0021(6)
+As(302) 0.0161(7) 0.0248(7) 0.0271(7) 0.0004(6) -0.0016(6) 0.0020(6)
+As(212) 0.0273(8) 0.0188(7) 0.0436(9) 0.0037(6) -0.0058(8) 0.0015(6)
+As(222) 0.0240(8) 0.0255(7) 0.0255(7) -0.0019(6) 0.0092(6) -0.0019(7)
+As(232) 0.0197(7) 0.0226(7) 0.0213(6) -0.0029(6) -0.0014(6) -0.0012(6)
+As(312) 0.0212(7) 0.0235(7) 0.0282(7) -0.0047(6) -0.0033(6) -0.0026(6)
+As(322) 0.0280(8) 0.0308(8) 0.0199(7) 0.0001(6) -0.0006(6) 0.0027(7)
+As(332) 0.0161(7) 0.0226(7) 0.0238(7) -0.0016(5) -0.0010(6) 0.0017(6)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+As(301) As(211) 2.410(2) 1_554 ?
+As(301) As(221) 2.429(2) . ?
+As(301) As(231) 2.437(2) 1_554 ?
+As(211) As(311) 2.395(2) . ?
+As(211) As(301) 2.410(2) 1_556 ?
+As(211) Li6 2.61(4) 4_456 ?
+As(211) Li5 2.72(3) 5_567 ?
+As(211) Li2 2.76(3) 4_456 ?
+As(211) Li4 2.85(3) 4_457 ?
+As(221) As(321) 2.409(2) 1_554 ?
+As(221) Li5 2.67(3) 5_566 ?
+As(221) Li2 2.73(3) 6_556 ?
+As(221) Li4 2.75(3) 1_554 ?
+As(221) Li6 2.75(4) . ?
+As(231) As(331) 2.414(2) . ?
+As(231) As(301) 2.437(2) 1_556 ?
+As(231) Li4 2.61(3) . ?
+As(231) Li5 2.73(3) 8_655 ?
+As(231) Li6 2.78(4) 7_566 ?
+As(231) Li2 2.84(3) 4_456 ?
+As(311) As(331) 2.465(2) . ?
+As(311) As(321) 2.497(2) . ?
+As(311) Li3 2.83(3) . ?
+As(321) As(221) 2.409(2) 1_556 ?
+As(321) As(331) 2.511(2) . ?
+As(321) Li4 2.99(3) . ?
+As(321) Li3 3.14(3) . ?
+As(331) Li4 2.86(3) . ?
+As(302) As(212) 2.411(2) . ?
+As(302) As(222) 2.418(2) . ?
+As(302) As(232) 2.440(2) 1_554 ?
+As(212) As(312) 2.392(2) . ?
+As(212) Li1 2.64(3) 1_554 ?
+As(212) Li3 2.68(3) 5_566 ?
+As(212) Li5 2.74(3) 1_554 ?
+As(222) As(322) 2.415(2) . ?
+As(222) Li6 2.55(4) . ?
+As(222) Li1 2.64(3) 2_564 ?
+As(222) Li3 2.77(3) 5_566 ?
+As(222) Li2 3.07(3) 6_556 ?
+As(232) As(332) 2.384(2) 1_556 ?
+As(232) As(302) 2.440(2) 1_556 ?
+As(232) Li1 2.64(3) . ?
+As(232) Li4 2.67(3) . ?
+As(232) Li3 2.85(3) 6_657 ?
+As(232) Li6 3.15(4) 1_556 ?
+As(312) As(322) 2.480(2) . ?
+As(312) As(332) 2.527(2) . ?
+As(312) Li1 3.06(3) 5_666 ?
+As(312) Li1 3.06(3) 1_554 ?
+As(322) As(332) 2.490(2) . ?
+As(322) Li2 3.02(3) . ?
+As(322) Li6 3.15(4) . ?
+As(332) As(232) 2.384(2) 1_554 ?
+As(332) Li1 2.66(3) 5_666 ?
+As(332) Li2 2.81(3) . ?
+As(332) Li1 2.97(3) 1_554 ?
+Li1 As(212) 2.64(3) 1_556 ?
+Li1 As(222) 2.64(3) 2_565 ?
+Li1 As(332) 2.66(3) 5_666 ?
+Li1 As(332) 2.97(3) 1_556 ?
+Li1 As(312) 3.06(3) 5_666 ?
+Li1 As(312) 3.06(3) 1_556 ?
+Li1 Li3 3.09(4) 6_657 ?
+Li2 As(221) 2.73(3) 6_656 ?
+Li2 As(211) 2.76(3) 4_556 ?
+Li2 As(231) 2.84(3) 4_556 ?
+Li2 Li6 2.88(5) 6_656 ?
+Li2 As(222) 3.07(3) 6_656 ?
+Li3 As(212) 2.68(3) 5_566 ?
+Li3 As(222) 2.77(3) 5_566 ?
+Li3 As(232) 2.85(3) 6_557 ?
+Li3 Li1 3.09(4) 6_557 ?
+Li4 As(221) 2.75(3) 1_556 ?
+Li4 Li6 2.84(5) 1_556 ?
+Li4 As(211) 2.85(3) 4_557 ?
+Li4 Li5 2.97(4) 8_655 ?
+Li5 As(221) 2.67(3) 5_566 ?
+Li5 As(211) 2.72(3) 5_567 ?
+Li5 As(212) 2.74(3) 1_556 ?
+Li5 As(231) 2.73(3) 8_665 ?
+Li5 Li4 2.97(4) 8_665 ?
+Li6 As(211) 2.61(4) 4_556 ?
+Li6 As(231) 2.78(4) 7_565 ?
+Li6 Li4 2.84(5) 1_554 ?
+Li6 Li2 2.88(5) 6_556 ?
+Li6 As(232) 3.15(4) 1_554 ?

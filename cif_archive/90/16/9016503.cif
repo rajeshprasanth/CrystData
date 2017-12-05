@@ -1,0 +1,154 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-06 19:24:22 +0300 (Fri, 06 Oct 2017) $
+#$Revision: 201816 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/65/9016503.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9016503
+loop_
+_publ_author_name
+'Evans, H. T.'
+_publ_section_title
+;
+ Djurleite (Cu1.94S) and low chalcocite (Cu2S): New crystal structure studies
+;
+_journal_name_full               Science
+_journal_page_first              356
+_journal_page_last               358
+_journal_paper_doi               10.1126/science.203.4378.356
+_journal_volume                  203
+_journal_year                    1979
+_chemical_compound_source        'Ozark Lead Co. mine, Sweetwater, Missouri'
+_chemical_formula_sum            'Cu62 S31'
+_chemical_name_mineral           Djurleite
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90.13
+_cell_angle_gamma                90
+_cell_length_a                   26.897
+_cell_length_b                   15.745
+_cell_length_c                   13.565
+_cell_volume                     5744.671
+_database_code_amcsd             0019203
+_exptl_crystal_density_diffrn    5.705
+_cod_database_code               9016503
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+1/2+x,1/2-y,1/2+z
+1/2-x,1/2+y,1/2-z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1 0.05850 0.49950 0.00130
+Cu2 0.06290 0.75460 0.00570
+Cu3 0.06580 0.12870 0.24630
+Cu4 0.06660 0.98910 0.49500
+Cu5 0.05470 0.24320 0.50000
+Cu6 0.06370 0.50880 0.49610
+Cu7 0.06740 0.11300 0.75880
+Cu8 0.06180 0.36010 0.74290
+Cu9 0.06840 0.61530 0.75500
+Cu10 0.18820 0.99890 0.99750
+Cu11 0.19320 0.25380 0.99470
+Cu12 0.18010 0.74540 0.98950
+Cu13 0.18860 0.12580 0.23910
+Cu14 0.19440 0.62130 0.24980
+Cu15 0.19010 0.87070 0.24240
+Cu16 0.18170 0.99860 0.48330
+Cu17 0.19400 0.75080 0.49550
+Cu18 0.18160 0.13370 0.75450
+Cu19 0.18900 0.38520 0.74120
+Cu20 0.19310 0.87730 0.73850
+Cu21 0.01610 0.15360 0.06560
+Cu22 0.01690 0.38990 0.13760
+Cu23 0.01800 0.63410 0.12450
+Cu24 0.01480 0.87700 0.12500
+Cu25 0.01460 0.28960 0.30530
+Cu26 0.01640 0.46450 0.31790
+Cu27 0.01770 0.73940 0.33350
+Cu28 0.01400 0.10480 0.59030
+Cu29 0.01120 0.38800 0.56220
+Cu30 0.01760 0.85980 0.63280
+Cu31 0.01430 0.96680 0.81290
+Cu32 0.10820 0.08150 0.07210
+Cu33 0.10680 0.34230 0.06380
+Cu34 0.10320 0.91080 0.05000
+Cu35 0.10810 0.53470 0.31200
+Cu36 0.11200 0.76770 0.32520
+Cu37 0.10860 0.95630 0.31690
+Cu38 0.10820 0.65900 0.56220
+Cu39 0.10750 0.83360 0.55890
+Cu40 0.10490 0.00730 0.88860
+Cu41 0.10770 0.25000 0.87880
+Cu42 0.11290 0.47120 0.83290
+Cu43 0.10910 0.77400 0.81610
+Cu44 0.13920 0.49920 0.12770
+Cu45 0.13720 0.73370 0.14930
+Cu46 0.13920 0.16970 0.42330
+Cu47 0.13970 0.36390 0.42050
+Cu48 0.14040 0.00640 0.65880
+Cu49 0.14530 0.25540 0.61000
+Cu50 0.14430 0.50290 0.61620
+Cu51 0.14200 0.59600 0.92930
+Cu52 0.22410 0.28860 0.18520
+Cu53 0.23030 0.46200 0.19770
+Cu54 0.23460 0.13670 0.42270
+Cu55 0.23460 0.39040 0.40620
+Cu56 0.23080 0.58720 0.43580
+Cu57 0.23440 0.54110 0.69270
+Cu58 0.23250 0.71420 0.68110
+Cu59 0.23060 0.40970 0.93730
+Cu60 0.23730 0.63490 0.87380
+Cu61 0.23590 0.85610 0.91230
+Cu62 0.12700 0.26120 0.24540
+S1 0.06520 0.99170 0.17340
+S2 0.05710 0.25720 0.16130
+S3 0.05800 0.51310 0.17510
+S4 0.05620 0.75460 0.17510
+S5 0.06150 0.11760 0.41360
+S6 0.05710 0.37170 0.42110
+S7 0.07000 0.63290 0.41060
+S8 0.06740 0.86370 0.41370
+S9 0.05700 0.99260 0.66290
+S10 0.06630 0.23470 0.66740
+S11 0.06510 0.49050 0.66780
+S12 0.06920 0.74590 0.67250
+S13 0.06530 0.13110 0.92720
+S14 0.06360 0.37460 0.91520
+S15 0.06160 0.62950 0.92520
+S16 0.06560 0.87330 0.90230
+S17 0.18880 0.12900 0.07340
+S18 0.18700 0.38230 0.07980
+S19 0.18240 0.62350 0.07900
+S20 0.18360 0.86870 0.07370
+S21 0.18920 0.00370 0.32090
+S22 0.19260 0.25550 0.34010
+S23 0.18760 0.49550 0.33820
+S24 0.19490 0.74710 0.32780
+S25 0.18270 0.12410 0.57680
+S26 0.18290 0.37740 0.57370
+S27 0.19000 0.62240 0.57990
+S28 0.18700 0.87840 0.57430
+S29 0.18470 0.99910 0.82540
+S30 0.18750 0.26050 0.82880
+S31 0.19230 0.50860 0.83850
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0019203

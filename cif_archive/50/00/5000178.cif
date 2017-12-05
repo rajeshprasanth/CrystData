@@ -1,0 +1,118 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 14:50:18 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176428 $
+#$URL: svn://www.crystallography.net/cod/cif/5/00/01/5000178.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_5000178
+loop_
+_publ_author_name
+'Munakata, Megumu'
+'Wu, Liang Ping'
+'Ning, Gui Ling'
+'Kuroda-Sowa, Takayoshi'
+'Maekawa, Masahiko'
+'Suenaga, Yusaku'
+'Maeno, Naoto'
+_publ_section_title
+;
+ Construction of Metal Sandwich Systems Derived from Assembly of Silver(I)
+ Complexes with Polycyclic Aromatic Compounds
+;
+_journal_issue                   21
+_journal_name_full               'Journal of the American Chemical Society'
+_journal_page_first              4968
+_journal_page_last               4976
+_journal_paper_doi               10.1021/ja983950h
+_journal_volume                  121
+_journal_year                    1999
+_chemical_formula_sum            'C16 H10'
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 109.88(1)
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   18.398(4)
+_cell_length_b                   6.232(3)
+_cell_length_c                   19.902(3)
+_cod_original_sg_symbol_H-M      'P 21/n'
+_cod_database_code               5000178
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,1/2-z
+3 -x,-y,-z
+4 -1/2+x,-1/2-y,-1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5872(4) -0.045(1) 0.7173(5)
+C2 C 0.5459(5) -0.228(2) 0.6895(6)
+C3 C 0.5317(5) -0.285(2) 0.6179(7)
+C4 C 0.5591(5) -0.165(2) 0.5742(4)
+C5 C 0.6353(5) 0.164(2) 0.5630(4)
+C6 C 0.6741(4) 0.342(2) 0.5954(4)
+C7 C 0.6855(4) 0.393(1) 0.6676(4)
+C8 C 0.6550(4) 0.260(1) 0.7050(3)
+C9 C 0.6148(4) 0.075(1) 0.6715(4)
+C10 C 0.6024(4) 0.023(2) 0.6000(4)
+C11 C 0.6127(4) 0.067(1) 0.7855(4)
+C12 C 0.6014(4) 0.020(1) 0.8498(5)
+C13 C 0.6315(5) 0.161(2) 0.9062(5)
+C14 C 0.6704(5) 0.341(2) 0.8993(5)
+C15 C 0.6815(4) 0.393(1) 0.8348(4)
+C16 C 0.6522(4) 0.253(1) 0.7782(4)
+C17 C 0.1051(4) -0.015(1) 0.7702(4)
+C18 C 0.0788(4) -0.195(1) 0.7923(4)
+C19 C 0.1093(5) -0.253(1) 0.8655(5)
+C20 C 0.1655(5) -0.133(1) 0.9146(4)
+C21 C 0.2516(5) 0.199(2) 0.9349(4)
+C22 C 0.2719(4) 0.375(1) 0.9054(4)
+C23 C 0.2369(4) 0.425(1) 0.8317(4)
+C24 C 0.1818(4) 0.289(1) 0.7902(4)
+C25 C 0.1621(4) 0.107(1) 0.8203(4)
+C26 C 0.1935(4) 0.056(1) 0.8933(4)
+C27 C 0.0875(4) 0.101(1) 0.7017(4)
+C28 C 0.0371(4) 0.055(1) 0.6347(4)
+C29 C 0.0314(4) 0.199(2) 0.5796(4)
+C30 C 0.0753(5) 0.383(1) 0.5911(4)
+C31 C 0.1274(4) 0.429(1) 0.6592(4)
+C32 C 0.1332(4) 0.289(1) 0.7148(4)
+H1 H 0.52630 -0.32310 0.71790
+H2 H 0.49880 -0.41550 0.59640
+H3 H 0.54910 -0.20740 0.52540
+H4 H 0.62990 0.13710 0.51300
+H5 H 0.69630 0.43510 0.56890
+H6 H 0.71570 0.52630 0.69100
+H7 H 0.57210 -0.11540 0.85550
+H8 H 0.62580 0.12890 0.95320
+H9 H 0.69010 0.43780 0.94200
+H10 H 0.71100 0.53010 0.83240
+H11 H 0.04030 -0.28460 0.75890
+H12 H 0.09180 -0.38200 0.88240
+H13 H 0.18580 -0.17420 0.96440
+H14 H 0.27860 0.16310 0.98520
+H15 H 0.30950 0.46910 0.93540
+H16 H 0.25230 0.55630 0.81150
+H17 H 0.00550 -0.07470 0.62520
+H18 H -0.00510 0.17170 0.53210
+H19 H 0.07030 0.47920 0.55260
+H20 H 0.15880 0.55560 0.66800
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23

@@ -1,0 +1,45 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-09 20:42:54 +0200 (Tue, 09 Feb 2016) $
+#$Revision: 176292 $
+#$URL: svn://www.crystallography.net/cod/cif/6/00/07/6000764.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_6000764
+loop_
+_publ_author_name
+'Imai, M.'
+'Kimura, T.'
+'Sato, K.'
+'Hirano, T.'
+_publ_section_title
+;
+ Single-crystal growth and electrical properties of BnSi (n=18)
+;
+_journal_name_full               'Journal of Alloys and Compounds'
+_journal_page_first              197
+_journal_page_last               202
+_journal_paper_doi               10.1016/S0925-8388(00)00813-6
+_journal_volume                  306
+_journal_year                    2000
+_chemical_formula_sum            'B18 Si'
+_space_group_name_H-M_alt        R???
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                120.000
+_cell_length_a                   11.0970
+_cell_length_b                   11.0970
+_cell_length_c                   23.8800
+_cell_volume                     2546.69
+_cod_database_code               6000764
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

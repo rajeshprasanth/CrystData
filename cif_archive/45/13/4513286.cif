@@ -1,0 +1,571 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-09-05 23:32:59 +0300 (Sat, 05 Sep 2015) $
+#$Revision: 154542 $
+#$URL: svn://www.crystallography.net/cod/cif/4/51/32/4513286.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4513286
+loop_
+_publ_author_name
+'Gu\'nka, Piotr A.'
+'Dranka, Maciej'
+'Hanfland, Michael'
+'Dziubek, Kamil F.'
+'Katrusiak, Andrzej'
+'Zachara, Janusz'
+_publ_section_title
+;
+ Cascade of High-Pressure Transitions of Claudetite II and the First Polar
+ Phase of Arsenic(III) Oxide
+;
+_journal_issue                   8
+_journal_name_full               'Crystal Growth &amp; Design'
+_journal_page_first              3950
+_journal_paper_doi               10.1021/acs.cgd.5b00567
+_journal_volume                  15
+_journal_year                    2015
+_chemical_formula_moiety         'As12 O18'
+_chemical_formula_sum            'As12 O18'
+_chemical_formula_weight         1187.04
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           14
+_space_group_name_Hall           '-P 2yab'
+_space_group_name_H-M_alt        'P 1 21/a 1'
+_symmetry_space_group_name_Hall  '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_audit_creation_date             2015-04-13
+_audit_creation_method
+;
+Olex2 1.2-beta
+(compiled 2014.11.28 svn.r3107 for OlexSys, GUI svn.r4998)
+;
+_cell_angle_alpha                90
+_cell_angle_beta                 143.8(2)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   12.727(10)
+_cell_length_b                   13.0569(7)
+_cell_length_c                   16.455(17)
+_cell_measurement_pressure       6.08e6(5)
+_cell_measurement_reflns_used    967
+_cell_measurement_temperature    293(2)
+_cell_measurement_theta_max      20.3160
+_cell_measurement_theta_min      2.2080
+_cell_volume                     1615(8)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_data_collection
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_data_reduction
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+;
+_computing_molecular_graphics    'Olex2 (Dolomanov et al., 2009)'
+_computing_publication_material  'Olex2 (Dolomanov et al., 2009)'
+_computing_structure_refinement  'ShelXL (Sheldrick, 2008)'
+_diffrn_ambient_environment      He
+_diffrn_ambient_pressure         6.08e6(5)
+_diffrn_ambient_temperature      293(2)
+_diffrn_detector                 'CCD plate'
+_diffrn_measured_fraction_theta_full 0.379
+_diffrn_measured_fraction_theta_max 0.222
+_diffrn_measurement_details
+;
+  1 phi    142.00  218.00   0.5000    1.0000
+omega____ theta____ kappa____ phi______ frames
+   0.0000    0.0000    0.0000     -     152
+;
+_diffrn_measurement_device       'abstract diffractometer'
+_diffrn_measurement_device_type
+'MAR-CrysAlisPro-abstract goniometer: imported MAR images'
+_diffrn_measurement_method       '\p scans'
+_diffrn_orient_matrix_UB_11      0.0133163000
+_diffrn_orient_matrix_UB_12      -0.0027569000
+_diffrn_orient_matrix_UB_13      0.0326499000
+_diffrn_orient_matrix_UB_21      0.0320278000
+_diffrn_orient_matrix_UB_22      -0.0249051000
+_diffrn_orient_matrix_UB_23      0.0145688000
+_diffrn_orient_matrix_UB_31      0.0428740000
+_diffrn_orient_matrix_UB_32      0.0194631000
+_diffrn_orient_matrix_UB_33      0.0232721000
+_diffrn_radiation_monochromator  synchrotron
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_wavelength     0.41427
+_diffrn_reflns_av_R_equivalents  0.0356
+_diffrn_reflns_av_unetI/netI     0.0503
+_diffrn_reflns_laue_measured_fraction_full 0.379
+_diffrn_reflns_laue_measured_fraction_max 0.222
+_diffrn_reflns_limit_h_max       19
+_diffrn_reflns_limit_h_min       -17
+_diffrn_reflns_limit_k_max       21
+_diffrn_reflns_limit_k_min       -22
+_diffrn_reflns_limit_l_max       11
+_diffrn_reflns_limit_l_min       -14
+_diffrn_reflns_number            3230
+_diffrn_reflns_point_group_measured_fraction_full 0.379
+_diffrn_reflns_point_group_measured_fraction_max 0.222
+_diffrn_reflns_theta_full        14.392
+_diffrn_reflns_theta_max         20.692
+_diffrn_reflns_theta_min         1.818
+_diffrn_source                   synchrotron
+_exptl_absorpt_coefficient_mu    5.645
+_exptl_absorpt_correction_T_max  1.00000
+_exptl_absorpt_correction_T_min  0.71645
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.37.35 (release 13-08-2014 CrysAlis171 .NET)
+(compiled Aug 13 2014,18:06:01)
+Empirical absorption correction using spherical harmonics,
+ implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_density_diffrn    4.886
+_exptl_crystal_description
+;
+;
+_exptl_crystal_F_000             2160
+_exptl_crystal_size_max          0.05
+_exptl_crystal_size_mid          0.04
+_exptl_crystal_size_min          0.03
+_refine_diff_density_max         3.418
+_refine_diff_density_min         -2.248
+_refine_diff_density_rms         0.437
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.190
+_refine_ls_hydrogen_treatment    undef
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     181
+_refine_ls_number_reflns         1866
+_refine_ls_number_restraints     633
+_refine_ls_restrained_S_all      1.094
+_refine_ls_R_factor_all          0.1724
+_refine_ls_R_factor_gt           0.1166
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.2000P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.3573
+_refine_ls_wR_factor_ref         0.4428
+_reflns_Friedel_coverage         0.000
+_reflns_number_gt                677
+_reflns_number_total             1866
+_reflns_threshold_expression     'I > 2\s(I)'
+_cod_data_source_file            cg5b00567_si_002.cif
+_cod_data_source_block           mclau2_011big_trmx
+_cod_depositor_comments
+'Adding full bibliography for 4513277--4513300.cif.'
+_cod_original_cell_volume        1614(5)
+_cod_database_code               4513286
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_olex2_refinement_description
+;
+1. Restrained distances
+ As12-O29 \\sim As11-O28 \\sim As11-O25 \\sim As11-O20 \\sim As4-O20 \\sim
+As4-O18 \\sim As3-O18 \\sim As3-
+ O30 \\sim As3-O16 \\sim As2-O16 \\sim As2-O17 \\sim As12-O17 \\sim As2-O14
+\\sim As1-O14 \\sim As1-O13 ~
+ As5-O13 \\sim As5-O19 \\sim As5-O21 \\sim As6-O21 \\sim As6-O23 \\sim As8-O22
+\\sim As8-O24 \\sim As1-O15
+ \\sim As9-O15 \\sim As9-O26 \\sim As9-O27 \\sim As10-O27 \\sim As8-O26_$1
+\\sim As12-O30_$2 \\sim As7-
+ O24_$3 \\sim As4-O19_$4 \\sim As10-O28_$4 \\sim As10-O29_$4 \\sim As7-O25_$5
+ with sigma of 0.01
+2. Uiso/Uaniso restraints and constraints
+Uanis(As1) \\sim Ueq, Uanis(As9) \\sim Ueq, Uanis(As3) \\sim Ueq, Uanis(As11)
+\\sim Ueq, Uanis(As2) \\sim Ueq, Uanis(As10) \\sim Ueq, Uanis(As7) \\sim Ueq,
+Uanis(As6) \\sim Ueq, Uanis(As8) \\sim Ueq, Uanis(As4) \\sim Ueq, Uanis(As12)
+\\sim Ueq, Uanis(As5) \\sim Ueq: with sigma of 0.005 and sigma for terminal
+atoms of 0.01
+;
+_shelx_res_file
+;
+    mclau2_011big_trmx.res created by SHELXL-2014/7
+
+TITL mclau2_011big_trmx.res in P2(1)/a
+CELL 0.41427 12.72689 13.056862 16.455282 90 143.8293 90
+ZERR 4 0.009642 0.000676 0.016799 0 0.1975 0
+LATT 1
+SYMM 0.5-X,0.5+Y,-Z
+SFAC As O
+DISP As 0.311 0.799 1882.762
+DISP O 0.002 0.002 10.067
+UNIT 48 72
+EQIV $1 2.5-X,0.5+Y,2-Z
+EQIV $2 0.5-X,0.5+Y,1-Z
+EQIV $3 2.5-X,-0.5+Y,2-Z
+EQIV $4 0.5-X,-0.5+Y,1-Z
+EQIV $5 2+X,+Y,1+Z
+SADI 0.01 As12 O29 As11 O28 As11 O25 As11 O20 As4 O20 As4 O18 As3 O18 As3 =
+ O30 AS3 O16 AS2 O16 AS2 O17 AS12 O17 AS2 O14 AS1 O14 AS1 O13 AS5 O13 AS5 O19 =
+ AS5 O21 AS6 O21 AS6 O23 AS8 O22 AS8 O24 AS1 O15 AS9 O15 AS9 O26 AS9 O27 AS10 =
+ O27 AS8 O26_$1 AS12 O30_$2 AS7 O24_$3 AS4 O19_$4 AS10 O28_$4 AS10 O29_$4 AS7 =
+ O25_$5
+ISOR 0.005 0.01 As1 As9 As3 As11 As2 As10 As7 As6 As8 As4 As12 As5
+
+L.S. 25
+PLAN  -20
+BOND $H
+CONF
+MORE -1
+fmap 2
+acta
+REM <olex2.extras>
+REM <HklSrc "%./mclau2_011big_trmx.hkl">
+REM </olex2.extras>
+
+WGHT    0.200000
+FVAR       0.70398
+AS1   1    0.685270    0.250590    0.646250    11.00000    0.03452    0.01047 =
+         0.02269    0.00500    0.02063    0.00431
+AS2   1    0.404461    0.269779    0.605458    11.00000    0.02880    0.01359 =
+         0.01212   -0.00249    0.01451   -0.00172
+AS3   1    0.120982    0.105506    0.399243    11.00000    0.03403    0.01405 =
+         0.01200   -0.00049    0.01607   -0.00142
+AS4   1   -0.158097    0.080704    0.362761    11.00000    0.03996    0.01455 =
+         0.02728   -0.00336    0.02575   -0.00940
+AS5   1    0.824479    0.417401    0.857100    11.00000    0.04498    0.01485 =
+         0.02030   -0.00477    0.02453   -0.00767
+AS6   1    1.106985    0.439054    0.896152    11.00000    0.04383    0.00746 =
+         0.01901   -0.00255    0.02278   -0.00184
+AS7   1    1.377313    0.268686    1.102247    11.00000    0.03402    0.01494 =
+         0.02033   -0.00656    0.02240   -0.00840
+AS8   1    1.403624    0.600203    1.106405    11.00000    0.03016    0.01091 =
+         0.02399    0.00194    0.01766   -0.00042
+AS9   1    0.818429    0.080738    0.856547    11.00000    0.03516    0.01422 =
+         0.02504    0.00220    0.02364   -0.00496
+AS10  1    0.666169   -0.088958    0.640443    11.00000    0.04002    0.01402 =
+         0.02105    0.00051    0.02110    0.00496
+AS11  1   -0.346665    0.244278    0.135063    11.00000    0.02414    0.01883 =
+         0.01633   -0.00392    0.01391   -0.00115
+AS12  1    0.110149    0.433196    0.394974    11.00000    0.04177    0.01260 =
+         0.01574    0.00068    0.01952    0.00422
+O13   2    0.790039    0.367507    0.737110    11.00000    0.03811
+O14   2    0.467639    0.281323    0.542002    11.00000    0.04402
+O15   2    0.724832    0.198967    0.768347    11.00000    0.05200
+O16   2    0.344657    0.139664    0.559888    11.00000    0.02757
+O17   2    0.182519    0.305018    0.444675    11.00000    0.03337
+O18   2    0.035810    0.136958    0.442758    11.00000    0.02922
+O19   2    0.693662    0.527081    0.756607    11.00000    0.04814
+O20   2   -0.310751    0.181736    0.251212    11.00000    0.03385
+O21   2    1.034300    0.457521    0.951652    11.00000    0.03009
+O22   2    1.338875    0.471003    1.076164    11.00000    0.02863
+O23   2    1.147526    0.306739    0.930125    11.00000    0.02607
+O24   2    1.183664    0.638819    0.946092    11.00000    0.01798
+O25   2   -0.541943    0.297188    0.054398    11.00000    0.02701
+O26   2    1.035797    0.109663    0.959094    11.00000    0.03883
+O27   2    0.785919    0.023179    0.740180    11.00000    0.04623
+O28   2   -0.199126    0.346763    0.245924    11.00000    0.03141
+O29   2    0.046345    0.446703    0.457846    11.00000    0.02566
+O30   2    0.171260   -0.024630    0.447145    11.00000    0.02635
+HKLF 4
+
+REM  mclau2_011big_trmx.res in P2(1)/a
+REM R1 =  0.1166 for     677 Fo > 4sig(Fo)  and  0.1724 for all    1866 data
+REM    181 parameters refined using    633 restraints
+
+END
+
+WGHT      0.2000      0.0000
+
+REM Highest difference peak  3.418,  deepest hole -2.248,  1-sigma level  0.437
+Q1    1   0.5225  0.0145  0.4212  11.00000  0.05    1.73
+Q2    1   0.5688  0.4089  0.4901  11.00000  0.05    1.64
+Q3    1   1.0565  0.4219  0.9822  11.00000  0.05    1.55
+Q4    1   0.9402  0.2435  1.0161  11.00000  0.05    1.48
+Q5    1   1.4776  0.6527  1.0695  11.00000  0.05    1.48
+Q6    1   1.0377  0.4842  0.9244  11.00000  0.05    1.44
+Q7    1   0.4606  0.3158  0.5804  11.00000  0.05    1.34
+Q8    1   0.6303  0.2523  0.7403  11.00000  0.05    1.30
+Q9    1   0.5316  0.2936  0.6783  11.00000  0.05    1.30
+Q10   1  -0.0780  0.1360  0.3868  11.00000  0.05    1.27
+Q11   1   0.3204  0.4258  0.4777  11.00000  0.05    1.26
+Q12   1   0.8690  0.4233  0.7690  11.00000  0.05    1.25
+Q13   1   1.1797  0.2544  1.0225  11.00000  0.05    1.18
+Q14   1   0.9594  0.1215  0.8017  11.00000  0.05    1.18
+Q15   1  -0.4687 -0.0357  0.1698  11.00000  0.05    1.15
+Q16   1   1.5802  0.3042  1.1009  11.00000  0.05    1.14
+Q17   1   1.0315  0.5022  0.8496  11.00000  0.05    1.13
+Q18   1   0.8123  0.4047  0.9687  11.00000  0.05    1.10
+Q19   1  -0.1418  0.0946  0.2635  11.00000  0.05    1.09
+Q20   1   0.3178  0.0867  0.4714  11.00000  0.05    1.09
+;
+_shelx_res_checksum              5725
+_shelx_shelxl_version_number     2014/7
+_olex2_submission_special_instructions 'No special instructions were received'
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+'-x+1/2, y+1/2, -z'
+'-x, -y, -z'
+'x-1/2, -y-1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_site_symmetry_order
+_atom_site_calc_flag
+_atom_site_refinement_flags_posn
+_atom_site_refinement_flags_adp
+As1 As 0.6853(3) 0.25059(13) 0.6463(4) 0.0264(19) Uani 1 1 d D U
+As2 As 0.4045(3) 0.26978(13) 0.6055(4) 0.0213(18) Uani 1 1 d D U
+As3 As 0.1210(3) 0.10551(13) 0.3992(4) 0.024(2) Uani 1 1 d D U
+As4 As -0.1581(4) 0.08070(14) 0.3628(4) 0.0294(19) Uani 1 1 d D U
+As5 As 0.8245(4) 0.41740(14) 0.8571(4) 0.0295(19) Uani 1 1 d D U
+As6 As 1.1070(3) 0.43905(13) 0.8962(4) 0.0274(18) Uani 1 1 d D U
+As7 As 1.3773(4) 0.26869(13) 1.1022(5) 0.0224(18) Uani 1 1 d D U
+As8 As 1.4036(3) 0.60020(13) 1.1064(4) 0.0282(19) Uani 1 1 d D U
+As9 As 0.8184(3) 0.08074(14) 0.8565(4) 0.0258(19) Uani 1 1 d D U
+As10 As 0.6662(4) -0.08896(14) 0.6404(4) 0.0305(19) Uani 1 1 d D U
+As11 As -0.3467(3) 0.24428(15) 0.1351(4) 0.0235(19) Uani 1 1 d D U
+As12 As 0.1101(3) 0.43320(14) 0.3950(4) 0.0291(19) Uani 1 1 d D U
+O13 O 0.7900(19) 0.3675(8) 0.7371(14) 0.038(4) Uiso 1 1 d D .
+O14 O 0.4676(14) 0.2813(12) 0.5420(14) 0.044(4) Uiso 1 1 d D .
+O15 O 0.725(2) 0.1990(9) 0.7683(15) 0.052(5) Uiso 1 1 d D .
+O16 O 0.3447(11) 0.1397(6) 0.5599(17) 0.028(3) Uiso 1 1 d D .
+O17 O 0.1825(11) 0.3050(7) 0.4447(16) 0.033(4) Uiso 1 1 d D .
+O18 O 0.0358(16) 0.1370(10) 0.4428(17) 0.029(3) Uiso 1 1 d D .
+O19 O 0.694(2) 0.5271(10) 0.7566(15) 0.048(5) Uiso 1 1 d D .
+O20 O -0.3108(17) 0.1817(9) 0.2512(13) 0.034(4) Uiso 1 1 d D .
+O21 O 1.0343(14) 0.4575(10) 0.9517(14) 0.030(4) Uiso 1 1 d D .
+O22 O 1.339(2) 0.4710(6) 1.076(3) 0.029(3) Uiso 1 1 d D .
+O23 O 1.1475(19) 0.3067(6) 0.930(3) 0.026(3) Uiso 1 1 d D .
+O24 O 1.1837(11) 0.6388(6) 0.9461(15) 0.018(3) Uiso 1 1 d D .
+O25 O -0.5419(15) 0.2972(10) 0.0544(16) 0.027(3) Uiso 1 1 d D .
+O26 O 1.0358(13) 0.1097(11) 0.9591(14) 0.039(4) Uiso 1 1 d D .
+O27 O 0.786(2) 0.0232(10) 0.7402(15) 0.046(5) Uiso 1 1 d D .
+O28 O -0.1991(16) 0.3468(9) 0.2459(13) 0.031(4) Uiso 1 1 d D .
+O29 O 0.0463(13) 0.4467(10) 0.4578(13) 0.026(3) Uiso 1 1 d D .
+O30 O 0.1713(11) -0.0246(7) 0.4471(16) 0.026(3) Uiso 1 1 d D .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+As1 0.0345(13) 0.0105(9) 0.023(4) 0.0050(9) 0.0206(18) 0.0043(7)
+As2 0.0288(12) 0.0136(8) 0.012(4) -0.0025(9) 0.0145(17) -0.0017(7)
+As3 0.0340(12) 0.0141(9) 0.012(4) -0.0005(10) 0.0161(18) -0.0014(7)
+As4 0.0400(13) 0.0146(9) 0.027(4) -0.0034(10) 0.0258(19) -0.0094(8)
+As5 0.0450(15) 0.0149(10) 0.020(4) -0.0048(10) 0.025(2) -0.0077(8)
+As6 0.0438(14) 0.0075(8) 0.019(4) -0.0025(9) 0.0228(18) -0.0018(7)
+As7 0.0340(12) 0.0149(8) 0.020(4) -0.0066(10) 0.0224(17) -0.0084(7)
+As8 0.0302(12) 0.0109(8) 0.024(4) 0.0019(10) 0.0177(18) -0.0004(7)
+As9 0.0352(13) 0.0142(9) 0.025(4) 0.0022(10) 0.0236(19) -0.0050(7)
+As10 0.0400(14) 0.0140(9) 0.021(4) 0.0005(10) 0.0211(19) 0.0050(8)
+As11 0.0241(11) 0.0188(9) 0.016(4) -0.0039(10) 0.0139(17) -0.0012(7)
+As12 0.0418(14) 0.0126(8) 0.016(4) 0.0007(10) 0.0195(19) 0.0042(8)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+As As 0.3110 0.7990 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0020 0.0020 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+O14 As1 O13 98.4(8) . .
+O14 As1 O15 88.6(7) . .
+O15 As1 O13 92.3(7) . .
+O14 As2 O17 91.9(10) . .
+O16 As2 O14 94.4(11) . .
+O16 As2 O17 89.7(4) . .
+O18 As3 O16 96.3(9) . .
+O30 As3 O16 90.5(4) . .
+O30 As3 O18 99.4(10) . .
+O18 As4 O20 99.6(7) . .
+O19 As4 O18 86.7(6) 2_546 .
+O19 As4 O20 93.5(8) 2_546 .
+O13 As5 O21 85.9(6) . .
+O19 As5 O13 93.3(7) . .
+O19 As5 O21 101.3(8) . .
+O21 As6 O22 88.1(10) . .
+O23 As6 O21 96.4(11) . .
+O23 As6 O22 91.9(7) . .
+O24 As7 O23 89.5(5) 2_747 .
+O24 As7 O25 101.8(9) 2_747 1_756
+O25 As7 O23 91.7(10) 1_756 .
+O22 As8 O24 92.0(7) . .
+O22 As8 O26 103.3(12) . 2_757
+O26 As8 O24 90.9(8) 2_757 .
+O15 As9 O27 93.9(7) . .
+O26 As9 O15 95.5(8) . .
+O26 As9 O27 86.7(6) . .
+O28 As10 O27 96.9(7) 2_546 .
+O29 As10 O27 99.7(7) 2_546 .
+O29 As10 O28 88.5(5) 2_546 2_546
+O25 As11 O20 88.4(5) . .
+O25 As11 O28 99.1(7) . .
+O28 As11 O20 95.9(7) . .
+O17 As12 O29 97.9(10) . .
+O17 As12 O30 90.1(4) . 2_556
+O29 As12 O30 91.7(9) . 2_556
+As5 O13 As1 127.0(8) . .
+As1 O14 As2 120.9(7) . .
+As1 O15 As9 130.8(8) . .
+As2 O16 As3 119.9(6) . .
+As12 O17 As2 123.2(7) . .
+As3 O18 As4 123.2(7) . .
+As5 O19 As4 124.4(7) . 2_556
+As11 O20 As4 125.2(7) . .
+As6 O21 As5 123.7(7) . .
+As8 O22 As6 116.0(11) . .
+As6 O23 As7 116.4(9) . .
+As7 O24 As8 122.5(6) 2_757 .
+As11 O25 As7 123.9(7) . 1_354
+As9 O26 As8 121.5(7) . 2_747
+As10 O27 As9 129.1(8) . .
+As10 O28 As11 126.9(7) 2_556 .
+As10 O29 As12 121.9(7) 2_556 .
+As3 O30 As12 122.0(6) . 2_546
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As1 O13 1.768(8) .
+As1 O14 1.762(9) .
+As1 O15 1.764(8) .
+As2 O14 1.765(8) .
+As2 O16 1.762(7) .
+As2 O17 1.768(11) .
+As3 O16 1.772(11) .
+As3 O18 1.763(8) .
+As3 O30 1.762(7) .
+As4 O18 1.766(8) .
+As4 O19 1.766(8) 2_546
+As4 O20 1.768(8) .
+As5 O13 1.766(8) .
+As5 O19 1.764(8) .
+As5 O21 1.766(9) .
+As6 O21 1.764(8) .
+As6 O22 1.88(2) .
+As6 O23 1.760(7) .
+As7 O23 1.86(2) .
+As7 O24 1.765(7) 2_747
+As7 O25 1.767(8) 1_756
+As8 O22 1.764(7) .
+As8 O24 1.768(11) .
+As8 O26 1.764(8) 2_757
+As9 O15 1.766(8) .
+As9 O26 1.762(9) .
+As9 O27 1.767(8) .
+As10 O27 1.767(8) .
+As10 O28 1.764(8) 2_546
+As10 O29 1.756(9) 2_546
+As11 O20 1.766(8) .
+As11 O25 1.758(8) .
+As11 O28 1.765(8) .
+As12 O17 1.761(7) .
+As12 O29 1.766(8) .
+As12 O30 1.767(11) 2_556
+O19 As4 1.766(8) 2_556
+O24 As7 1.765(7) 2_757
+O25 As7 1.767(8) 1_354
+O26 As8 1.764(8) 2_747
+O28 As10 1.764(8) 2_556
+O29 As10 1.756(9) 2_556
+O30 As12 1.767(11) 2_546
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_4
+O13 As1 O14 As2 -82.6(11) . .
+O13 As1 O15 As9 -130.0(15) . .
+O13 As5 O19 As4 -26.2(13) . 2_556
+O13 As5 O21 As6 1.9(10) . .
+O14 As1 O13 As5 67.1(12) . .
+O14 As1 O15 As9 131.7(15) . .
+O14 As2 O16 As3 -93.4(16) . .
+O14 As2 O17 As12 -86.1(17) . .
+O15 As1 O13 As5 -21.8(12) . .
+O15 As1 O14 As2 9.5(11) . .
+O15 As9 O26 As8 -79.6(10) . 2_747
+O15 As9 O27 As10 -122.3(15) . .
+O16 As2 O14 As1 -87.0(11) . .
+O16 As2 O17 As12 179(2) . .
+O16 As3 O18 As4 -154.7(10) . .
+O16 As3 O30 As12 -3.4(17) . 2_546
+O17 As2 O14 As1 -176.8(10) . .
+O17 As2 O16 As3 -1.5(16) . .
+O17 As12 O29 As10 -86.0(9) . 2_556
+O18 As3 O16 As2 -72.7(17) . .
+O18 As3 O30 As12 -99.9(16) . 2_546
+O18 As4 O20 As11 52.0(12) . .
+O19 As4 O18 As3 -9.7(12) 2_546 .
+O19 As4 O20 As11 -35.3(11) 2_546 .
+O19 As5 O13 As1 -118.2(12) . .
+O19 As5 O21 As6 -90.6(10) . .
+O20 As4 O18 As3 -102.7(11) . .
+O20 As11 O25 As7 -3.2(11) . 1_354
+O20 As11 O28 As10 -38.7(12) . 2_556
+O21 As5 O13 As1 140.6(12) . .
+O21 As5 O19 As4 60.3(13) . 2_556
+O21 As6 O22 As8 -93.8(16) . .
+O21 As6 O23 As7 -92.3(15) . .
+O22 As6 O21 As5 -165.8(9) . .
+O22 As6 O23 As7 -4.0(17) . .
+O22 As8 O24 As7 173.5(18) . 2_757
+O23 As6 O21 As5 -74.1(11) . .
+O23 As6 O22 As8 169.9(19) . .
+O24 As7 O23 As6 -176.5(18) 2_747 .
+O24 As8 O22 As6 10.8(17) . .
+O25 As7 O23 As6 -74.8(17) 1_756 .
+O25 As11 O20 As4 165.8(12) . .
+O25 As11 O28 As10 50.6(12) . 2_556
+O26 As8 O22 As6 -80.6(15) 2_757 .
+O26 As8 O24 As7 -83.2(15) 2_757 2_757
+O26 As9 O15 As1 69.0(15) . .
+O26 As9 O27 As10 142.4(15) . .
+O27 As9 O15 As1 -18.0(14) . .
+O27 As9 O26 As8 14.0(10) . 2_747
+O28 As10 O27 As9 -29.6(14) 2_546 .
+O28 As11 O20 As4 -95.2(12) . .
+O28 As11 O25 As7 -98.9(11) . 1_354
+O29 As10 O27 As9 60.1(14) 2_546 .
+O29 As12 O17 As2 -90.6(16) . .
+O30 As3 O16 As2 -172.2(18) . .
+O30 As3 O18 As4 -63.1(11) . .
+O30 As12 O17 As2 1.2(17) 2_556 .
+O30 As12 O29 As10 -176.3(9) 2_556 2_556

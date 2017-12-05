@@ -1,0 +1,108 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/51/09/1510962.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1510962
+loop_
+_publ_author_name
+'Andersson, S.'
+'Lundstroem, T.'
+_publ_section_title
+;
+ The solubility of chromium in beta-rhombohedral boron as determined in Cr
+ B41 by single-crystal diffractometry
+;
+_journal_name_full               'Journal of Solid State Chemistry'
+_journal_page_first              603
+_journal_page_last               611
+_journal_paper_doi               10.1016/0022-4596(70)90057-5
+_journal_volume                  2
+_journal_year                    1970
+_chemical_formula_sum            'B309.91 Cr7.55'
+_chemical_name_systematic        'Cr7.55 B309.91'
+_space_group_IT_number           166
+_symmetry_space_group_name_Hall  '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            1
+_cell_length_a                   10.9637
+_cell_length_b                   10.9637
+_cell_length_c                   23.9577
+_cell_volume                     2493.963
+_citation_journal_id_ASTM        JSSCBI
+_cod_data_source_file            boron_496.cif
+_cod_data_source_block           B309.91Cr7.55
+_cod_database_code               1510962
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+y,x,-z
+-x,-x+y,-z
+x-y,-y,-z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-y,-x,z
+x,x-y,z
+-x+y,y,z
+x+2/3,y+1/3,z+1/3
+-y+2/3,x-y+1/3,z+1/3
+-x+y+2/3,-x+1/3,z+1/3
+y+2/3,x+1/3,-z+1/3
+-x+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,-y+1/3,-z+1/3
+-x+2/3,-y+1/3,-z+1/3
+y+2/3,-x+y+1/3,-z+1/3
+x-y+2/3,x+1/3,-z+1/3
+-y+2/3,-x+1/3,z+1/3
+x+2/3,x-y+1/3,z+1/3
+-x+y+2/3,y+1/3,z+1/3
+x+1/3,y+2/3,z+2/3
+-y+1/3,x-y+2/3,z+2/3
+-x+y+1/3,-x+2/3,z+2/3
+y+1/3,x+2/3,-z+2/3
+-x+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,-y+2/3,-z+2/3
+-x+1/3,-y+2/3,-z+2/3
+y+1/3,-x+y+2/3,-z+2/3
+x-y+1/3,x+2/3,-z+2/3
+-y+1/3,-x+2/3,z+2/3
+x+1/3,x-y+2/3,z+2/3
+-x+y+1/3,y+2/3,z+2/3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B10 B 0.10239 0.20477 0.69813 1 0.0
+B6 B 0.08635 0.17271 0.01332 1 0.0
+B7 B 0.11075 0.2215 0.8866 1 0.0
+B15 B 0 0 0.5 1 0.0
+B5 B 0.05543 0.11086 0.94409 1 0.0
+B3 B 0.26123 0.21692 0.41987 1 0.0
+B8 B 0.16993 0.33986 0.02782 1 0.0
+B2 B 0.31909 0.29596 0.12884 1 0.0
+B4 B 0.23635 0.25163 0.34685 1 0.0
+Cr1 Cr 0 0 0.13451 0.719 0.0
+B13 B 0.05642 0.11294 0.55495 0.717 0.0
+B11 B 0.05641 0.11283 0.32673 1 0.0
+Cr2 Cr 0.20547 0.41095 0.17364 0.18 0.0
+B12 B 0.09018 0.18036 0.39859 1 0.0
+B14 B 0 0 0.38517 1 0.0
+B9 B 0.12991 0.25981 0.76627 1 0.0
+B1 B 0.17779 0.17576 0.17683 1 0.0

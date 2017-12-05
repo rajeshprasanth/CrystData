@@ -1,0 +1,37 @@
+#------------------------------------------------------------------------------
+#$Date: 2012-02-28 14:14:52 +0200 (Tue, 28 Feb 2012) $
+#$Revision: 35911 $
+#$URL: svn://www.crystallography.net/cod/cif/1/01/08/1010857.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1010857
+_chemical_name_systematic          'Tungsten carbide (2/1)'
+_chemical_formula_structural       'W2 C'
+_chemical_formula_sum              'W2 C'
+_publ_section_title
+;
+Diffusion of Carbon Thru Tungsten and Tungsten Carbide
+;
+loop_
+_publ_author_name
+  'Andrews, M R'
+  'Dushman, S'
+_journal_name_full                 'Journal of Physical Chemistry'
+_journal_coden_ASTM                JPCHAX
+_journal_volume                    29
+_journal_year                      1925
+_journal_page_first                462
+_journal_page_last                 472
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+_cod_database_code 1010857

@@ -1,0 +1,168 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-07-10 04:35:33 +0300 (Fri, 10 Jul 2015) $
+#$Revision: 141526 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/61/2106102.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2106102
+loop_
+_publ_author_name
+'Koster, A.S.'
+'Schoone, J.C.'
+_publ_section_title
+;
+ Structure of the cubic iron-zinc phase Fe22 Zn78
+;
+_journal_name_full               'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first              1905
+_journal_page_last               1907
+_journal_volume                  37
+_journal_year                    1981
+_chemical_formula_sum            'Fe11.68 Zn39.32'
+_chemical_name_systematic        'Fe11.68 Zn39.32'
+_space_group_IT_number           216
+_symmetry_space_group_name_Hall  'F -4 2 3'
+_symmetry_space_group_name_H-M   'F -4 3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   17.963
+_cell_length_b                   17.963
+_cell_length_c                   17.963
+_cell_volume                     5796.110
+_citation_journal_id_ASTM        ACBCAR
+_cod_data_source_file            Koster_ACBCAR_1981_132.cif
+_cod_data_source_block           Fe11.68Zn39.32
+_cod_original_cell_volume        5796.109
+_cod_database_code               2106102
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+y,-x,-z
+-x,-y,z
+-y,x,-z
+x,-y,-z
+-y,-x,z
+-x,y,-z
+y,x,z
+z,x,y
+x,-z,-y
+-z,-x,y
+-x,z,-y
+z,-x,-y
+-x,-z,y
+-z,x,-y
+x,z,y
+y,z,x
+y,-z,-x
+-z,-y,x
+-y,z,-x
+z,y,x
+-y,-z,x
+-z,y,-x
+z,-y,-x
+x,y+1/2,z+1/2
+y,-x+1/2,-z+1/2
+-x,-y+1/2,z+1/2
+-y,x+1/2,-z+1/2
+x,-y+1/2,-z+1/2
+-y,-x+1/2,z+1/2
+-x,y+1/2,-z+1/2
+y,x+1/2,z+1/2
+z,x+1/2,y+1/2
+x,-z+1/2,-y+1/2
+-z,-x+1/2,y+1/2
+-x,z+1/2,-y+1/2
+z,-x+1/2,-y+1/2
+-x,-z+1/2,y+1/2
+-z,x+1/2,-y+1/2
+x,z+1/2,y+1/2
+y,z+1/2,x+1/2
+y,-z+1/2,-x+1/2
+-z,-y+1/2,x+1/2
+-y,z+1/2,-x+1/2
+z,y+1/2,x+1/2
+-y,-z+1/2,x+1/2
+-z,y+1/2,-x+1/2
+z,-y+1/2,-x+1/2
+x+1/2,y,z+1/2
+y+1/2,-x,-z+1/2
+-x+1/2,-y,z+1/2
+-y+1/2,x,-z+1/2
+x+1/2,-y,-z+1/2
+-y+1/2,-x,z+1/2
+-x+1/2,y,-z+1/2
+y+1/2,x,z+1/2
+z+1/2,x,y+1/2
+x+1/2,-z,-y+1/2
+-z+1/2,-x,y+1/2
+-x+1/2,z,-y+1/2
+z+1/2,-x,-y+1/2
+-x+1/2,-z,y+1/2
+-z+1/2,x,-y+1/2
+x+1/2,z,y+1/2
+y+1/2,z,x+1/2
+y+1/2,-z,-x+1/2
+-z+1/2,-y,x+1/2
+-y+1/2,z,-x+1/2
+z+1/2,y,x+1/2
+-y+1/2,-z,x+1/2
+-z+1/2,y,-x+1/2
+z+1/2,-y,-x+1/2
+x+1/2,y+1/2,z
+y+1/2,-x+1/2,-z
+-x+1/2,-y+1/2,z
+-y+1/2,x+1/2,-z
+x+1/2,-y+1/2,-z
+-y+1/2,-x+1/2,z
+-x+1/2,y+1/2,-z
+y+1/2,x+1/2,z
+z+1/2,x+1/2,y
+x+1/2,-z+1/2,-y
+-z+1/2,-x+1/2,y
+-x+1/2,z+1/2,-y
+z+1/2,-x+1/2,-y
+-x+1/2,-z+1/2,y
+-z+1/2,x+1/2,-y
+x+1/2,z+1/2,y
+y+1/2,z+1/2,x
+y+1/2,-z+1/2,-x
+-z+1/2,-y+1/2,x
+-y+1/2,z+1/2,-x
+z+1/2,y+1/2,x
+-y+1/2,-z+1/2,x
+-z+1/2,y+1/2,-x
+z+1/2,-y+1/2,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe1 Fe 0.6014 0.6014 0.6014 1 0.0
+Fe6 Fe 0.1615 0 0 1 0.0
+Fe5 Fe 0.3317 0.3317 0.3317 0.67 0.0
+Zn2 Zn 0.3317 0.3317 0.3317 0.33 0.0
+Zn4 Zn 0.394 0 0 1 0.0
+Zn3 Zn 0.8097 0.8097 0.8097 1 0.0
+Fe4 Fe 0.1986 0.1986 0.1986 0.67 0.0
+Zn6 Zn 0.1495 0.1495 0.9643 1 0.0
+Zn5 Zn 0.0649 0.25 0.25 1 0.0
+Fe2 Fe 0.9527 0.9527 0.9527 1 0.0
+Zn7 Zn 0.1425 0.1425 0.4669 1 0.0
+Zn1 Zn 0.1986 0.1986 0.1986 0.33 0.0
+Fe3 Fe 0.0845 0.0845 0.0845 1 0.0
+Zn9 Zn 0.0944 0.0944 0.2285 1 0.0
+Zn10 Zn 0.0578 0.0578 0.7268 1 0.0
+Zn8 Zn 0.2001 0.2001 0.588 1 0.0

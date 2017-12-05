@@ -1,0 +1,85 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 21:28:24 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176429 $
+#$URL: svn://www.crystallography.net/cod/cif/4/34/38/4343806.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4343806
+loop_
+_publ_author_name
+'Tippe, A.'
+'Hamilton, W.C.'
+_publ_section_title
+;
+ Neutron diffraction study of decaborane
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              464
+_journal_page_last               470
+_journal_volume                  8
+_journal_year                    1969
+_chemical_formula_sum            'B10 D14'
+_chemical_name_systematic        'B10 D14'
+_space_group_IT_number           13
+_symmetry_space_group_name_Hall  '-P 2yc'
+_symmetry_space_group_name_H-M   'P 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   14.23
+_cell_length_b                   20.26
+_cell_length_c                   5.62
+_cell_volume                     1620.245
+_citation_journal_id_ASTM        INOCAJ
+_cod_data_source_file            Tippe_INOCAJ_1969_1306.cif
+_cod_data_source_block           D14B10
+_cod_original_cell_volume        1620.242
+_cod_original_sg_symbol_Hall     '-P 2yc '
+_cod_original_sg_symbol_H-M      'P 1 2/c 1 '
+_cod_original_formula_sum        'D14 B10'
+_cod_database_code               4343806
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z+1/2
+x,-y,z+1/2
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+B2 B 0.0993 0.2738 0.1738 1 0.0
+D7 D 0.0883 0.2205 -0.2172 1 0.0
+D1 D 0.0456 0.3889 0 1 0.0
+B1 B 0.0336 0.3317 0 1 0.0
+B9 B 0.3476 0.5502 0.5 1 0.0
+B8 B 0.3692 0.4722 0.6277 1 0.0
+D2 D 0.1591 0.2874 0.3093 1 0.0
+D9 D 0.4091 0.4626 0.1907 1 0.0
+B3 B 0.1192 0.2778 -0.1277 1 0.0
+D10 D 0.4353 0.4554 0.7395 1 0.0
+B6 B 0.2836 0.4183 0.5 1 0.0
+D14 D 0.3383 0.5295 0.7172 1 0.0
+D8 D 0.2956 0.3611 0.5 1 0.0
+D12 D 0.2853 0.5753 0.0903 1 0.0
+D4 D 0.1565 0.159 0 1 0.0
+B5 B 0.0198 0.2086 0.2407 1 0.0
+D6 D 0.0452 0.3117 -0.2176 1 0.0
+D5 D 0.0353 0.1747 0.4097 1 0.0
+D11 D 0.4065 0.591 0.5 1 0.0
+D13 D 0.2952 0.4383 0.7176 1 0.0
+B10 B 0.2698 0.5414 0.2593 1 0.0
+D3 D 0.1853 0.2946 -0.2395 1 0.0
+B4 B 0.0976 0.1998 0 1 0.0
+B7 B 0.3493 0.4762 0.3272 1 0.0

@@ -1,0 +1,42 @@
+data_3000149
+loop_
+_publ_author_name
+'Roszak Kinga'
+'Katrusiak, Andrzej'
+_publ_section_title
+;
+ ?
+;
+_journal_name_full               'To be published in PCCP'
+_diffrn_ambient_temperature      296(2)
+_cell_measurement_temperature    296(2)
+_cell_measurement_pressure       1530000
+_chemical_name_systematic
+;
+1,1'-binaphthyl
+;
+_chemical_name_common            1,1'-binaphthyl
+_chemical_formula_sum            'C20 H14'
+_symmetry_space_group_name_Hall  'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_length_a                   6.8496(4)
+_cell_length_b                   6.8496(4)
+_cell_length_c                   26.691(3)
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_volume                     1252.26(17)
+_diffrn_radiation_wavelength     0.71073
+_diffrn_radiation_type           MoK\a
+_refine_ls_R_factor_all          0.1200
+_refine_ls_R_factor_gt           0.1095
+_refine_ls_wR_factor_gt          0.1673
+_refine_ls_wR_factor_ref         0.1692
+_refine_ls_goodness_of_fit_ref   1.053
+_cod_hold_until_date             2018-03-30
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?

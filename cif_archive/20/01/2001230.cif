@@ -1,0 +1,346 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-19 16:29:56 +0200 (Fri, 19 Feb 2016) $
+#$Revision: 176759 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/12/2001230.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2001230
+loop_
+_publ_author_name
+'Jedrzejas, M. J.'
+'Kingu, C. S.'
+'Baker, R. J.'
+'Towns, R. L. R.'
+'Masnovi, J.'
+_publ_section_title
+;Structure of
+ <i>syn</i>-7,8-benzo-9,10-(9',10'-phenanthro)tricyclo[4.2.2.2^2,5^]dodeca-3,7,9-triene
+;
+_journal_issue                   11
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              1963
+_journal_page_last               1965
+_journal_paper_doi               10.1107/S0108270193004330
+_journal_volume                  49
+_journal_year                    1993
+_chemical_formula_sum            'C28 H22'
+_chemical_formula_weight         358.48
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_atom_type_scat_source           IntTabIV
+_cell_angle_alpha                90.0
+_cell_angle_beta                 104.45(4)
+_cell_angle_gamma                90.0
+_cell_formula_units_Z            4
+_cell_length_a                   10.472(5)
+_cell_length_b                   11.279(6)
+_cell_length_c                   16.358(8)
+_cell_measurement_reflns_used    25
+_cell_measurement_temperature    298
+_cell_measurement_theta_max      9.69
+_cell_measurement_theta_min      4.15
+_cell_volume                     1871.0(17)
+_diffrn_measurement_device       'Enraf-Nonius CAD-4'
+_diffrn_measurement_method       \w-2\q
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.70926
+_diffrn_reflns_av_R_equivalents  0.038
+_diffrn_reflns_limit_h_max       12
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       13
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       19
+_diffrn_reflns_limit_l_min       -19
+_diffrn_reflns_number            3694
+_diffrn_reflns_theta_max         25.0
+_diffrn_standards_decay_%        0.2
+_diffrn_standards_interval_time  150
+_diffrn_standards_number         3
+_exptl_absorpt_coefficient_mu    0.067
+_exptl_absorpt_correction_T_max  0.998
+_exptl_absorpt_correction_T_min  0.827
+_exptl_absorpt_correction_type   empirical
+_exptl_crystal_colour            'Yellowish, transparent'
+_exptl_crystal_density_diffrn    1.273
+_exptl_crystal_density_meas      1.25
+_exptl_crystal_description       Irregular
+_exptl_crystal_size_max          0.37
+_exptl_crystal_size_mid          0.34
+_exptl_crystal_size_min          0.20
+_refine_diff_density_max         0.165
+_refine_diff_density_min         -0.187
+_refine_ls_extinction_coef       4.62E-7
+_refine_ls_extinction_method     F~c~=F~c~/(1+gI~c~)
+_refine_ls_goodness_of_fit_obs   1.735
+_refine_ls_number_parameters     254
+_refine_ls_number_reflns         1528
+_refine_ls_R_factor_obs          0.053
+_refine_ls_shift/esd_max         0.001
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     'w = 4(F~o~)^2^/[\s(F~o~)^2^]^2^'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_obs         0.061
+_reflns_number_observed          1528
+_reflns_number_total             3119
+_reflns_observed_criterion       I>3\s(I)
+_cod_data_source_file            hh1050.cif
+_cod_data_source_block           hh1050_structure_1_of_1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_refine_ls_weighting_scheme' value '4(F~o~)^2^/[\s(F~o~)^2^]^2^' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was
+created. The value of the new tag was set to 'w =
+4(F~o~)^2^/[\s(F~o~)^2^]^2^'.
+
+Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas 
+;
+_cod_original_cell_volume        1871(3)
+_cod_original_sg_symbol_H-M      'P 21/n'
+_cod_database_code               2001230
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 .0522(3) .8683(3) .6905(2)
+C1a -.0484(4) .6679(4) .5973(3)
+C2 -.0511(3) .9490(3) .6976(2)
+C3 -.1210(3) 1.0197(4) .6300(2)
+C4 -.2156(4) 1.0972(4) .6376(2)
+C5 -.2488(4) 1.1098(3) .7141(3)
+C6 -.1846(4) 1.0417(3) .7819(2)
+C7 -.0882(3) .9590(3) .7756(2)
+C8 -.0222(3) .8840(3) .8459(2)
+C9 -.0576(4) .8868(3) .9239(2)
+C10 .0041(4) .8151(3) .9898(2)
+C11 .1019(4) .7381(4) .9806(2)
+C12 .1395(3) .7324(3) .9064(2)
+C13 .0769(3) .8040(3) .8363(2)
+C14a .0109(4) .5997(4) .6612(2)
+C14 .1142(3) .7977(3) .7564(2)
+C15 .2179(4) .7124(3) .7410(2)
+C15a .1568(4) .5972(3) .6872(2)
+C16a .2079(4) .5760(4) .6080(3)
+C16 .3097(3) .7816(3) .7006(2)
+C17 .4444(3) .7811(3) .7277(2)
+C18 .5197(4) .8526(4) .6887(2)
+C19 .4581(4) .9257(3) .6231(2)
+C20 .3238(3) .9263(3) .5953(2)
+C21 .2468(4) .8550(3) .6328(2)
+C21a .1383(4) .6564(4) .5330(3)
+C22a .0363(3) .7397(3) .5553(2)
+C22 .0980(3) .8545(3) .6096(2)
+H1a -.143 .670 .577
+H3 -.101 1.012 .577
+H4 -.259 1.145 .590
+H5 -.315 1.164 .719
+H6 -.206 1.051 .835
+H9 -.126 .939 .931
+H10 -.022 .818 1.043
+H11 .144 .689 1.027
+H12 .210 .681 .902
+H14a -.041 .553 .690
+H15 .265 .681 .794
+H15a .186 .533 .726
+H16b .300 .592 .622
+H16a .194 .495 .592
+H17 .487 .733 .775
+H18 .615 .849 .706
+H19 .511 .975 .596
+H20 .282 .976 .549
+H21a .095 .607 .487
+H21b .203 .703 .516
+H22 .066 .920 .573
+H22a -.016 .773 .504
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+C2 C1 C14 121.5(3) yes
+C2 C1 C22 122.7(3) yes
+C14 C1 C22 115.8(3) yes
+C14a C1a C22a 117.7(3) yes
+C14a C1a H1a 121.4 no
+C22a C1a H1a 120.9 no
+C1 C2 C3 123.1(3) yes
+C1 C2 C7 120.0(3) yes
+C3 C2 C7 116.9(3) yes
+C2 C3 C4 122.8(4) yes
+C2 C3 H3 118.6 no
+C4 C3 H3 118.6 no
+C3 C4 C5 120.3(3) yes
+C3 C4 H4 119.7 no
+C5 C4 H4 120.0 no
+C4 C5 C6 119.2(4) yes
+C4 C5 H5 120.1 no
+C6 C5 H5 120.7 no
+C5 C6 C7 121.9(4) yes
+C5 C6 H6 119.1 no
+C7 C6 H6 119.1 no
+C2 C7 C6 118.9(3) yes
+C2 C7 C8 118.6(3) yes
+C6 C7 C8 122.6(3) yes
+C7 C8 C9 121.3(3) yes
+C7 C8 C13 119.9(3) yes
+C9 C8 C13 118.7(3) yes
+C8 C9 C10 121.1(4) yes
+C8 C9 H9 119.4 no
+C10 C9 H9 119.4 no
+C9 C10 C11 120.0(4) yes
+C9 C10 H10 119.9 no
+C11 C10 H10 120.0 no
+C10 C11 C12 120.9(3) yes
+C10 C11 H11 119.4 no
+C12 C11 H11 119.7 no
+C11 C12 C13 120.8(3) yes
+C11 C12 H12 119.7 no
+C13 C12 H12 119.5 no
+C8 C13 C12 118.4(3) yes
+C8 C13 C14 120.0(3) yes
+C12 C13 C14 121.6(3) yes
+C1a C14a C15a 119.1(4) yes
+C1a C14a H14a 120.1 no
+C15a C14a H14a 120.8 no
+C1 C14 C13 119.9(3) yes
+C1 C14 C15 117.1(3) yes
+C13 C14 C15 122.9(3) yes
+C14 C15 C15a 113.5(3) yes
+C14 C15 C16 107.8(3) yes
+C14 C15 H15 108.0 no
+C15a C15 C16 112.8(3) yes
+C15a C15 H15 104.1 no
+C16 C15 H15 110.6 no
+C14a C15a C15 112.5(3) yes
+C14a C15a C16a 108.2(3) yes
+C14a C15a H15a 109.8 no
+C15 C15a C16a 114.3(3) yes
+C15 C15a H15a 103.3 no
+C16a C15a H15a 108.5 no
+C15a C16a C21a 112.4(3) yes
+C15a C16a H16b 108.6 no
+C15a C16a H16a 108.9 no
+C21a C16a H16b 108.6 no
+C21a C16a H16a 109.0 no
+H16b C16a H16a 109.2 no
+C15 C16 C17 125.0(3) yes
+C15 C16 C21 115.0(3) yes
+C17 C16 C21 119.9(3) yes
+C16 C17 C18 120.4(3) yes
+C16 C17 H17 120.1 no
+C18 C17 H17 119.4 no
+C17 C18 C19 119.7(3) yes
+C17 C18 H18 120.1 no
+C19 C18 H18 120.2 no
+C18 C19 C20 120.3(4) yes
+C18 C19 H19 119.4 no
+C20 C19 H19 120.3 no
+C19 C20 C21 120.9 no
+C19 C20 H20 119.8 no
+C21 C20 H20 119.3 no
+C16 C21 C20 118.7(3) yes
+C16 C21 C22 116.5(3) yes
+C20 C21 C22 124.7(3) yes
+C16a C21a C22a 112.8(3) yes
+C16a C21a H21a 108.6 no
+C16a C21a H21b 109.0 no
+C22a C21a H21a 108.7 no
+C22a C21a H21b 108.6 no
+H21a C21a H21b 109.1 no
+C1a C22a C21a 107.9(3) yes
+C1a C22a C22 112.7(3) yes
+C1a C22a H22a 109.9 no
+C21a C22a C22 114.6(3) yes
+C21a C22a H22a 108.0 no
+C22 C22a H22a 103.5 no
+C1 C22 C21 108.1(3) yes
+C1 C22 C22a 113.0(3) yes
+C1 C22 H22 109.2 no
+C21 C22 C22a 112.9(3) yes
+C21 C22 H22 109.6 no
+C22a C22 H22 104.0 no
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 C2 1.441(5) yes
+C1 C14 1.367(4) yes
+C1 C22 1.523(5) yes
+C1a C14a 1.322(5) yes
+C1a C22a 1.489(6) yes
+C1a H1a 0.962 no
+C2 C3 1.412(5) yes
+C2 C7 1.427(5) yes
+C3 C4 1.350(5) yes
+C3 H3 0.950 no
+C4 C5 1.387(6) yes
+C4 H4 0.959 no
+C5 C6 1.378(5) yes
+C5 H5 0.949 no
+C6 C7 1.397(5) yes
+C6 H6 0.950 no
+C7 C8 1.457(4) yes
+C8 C9 1.414(5) yes
+C8 C13 1.414(5) yes
+C9 C10 1.374(5) yes
+C9 H9 0.950 no
+C10 C11 1.380(6) yes
+C10 H10 0.968 no
+C11 C12 1.367(5) yes
+C11 H11 0.954 no
+C12 C13 1.423(5) yes
+C12 H12 0.962 no
+C13 C14 1.455(5) yes
+C14a C15a 1.480(5) yes
+C14a H14a 0.965 no
+C14 C15 1.518(5) yes
+C15 C15a 1.610(5) yes
+C15 C16 1.513(5) yes
+C15 H15 0.957 no
+C15a C16a 1.537(6) yes
+C15a H15a 0.957 no
+C16a C21a 1.555(5) yes
+C16a H16b 0.954 no
+C16a H16a 0.949 no
+C16 C17 1.367(5) yes
+C16 C21 1.410(5) yes
+C17 C18 1.388(6) yes
+C17 H17 0.958 no
+C18 C19 1.380(5) yes
+C18 H18 0.973 no
+C19 C20 1.366(5) yes
+C19 H19 0.963 no
+C20 C21 1.385(5) yes
+C20 H20 0.961 no
+C21 C22 1.509(5) yes
+C21a C22a 1.534(6) yes
+C21a H21a 0.954 no
+C21a H21b 0.951 no
+C22a C22 1.612(5) yes
+C22a H22a 0.952 no
+C22 H22 0.953 no
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_publ_flag
+C1 C22 C22a C1a -2.3 yes
+C14 C15 C15a C14a 1.6 yes
+C21 C22 C22a C21a -3.3 yes
+C16 C15 C15a C16a 2.9 yes

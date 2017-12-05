@@ -1,0 +1,93 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-13 14:50:18 +0200 (Sat, 13 Feb 2016) $
+#$Revision: 176428 $
+#$URL: svn://www.crystallography.net/cod/cif/7/22/14/7221467.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7221467
+loop_
+_publ_author_name
+'Boehme, R.'
+'Rath, J.'
+'Thiele, G.'
+'Grunwald, B.'
+_publ_section_title
+;
+ Ueber zwei Modifikationen von Tl2 Cl3 - valenzgemischten
+ Thallium(I)-hexahalogenothallaten(III) Tl3 (Tl Cl6)
+;
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische 
+Chemie (33,1978-41,1986)
+;
+_journal_page_first              1366
+_journal_page_last               1372
+_journal_volume                  35
+_journal_year                    1980
+_chemical_formula_sum            'Cl3 Tl2'
+_chemical_name_systematic        'Tl2 Cl3'
+_space_group_IT_number           62
+_symmetry_space_group_name_Hall  '-P 2n 2ac'
+_symmetry_space_group_name_H-M   'P c m n'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            32
+_cell_length_a                   14.648
+_cell_length_b                   25.087
+_cell_length_c                   12.676
+_cell_volume                     4658.105
+_citation_journal_id_ASTM        ZNBAD2
+_cod_data_source_file            Boehme_ZNBAD2_1980_94.cif
+_cod_data_source_block           Cl3Tl2
+_cod_original_sg_symbol_Hall     '-P 2ac 2n (z,y,-x)'
+_cod_database_code               7221467
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x+1/2,-y,-z+1/2
+-x+1/2,-y+1/2,z+1/2
+-x,y+1/2,-z
+-x,-y,-z
+-x-1/2,y,z-1/2
+x-1/2,y-1/2,-z-1/2
+x,-y-1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl7 Tl+1 0.8924 0.15862 0.7311 1 0.0
+Cl8 Cl-1 0.2796 0.25 0.8898 1 0.0
+Tl9 Tl+1 0.8611 0.02784 0.0899 1 0.0
+Cl4 Cl-1 0.4863 0.0637 0.3188 1 0.0
+Cl3 Cl-1 0.7358 0.0462 0.3332 1 0.0
+Cl1 Cl-1 0.5221 0.0554 0.8359 1 0.0
+Tl3 Tl+3 0.8692 0.25 0.0882 1 0.0
+Cl7 Cl-1 0.4798 0.1751 0.015 1 0.0
+Cl5 Cl-1 0.6266 0.0531 0.0821 1 0.0
+Cl11 Cl-1 0.64 0.1501 0.598 1 0.0
+Tl2 Tl+3 0.3713 0.25 0.0769 1 0.0
+Tl1 Tl+3 0.60833 0.99535 0.2477 1 0.0
+Cl10 Cl-1 0.4511 0.25 0.258 1 0.0
+Tl5 Tl+1 0.358 0.16073 0.4152 1 0.0
+Cl13 Cl-1 0.689 0.25 0.101 1 0.0
+Cl9 Cl-1 0.2651 0.1747 0.1341 1 0.0
+Tl8 Tl+1 0.378 0.05744 0.0773 1 0.0
+Cl2 Cl-1 0.4071 0.0623 0.5883 1 0.0
+Tl6 Tl+1 0.82731 0.15421 0.4213 1 0.0
+Tl4 Tl+1 0.42194 0.16454 0.7567 1 0.0
+Cl14 Cl-1 0.5945 0.25 0.789 1 0.0
+Cl6 Cl-1 0.277 0.071 0.8377 1 0.0
+Cl12 Cl-1 0.6654 0.25 0.388 1 0.0
+Cl15 Cl-1 0.4568 0.25 0.556 1 0.0

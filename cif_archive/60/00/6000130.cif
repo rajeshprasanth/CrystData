@@ -1,0 +1,47 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-09 20:42:54 +0200 (Tue, 09 Feb 2016) $
+#$Revision: 176292 $
+#$URL: svn://www.crystallography.net/cod/cif/6/00/01/6000130.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_6000130
+loop_
+_publ_author_name
+'Ibberson, R. M.'
+'David, W. I. F.'
+'Parsons, S.'
+'Prager, M.'
+'Shankland, K.'
+_publ_section_title
+;
+ The crystal structures of m-xylene and p-xylene, C8D10, at 4.5 k
+;
+_journal_name_full               'Journal of Molecular Structure'
+_journal_page_first              121
+_journal_page_last               128
+_journal_paper_doi               10.1016/S0022-2860(99)00448-2
+_journal_volume                  524
+_journal_year                    2000
+_chemical_formula_sum            'C8 D10'
+_space_group_name_H-M_alt        'P b c a'
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                90.000
+_cell_length_a                   10.1550
+_cell_length_b                   7.4649
+_cell_length_c                   16.8814
+_cell_volume                     1279.71
+_diffrn_ambient_temperature      4.5
+_cod_database_code               6000130
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
